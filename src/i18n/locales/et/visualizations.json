@@ -1,0 +1,58 @@
+{
+  "ibcPage": {
+    "description": "Kui sided on paksemad, siis 24 tunni rohkem.",
+    "volume": "24h IBC maht",
+    "chains": "Sisse ühendatud võrgud",
+    "links": "Aktiivsed kanalid",
+    "busiest": "Kõige hõivatud tee",
+    "mapLabel": "IBC võrgustiku vahelise ühenduse kaart",
+    "nodeLabel": "{{name}}: {{volume}} 24 tunni jooksul üle {{channels}} kanali",
+    "hint": "Pöörake, keskenduge või valige võrgukett, et rõhutada selle ühendusi. Võtke panisse; kasutage Ctrl või rullirüha, + ja − nuppe või nuppe suurendada; vajutage 0 uuesti seadmiseks.",
+    "channelsOf": "{{name}} kanalid",
+    "topChannels": "Kõrgemad kanalid mahu järgi",
+    "transfers_one": "{{count, number}} üleandmine",
+    "transfers_other": "{{count, number}} ülekandeid",
+    "info": {
+      "volume": "Volüm (24 tundi)",
+      "channels": "Kanalid",
+      "share": "Kokkuvõttes IBC osa",
+      "partner": "Kõige hõivatud partner"
+    }
+  },
+  "multichainPage": {
+    "description": "Kõrgem Cosmos-stüüpiline ökosüsteem silmapilgul simuleeriti iga ühendatud ketja arvud.",
+    "chains": "Ketted",
+    "tvl": "Kokkuvõttes lukustatud väärtus",
+    "validators": "Valideerijad",
+    "tx24h": "Tehingud (24 tundi)",
+    "height": "Bloki kõrgus",
+    "open": "Avatud juhtoru",
+    "switched": "Muutus {{name}}-le",
+    "registryOnly": "Registreeritud demo ei ole veel valitud",
+    "tvlByChain": "TVL võrgude kaupa",
+    "tvlHint": "Simuleeritud täielik lukustatud väärtus",
+    "explainTitle": "Mida mõõdetud tähendavad",
+    "explainHint": "Sellele leheküljele esitatud numbrite lihtsas keeles esitatud määratlused.",
+    "explain": {
+      "tvl": "Võrgustiku simulatsioonilises majanduses panustatud või hoidetud tokenide väärtus simulatsiooniliste hindadega.",
+      "height": "Kui palju blokeid see kett on loonud alates algusest, kasvab see iga blokiga ühe võrra.",
+      "validators": "Operatorid, kes soovitavad ja allkirjutavad blokke.",
+      "apr": "Arvestatud aastane tasu panuse eest, protsendimääraks enne komisjonit.",
+      "bonded": "Suurem osa tähendab, et rohkem tarneaine tagab ketti.",
+      "tx24h": "Transakatsioonid, mis on seotud viimase 24 tunni jooksul kõigi loetletud võrgukettadega."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Puls {{chain}}: iga blokk on löögi vahe järgib bloki aega, kõrgus järgib tehingu arv.",
+    "rate": "Blokkirjeldus",
+    "perMinute": "blokid/min",
+    "sinceLast": "Pärast viimast bloki",
+    "txLastMinute": "Tehingud (viimane hetk)",
+    "monitor": "Pulssimõistja",
+    "legend": "Pöörde kõrgus = bloki tehingud",
+    "chartLabel": "Südame löögi jälgimine: {{rate}} bloki minutis, {{seconds}} sekundit bloki vahel",
+    "stream": "Blokivool",
+    "txCount_one": "{{count}} tx",
+    "txCount_other": "{{count}} txs"
+  }
+}

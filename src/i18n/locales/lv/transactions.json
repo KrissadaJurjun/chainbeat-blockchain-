@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "Jaunākie darījumi {{chain}} numurā.",
+    "stats": {
+      "recent": "Pēdējie darījumi",
+      "success": "Rezultāti",
+      "failed": "Neizdevās",
+      "volume": "Native volume"
+    },
+    "filterPlaceholder": "Filtrēšana pēc haša, adreses vai augstuma",
+    "allTypes": "Visus veidus",
+    "tableCaption": "Jaunākie darījumi {{chain}}",
+    "from": "No",
+    "to": "Kam",
+    "memo": "Memo",
+    "noMemo": "Nē, nav paziņojuma",
+    "raw": "Izskatīt neapstrādātus datus (simulēts)",
+    "detailTitle": "Darījums",
+    "detailDescription": "Informācija par simulēto darījumu {{chain}}. numurā.",
+    "notFoundTitle": "Transakcija nav atrasta",
+    "notFoundBody": "Simulācijas laikā {{chain}}. numurā nav nekādu darījumu ar šo hash.",
+    "failedBecause": "Šis darījums neizpildīts: {{reason}}.",
+    "types": {
+      "send": "Sūtīt",
+      "delegate": "Deleģēts",
+      "undelegate": "Nedelegāti",
+      "claim": "Sūdzības par atlīdzību",
+      "vote": "Balsot",
+      "ibc-transfer": "IBC nodošana",
+      "swap": "Apmaiņa",
+      "other": "Pārējie"
+    },
+    "status": {
+      "success": "Veiksmīgi",
+      "failed": "Neizdevās"
+    },
+    "block": "Bloks",
+    "cardsLabel": "Darījumi",
+    "category": "Kategorija",
+    "date": "Datums",
+    "dateNote": "Apskatot jaunākās {{count}} darījumus līdz {{date}}. gada beigām (UTC).",
+    "emptyTitle": "Nav konstatētas darījumi",
+    "events": "Darījumi",
+    "failedEvents": "Šis darījums nav bijis veiksmīgs, tāpēc tas izsniedza tikai savu maksājuma notikumu.",
+    "feeSymbol": "Maksājuma zīme",
+    "filtersLabel": "Transakcijas filtri",
+    "gasUsed": "Izmantotā gāze",
+    "gasWanted": "Gāzes pieprasījums",
+    "groups": {
+      "transfer": "Pārvedumi",
+      "staking": "Staking",
+      "governance": "Pārvaldība",
+      "ibc": "IBC",
+      "swap": "Svabi",
+      "other": "Pārējie"
+    },
+    "latestNote": "Paskaties uz jaunākajiem {{count}} darījumiem, izvēlieties datumu.",
+    "messageType": "Paziņojuma veids",
+    "network": "Tīkls",
+    "symbol": "Tokens",
+    "syntheticNote": "Tas ir sintētisks ieraksts, kas radīts Demo. režīmā.",
+    "token": "Tokens",
+    "validator": "Validators",
+    "demoWalletNote": "Šis darījums tika izveidots ar Demo. portfelī.",
+    "demoTag": "Demo portfelis"
+  }
+}

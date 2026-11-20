@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Chỉ số on-chain",
+    "exportCsv": "Xuất khẩu dưới dạng CSV",
+    "exported": "Các số liệu được xuất khẩu dưới dạng CSV.",
+    "openAnalytics": "Phân tích mạng mở",
+    "last24h": "24 giờ qua",
+    "sparklineLabel": "Xu hướng trong 24 giờ qua",
+    "change24h": "24h thay đổi",
+    "blocks": "khối",
+    "exact": "Giá trị chính xác",
+    "bondedRatio": "Tỷ lệ liên kết",
+    "poolShare": "Tỷ lệ cung cấp",
+    "tokenPrice": "Giá mã thông báo",
+    "inputInflation": "Tăng lạm phát",
+    "inputTax": "Thuế cộng đồng",
+    "inputBonded": "Tỷ lệ liên kết",
+    "csvMetric": "Métric",
+    "csvValue": "Giá trị",
+    "csvUnit": "Đơn vị",
+    "csvChange24h": "24h thay đổi",
+    "blockHeight": {
+      "label": "Chiều cao khối",
+      "description": "Số lượng các khối được tạo ra kể từ khi tạo ra, nó tăng lên một khối với mỗi khối mới."
+    },
+    "totalTransactions": {
+      "label": "Giao dịch",
+      "description": "Tổng số giao dịch được xử lý bởi mạng kể từ khi khởi tạo."
+    },
+    "txPerBlock": {
+      "label": "Giao dịch mỗi khối",
+      "description": "Số lượng giao dịch trung bình bao gồm mỗi khối, được đo trên 100 khối gần đây nhất."
+    },
+    "blockTime": {
+      "label": "Thời gian khối",
+      "description": "Thời gian trung bình giữa các khối liên tiếp, được đo trong 100 khối gần đây nhất."
+    },
+    "inflation": {
+      "label": "Tăng lạm phát",
+      "description": "Tỷ lệ hàng năm mà các token mới được đúc để thưởng cho người tham gia và tài trợ cho cộng đồng."
+    },
+    "stakingApr": {
+      "label": "APR staking",
+      "description": "Lợi nhuận hàng năm ước tính của các token được đặt cược, trước khi ủy ban xác nhận.",
+      "formula": "APR = lạm phát × (1 − thuế cộng đồng) ÷ tỷ lệ trái phiếu"
+    },
+    "bondedTokens": {
+      "label": "Token đã khóa",
+      "description": "Token hiện đang được đặt cược với các validator hoạt động.",
+      "formula": "liên kết = tổng nguồn cung × tỷ lệ liên kết"
+    },
+    "totalSupply": {
+      "label": "Tổng nguồn cung",
+      "description": "Tất cả các token hiện hữu, bao gồm cả những token được đặt cược. Nó phát triển với lạm phát."
+    },
+    "communityPool": {
+      "label": "Quỹ cộng đồng",
+      "description": "Các mã thông báo được kiểm soát bởi quản lý trên chuỗi. Một phần của lạm phát chảy vào; các đề xuất thành công chi tiêu nó.",
+      "formula": "Pool tăng theo nguồn cung × lạm phát × thuế cộng đồng"
+    },
+    "poolValue": {
+      "label": "Giá trị hồ bơi",
+      "description": "Giá trị ước tính đô la Mỹ của nhóm cộng đồng tại giá token mô phỏng.",
+      "formula": "giá trị = pool × giá token"
+    }
+  }
+}

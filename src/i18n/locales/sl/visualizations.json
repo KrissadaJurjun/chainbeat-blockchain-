@@ -1,0 +1,62 @@
+{
+  "ibcPage": {
+    "description": "Kako tokeni potekajo med verigami preko IBC. Debelejše povezave pomenijo več 24-urnega obsega.",
+    "volume": "24h IBC obseg",
+    "chains": "Priključene verige",
+    "links": "Aktivni kanali",
+    "busiest": "Najpogostejša pot",
+    "mapLabel": "Karta IBC povezav med verigami",
+    "nodeLabel": "{{name}}: {{volume}} v 24 urah preko {{channels}} kanalov",
+    "hint": "Premaknite, osredotočite ali izberite verigo, da poudarite njegove povezave. Pritegnite na ploščo; uporabite Ctrl ali z valjanjem, tipki + in − ali gumbji za povečanje; pritisnite 0 za nastavitev.",
+    "channelsOf": "Kanali {{name}}",
+    "topChannels": "Zgornji kanali po obsegu",
+    "transfers_one": "{{count, number}} prenos",
+    "transfers_two": "{{count, number}} prenosi",
+    "transfers_few": "{{count, number}} prenosi",
+    "transfers_other": "{{count, number}} prenosov",
+    "info": {
+      "volume": "Obseg (24 h)",
+      "channels": "Kanali",
+      "share": "Delež IBC obsega",
+      "partner": "Najbolj zaposlen partner"
+    }
+  },
+  "multichainPage": {
+    "description": "Širši ekosistema v stilu Cosmos naenkrat simulirane številke za vsako povezano verigo.",
+    "chains": "Zaveznice",
+    "tvl": "Skupna vrednost, zaključena",
+    "validators": "Validatorji",
+    "tx24h": "Transakcije (24 ur)",
+    "height": "Visina blokov",
+    "open": "Odprite nadzorno ploščo",
+    "switched": "Prešel na {{name}}",
+    "registryOnly": "Registriran za demo še ni mogoče izbrati",
+    "tvlByChain": "TVL po verigi",
+    "tvlHint": "Simulirana skupna vrednost, zaključena",
+    "explainTitle": "Kaj pomenijo merila",
+    "explainHint": "Vse vrednosti so simulirane.",
+    "explain": {
+      "tvl": "Vrednost tokensov, ki so v simuliranem gospodarstvu omrežja, v simuliranih cenah.",
+      "height": "Koliko blokov je proizvodil, odkar se je začel.",
+      "validators": "Operatorji, ki predlagajo in podpišejo blokove.",
+      "apr": "Ocenjena letna nagrada za vlog, kot odstotek pred provizijo.",
+      "bonded": "Večji delež pomeni, da več ponudb zagotavljajo verigo.",
+      "tx24h": "Transakcije, vključene v blokove v zadnjih 24 urah v vseh seznamih verig."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Pulz {{chain}}: vsak blok je bit razdalje sledi času bloka, višina sledi števila transakcij.",
+    "rate": "Blokovna stopnja",
+    "perMinute": "blokov/min",
+    "sinceLast": "Od zadnjega bloka",
+    "txLastMinute": "Transakcije (zadnja minuta)",
+    "monitor": "Monitor pulza",
+    "legend": "Visina udarcev = transakcije v bloku",
+    "chartLabel": "Trač srčnega utripa: {{rate}} blokov na minuto, {{seconds}} sekund med blokovi",
+    "stream": "Potek blokiranja",
+    "txCount_one": "{{count}} tx",
+    "txCount_two": "{{count}} txs",
+    "txCount_few": "{{count}} txs",
+    "txCount_other": "{{count}} txs"
+  }
+}

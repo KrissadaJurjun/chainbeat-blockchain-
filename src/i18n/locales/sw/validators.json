@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Vipande Vilivyounganishwa",
+    "viewAll": "Tazama uthibitishaji wote",
+    "col": {
+      "validator": "Mthibitishaji",
+      "power": "Nguvu ya kupiga kura",
+      "cumulative": "Jumla",
+      "commission": "Kamisheni",
+      "uptime": "Muda wa kufanya kazi",
+      "change": "Mabadiliko ya saa 24",
+      "details": "Maelezo",
+      "tokens": "Tokeni zilizofungwa"
+    },
+    "stake": "Staking",
+    "stakeWith": "Kushiriki na uthibitishaji huu",
+    "pageDescription": "Kila uthibitishaji kupata {{chain}}, ranked kwa uwezo wa kupiga kura (simulated).",
+    "stats": {
+      "active": "Wathibitishaji watendaji",
+      "nakamoto": "Kiwango cha Nakamoto",
+      "nakamotoHint": "Vituo vya kuthibitisha vilivyohitajika ili kuzuia mnyororo",
+      "top10": "Nguvu ya kupiga kura ya juu ya 10",
+      "commission": "Mshahara wa wastani"
+    },
+    "filterPlaceholder": "Kichujio kwa jina au anwani",
+    "statusFilter": "Hali ya uthibitishaji",
+    "tableCaption": "Validators juu ya {{chain}}",
+    "detailDescription": "Msaidizi simulated juu ya {{chain}}.",
+    "detail": {
+      "delegators": "Wakabidhi",
+      "bonded": "Tokeni zilizofungwa",
+      "last30": "siku 30 zilizopita",
+      "last90": "siku 90 zilizopita",
+      "noBlocks": "Hakuna vizuizi vilivyopendekezwa hivi karibuni.",
+      "noWebsite": "haipatikani (mtihani wa uthibitisho wa uwongo)",
+      "openPage": "Kufungua ukurasa kamili",
+      "powerHistory": "Nguvu ya kupiga kura",
+      "proposed24h": "Vipande vilivyopendekezwa (24 h)",
+      "rank": "Cheo",
+      "recentBlocks": "Vipande vilivyopendekezwa hivi karibuni",
+      "selfBonded": "Kujifunga",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Muda wa kufanya kazi",
+      "valueUsd": "Thamani ya mkopo {{value}}",
+      "website": "Tovuti"
+    },
+    "status": {
+      "active": "Hai",
+      "inactive": "Haifanyi kazi",
+      "jailed": "Amefungwa"
+    },
+    "activitiesTitle": "Shughuli za uthibitishaji",
+    "commissionShort": "Ada {{value}}",
+    "detailTitle": "Mthibitishaji",
+    "fictionalNote": "Uhakikisho wa fictional kwa Demo mode. si operator halisi na hakuna kitu kuhusu ni kuthibitishwa.",
+    "hoverTip": "Tume {{commission}} · wakati wa kazi {{uptime}} · {{delegators}} wajumbe",
+    "noMatching": "Hakuna uthibitishaji wa kufanana.",
+    "notFoundBody": "{{chain}} haina uthibitishaji na anwani hii.",
+    "notFoundTitle": "Validator haipatikani",
+    "sort": {
+      "power": "Nguvu ya kupiga kura",
+      "commission": "Kamisheni",
+      "uptime": "Muda wa kufanya kazi"
+    },
+    "sortBy": "Sort validators kwa"
+  },
+  "validatorsViz": {
+    "description": "Tume dhidi ya uptime kwa kila validator juu ya {{chain}}; ukubwa wa Bubble inaonyesha uwezo wa kupiga kura.",
+    "showAll": "Ni pamoja na wasiotenda na waliofungwa gerezani",
+    "avgUptime": "Wastani wa wakati wa kazi",
+    "zeroFee": "Vipimaji vya zero-commission",
+    "chartTitle": "Tume dhidi ya uptime",
+    "chartHint": "Kila Bubble ni uthibitishaji mmoja",
+    "legend": "Hadithi ya chati",
+    "sizeHint": "Ukubwa wa Bubble = uwezo wa kupiga kura"
+  }
+}

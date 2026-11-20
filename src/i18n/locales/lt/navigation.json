@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Šoninės juostelės navigacija",
+    "primary": "Pagrindinė navigacija",
+    "menu": "Navigacijos meniu",
+    "openMenu": "Atvira navigacijos meniu",
+    "closeMenu": "Uždarykite navigacijos meniu",
+    "collapseSidebar": "Šoninės juostelės sukrėšimas",
+    "expandSidebar": "Išplėskite lateralinį juostą",
+    "skipToContent": "Pasitraukite į pagrindinį turinį",
+    "home": "ChainBeat namuose",
+    "pages": "Puslapiai",
+    "dashboard": "Skydelis",
+    "validators": "Validatoriai",
+    "proposals": "Pasiūlymai",
+    "blocks": "Blokai",
+    "transactions": "Sandoriai",
+    "portfolio": "Portfelis",
+    "swap": "Keitimas",
+    "stake": "Stakingas",
+    "liquidStaking": "Likvidusis stakingas",
+    "send": "Siųsti",
+    "vote": "Balsuoti",
+    "createProposal": "Sukurti pasiūlymą",
+    "market": "Rinka",
+    "network": "Tinklas",
+    "governance": "Valdymas",
+    "ibcNetwork": "IBC tinklas",
+    "devActivity": "Kūrėjų veikla",
+    "multichain": "Kelių grandinių apžvalga",
+    "heartbeat": "Pulsas",
+    "dominance": "Dominavimas",
+    "validatorsViz": "Validatoriai",
+    "blockExplorer": "Blokų naršyklė",
+    "transactionExplorer": "Sandorių naršyklė",
+    "tokenExplorer": "Žetonų naršyklė",
+    "about": "Apie",
+    "explorerHome": "Naršyklė",
+    "governanceHome": "Valdymo centras",
+    "settings": "Nustatymai"
+  },
+  "sections": {
+    "explorer": "Naršyklė",
+    "wallet": "Piniginė",
+    "analytics": "Analitika",
+    "visualizations": "Vizualizacijos"
+  },
+  "chains": {
+    "favorite": "Į favoritus pridėkite {{name}}",
+    "unfavorite": "Išimkite {{name}} iš mėgstamiausių",
+    "simulatedHealthy": "Simuliuojamas tinklas · sveikas"
+  },
+  "search": {
+    "label": "Paieška \" ChainBeat \"",
+    "placeholder": "Paieška blokas, TX, adresas...",
+    "results": "Ieškos rezultatai",
+    "noResults": "Nėra rezultatų {{query}}",
+    "kinds": {
+      "page": "Puslapis",
+      "block": "Blokas",
+      "transaction": "TX",
+      "validator": "Validatorius",
+      "token": "Žetonas",
+      "address": "Adresas",
+      "proposal": "Pasiūlymas"
+    },
+    "recent": "Paskutiniai paieškos",
+    "clearRecent": "Pastaruosius paiešką",
+    "removeRecent": "Ištrinkite {{query}} iš paskutinių paieškų",
+    "hint": "Išbandykite blokų aukštį, sandorių hashą, adresą ( {{prefix}} 1...), patvirtintoji informacija, pasiūlymo numeris arba ženklas.",
+    "submit": "Ieškoti",
+    "searching": "Ieškojau...",
+    "resultCount": "Rezultatai: {{count}}",
+    "invalid": {
+      "tooLong": "Tai per ilgas, kad būtų paieškos terminas (ne daugiau kaip 200 simbolių).",
+      "badChecksum": "Tai atrodo kaip adresas, bet jos patikros suma neatitinka. Patikrinkite, ar nėra klaidų.",
+      "badHash": "Transakcijos ar blokų hashas turi tiksliai 64 šeksadecimalinius raidžius.",
+      "badChars": "Ieškokite blokų aukštį, hashą, adresą, patvirtintojį, pasiūlymą ar žetoną."
+    },
+    "categories": {
+      "page": "Puslapiai",
+      "block": "Blokai",
+      "transaction": "Sandoriai",
+      "address": "Pašto adresai",
+      "validator": "Validatoriai",
+      "proposal": "Pasiūlymai",
+      "token": "Ženklai"
+    }
+  },
+  "user": {
+    "menu": "Sąskaitų meniu",
+    "guest": "Svečias",
+    "notConnected": "Neprijungtas piniginis",
+    "settings": "Nustatymai",
+    "about": "Apie \"ChainBeat\""
+  }
+}

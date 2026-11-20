@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Aktive Validatoren",
+    "viewAll": "Alle Validatoren anzeigen",
+    "col": {
+      "validator": "Validator",
+      "power": "Stimmkraft",
+      "cumulative": "Kumuliert",
+      "commission": "Provision",
+      "uptime": "Verfügbarkeit",
+      "change": "Änderung 24 Std.",
+      "details": "Details",
+      "tokens": "Gebuchte Token"
+    },
+    "stake": "Staken",
+    "stakeWith": "Bei diesem Validator staken",
+    "pageDescription": "Alle Validatoren, die {{chain}} sichern, nach Stimmkraft sortiert (simuliert).",
+    "stats": {
+      "active": "Aktive Validatoren",
+      "nakamoto": "Nakamoto-Koeffizient",
+      "nakamotoHint": "Validatoren, die nötig sind, um die Chain zu stoppen",
+      "top10": "Stimmkraft der Top 10",
+      "commission": "Ø Provision"
+    },
+    "filterPlaceholder": "Nach Name oder Adresse filtern",
+    "statusFilter": "Validator-Status",
+    "tableCaption": "Validatoren auf {{chain}}",
+    "detailDescription": "Ein simulierter Validator auf {{chain}}.",
+    "detail": {
+      "delegators": "Delegierende",
+      "bonded": "Gebuchte Token",
+      "last30": "in den letzten 30 Tagen",
+      "last90": "in den letzten 90 Tagen",
+      "noBlocks": "Keine kürzlich vorgeschlagenen Blöcke.",
+      "noWebsite": "nicht verfügbar (Funktiver Validierungsgerät)",
+      "openPage": "Öffnen Sie die vollständige Seite",
+      "powerHistory": "Stimmkraft",
+      "proposed24h": "vorgeschlagene Blöcke (24 h)",
+      "rank": "Rang",
+      "recentBlocks": "Neu vorgeschlagene Blöcke",
+      "selfBonded": "Selbstverbindlich",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Verfügbarkeit",
+      "valueUsd": "Einsatzwert {{value}}",
+      "website": "Webseite"
+    },
+    "status": {
+      "active": "Aktiv",
+      "inactive": "Inaktiv",
+      "jailed": "Gesperrt"
+    },
+    "activitiesTitle": "Validator-Aktivitäten",
+    "commissionShort": "Gebühr {{value}}",
+    "detailTitle": "Validator",
+    "fictionalNote": "Er ist kein echter Betreiber und nichts davon ist verifiziert.",
+    "hoverTip": "Kommission {{commission}} · Betriebszeit {{uptime}} · {{delegators}} Delegierte",
+    "noMatching": "Keine entsprechenden Validiatoren.",
+    "notFoundBody": "{{chain}} hat keinen Validierungsgerät mit dieser Adresse.",
+    "notFoundTitle": "Validator nicht gefunden",
+    "sort": {
+      "power": "Stimmkraft",
+      "commission": "Provision",
+      "uptime": "Verfügbarkeit"
+    },
+    "sortBy": "Sortieren von Validierern nach"
+  },
+  "validatorsViz": {
+    "description": "Provision und Verfügbarkeit jedes Validators auf {{chain}}; die Blasengröße zeigt die Stimmkraft.",
+    "showAll": "Inaktive und gesperrte Validatoren einbeziehen",
+    "avgUptime": "Ø Verfügbarkeit",
+    "zeroFee": "Validatoren ohne Provision",
+    "chartTitle": "Provision und Verfügbarkeit",
+    "chartHint": "Jede Blase ist ein Validator",
+    "legend": "Diagrammlegende",
+    "sizeHint": "Blasengröße = Stimmkraft"
+  }
+}

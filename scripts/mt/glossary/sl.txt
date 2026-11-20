@@ -1,0 +1,130 @@
+Nadzorna plošča
+Validatorji
+Predlogi
+Bloki
+Transakcije
+Portfelj
+Zamenjava
+Staking
+Likvidni staking
+Pošlji
+Glasuj
+Ustvari predlog
+Trg
+Omrežje
+Upravljanje
+Omrežje IBC
+Dejavnost razvijalcev
+Pregled več verig
+Utrip
+Prevlada
+Brskalnik blokov
+Brskalnik transakcij
+Brskalnik žetonov
+O aplikaciji
+Brskalnik
+Nastavitve
+Denarnica
+Analitika
+Vizualizacije
+Jezik
+Tema
+Sistemska
+Temna
+Svetla
+Demo
+Simulirano
+Zapri
+Poskusi znova
+Osveži
+Kopiraj
+Kopirano
+Počisti
+Nalaganje…
+Prejšnja
+Naslednja
+Opusti
+Prekliči
+Nazaj
+Prikaži vse
+Ponastavi
+Izvozi
+Maks.
+Znesek
+Stanje
+Pristojbina
+Status
+Skupaj
+Čas
+Višina
+Hash
+Vrsta
+Vse
+Iskanje
+Filtriraj
+Podrobnosti
+Potrdi
+Poveži denarnico
+Prekini povezavo
+Preglej transakcijo
+Omrežna pristojbina
+Kopiraj naslov
+Plačate
+Prejmete
+Naslov prejemnika
+Memo (neobvezno)
+Sredstva
+Razporeditev
+Delegirano
+Prekliči staking
+Menjalni tečaj
+Uspešno
+Transakcija
+Blok
+Od
+Za
+Memo
+Porabljen gas
+Validator
+Žeton
+Naslov
+Predlog
+Cena
+Ponudba
+Tržna kapitalizacija
+Provizija
+Razpoložljivost
+Glasovalna moč
+Uvrstitev
+Aktiven
+Neaktiven
+Zaprt
+Delegatorji
+Da
+Ne
+Vzdržan
+Ne z vetom
+Sprejeto
+Zavrnjeno
+Neuspešno
+Glasovanje poteka
+Kvorum
+Udeležba
+Depozit
+Vaš glas
+Naziv
+Opis
+Metrike na verigi
+Višina bloka
+Transakcij na blok
+Čas bloka
+APR stakinga
+Vezani žetoni
+Skupna ponudba
+Skupnostni sklad
+Strani ni mogoče najti
+Nazaj na nadzorno ploščo
+Najnovejši bloki
+Najnovejše transakcije
+Obvestila
+Drugo

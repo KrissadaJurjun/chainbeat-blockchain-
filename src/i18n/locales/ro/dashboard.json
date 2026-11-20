@@ -1,0 +1,103 @@
+{
+  "overview": {
+    "title": "O imagine generală",
+    "unit": "Indice de performanță · Bază = 100 la începutul intervalului",
+    "refreshFailed": "Nu am putut actualiza care arată ultimele date încărcate."
+  },
+  "chart": {
+    "keyboardHint": "Foloseşte săgeţile să te mişti între punctele de date.",
+    "summary": "Indice de performanță peste {{range}}: {{details}}",
+    "rangeLabel": "Intervalul de timp",
+    "seriesLabel": "Seria de grafice",
+    "keepOne": "Cel puțin o serie trebuie să rămână vizibilă",
+    "emptyTitle": "Nu există date pentru această gamă",
+    "emptyBody": "Încearcă un alt interval de timp sau reînnoieşte-te.",
+    "range": {
+      "24H": "24 DE ORE",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "Ultimele 24 de ore",
+      "7D": "Ultimele 7 zile",
+      "30D": "Ultimele 30 de zile",
+      "90D": "Ultimele 90 de zile"
+    },
+    "zoomControls": "Controlele de zoom",
+    "zoomIn": "Zoom în",
+    "zoomOut": "Zoom-out",
+    "resetView": "Revizualizare de setare",
+    "zoomLevel": "Nivel de zoom"
+  },
+  "proposals": {
+    "title": "Propuneri",
+    "filter": "Filtru de propunere",
+    "live": "Să trăieşti",
+    "total": "Total",
+    "viewAll": "Vezi toate propunerile",
+    "noneLive": "Fără propuneri live",
+    "noneLiveBody": "În prezent, nu există guvernare în curs de desfășurare.",
+    "showAll": "Prezentarea propunerilor recente",
+    "endsIn": "Încheiere {{time}}",
+    "turnout": "Prezență",
+    "vote": "Votează",
+    "status": {
+      "voting": "În votare",
+      "deposit": "Depozit",
+      "passed": "Aprobată",
+      "rejected": "Respinsă",
+      "failed": "Eșuat"
+    },
+    "passed": "Aprobată",
+    "rejected": "Respinsă",
+    "noneMatching": "Nu există propuneri corespunzătoare",
+    "noneMatchingBody": "Nimic nu se potriveşte cu acest filtru acum."
+  },
+  "dev": {
+    "title": "Activitate dezvoltatori",
+    "summary": "{{total}} contribuții",
+    "viewFull": "Activitate de dezvoltare deschisă",
+    "heatmapLabel": "Harta de căldură a contribuțiilor: {{total}} contribuții pe parcursul a {{weeks}} de săptămâni",
+    "less": "Mai puţin",
+    "more": "Mai mult",
+    "cellTitle_one": "{{count}} contribuție pentru {{date}}",
+    "cellTitle_few": "{{count}} contribuții pentru {{date}}",
+    "cellTitle_other": "{{count}} contribuții pentru {{date}}",
+    "range": "Intervalul de funcționare a hârtiei de căldură",
+    "ranges": {
+      "month": "Luna",
+      "quarter": "Al patrulea",
+      "year": "Anul"
+    }
+  },
+  "repos": {
+    "title": "Repositoriu activ",
+    "period": "Perioada",
+    "periods": {
+      "week": "Săptămâna",
+      "month": "Luna",
+      "year": "Anul",
+      "quarter": "Al patrulea"
+    },
+    "contributors": "Contribuitorii",
+    "stars": "Stele",
+    "sparkline": "Activitate de angajament pentru {{name}}",
+    "vsPrevious": "{{change}} vs perioada anterioară",
+    "up": "În sus",
+    "down": "În jos",
+    "caption": "Comiterile în perioada selectată · depozitele simulate",
+    "col": {
+      "repository": "Repositoriu",
+      "language": "Limbă",
+      "commits": "Comiterile",
+      "change": "Schimbarea",
+      "trend": "Tendința"
+    },
+    "commitsCount": "Comiteri: {{count}}",
+    "demoNote": "Demo date: acest depozit este fictiv și activitatea sa este simulată. Nu este conectat la GitHub.",
+    "emptyBody": "Nu există nicio activitate de depozitare în această perioadă.",
+    "emptyTitle": "Nici o activitate de depozitare",
+    "history": "Activitate de angajare"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "De nieuwste transacties op {{chain}}.",
+    "stats": {
+      "recent": "Recente transacties",
+      "success": "Succesvol",
+      "failed": "Mislukt",
+      "volume": "Inheemse volume"
+    },
+    "filterPlaceholder": "Filter per hash, adres of hoogte",
+    "allTypes": "Alle soorten",
+    "tableCaption": "Laatste transacties op {{chain}}",
+    "from": "Van",
+    "to": "Naar",
+    "memo": "Memo",
+    "noMemo": "Geen memo",
+    "raw": "Voorziening van grondgegevens (gesimulateerd)",
+    "detailTitle": "Transactie",
+    "detailDescription": "Details van een gesimuleerde transactie op {{chain}}.",
+    "notFoundTitle": "Transactie niet gevonden",
+    "notFoundBody": "Er bestaat geen transactie met deze hash op {{chain}} in de simulatie.",
+    "failedBecause": "Deze transactie is mislukt: {{reason}}.",
+    "types": {
+      "send": "Verzenden",
+      "delegate": "Afgevaardigde",
+      "undelegate": "Niet-vertrouwd",
+      "claim": "Vergoeding van beloningen",
+      "vote": "Stemmen",
+      "ibc-transfer": "IBC overdracht",
+      "swap": "Swappen",
+      "other": "andere"
+    },
+    "status": {
+      "success": "Geslaagd",
+      "failed": "Mislukt"
+    },
+    "block": "Blok",
+    "cardsLabel": "Transacties",
+    "category": "Categorie",
+    "date": "Datum",
+    "dateNote": "Toon de laatste {{count}} transacties tot het einde van {{date}} (UTC).",
+    "emptyTitle": "Geen transacties gevonden",
+    "events": "Gebeurtenissen",
+    "failedEvents": "Deze transactie is mislukt, dus het heeft alleen zijn fee event uitgebracht.",
+    "feeSymbol": "Teken van de vergoeding",
+    "filtersLabel": "Transactiefilters",
+    "gasUsed": "Gebruikte gas",
+    "gasWanted": "Gas gezocht",
+    "groups": {
+      "transfer": "Overdrachten",
+      "staking": "Staking",
+      "governance": "Governance",
+      "ibc": "IBC",
+      "swap": "Swap's",
+      "other": "andere"
+    },
+    "latestNote": "We tonen de laatste {{count}} transacties.",
+    "messageType": "Type bericht",
+    "network": "Netwerk",
+    "symbol": "Token",
+    "syntheticNote": "Dit is een synthetisch record gegenereerd voor Demo Mode. De hash is geen echte blockchain hash en kan niet worden geverifieerd op enig netwerk.",
+    "token": "Token",
+    "validator": "Validator",
+    "demoWalletNote": "Deze transactie is gemaakt door de Demo-portemonnee. Het bestaat alleen in deze browser: er is geen blockchain-overdracht plaatsgevonden, en de hash ervan is geen echte blockchain-hash.",
+    "demoTag": "Demo portemonnee"
+  }
+}

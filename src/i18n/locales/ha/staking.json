@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Aika da tokens zuwa validator a kan {{chain}} don samun simulated kyaututtuka.",
+    "validator": "Mai tabbatarwa",
+    "pickValidator": "Zaɓi mai tabbatarwa",
+    "estimate": "Kudin da aka kiyasta",
+    "netApr": "Ƙarfin APR (bayan kwamiti)",
+    "yearly": "Kyauta a kowace shekara",
+    "monthly": "Kyauta a kowane wata",
+    "unbonding": "Lokacin cirewa",
+    "commission": "Kwamitin mai tabbatarwa",
+    "notice": "A cikin hanyar sadarwa ta ainihi, an kulle hannun da aka cire na tsawon kwanaki {{days}}. A nan an kwaikwaya komai kuma nan take.",
+    "yourStake": "Matsayin ku a kan {{chain}}",
+    "unstake": "Cire stake",
+    "unstakeTitle": "Kashewa daga {{validator}}",
+    "unstakeDescription": "A kan hanyar sadarwa ta ainihi, za a buɗe lambobinka bayan kwanaki {{days}}.",
+    "confirmUnstake": "Kashewa (na'urar kwaikwayo)",
+    "done": "Ƙararrawa (samuwa)",
+    "doneBody": "A cikin walat na Demo, lokaci ne na kwantar da hankula. {{days}} Kwanaki da yawa.",
+    "unstaked": "Ba tare da takaddama ba (samuwa)",
+    "unstakedBody": "An mayar da shi zuwa ga demo walat nan take. {{days}} Kwanaki da yawa.",
+    "errors": {
+      "validator": "Zaɓi mai tabbatarwa.",
+      "moreThanStaked": "Ba za ka iya cire fiye da abin da ka saka ba."
+    },
+    "review": "Gudanar da sake dubawa",
+    "confirmDescription": "Bincika wakilci. Tabbatar kawai canza da Demo walat a cikin wannan browser.",
+    "aprDisclaimer": "APR da aka nuna shi ne kimantawa dangane da halin yanzu inflation, haraji na al'umma da bonded rabo.",
+    "rewardsHistory": "Tarihin kyaututtuka",
+    "noRewardsHistory": "Har yanzu ba a ba da kyautar ba.",
+    "rewardsClaimed": "Da'awar {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Ka saka alamar kuma ka karɓi alamar ajiyar ruwa wanda ke ci gaba da samun lada yayin da kake ci gaba da kasuwanci.",
+    "mode": "Hanyar da za a bi",
+    "stake": "Stake",
+    "unstake": "Cire stake",
+    "asset": "Dukiya",
+    "youStake": "Za ka yi nasara ({{symbol}})",
+    "youRedeem": "Ka fanshe ({{symbol}})",
+    "youReceive": "Kuna karɓa ({{symbol}})",
+    "exchangeRate": "Farashin musaya",
+    "apr": "Ƙididdigar APR",
+    "protocolFee": "Kudin yarjejeniya akan kyaututtuka",
+    "notice": "Ana kwaikwayon alamun ajiyar ruwa da farashin su. Babu wani abu da aka yi a kan sarkar.",
+    "done": "An kammala juyawa (samuwa)",
+    "doneBody": "An sabunta lissafin kuɗin ku na Demo.",
+    "review": "Binciken sake juyawa",
+    "confirmDescription": "Duba juyawa. Tabbatar kawai canza da Demo walat a cikin wannan browser.",
+    "risksTitle": "Abubuwan da ke cikin haɗari don fahimtar",
+    "risks": {
+      "smartContract": "Hadarin kwangila mai kaifin baki: yarjejeniyar tattara ruwa software ne, kuma software na iya samun kurakurai.",
+      "depeg": "Rashin haɗari: alamar ruwa mai ruwa na iya kasuwanci a ƙasa da darajar alamun da ta wakilci.",
+      "validator": "Hadarin tabbatarwa: idan an yanke masu tabbatarwa a bayan yarjejeniya, kowane mai riƙewa yana raba asarar.",
+      "unbonding": "jinkirin fita: fansar ta hanyar yarjejeniya na iya ɗaukar tsawon lokacin da cibiyar sadarwar ke cirewa."
+    },
+    "rateExplain": "Kudin musayar shine adadin tokens da aka saka a matsayin alamar ruwa guda ɗaya. Yana ƙaruwa yayin da lada na sakawa ke ƙaruwa, don haka alamar ruwa ɗaya a hankali ta zama darajar fiye da alamar da aka saka.",
+    "noProtocol": "ChainBeat ba ya haɗuwa da wani tsari na ainihi na ruwa. Wannan shafin kwaikwayo ne na ilimi."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "overview": {
+    "title": "Bayani na gaba",
+    "unit": "Ƙididdigar aiki · Base = 100 a farkon zangon",
+    "refreshFailed": "Ba za a iya sabunta nuna karshe loaded data."
+  },
+  "chart": {
+    "keyboardHint": "Ka yi amfani da maɓallin kibiya don motsawa tsakanin wuraren bayanai.",
+    "summary": "Ƙididdigar aiki sama da {{range}}: {{details}}",
+    "rangeLabel": "Yanayin lokaci",
+    "seriesLabel": "Jerin zane-zane",
+    "keepOne": "Akalla jerin daya dole ne ya kasance a bayyane",
+    "emptyTitle": "Babu bayanai ga wannan zangon",
+    "emptyBody": "Ka sake gwada wani lokaci ko kuma ka sake gwadawa.",
+    "range": {
+      "24H": "SA'O'I 24",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "Sa'o'i 24 na ƙarshe",
+      "7D": "Kwanaki bakwai na ƙarshe",
+      "30D": "Kwanaki 30 na ƙarshe",
+      "90D": "Kwanaki 90 na ƙarshe"
+    },
+    "zoomControls": "Gudanar da Zoom",
+    "zoomIn": "Ƙara girma",
+    "zoomOut": "Ƙara girma",
+    "resetView": "Sake saita gani",
+    "zoomLevel": "Matsayin zoom"
+  },
+  "proposals": {
+    "title": "Shawarwari",
+    "filter": "Tushen tacewa",
+    "live": "Rayuwa",
+    "total": "Jimla",
+    "viewAll": "Ka ga dukan shawarwari",
+    "noneLive": "Babu shawarwari masu rai",
+    "noneLiveBody": "A halin yanzu babu gudanarwar da ke gudana.",
+    "showAll": "Nuna shawarwari na kwanan nan",
+    "endsIn": "Ƙarshen {{time}}",
+    "turnout": "Yawan halarta",
+    "vote": "Kada kuri'a",
+    "status": {
+      "voting": "Ana kada kuri'a",
+      "deposit": "Ajiya",
+      "passed": "An amince",
+      "rejected": "An ƙi",
+      "failed": "Ya gaza"
+    },
+    "passed": "An amince",
+    "rejected": "An ƙi",
+    "noneMatching": "Babu takardun da suka dace",
+    "noneMatchingBody": "Babu wani abu da ya dace da wannan tace a yanzu."
+  },
+  "dev": {
+    "title": "Ayyukan masu haɓakawa",
+    "summary": "{{total}} gudummawa",
+    "viewFull": "Ayyukan masu tasowa na budewa",
+    "heatmapLabel": "Taswirar zafi na gudummawa: gudummawa {{total}} a cikin makonni {{weeks}}",
+    "less": "Ƙasa",
+    "more": "Ƙari",
+    "cellTitle_one": "{{count}} gudummawa a kan {{date}}",
+    "cellTitle_other": "{{count}} gudummawa a kan {{date}}",
+    "range": "Yanayin hotmap",
+    "ranges": {
+      "month": "Wata",
+      "quarter": "Kashi na huɗu",
+      "year": "Shekara"
+    }
+  },
+  "repos": {
+    "title": "Rubuce-rubuce mai aiki",
+    "period": "Lokaci",
+    "periods": {
+      "week": "Makonni",
+      "month": "Wata",
+      "year": "Shekara",
+      "quarter": "Kashi na huɗu"
+    },
+    "contributors": "Masu ba da gudummawa",
+    "stars": "Taurari",
+    "sparkline": "Ayyukan sadaukarwa don {{name}}",
+    "vsPrevious": "{{change}} vs. lokacin da ya gabata",
+    "up": "A sama",
+    "down": "A ƙasa",
+    "caption": "Alkawura a cikin lokacin da aka zaɓa · wuraren adana bayanan da aka yi amfani da su",
+    "col": {
+      "repository": "Rukunin ajiya",
+      "language": "Harshe",
+      "commits": "Alkawura",
+      "change": "Canji",
+      "trend": "Yanayin"
+    },
+    "commitsCount": "Alkawura: {{count}}",
+    "demoNote": "Demo data: wannan ajiya ne fictional da kuma ayyukan da aka simulated.",
+    "emptyBody": "Babu ayyukan ajiya a wannan lokacin.",
+    "emptyTitle": "Babu ayyukan ajiya",
+    "history": "Ayyukan sadaukarwa"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "演示",
+    "simulated": "模拟",
+    "close": "关闭",
+    "retry": "重试",
+    "refresh": "刷新",
+    "copy": "复制",
+    "copied": "已复制",
+    "clear": "清除",
+    "loading": "加载中…",
+    "options": "选项",
+    "previous": "上一页",
+    "next": "下一页",
+    "pagination": "分页",
+    "pageN": "第 {{n}} 页",
+    "dismiss": "忽略",
+    "cancel": "取消",
+    "viewAll": "查看全部",
+    "max": "最大",
+    "amount": "数量",
+    "balance": "余额",
+    "fee": "手续费",
+    "status": "状态",
+    "time": "时间",
+    "height": "高度",
+    "hash": "哈希",
+    "type": "类型",
+    "all": "全部",
+    "showing": "显示第 {{from}}–{{to}} 条，共 {{total}} 条",
+    "noResults": "没有符合筛选条件的结果。",
+    "rowsPerPage": "每页行数",
+    "actions": "操作",
+    "exportCsv": "导出 CSV",
+    "details": "详情",
+    "clearFilters": "清晰的过器",
+    "collapseAll": "一切都崩了",
+    "copyJson": "复制JSON",
+    "expandAll": "扩大所有",
+    "showMore": "显示更多的{{count}}"
+  },
+  "language": {
+    "label": "语言",
+    "search": "搜索语言"
+  },
+  "theme": {
+    "label": "主题",
+    "system": "跟随系统",
+    "dark": "深色",
+    "light": "浅色"
+  },
+  "footer": {
+    "tagline": "探索区块，追踪交易，读懂 Web3。",
+    "demo": "演示模式：所有数字均为模拟，并非真实的网络统计数据。",
+    "share": "分享",
+    "linkCopied": "链接已复制到剪贴板。",
+    "docs": "文件",
+    "links": "脚本链接",
+    "modeDemo": "Demo 网络",
+    "repository": "存储库",
+    "version": "{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "页面不存在",
+    "body": "你访问的页面不存在或已被移动。",
+    "home": "返回仪表盘"
+  },
+  "gate": {
+    "title": "请先连接演示钱包",
+    "body": "此流程在模拟钱包上运行。请连接演示钱包来体验——不会签名或发送任何真实内容。",
+    "realTitle": "已连接真实钱包",
+    "realBody": "{{address}} 已连接，但 ChainBeat 的演示模式绝不会签名或广播交易。请切换到演示钱包来体验此流程。",
+    "useDemo": "使用演示钱包"
+  }
+}

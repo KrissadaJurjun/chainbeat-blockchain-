@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Nawigacja w pasku bocznym",
+    "primary": "Główna nawigacja",
+    "menu": "Menu nawigacji",
+    "openMenu": "Otwórz menu nawigacji",
+    "closeMenu": "Menu nawigacji zamknięte",
+    "collapseSidebar": "Płytkowy pasek boczny",
+    "expandSidebar": "Rozszerzyć paskę boczną",
+    "skipToContent": "Przejście do głównej treści",
+    "home": "ChainBeat do domu",
+    "pages": "Strony",
+    "dashboard": "Pulpit",
+    "validators": "Walidatorzy",
+    "proposals": "Propozycje",
+    "blocks": "Bloki",
+    "transactions": "Transakcje",
+    "portfolio": "Portfolio",
+    "swap": "Wymiana",
+    "stake": "Staking",
+    "liquidStaking": "Płynny staking",
+    "send": "Wyślij",
+    "vote": "Głosuj",
+    "createProposal": "Utwórz propozycję",
+    "market": "Rynek",
+    "network": "Sieć",
+    "governance": "Zarządzanie",
+    "ibcNetwork": "Sieć IBC",
+    "devActivity": "Aktywność deweloperów",
+    "multichain": "Przegląd wielu łańcuchów",
+    "heartbeat": "Puls",
+    "dominance": "Dominacja",
+    "validatorsViz": "Walidatorzy",
+    "blockExplorer": "Eksplorator bloków",
+    "transactionExplorer": "Eksplorator transakcji",
+    "tokenExplorer": "Eksplorator tokenów",
+    "about": "O aplikacji",
+    "explorerHome": "Eksplorator",
+    "governanceHome": "Centrum zarządzania",
+    "settings": "Ustawienia"
+  },
+  "sections": {
+    "explorer": "Eksplorator",
+    "wallet": "Portfel",
+    "analytics": "Analityka",
+    "visualizations": "Wizualizacje"
+  },
+  "chains": {
+    "favorite": "Dodaj {{name}} do ulubionych",
+    "unfavorite": "Usunięcie {{name}} z ulubionych",
+    "simulatedHealthy": "Simulowana sieć · zdrowa"
+  },
+  "search": {
+    "label": "Szukaj ChainBeat",
+    "placeholder": "Blok wyszukiwania, tx, adres...",
+    "results": "Wyniki wyszukiwania",
+    "noResults": "Żadnych wyników dla {{query}}",
+    "kinds": {
+      "page": "Strona",
+      "block": "Blok",
+      "transaction": "TX",
+      "validator": "Walidator",
+      "token": "Token",
+      "address": "Adres",
+      "proposal": "Propozycja"
+    },
+    "recent": "Ostatnie wyszukiwania",
+    "clearRecent": "Jasne ostatnie wyszukiwania",
+    "removeRecent": "Usunięcie {{query}} z ostatnich wyszukiwań",
+    "hint": "Wypróbuj wysokość bloku, hash transakcji, adres ( {{prefix}} 1...), weryfikator, numer propozycji lub symboliczna identyfikacja.",
+    "submit": "Szukaj",
+    "searching": "Szukam...",
+    "resultCount": "Wyniki: {{count}}",
+    "invalid": {
+      "tooLong": "To zbyt długi termin do wyszukiwania (maksymalnie 200 znaków).",
+      "badChecksum": "To wygląda jak adres, ale suma nie pasuje.",
+      "badHash": "Transakcja lub hash bloku ma dokładnie 64 znaków sześćdziesiątych.",
+      "badChars": "Szukaj wysokości bloku, hash, adresu, weryfikatora, propozycji lub tokena."
+    },
+    "categories": {
+      "page": "Strony",
+      "block": "Bloki",
+      "transaction": "Transakcje",
+      "address": "Adresy",
+      "validator": "Walidatorzy",
+      "proposal": "Propozycje",
+      "token": "Tokeny"
+    }
+  },
+  "user": {
+    "menu": "Menu konta",
+    "guest": "Gość",
+    "notConnected": "Brak portfela",
+    "settings": "Ustawienia",
+    "about": "O ChainBeat"
+  }
+}

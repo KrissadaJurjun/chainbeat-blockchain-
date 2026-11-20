@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "A kötött valzok",
+    "viewAll": "Minden validátor nézze meg",
+    "col": {
+      "validator": "Validátor",
+      "power": "Szavazati erő",
+      "cumulative": "Összefoglaló",
+      "commission": "Jutalék",
+      "uptime": "Rendelkezésre állás",
+      "change": "24 órás váltás",
+      "details": "Részletek",
+      "tokens": "Kötelezettséggel rendelkező jelvények"
+    },
+    "stake": "Staking",
+    "stakeWith": "Ez a validátor",
+    "pageDescription": "Minden validátor, aki {{chain}}-et biztosít, szavazati hatalom szerint sorolva (simulálva).",
+    "stats": {
+      "active": "Aktívan érvényesítő",
+      "nakamoto": "Nakamoto-koefficiens",
+      "nakamotoHint": "A lánc megállítása érdekében szükség volt hitelesítőre",
+      "top10": "Top-10 szavazati hatalom",
+      "commission": "Átlagos jutalék"
+    },
+    "filterPlaceholder": "A név vagy cím szerinti szűrő",
+    "statusFilter": "A hitelesítő státusz",
+    "tableCaption": "Validátorok a {{chain}}",
+    "detailDescription": "Egy szimulált validátor a {{chain}}-en.",
+    "detail": {
+      "delegators": "Delegálók",
+      "bonded": "Feltételezett jelvények",
+      "last30": "legutóbbi 30 nap",
+      "last90": "az elmúlt 90 nap",
+      "noBlocks": "Nem javasolt blokkok.",
+      "noWebsite": "nem rendelkezésre áll (fictív hitelesítő)",
+      "openPage": "Nyissa ki a teljes oldalt",
+      "powerHistory": "Szavazati erő",
+      "proposed24h": "A javasolt blokkok (24 óra)",
+      "rank": "Rang",
+      "recentBlocks": "Nemrégiben javasolt blokkok",
+      "selfBonded": "Öntől függő",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Rendelkezésre állás",
+      "valueUsd": "A részvényérték {{value}}",
+      "website": "Weboldal"
+    },
+    "status": {
+      "active": "Aktív",
+      "inactive": "Inaktív",
+      "jailed": "Bebörtönzött"
+    },
+    "activitiesTitle": "A hitelesítő tevékenységek",
+    "commissionShort": "Számlája {{value}}",
+    "detailTitle": "Validátor",
+    "fictionalNote": "A Demo-es mód fiktív hitelesítője. Nem igazi operátor, és semmi sem ellenőrizhető róla.",
+    "hoverTip": "Bizottság {{commission}} · üzemidő {{uptime}} · {{delegators}} küldött",
+    "noMatching": "Nincs megfelelő hitelesítő.",
+    "notFoundBody": "A {{chain}} nem rendelkezik ezzel a címmel rendelkező hitelesítővel.",
+    "notFoundTitle": "Nem találtak hitelesítőket",
+    "sort": {
+      "power": "Szavazati erő",
+      "commission": "Jutalék",
+      "uptime": "Rendelkezésre állás"
+    },
+    "sortBy": "A validátorokat a következők szerint sorolják:"
+  },
+  "validatorsViz": {
+    "description": "A Bizottság és az összes validátor üzemidője a {{chain}}-es számon; a buborék mérete a szavazati képességet mutatja.",
+    "showAll": "Be kell foglalni az inaktív és börtönben lévő személyeket",
+    "avgUptime": "Átlagos üzemidő",
+    "zeroFee": "Zéróbizottságú hitelesítők",
+    "chartTitle": "Bizottság vs. üzemidő",
+    "chartHint": "Minden buborék egy validátor",
+    "legend": "A térkép legendája",
+    "sizeHint": "A buborék mérete = szavazati erő"
+  }
+}

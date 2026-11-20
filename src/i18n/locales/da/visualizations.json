@@ -1,0 +1,58 @@
+{
+  "ibcPage": {
+    "description": "Hvordan tokens flytter mellem kæder over IBC. tykkere links betyder mere 24-timers volumen.",
+    "volume": "24 h IBC volumen",
+    "chains": "Forbundne kæder",
+    "links": "Aktive kanaler",
+    "busiest": "Den travleste rute",
+    "mapLabel": "Kart af IBC forbindelser mellem kæder",
+    "nodeLabel": "{{name}}: {{volume}} på 24 timer på {{channels}} kanaler",
+    "hint": "Hover, fokusere eller vælg en kæde for at fremhæve dens forbindelser. Træk til pan; brug Ctrl eller med rullhjulet, + og −-tasterne eller knapperne til at zoome; tryk på 0 for at indstille.",
+    "channelsOf": "Kanaler af {{name}}",
+    "topChannels": "De øverste kanaler efter volumen",
+    "transfers_one": "{{count, number}} overførsel",
+    "transfers_other": "{{count, number}} overførsler",
+    "info": {
+      "volume": "Størrelse (24 h)",
+      "channels": "Kanaler",
+      "share": "Andel af IBC volumen",
+      "partner": "Den travleste partner"
+    }
+  },
+  "multichainPage": {
+    "description": "Det bredere økosystem i Cosmos-stil på et kig simulerede tal for hver tilkoblede kæde.",
+    "chains": "Kæder",
+    "tvl": "Det samlede lukkede værdi",
+    "validators": "Validatorer",
+    "tx24h": "Transaktioner (24 timer)",
+    "height": "Blockhøjde",
+    "open": "Åben instrumentpanel",
+    "switched": "Overført til {{name}}",
+    "registryOnly": "Registreret til demo ikke kan vælges endnu",
+    "tvlByChain": "TVL efter kæde",
+    "tvlHint": "Simuleret samlet låst værdi",
+    "explainTitle": "Hvad betyder målingerne",
+    "explainHint": "Alle værdier er simuleret.",
+    "explain": {
+      "tvl": "Værdien af tokens, der er sat eller indeholdt i netværksens simulerede økonomi, til simulerede priser.",
+      "height": "Hvor mange blokker har kæden produceret siden den startede.",
+      "validators": "De operatører, der foreslår og underskriver blokke.",
+      "apr": "Den anslåede årlige belønning for indsatsen, som en procentdel før provision. Den bevæger sig med inflationen og med den andel af tokens, der er indsatsen.",
+      "bonded": "En højere andel betyder, at flere af forsyningen sikrer kæden.",
+      "tx24h": "Transaktioner, der er indgået i blokke i løbet af de sidste 24 timer på tværs af alle listede kæder."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Pulsen på {{chain}}: hver blok er en beat mellemrum følger bloktid, højde følger transaktionstal.",
+    "rate": "Blokkurser",
+    "perMinute": "blokke/min",
+    "sinceLast": "Siden sidste blok",
+    "txLastMinute": "Transaktioner (i sidste øjeblik)",
+    "monitor": "Pulsmonitor",
+    "legend": "Slaghøjde = transaktioner i blokken",
+    "chartLabel": "Hjerteslag: {{rate}} blokke pr. minut, {{seconds}} sekunder mellem blokke",
+    "stream": "Blockstrøm",
+    "txCount_one": "{{count}} tx",
+    "txCount_other": "{{count}} txs"
+  }
+}

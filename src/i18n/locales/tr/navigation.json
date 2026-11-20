@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Yan çubuğu navigasyonu",
+    "primary": "Ana navigasyon",
+    "menu": "Navigasyon menüsü",
+    "openMenu": "Açık navigasyon menüsü",
+    "closeMenu": "Yönlendirme menüsünü kapat",
+    "collapseSidebar": "Çökme yan çubuğu",
+    "expandSidebar": "Yan çubuğu genişlet",
+    "skipToContent": "Ana içeriğe geç",
+    "home": "ChainBeat Ev",
+    "pages": "Sayfalar",
+    "dashboard": "Panel",
+    "validators": "Doğrulayıcılar",
+    "proposals": "Teklifler",
+    "blocks": "Bloklar",
+    "transactions": "İşlemler",
+    "portfolio": "Portföy",
+    "swap": "Takas",
+    "stake": "Stake",
+    "liquidStaking": "Likit staking",
+    "send": "Gönder",
+    "vote": "Oy ver",
+    "createProposal": "Teklif oluştur",
+    "market": "Piyasa",
+    "network": "Ağ",
+    "governance": "Yönetişim",
+    "ibcNetwork": "IBC Ağı",
+    "devActivity": "Geliştirici Etkinliği",
+    "multichain": "Çoklu Zincir Genel Bakışı",
+    "heartbeat": "Kalp Atışı",
+    "dominance": "Hakimiyet",
+    "validatorsViz": "Doğrulayıcılar",
+    "blockExplorer": "Blok Gezgini",
+    "transactionExplorer": "İşlem Gezgini",
+    "tokenExplorer": "Token Gezgini",
+    "about": "Hakkında",
+    "explorerHome": "Gezgin",
+    "governanceHome": "Yönetim merkezi",
+    "settings": "Ayarlar"
+  },
+  "sections": {
+    "explorer": "Gezgin",
+    "wallet": "Cüzdan",
+    "analytics": "Analizler",
+    "visualizations": "Görselleştirmeler"
+  },
+  "chains": {
+    "favorite": "{{name}}'i favoriye ekle",
+    "unfavorite": "Favorilerden {{name}}'i çıkar",
+    "simulatedHealthy": "Simülasyonlu ağ · sağlıklı"
+  },
+  "search": {
+    "label": "Arama ChainBeat",
+    "placeholder": "Arama blok, t, adres...",
+    "results": "Arama sonuçları",
+    "noResults": "{{query}} için sonuç yok",
+    "kinds": {
+      "page": "Sayfa",
+      "block": "Blok",
+      "transaction": "Tx",
+      "validator": "Doğrulayıcı",
+      "token": "Token",
+      "address": "Adres",
+      "proposal": "Teklif"
+    },
+    "recent": "Son aramalar",
+    "clearRecent": "Açık son aramalar",
+    "removeRecent": "Son aramalardan {{query}}'i kaldır",
+    "hint": "Bir blok yüksekliği, bir işlem hash, bir adres deneyin ( {{prefix}} 1...), bir onaylayıcı, bir teklif numarası veya bir simge adı.",
+    "submit": "Ara",
+    "searching": "Arıyorum...",
+    "resultCount": "Sonuçlar: {{count}}",
+    "invalid": {
+      "tooLong": "Bu bir arama terimi olmak için çok uzun (200 karakter en fazla).",
+      "badChecksum": "Bu bir adrese benziyor ama kontrol sayısı eşleşmiyor.",
+      "badHash": "Bir işlem veya blok hash tam olarak 64 heksadezimal karaktere sahiptir.",
+      "badChars": "Bir blok yüksekliği, bir hash, bir adres, bir onaylayıcı, bir teklif veya bir token aramak."
+    },
+    "categories": {
+      "page": "Sayfalar",
+      "block": "Bloklar",
+      "transaction": "İşlemler",
+      "address": "Adresler",
+      "validator": "Doğrulayıcılar",
+      "proposal": "Teklifler",
+      "token": "İşaretler"
+    }
+  },
+  "user": {
+    "menu": "Hesap menüsü",
+    "guest": "Misafir",
+    "notConnected": "Cüzdan bağlantısı yok",
+    "settings": "Ayarlar",
+    "about": "ChainBeat Hakkında"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "notifications": {
+    "label": "通知",
+    "title": "通知",
+    "unread": "沒有閱讀",
+    "unreadLabel_other": "{{count}} 沒有閱讀的通知",
+    "markAllRead": "記錄所有內容",
+    "empty": "您都在抓住.",
+    "items": {
+      "proposalVoting": "提議 # {{id}} 在投票期間中, {{hours}} 在左邊.",
+      "proposalPassed": "通過了第{{id}}號提案,。",
+      "validatorJailed": "{{name}}因休息時間被判入獄.",
+      "upgradeScheduled": "網路升級{{version}}將於{{days}}天內進行.",
+      "ibcVolume": "國際銀行轉移量增長 {{pct}} 在過去24小時內的 %。",
+      "newBlock": "區域 {{height}} 在 {{chain}} 製造 (模擬).",
+      "walletConnectedDemo": "Demo 錢包連接 (模擬).",
+      "walletConnected": "{{name}} 沒有任何簽名.",
+      "walletDisconnected": "這次的覽器開啟.",
+      "txSuccess": "模擬交易已確認: {{summary}}",
+      "txFailed": "沒有任何改變.",
+      "proposalCreated": "Demo 提案{{id}} {{title}} (模擬) 加入.",
+      "networkChanged": "轉換為 {{chain}} 顯示模擬數據.",
+      "simPaused": "模擬數據不會更新,。",
+      "errorSimulation": "錯誤模擬啟動, 數據要求和錢包確認將失敗,。"
+    },
+    "dismiss": "拒絕通知",
+    "clearAll": "清除一切",
+    "simulatedNote": "這裡沒有任何實際的區塊警報."
+  }
+}

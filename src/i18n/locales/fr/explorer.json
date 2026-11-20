@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Actifs natifs, IBC, de staking liquide et externes connus sur {{chain}} (simulé).",
+    "stats": {
+      "total": "Jetons suivis"
+    },
+    "kinds": {
+      "native": "Natif",
+      "ibc": "IBC",
+      "external": "Externe",
+      "stable": "Stablecoin",
+      "liquid": "Staking liquide"
+    },
+    "col": {
+      "token": "Jeton",
+      "type": "Type",
+      "denom": "Denom",
+      "price": "Prix",
+      "change": "24 h",
+      "supply": "Offre",
+      "holders": "Détenteurs",
+      "marketCap": "Capitalisation"
+    },
+    "filterPlaceholder": "Filtrer par symbole, nom ou denom",
+    "tableCaption": "Jetons sur {{chain}}"
+  },
+  "account": {
+    "title": "Compte",
+    "description": "Salles et activité récente d'un compte sur {{chain}} (simulé).",
+    "available": "Disponible",
+    "balances": "Les équilibres",
+    "counterparty": "Partie contrepartie",
+    "direction": "Direction",
+    "in": "Dans",
+    "out": "À l'extérieur",
+    "history": "Historique des opérations",
+    "historyCaption": "Transactions de {{address}}",
+    "invalidTitle": "Pas d'adresse valide",
+    "invalidBody": "Ce n' est pas valide {{chain}} Adresse. Les adresses de ce réseau commencent par {{prefix}} 1 et inclure une somme de contrôle.",
+    "noBalances": "Pas d'équilibre.",
+    "noHistory": "Aucune transaction n'a été trouvée",
+    "noHistoryBody": "Ce compte n'a aucune activité simulée dans les {{blocks}} derniers blocs.",
+    "rewards": "Récompenses: {{value}}",
+    "staked": "Enchâssé",
+    "totalValue": "Value totale",
+    "txCount": "Transactions",
+    "unknown": "C'est une adresse valide, mais elle n'apparaît pas dans la simulation, donc elle n'a pas d'équilibre ou d'historique.",
+    "window": "dans les {{blocks}} derniers blocs",
+    "demoWallet": "C'est votre portefeuille Demo, ses soldes et ses transactions sont simulés et n'existent que dans ce navigateur."
+  },
+  "explorer": {
+    "description": "Recherchez {{chain}} et voyez ce qui se passe sur le réseau (simulé) en ce moment.",
+    "latestBlocks": "Les derniers blocs",
+    "latestTransactions": "Les dernières transactions",
+    "searchTitle": "Recherchez l'explorateur",
+    "shortcuts": "Sections d'explorateur"
+  }
+}

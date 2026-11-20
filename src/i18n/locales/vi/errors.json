@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Chưa có gì ở đây",
+    "emptyBody": "Không có dữ liệu cho thấy cho quan điểm này.",
+    "errorTitle": "Không thể tải dữ liệu này",
+    "errorBody": "Có gì đó sai khi đọc mạng, kiểm tra kết nối và thử lại.",
+    "crashTitle": "Có chuyện gì đó sai",
+    "crashBody": "Trang này gặp lỗi bất ngờ.",
+    "reload": "Trang tải lại"
+  }
+}

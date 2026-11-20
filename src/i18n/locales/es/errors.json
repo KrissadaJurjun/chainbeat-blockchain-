@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Aún no hay nada aquí",
+    "emptyBody": "No hay datos que mostrar en esta vista.",
+    "errorTitle": "No se pudieron cargar estos datos",
+    "errorBody": "Algo salió mal al leer la red. Comprueba tu conexión e inténtalo de nuevo.",
+    "crashTitle": "Algo salió mal",
+    "crashBody": "Esta página encontró un error inesperado.",
+    "reload": "Recargar la página"
+  }
+}

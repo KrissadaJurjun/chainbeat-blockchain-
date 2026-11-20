@@ -1,0 +1,130 @@
+Bảng điều khiển
+Trình xác thực
+Đề xuất
+Khối
+Giao dịch
+Danh mục đầu tư
+Hoán đổi
+Stake
+Staking thanh khoản
+Gửi
+Bỏ phiếu
+Tạo đề xuất
+Thị trường
+Mạng
+Quản trị
+Mạng IBC
+Hoạt động nhà phát triển
+Tổng quan đa chuỗi
+Nhịp tim
+Mức độ thống trị
+Trình khám phá khối
+Trình khám phá giao dịch
+Trình khám phá token
+Giới thiệu
+Trình khám phá
+Cài đặt
+Ví
+Phân tích
+Trực quan hóa
+Ngôn ngữ
+Giao diện
+Hệ thống
+Tối
+Sáng
+Demo
+Mô phỏng
+Đóng
+Thử lại
+Làm mới
+Sao chép
+Đã sao chép
+Xóa
+Đang tải…
+Trước
+Tiếp
+Bỏ qua
+Hủy
+Quay lại
+Xem tất cả
+Đặt lại
+Xuất
+Tối đa
+Số tiền
+Số dư
+Phí
+Trạng thái
+Tổng
+Thời gian
+Chiều cao
+Hash
+Loại
+Tất cả
+Tìm kiếm
+Bộ lọc
+Chi tiết
+Xác nhận
+Kết nối ví
+Ngắt kết nối
+Xem lại giao dịch
+Phí mạng
+Sao chép địa chỉ
+Bạn trả
+Bạn nhận
+Địa chỉ người nhận
+Memo (tùy chọn)
+Tài sản
+Phân bổ
+Đã ủy quyền
+Hủy stake
+Tỷ giá
+Thành công
+Giao dịch
+Khối
+Từ
+Đến
+Memo
+Gas đã dùng
+Trình xác thực
+Token
+Địa chỉ
+Đề xuất
+Giá
+Nguồn cung
+Vốn hóa thị trường
+Hoa hồng
+Thời gian hoạt động
+Quyền biểu quyết
+Thứ hạng
+Hoạt động
+Không hoạt động
+Bị giam
+Người ủy quyền
+Có
+Không
+Bỏ phiếu trắng
+Không kèm phủ quyết
+Đã thông qua
+Bị bác bỏ
+Thất bại
+Đang bỏ phiếu
+Số đại biểu tối thiểu
+Tỷ lệ tham gia
+Tiền đặt cọc
+Phiếu bầu của bạn
+Tiêu đề
+Mô tả
+Chỉ số on-chain
+Chiều cao khối
+Giao dịch mỗi khối
+Thời gian khối
+APR staking
+Token đã khóa
+Tổng nguồn cung
+Quỹ cộng đồng
+Không tìm thấy trang
+Quay lại bảng điều khiển
+Khối mới nhất
+Giao dịch mới nhất
+Thông báo
+Khác

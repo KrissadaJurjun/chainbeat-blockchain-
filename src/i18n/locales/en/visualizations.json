@@ -1,0 +1,58 @@
+{
+  "ibcPage": {
+    "description": "How tokens flow between chains over IBC. Thicker links mean more 24-hour volume.",
+    "volume": "24h IBC volume",
+    "chains": "Connected chains",
+    "links": "Active channels",
+    "busiest": "Busiest route",
+    "mapLabel": "Map of IBC connections between chains",
+    "nodeLabel": "{{name}}: {{volume}} in 24 hours across {{channels}} channels",
+    "hint": "Hover, focus or select a chain to highlight its connections. Drag to pan; use Ctrl or ⌘ with the scroll wheel, the + and − keys, or the buttons to zoom; press 0 to reset.",
+    "channelsOf": "Channels of {{name}}",
+    "topChannels": "Top channels by volume",
+    "transfers_one": "{{count, number}} transfer",
+    "transfers_other": "{{count, number}} transfers",
+    "info": {
+      "volume": "Volume (24 h)",
+      "channels": "Channels",
+      "share": "Share of IBC volume",
+      "partner": "Busiest partner"
+    }
+  },
+  "multichainPage": {
+    "description": "The wider Cosmos-style ecosystem at a glance — simulated figures for each connected chain.",
+    "chains": "Chains",
+    "tvl": "Total value locked",
+    "validators": "Validators",
+    "tx24h": "Transactions (24h)",
+    "height": "Block height",
+    "open": "Open dashboard",
+    "switched": "Switched to {{name}}",
+    "registryOnly": "Registered for the demo — not selectable yet",
+    "tvlByChain": "TVL by chain",
+    "tvlHint": "Simulated total value locked",
+    "explainTitle": "What the metrics mean",
+    "explainHint": "Plain-language definitions of the figures on this page. All values are simulated.",
+    "explain": {
+      "tvl": "The value of tokens staked or held in the network's simulated economy, at simulated prices. Real \"total value locked\" figures use varying definitions and are not used here.",
+      "height": "How many blocks the chain has produced since it started. It grows by one with every block.",
+      "validators": "The operators that propose and sign blocks. The number is the size of the active set.",
+      "apr": "The estimated yearly reward for staking, as a percentage before commission. It moves with inflation and with the share of tokens that are staked.",
+      "bonded": "The share of the total token supply that is staked. A higher share means more of the supply is securing the chain.",
+      "tx24h": "Transactions included in blocks over the last 24 hours across all listed chains."
+    }
+  },
+  "heartbeatPage": {
+    "description": "The pulse of {{chain}}: every block is a beat — spacing follows block time, height follows transaction count.",
+    "rate": "Block rate",
+    "perMinute": "blocks/min",
+    "sinceLast": "Since last block",
+    "txLastMinute": "Transactions (last minute)",
+    "monitor": "Pulse monitor",
+    "legend": "Beat height = transactions in the block",
+    "chartLabel": "Heartbeat trace: {{rate}} blocks per minute, {{seconds}} seconds between blocks",
+    "stream": "Block stream",
+    "txCount_one": "{{count}} tx",
+    "txCount_other": "{{count}} txs"
+  }
+}

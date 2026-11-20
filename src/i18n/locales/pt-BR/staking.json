@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delegar tokens para um validador em {{chain}} para ganhar recompensas simuladas.",
+    "validator": "Validador",
+    "pickValidator": "Escolha um validador",
+    "estimate": "Rendimentos estimados",
+    "netApr": "APR líquido (após comissão)",
+    "yearly": "Recompensas por ano",
+    "monthly": "Recompensas por mês",
+    "unbonding": "Período de desvinculação",
+    "commission": "Comissão de Validador",
+    "notice": "Em uma rede real, a aposta retirada é bloqueada para o período de {{days}} dias. Aqui tudo é simulado e instantâneo.",
+    "yourStake": "A tua aposta no {{chain}}",
+    "unstake": "Cancelar stake",
+    "unstakeTitle": "Desfecho a partir de {{validator}}",
+    "unstakeDescription": "Em uma rede real, os teus tokens desbloqueariam após o período de desvinculação de {{days}} dias.",
+    "confirmUnstake": "Descontrolamento (simulado)",
+    "done": "Empilhados (simulados)",
+    "doneBody": "Delegado na carteira Demo, um período de desvinculação real seria de {{days}} dias.",
+    "unstaked": "Não imposto (simulado)",
+    "unstakedBody": "Voltou para a carteira Demo instantaneamente, uma rede real levaria {{days}} dias.",
+    "errors": {
+      "validator": "Escolha um validador.",
+      "moreThanStaked": "Não podes desmontar mais do que apostaste."
+    },
+    "review": "Estaca de revisão",
+    "confirmDescription": "Verifique a delegação. A confirmação só muda a carteira Demo neste navegador.",
+    "aprDisclaimer": "O APR mostrado é uma estimativa baseada na inflação actual, no imposto comunitário e na taxa de obrigações.",
+    "rewardsHistory": "História de recompensas",
+    "noRewardsHistory": "Ainda não há recompensas reclamadas.",
+    "rewardsClaimed": "Reclamar {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Apostar um token e receber um token de apostas líquido que continua a ganhar recompensas enquanto permanece negociável.",
+    "mode": "Direcção",
+    "stake": "Staking",
+    "unstake": "Cancelar stake",
+    "asset": "Ativos",
+    "youStake": "Você está em jogo ({{symbol}})",
+    "youRedeem": "Você resgatar ({{symbol}})",
+    "youReceive": "Você recebe ({{symbol}})",
+    "exchangeRate": "Taxa de câmbio",
+    "apr": "APR estimado",
+    "protocolFee": "Taxa de protocolo sobre recompensas",
+    "notice": "Os tokens de apostas líquidas e as suas taxas são simulados.",
+    "done": "Conversão completa (simulada)",
+    "doneBody": "Os saldos da carteira Demo foram atualizados.",
+    "review": "Revisão da conversão",
+    "confirmDescription": "Verifique a conversão. A confirmação só muda a carteira Demo neste navegador.",
+    "risksTitle": "Riscos de compreensão",
+    "risks": {
+      "smartContract": "Risco de contratos inteligentes: os protocolos de acumulação de líquidos são software, e o software pode ter bugs.",
+      "depeg": "Risco de depreciação: o token líquido pode ser negociado abaixo do valor dos tokens que representa.",
+      "validator": "Risco de validador: se os validadores por trás do protocolo forem cortados, todos os titulares compartilham a perda.",
+      "unbonding": "Retardo de saída: o resgate através do protocolo pode demorar tanto quanto o período de desvinculação da rede."
+    },
+    "rateExplain": "A taxa de câmbio é o número de tokens apostados que um token líquido representa. Ele cresce à medida que as recompensas de apostas se acumulam, de modo que um token líquido lentamente se torna mais valioso do que um token apostado.",
+    "noProtocol": "ChainBeat não se integra com nenhum protocolo de liquidação real. Esta página é uma simulação educacional."
+  }
+}

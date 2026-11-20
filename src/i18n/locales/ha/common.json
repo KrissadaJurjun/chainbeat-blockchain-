@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Na kwaikwayo",
+    "close": "Rufe",
+    "retry": "Sake gwadawa",
+    "refresh": "Wartsake",
+    "copy": "Kwafi",
+    "copied": "An kwafa",
+    "clear": "Share",
+    "loading": "Ana lodawa…",
+    "options": "Zaɓuɓɓuka",
+    "previous": "Na baya",
+    "next": "Na gaba",
+    "pagination": "Shafin shafi",
+    "pageN": "Shafi na {{n}}",
+    "dismiss": "Yi watsi",
+    "cancel": "Soke",
+    "viewAll": "Duba duka",
+    "max": "Mafi yawa",
+    "amount": "Adadi",
+    "balance": "Ragowar kuɗi",
+    "fee": "Kuɗin aiki",
+    "status": "Matsayi",
+    "time": "Lokaci",
+    "height": "Tsawo",
+    "hash": "Hash",
+    "type": "Nau'i",
+    "all": "Duka",
+    "showing": "Nuna {{from}} {{to}} na {{total}}",
+    "noResults": "Babu sakamakon da ya yi daidai da matattararka.",
+    "rowsPerPage": "Layi a kowane shafi",
+    "actions": "Ayyuka",
+    "exportCsv": "Ƙididdigar CSV na fitarwa",
+    "details": "Cikakkun bayanai",
+    "clearFilters": "Masu tacewa masu tsabta",
+    "collapseAll": "Rufe su duka",
+    "copyJson": "Kwafa JSON",
+    "expandAll": "Ƙarfafa duk",
+    "showMore": "Ka nuna {{count}} more"
+  },
+  "language": {
+    "label": "Harshe",
+    "search": "Harsunan bincike"
+  },
+  "theme": {
+    "label": "Jigo",
+    "system": "Tsari",
+    "dark": "Duhu",
+    "light": "Haske"
+  },
+  "footer": {
+    "tagline": "Ka binciki bangarori, ka lura da ma'amaloli, ka fahimci Yanar Gizo3.",
+    "demo": "Demo Yanayin duk kididdigar suna kwaikwayon kuma ba ainihin kididdigar cibiyar sadarwa ba ne.",
+    "share": "Rarraba",
+    "linkCopied": "An kwafe hanyar haɗi zuwa allon waya.",
+    "docs": "Takaddun shaida",
+    "links": "Hanyoyin haɗin ƙafafun ƙafa",
+    "modeDemo": "Demo Cibiyar sadarwa",
+    "repository": "Rukunin ajiya",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Ba a sami shafin ba",
+    "body": "Shafin da kake nema bai wanzu ba ko kuma ya motsa.",
+    "home": "Koma zuwa dashboard"
+  },
+  "gate": {
+    "title": "Ka haɗa walat ɗin Demo don ci gaba",
+    "body": "Wannan aikin aiki yana gudana a kan wani simulated walat. hašawa da Demo walat don gwada shi babu wani abu na gaske da aka taba sanya hannu ko aika.",
+    "realTitle": "An haɗa wani walat na gaske",
+    "realBody": "{{address}} da aka haɗa, amma ChainBeat Demo Yanayin ba sa hannu ko watsawa ma'amaloli. Canja zuwa Demo walat don gwada wannan aiki.",
+    "useDemo": "Ka yi amfani da walat ɗin Demo"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "blockDetail": {
+    "title": "區域 {{height}}",
+    "invalid": "不有效的積木高度",
+    "description": "在{{chain}}號的模擬區塊的詳細.",
+    "previous": "之前的區塊",
+    "next": "接下來的街區",
+    "notFoundTitle": "沒有找到的區塊",
+    "notFoundBody": "在這個高度, {{chain}} 尚未被封鎖.",
+    "transactions_other": "{{count}} 交易",
+    "txCaption": "在第 {{height}} 區中的交易",
+    "noTxs": "這個區域沒有交易",
+    "genesis": "創世記區塊",
+    "parentHash": "親子的麻煩",
+    "demoTxs": "Demo 這個高度的錢包交易",
+    "demoTxsNote": "這些數據是由Demo個錢包建立的."
+  },
+  "blocksPage": {
+    "description": "最新的區塊在 {{chain}} 這份清單每隔一段時間更新一次左右.",
+    "live": "活下去",
+    "avgGas": "使用的排放氣體",
+    "tableCaption": "在{{chain}}號的最新街區",
+    "proposer": "提議者",
+    "txs": "其他國家",
+    "gas": "已用 Gas",
+    "size": "尺寸",
+    "emptyTitle": "沒有被發現的積木",
+    "filterPlaceholder": "按高度,哈希或验证器進行過濾",
+    "filtersLabel": "封鎖過濾器",
+    "finality": "終結性",
+    "finalityNote": "這種網路的區塊一旦被執行,。",
+    "finalized": "完成",
+    "withTxsOnly": "只有交易的區塊"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "オンチェーン指標",
+    "exportCsv": "CSV としてエクスポート",
+    "exported": "指標を CSV としてエクスポートしました。",
+    "openAnalytics": "ネットワーク分析を開く",
+    "last24h": "過去 24 時間",
+    "sparklineLabel": "過去 24 時間の推移",
+    "change24h": "24 時間の変化",
+    "blocks": "ブロック",
+    "exact": "正確な値",
+    "bondedRatio": "ボンド率",
+    "poolShare": "総供給量に占める割合",
+    "tokenPrice": "トークン価格",
+    "inputInflation": "インフレ率",
+    "inputTax": "コミュニティ税",
+    "inputBonded": "ボンド率",
+    "csvMetric": "指標",
+    "csvValue": "値",
+    "csvUnit": "単位",
+    "csvChange24h": "24時間の変化",
+    "blockHeight": {
+      "label": "ブロック高",
+      "description": "ジェネシス以降に生成されたブロックの数です。新しいブロックごとに 1 ずつ増えます。"
+    },
+    "totalTransactions": {
+      "label": "トランザクション",
+      "description": "ジェネシス以降にネットワークが処理したトランザクションの総数です。"
+    },
+    "txPerBlock": {
+      "label": "ブロックあたりの Tx",
+      "description": "直近 100 ブロックで測定した、1 ブロックに含まれるトランザクション数の平均です。"
+    },
+    "blockTime": {
+      "label": "ブロック時間",
+      "description": "直近 100 ブロックで測定した、連続するブロックの間隔の平均です。"
+    },
+    "inflation": {
+      "label": "インフレ率",
+      "description": "ステーカーへの報酬とコミュニティプールの原資のため、新しいトークンが年間でどれだけ発行されるかの割合です。"
+    },
+    "stakingApr": {
+      "label": "ステーキング APR",
+      "description": "バリデータの手数料を差し引く前の、ステーキングされたトークンの推定年間利回りです。",
+      "formula": "APR = インフレ率 × (1 − コミュニティ税) ÷ ボンド率"
+    },
+    "bondedTokens": {
+      "label": "ボンド済みトークン",
+      "description": "現在アクティブなバリデータにステーキングされているトークンです。ボンドされた資産がネットワークを守ります。",
+      "formula": "ボンド済み = 総供給量 × ボンド率"
+    },
+    "totalSupply": {
+      "label": "総供給量",
+      "description": "ステーキング中のものを含め、存在するすべてのトークンです。インフレとともに増加します。"
+    },
+    "communityPool": {
+      "label": "コミュニティプール",
+      "description": "オンチェーンのガバナンスで管理されるトークンです。インフレの一部が積み立てられ、可決された提案によって支出されます。",
+      "formula": "プールの増加分 ≈ 供給量 × インフレ率 × コミュニティ税"
+    },
+    "poolValue": {
+      "label": "プール価値",
+      "description": "シミュレーションのトークン価格で見積もった、コミュニティプールの米ドル換算の価値です。",
+      "formula": "価値 = プール × トークン価格"
+    }
+  }
+}

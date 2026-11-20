@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Bonded Vals",
+    "viewAll": "View all validators",
+    "col": {
+      "validator": "Validator",
+      "power": "Voting power",
+      "cumulative": "Cumulative",
+      "commission": "Commission",
+      "uptime": "Uptime",
+      "change": "24h change",
+      "details": "Details",
+      "tokens": "Bonded tokens"
+    },
+    "stake": "Stake",
+    "stakeWith": "Stake with this validator",
+    "pageDescription": "Every validator securing {{chain}}, ranked by voting power (simulated).",
+    "stats": {
+      "active": "Active validators",
+      "nakamoto": "Nakamoto coefficient",
+      "nakamotoHint": "Validators needed to halt the chain",
+      "top10": "Top-10 voting power",
+      "commission": "Average commission"
+    },
+    "filterPlaceholder": "Filter by name or address",
+    "statusFilter": "Validator status",
+    "tableCaption": "Validators on {{chain}}",
+    "detailDescription": "A simulated validator on {{chain}}.",
+    "detail": {
+      "delegators": "Delegators",
+      "bonded": "Tokens bonded",
+      "last30": "last 30 days",
+      "last90": "last 90 days",
+      "noBlocks": "No recently proposed blocks.",
+      "noWebsite": "not available (fictional validator)",
+      "openPage": "Open full page",
+      "powerHistory": "Voting power",
+      "proposed24h": "Blocks proposed (24 h)",
+      "rank": "Rank",
+      "recentBlocks": "Recently proposed blocks",
+      "selfBonded": "Self-bonded",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Uptime",
+      "valueUsd": "Stake value {{value}}",
+      "website": "Website"
+    },
+    "status": {
+      "active": "Active",
+      "inactive": "Inactive",
+      "jailed": "Jailed"
+    },
+    "activitiesTitle": "Validator Activities",
+    "commissionShort": "Fee {{value}}",
+    "detailTitle": "Validator",
+    "fictionalNote": "Fictional validator for Demo Mode. It is not a real operator and nothing about it is verified.",
+    "hoverTip": "Commission {{commission}} · uptime {{uptime}} · {{delegators}} delegators",
+    "noMatching": "No matching validators.",
+    "notFoundBody": "{{chain}} has no validator with this address.",
+    "notFoundTitle": "Validator not found",
+    "sort": {
+      "power": "Voting power",
+      "commission": "Commission",
+      "uptime": "Uptime"
+    },
+    "sortBy": "Sort validators by"
+  },
+  "validatorsViz": {
+    "description": "Commission versus uptime for every validator on {{chain}}; bubble size shows voting power.",
+    "showAll": "Include inactive and jailed",
+    "avgUptime": "Average uptime",
+    "zeroFee": "Zero-commission validators",
+    "chartTitle": "Commission vs uptime",
+    "chartHint": "Each bubble is one validator",
+    "legend": "Chart legend",
+    "sizeHint": "Bubble size = voting power"
+  }
+}

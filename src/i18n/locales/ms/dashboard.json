@@ -1,0 +1,101 @@
+{
+  "overview": {
+    "title": "Ringkasan",
+    "unit": "Indeks prestasi · Pangkalan = 100 pada permulaan julat",
+    "refreshFailed": "Tidak dapat menyegarkan menunjukkan data yang dimuatkan terakhir."
+  },
+  "chart": {
+    "keyboardHint": "Gunakan kunci anak panah untuk bergerak antara titik data.",
+    "summary": "Indeks prestasi melebihi {{range}}: {{details}}",
+    "rangeLabel": "Julat masa",
+    "seriesLabel": "Siri carta",
+    "keepOne": "Sekurang-kurangnya satu siri mesti kekal kelihatan",
+    "emptyTitle": "Tiada data untuk julat ini",
+    "emptyBody": "Cuba jangka masa lain atau menyegarkan.",
+    "range": {
+      "24H": "24 JAM",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "24 jam terakhir",
+      "7D": "7 hari terakhir",
+      "30D": "30 hari terakhir",
+      "90D": "90 hari terakhir"
+    },
+    "zoomControls": "Kawalan Zoom",
+    "zoomIn": "Zoom dalam",
+    "zoomOut": "Menghampiri keluar",
+    "resetView": "Lihat semula",
+    "zoomLevel": "Tingkat zoom"
+  },
+  "proposals": {
+    "title": "Cadangan",
+    "filter": "Filter cadangan",
+    "live": "Hidup",
+    "total": "Jumlah keseluruhan",
+    "viewAll": "Lihat semua cadangan",
+    "noneLive": "Tiada cadangan langsung",
+    "noneLiveBody": "Pada masa ini tidak ada pemerintahan yang berterusan.",
+    "showAll": "Tunjukkan cadangan terkini",
+    "endsIn": "Akhir {{time}}",
+    "turnout": "Penyertaan",
+    "vote": "Undi",
+    "status": {
+      "voting": "Pengundian sedang berlangsung",
+      "deposit": "Deposit",
+      "passed": "Diluluskan",
+      "rejected": "Ditolak",
+      "failed": "Gagal"
+    },
+    "passed": "Diluluskan",
+    "rejected": "Ditolak",
+    "noneMatching": "Tiada cadangan yang sepadan",
+    "noneMatchingBody": "Tiada apa yang sesuai dengan penapis ini sekarang."
+  },
+  "dev": {
+    "title": "Aktiviti pembangun",
+    "summary": "{{total}} sumbangan",
+    "viewFull": "Aktiviti pemaju terbuka",
+    "heatmapLabel": "Peta haba sumbangan: {{total}} sumbangan dalam tempoh {{weeks}} minggu",
+    "less": "Kurang",
+    "more": "Lebih banyak",
+    "cellTitle_other": "{{count}} sumbangan untuk {{date}}",
+    "range": "Julat peta haba",
+    "ranges": {
+      "month": "Bulan",
+      "quarter": "Perempat",
+      "year": "Tahun"
+    }
+  },
+  "repos": {
+    "title": "Repository aktif",
+    "period": "Tempoh",
+    "periods": {
+      "week": "Minggu",
+      "month": "Bulan",
+      "year": "Tahun",
+      "quarter": "Perempat"
+    },
+    "contributors": "Penyumbang",
+    "stars": "Bintang",
+    "sparkline": "Aktiviti Komitmen untuk {{name}}",
+    "vsPrevious": "{{change}} vs tempoh sebelumnya",
+    "up": "Di atas",
+    "down": "Di bawah",
+    "caption": "Komitmen dalam tempoh yang dipilih · repositori simulasi",
+    "col": {
+      "repository": "Repository",
+      "language": "Bahasa",
+      "commits": "Komitmen",
+      "change": "Perubahan",
+      "trend": "Trend"
+    },
+    "commitsCount": "Komitmen: {{count}}",
+    "demoNote": "Demo data: repositori ini adalah fiksyen dan aktivitinya disimulasikan. Ia tidak disambungkan ke GitHub.",
+    "emptyBody": "Tiada aktiviti repositori dalam tempoh ini.",
+    "emptyTitle": "Tiada aktiviti repositori",
+    "history": "Aktiviti Komitmen"
+  }
+}

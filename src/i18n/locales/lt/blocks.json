@@ -1,0 +1,38 @@
+{
+  "blockDetail": {
+    "title": "{{height}} blokas",
+    "invalid": "Negalima blokų aukštis",
+    "description": "Išsamesnis simuliuotojo bloko numeris {{chain}}.",
+    "previous": "Ankstesnis blokas",
+    "next": "Kitas kvartelis",
+    "notFoundTitle": "Blokas nerado",
+    "notFoundBody": "{{chain}} kol kas neturi bloko tokio aukščio.",
+    "transactions_one": "{{count}} sandoris",
+    "transactions_few": "{{count}} sandoriai",
+    "transactions_many": "{{count}} sandorių",
+    "transactions_other": "{{count}} sandorių",
+    "txCaption": "Transakcijos {{height}} blokuose",
+    "noTxs": "Šiame bloku nėra jokių sandorių",
+    "genesis": "Pradžios blokas",
+    "parentHash": "Tėvų hashas",
+    "demoTxs": "Demo piniginės sandoriai šiuo dydžiu",
+    "demoTxsNote": "Jie buvo sukurti Demo piniginėje. Jie nėra simuliuotojo bloko sandorių skaičiavimo dalis."
+  },
+  "blocksPage": {
+    "description": "Naujausi blokai {{chain}}, sąrašas atnaujinamas maždaug kartą per bloką.",
+    "live": "Gyvenimas",
+    "avgGas": "Naudotas avg. dujas",
+    "tableCaption": "Paskutinės blokos {{chain}}",
+    "proposer": "Pareiškėjas",
+    "txs": "Txs",
+    "gas": "Panaudotas gas",
+    "size": "Didžioji dalis",
+    "emptyTitle": "Blokų nerado",
+    "filterPlaceholder": "Filtras pagal aukštį, hashą arba patvirtintoją",
+    "filtersLabel": "Blokų filtrai",
+    "finality": "Galutinis tikslas",
+    "finalityNote": "Tokių tinklų blokai yra galutiniai, kai tik jie yra uždaryti.",
+    "finalized": "Išbaigtas",
+    "withTxsOnly": "Tik blokai su sandoriais"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "overview": {
+    "title": "Prehľad",
+    "unit": "Výkonný index · Baza = 100 na začiatku rozsahu",
+    "refreshFailed": "Nedokázal aktualizovať zobrazujúce posledné načítané údaje."
+  },
+  "chart": {
+    "keyboardHint": "Použite klávesy šíp, aby ste sa pohybovali medzi datovými bodmi.",
+    "summary": "Index výkonnosti nad {{range}}: {{details}}",
+    "rangeLabel": "Časový rozsah",
+    "seriesLabel": "Série grafov",
+    "keepOne": "Minimálne jedna séria musí zostať viditeľná",
+    "emptyTitle": "Žiadne údaje pre tento rozsah",
+    "emptyBody": "Skúste iný časový interval alebo osviežte.",
+    "range": {
+      "24H": "24H",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "Posledné 24 hodín",
+      "7D": "Posledné 7 dní",
+      "30D": "Posledných 30 dní",
+      "90D": "Posledných 90 dní"
+    },
+    "zoomControls": "Zoom ovládacie prvky",
+    "zoomIn": "Zoom v",
+    "zoomOut": "Zoom out",
+    "resetView": "Výhľad resetovania",
+    "zoomLevel": "Zoomová úroveň"
+  },
+  "proposals": {
+    "title": "Návrhy",
+    "filter": "Návrhový filter",
+    "live": "Žiť",
+    "total": "Spolu",
+    "viewAll": "Pozrite si všetky návrhy",
+    "noneLive": "Žiadne živé návrhy",
+    "noneLiveBody": "V súčasnosti neexistuje žiadna trvajúca správa.",
+    "showAll": "Ukážte nedávne návrhy",
+    "endsIn": "Končí {{time}}",
+    "turnout": "Účasť",
+    "vote": "Hlasovať",
+    "status": {
+      "voting": "Prebieha hlasovanie",
+      "deposit": "Vklad",
+      "passed": "Schválené",
+      "rejected": "Zamietnuté",
+      "failed": "Zlyhalo"
+    },
+    "passed": "Schválené",
+    "rejected": "Zamietnuté",
+    "noneMatching": "Žiadne zodpovedajúce návrhy",
+    "noneMatchingBody": "Nič sa s týmto filtrom nevyrovná."
+  },
+  "dev": {
+    "title": "Aktivita vývojárov",
+    "summary": "{{total}} príspevky",
+    "viewFull": "Aktivita otvorených vývojárov",
+    "heatmapLabel": "Karta príspevkov: {{total}} príspevkov počas {{weeks}} týždňov",
+    "less": "Menej",
+    "more": "Viac",
+    "cellTitle_one": "{{count}} príspevok na {{date}}",
+    "cellTitle_few": "{{count}} príspevky na {{date}}",
+    "cellTitle_many": "{{count}} príspevkov na {{date}}",
+    "cellTitle_other": "{{count}} príspevkov na {{date}}",
+    "range": "Rozsah tepelnej mapy",
+    "ranges": {
+      "month": "Mesiac",
+      "quarter": "Čtvrtina",
+      "year": "Rok"
+    }
+  },
+  "repos": {
+    "title": "Aktívne úložište",
+    "period": "Obdobie",
+    "periods": {
+      "week": "Týždeň",
+      "month": "Mesiac",
+      "year": "Rok",
+      "quarter": "Čtvrtina"
+    },
+    "contributors": "Účastníci",
+    "stars": "Hviezdy",
+    "sparkline": "Aktivita s záväzkom pre {{name}}",
+    "vsPrevious": "{{change}} v porovnaní s predchádzajúcim obdobím",
+    "up": "Nahor",
+    "down": "Na dole",
+    "caption": "Záväzky v vybranom období · simulované úložiště",
+    "col": {
+      "repository": "Repositorium",
+      "language": "Jazyk",
+      "commits": "Záväzky",
+      "change": "Zmena",
+      "trend": "Trendy"
+    },
+    "commitsCount": "Záväzky: {{count}}",
+    "demoNote": "Demo údajov: tento repozitórium je fiktívny a jeho aktivita je simulovaná.",
+    "emptyBody": "V tomto období nie je žiadna úložišťová činnosť.",
+    "emptyTitle": "Žiadna úložištenská aktivita",
+    "history": "Aktivita s záväzkom"
+  }
+}

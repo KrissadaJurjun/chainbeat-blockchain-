@@ -1,0 +1,38 @@
+{
+  "blockDetail": {
+    "title": "Block {{height}}",
+    "invalid": "Nevalidná výška bloku",
+    "description": "Podrobnosti simulovaného bloku na {{chain}}.",
+    "previous": "Predchádzajúci blok",
+    "next": "Nasledujúci blok",
+    "notFoundTitle": "Block nie je nájdený",
+    "notFoundBody": "{{chain}} ešte nemá blok na tejto výške.",
+    "transactions_one": "{{count}} transakcia",
+    "transactions_few": "{{count}} transakcie",
+    "transactions_many": "{{count}} transakcie",
+    "transactions_other": "{{count}} transakcie",
+    "txCaption": "Transakcie v bloku {{height}}",
+    "noTxs": "Tento blok nemá žiadne transakcie",
+    "genesis": "Blok Genesis",
+    "parentHash": "Rodičský hash",
+    "demoTxs": "Demo Transakcie na peňaženku v tejto výške",
+    "demoTxsNote": "Tieto boli vytvorené peňaženkou Demo. Nie sú súčasťou vlastného počtu transakcií simulovaného bloku."
+  },
+  "blocksPage": {
+    "description": "Najnovšie bloky na {{chain}}. zoznam sa obnovuje približne raz za blok.",
+    "live": "Žiť",
+    "avgGas": "Použitý plyn Avg",
+    "tableCaption": "Posledné bloky na {{chain}}",
+    "proposer": "Návrhník",
+    "txs": "Txs",
+    "gas": "Spotrebovaný gas",
+    "size": "Veľkosť",
+    "emptyTitle": "Žiadne bloky neboli nájdené",
+    "filterPlaceholder": "Filtrovanie podľa výšky, hash alebo validátor",
+    "filtersLabel": "Filtre blokovania",
+    "finality": "Koniec",
+    "finalityNote": "Bloky v tomto druhu siete sú konečné, akonáhle sa spĺňajú.",
+    "finalized": "Dokončené",
+    "withTxsOnly": "Len bloky s transakciami"
+  }
+}

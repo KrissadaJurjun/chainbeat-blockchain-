@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Reduktimi i lëvizjes",
+    "reduceMotionHint": "Minimizoni animacionet dhe tranzicionet.",
+    "appearance": {
+      "compact": "Marrëveshja e kompaktit",
+      "compactHint": "Vështron sipërfaqen e përmbajtjes pak më të vogël.",
+      "description": "Tema, lëvizje dhe dendësi.",
+      "title": "Përshkrimi"
+    },
+    "confirm": {
+      "action": "Konfirmo",
+      "title": "A jeni i sigurt?",
+      "dataset": "Kjo rikonfigurojnë orën e simuluar, shpejtësinë e saj, latencën dhe gabimet e detyruara në default.",
+      "wallet": "Kjo rivendos balancat fillestare të portofolit Demo dhe heq aktivitetin, votat dhe propozimet e tij të simuluara.",
+      "all": "Kjo heq çdo cilësim ChainBeat të ruajtur në këtë shfletues ( gjuhë, temë, rrjet, Demo portofol, kërkimet e fundit) dhe rishkaron faqen."
+    },
+    "data": {
+      "datasetReset": "Demo Set të të dhënave të rivendosur në kohë reale.",
+      "description": "Sa të freskëta janë të dhënat dhe si të rivendoset simulacioni.",
+      "refresh": "Përtërhirimi i të dhënave të drejtpërdrejta",
+      "refreshHint": "Sa shpesh listat dhe llogaritësit rishikojnë rrjetin (simuluar).",
+      "refreshOptions": {
+        "live": "Të jetosh",
+        "slow": "Me ngadalë",
+        "manual": "Manual"
+      },
+      "resetDataset": "Reset demo dataset",
+      "searchesCleared": "Kërkimet e fundit janë çliruar.",
+      "speedHint": "Vendosni orën e simulatuar ose ngadalësojeni.",
+      "title": "Të dhënat"
+    },
+    "description": "Dukja, gjuha, rrjeti dhe privatësia. Gjithçka ruhet vetëm në këtë shfletues.",
+    "language": {
+      "count": "{{shipped}} nga {{total}} gjuhë të disponueshme",
+      "current": "Gjuha aktuale",
+      "description": "Zgjidhni gjuhën e ndërfaqes. Kërkoni nga emri i lindur, emri anglisht ose kodi.",
+      "fallback": "Tekstet që nuk janë përkthyer ende shfaqen në anglisht.",
+      "title": "Gjuha"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Cili rrjet për të eksploruar dhe nga vijnë të dhënat.",
+      "endpoint": "Punë e fundit e drejtpërdrejtë",
+      "live": "Të jetosh",
+      "liveUnavailable": "Të dhënat e drejtpërdrejtë nuk janë të disponueshme në këtë ndërtim: çdo faqe tregon të dhëna simulasi. Nëse një pikë përfundimtare është konfiguruar mund të testoni lidhjen, por aplikacioni kurrë nuk përzier të dhëna të drejtpërdrejtë dhe të simulasi.",
+      "mode": "Burimi i të dhënave",
+      "noEndpoint": "Asnjë (të dhënat e simulasi)",
+      "selected": "Rrjeti",
+      "status": "Lidhje",
+      "statusDemo": "Rrjeti i simuluar · lartësi {{height}}",
+      "title": "Rrjeti",
+      "unavailable": "jo të disponueshme",
+      "test": "Lidhja e provës",
+      "testing": "Testimi...",
+      "testHint": "Senden dy kërkesa GET vetëm për lexim në pikën e fundit më poshtë dhe tregon se çfarë përgjigjet. Asgjë nuk ruhet dhe burimi i të dhënave nuk ndryshon.",
+      "testOk": "I lidhur me {{chain}}: blloku i fundit {{height}}, u përgjigj në {{ms}} ms.",
+      "testPartial": "I lidhur me {{chain}}: blloku i fundit {{height}}, u përgjigj në {{ms}} ms. Disa detaje opsione nuk ishin të disponueshme.",
+      "testError": {
+        "timeout": "Pjesa përfundimtare nuk u përgjigj në kohë.",
+        "network": "Nuk mund të arrihet pika përfundimtare. Kontrolloni adresën dhe se lejon kërkesat nga ky faqe.",
+        "http": "Pika përfundimtare u përgjigj me një gabim.",
+        "invalid": "Pika përfundimtare u përgjigj, por jo në formatin e një API Cosmos REST, kështu që asgjë nuk u përdor."
+      }
+    },
+    "privacy": {
+      "clearAll": "Shkarko të gjitha të dhënat ChainBeat në këtë shfletues",
+      "description": "Çfarë ruajnë këto aplikacione dhe çfarë mund të shohin.",
+      "keysCaption": "Përmbajtja e shfletuesit e përdorur nga ChainBeat",
+      "noNetwork": "ChainBeat nuk dërgon të dhëna kudo: nuk ka analitika dhe nuk bën kërkesa përveç skedarëve të veta. Ka dy përjashtime opcionale: butoni Test connection, i cili shfaqet vetëm kur konfiguroni një pikë fundore dhe i dërgon dy kërkesa vetëm për lexim, dhe butoni i regjistrimit të Google, i cili shfaqet vetëm pasi të shtoni ID-n tuaj të klientit të Google dhe pastaj ngarkohet nga Google.",
+      "noSeed": "ChainBeat kurrë nuk kërkon, ruajt ose sheh një frazë të uljes, çelësi privat ose fjalëkalim për portofolin.",
+      "storage": "Preferenca, rrjeti i zgjedhur, orari i simulatuar, portofoli Demo, kërkimet e fundit dhe çdo llogari demo që krijoni ruhen vetëm në LocalStorage të këtij shfletuesi.",
+      "title": "Privatësia",
+      "wallet": "Nëse lidhni një zgjatje të portofolit të shfletuesit, ChainBeat lexon vetëm adresën publike dhe emrin e llogarisë tuaj, dhe vetëm pasi ta miratoni atë. Asgjë nuk nënshkruhet ose dërgohet.",
+      "keys": {
+        "lang": "Gjuha e zgjedhur",
+        "ui": "Tema, lëvizja, dendësia, vendosja dhe preferimet",
+        "chain": "Rrjeti i zgjedhur",
+        "sim": "Ora, shpejtësia dhe latenca e simulatuar",
+        "wallet": "Demo portofol: balanca fiktive, aktivitet, vota, propozime",
+        "notifications": "Cilët njoftime që keni lexuar ose refuzuar, dhe ngjarjet lokale (portafishi, transaksionet e simuladuara)",
+        "search": "Kërkimet e fundit",
+        "auth": "Demo llogari: emrat e përdoruesve, adresat e postës elektronike, hashet e fjalëkalimeve të krijuara dhe regjistrimi aktual"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Mod Demo",
+    "chipTip": "Të gjitha të dhënat janë simulasi.",
+    "controls": "Demo kontrollet",
+    "controlsIntro": "ChainBeat funksionon me të dhëna të përcaktuara. Asgjë këtu nuk lexohet nga, ose dërgohet në, një blockchain të vërtetë.",
+    "clock": "Ora simuluar",
+    "simulatedNow": "Koha e simuluar",
+    "offset": "{{value}} orë përpara",
+    "advanceHour": "1 orë përpara",
+    "advanceDay": "1 ditë përpara",
+    "resetClock": "Rreset orën",
+    "clockNote": "Avancimi i orës prodhon blloqe të reja, çmime dhe ngjarje në {{chain}}. Të dhënat për çdo moment të caktuar janë gjithmonë të njëjta.",
+    "network": "sjellja e rrjetit",
+    "latency": "Simulimi i latencës",
+    "latencyOff": "Shkarko",
+    "simulateErrors": "Simulioni gabime të rrjetit",
+    "simulateErrorsHint": "Çdo kërkesë dështon kështu që ju mund të inspektojnë gjendjet e gabimit.",
+    "wallet": "Demo portofol",
+    "resetWallet": "Reset demo portofol",
+    "walletReset": "Demo portofol i rivendosur në balancat e tij fillestare.",
+    "noticeTitle": "Mode Demo.",
+    "noticeBody": "Kjo rrjedhë e punës është simuluar, asgjë nuk është nënshkruar ose transmetuar dhe nuk përfshihen fonde reale.",
+    "behind": "{{value}} orë prapa kohës së vërtetë",
+    "speed": "Shpejtësia e simulimit",
+    "speeds": {
+      "paused": "Pauzë",
+      "slow": "Me ngadalë",
+      "normal": "Normal"
+    }
+  },
+  "about": {
+    "title": "Për ChainBeat",
+    "demo": "ChainBeat po funksionon në modin Demo. Çdo bllok, çmim, validator dhe propozim gjenerohet në mënyrë deterministe në shfletuesin tuaj. Këto nuk janë statistika aktuale të rrjetit kryesor.",
+    "privacy": "Nuk ka nevojë për çelësi API, çelësi privat ose frazë të uljes. llogaritë demo opcionale, preferenca dhe portofolin demo ruhen vetëm në shfletuesin tuaj.",
+    "shortcuts": "Shkurtimet e klaviaturës",
+    "shortcutSearch": "Kërkimi i përqendrimit",
+    "shortcutClose": "Mbylli dialogut dhe menujet",
+    "languages": "Gjuhët e ndërfaqes: {{shipped}} nga {{total}}. Përkthimet janë të ndihmuar nga makinat dhe nuk janë rishikuar nga folësit vendas; rekomandohet rishikimi profesional para përdorimit publik.",
+    "pageDescription": "Çfarë është ChainBeat, si trajton të dhënat, dhe shkurtimet e klaviaturës së saj.",
+    "shortcutPalette": "Kërkim i hapur (paletë e komandës)"
+  }
+}

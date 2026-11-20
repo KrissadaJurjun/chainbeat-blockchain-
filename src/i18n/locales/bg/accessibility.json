@@ -1,0 +1,6 @@
+{
+  "accessibility": {
+    "navigatedTo": "Навигиран към {{title}}",
+    "loadingPage": "Страница за зареждане"
+  }
+}

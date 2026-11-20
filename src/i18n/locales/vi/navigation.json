@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Lối điều hướng thanh bên",
+    "primary": "Hành trình điều hướng chính",
+    "menu": "Menu điều hướng",
+    "openMenu": "Menu điều hướng mở",
+    "closeMenu": "Menu điều hướng đóng",
+    "collapseSidebar": "Collapse sidebar",
+    "expandSidebar": "mở rộng thanh bên",
+    "skipToContent": "Chuyển sang nội dung chính",
+    "home": "ChainBeat về nhà",
+    "pages": "Các trang",
+    "dashboard": "Bảng điều khiển",
+    "validators": "Trình xác thực",
+    "proposals": "Đề xuất",
+    "blocks": "Khối",
+    "transactions": "Giao dịch",
+    "portfolio": "Danh mục đầu tư",
+    "swap": "Hoán đổi",
+    "stake": "Stake",
+    "liquidStaking": "Staking thanh khoản",
+    "send": "Gửi",
+    "vote": "Bỏ phiếu",
+    "createProposal": "Tạo đề xuất",
+    "market": "Thị trường",
+    "network": "Mạng",
+    "governance": "Quản trị",
+    "ibcNetwork": "Mạng IBC",
+    "devActivity": "Hoạt động nhà phát triển",
+    "multichain": "Tổng quan đa chuỗi",
+    "heartbeat": "Nhịp tim",
+    "dominance": "Mức độ thống trị",
+    "validatorsViz": "Trình xác thực",
+    "blockExplorer": "Trình khám phá khối",
+    "transactionExplorer": "Trình khám phá giao dịch",
+    "tokenExplorer": "Trình khám phá token",
+    "about": "Giới thiệu",
+    "explorerHome": "Trình khám phá",
+    "governanceHome": "Trung tâm quản trị",
+    "settings": "Cài đặt"
+  },
+  "sections": {
+    "explorer": "Trình khám phá",
+    "wallet": "Ví",
+    "analytics": "Phân tích",
+    "visualizations": "Trực quan hóa"
+  },
+  "chains": {
+    "favorite": "Thêm {{name}} vào Favorites",
+    "unfavorite": "Xóa {{name}} khỏi Favorites",
+    "simulatedHealthy": "Mạng mô phỏng · khỏe mạnh"
+  },
+  "search": {
+    "label": "Tìm kiếm ChainBeat",
+    "placeholder": "Phòng tìm kiếm, TX, địa chỉ...",
+    "results": "Kết quả tìm kiếm",
+    "noResults": "Không có kết quả cho {{query}}",
+    "kinds": {
+      "page": "Trang",
+      "block": "Khối",
+      "transaction": "Tx",
+      "validator": "Trình xác thực",
+      "token": "Token",
+      "address": "Địa chỉ",
+      "proposal": "Đề xuất"
+    },
+    "recent": "Tìm kiếm gần đây",
+    "clearRecent": "Tìm kiếm gần đây rõ ràng",
+    "removeRecent": "Xóa {{query}} từ các tìm kiếm gần đây",
+    "hint": "Hãy thử chiều cao khối, hash giao dịch, địa chỉ ( {{prefix}} 1...), một xác nhận, một số đề xuất hoặc một danh hiệu biểu tượng.",
+    "submit": "Tìm kiếm",
+    "searching": "Tìm kiếm...",
+    "resultCount": "Kết quả: {{count}}",
+    "invalid": {
+      "tooLong": "Đó là quá dài để là một thuật ngữ tìm kiếm (tối đa 200 ký tự).",
+      "badChecksum": "Đây trông giống như một địa chỉ, nhưng số lượng kiểm tra của nó không phù hợp.",
+      "badHash": "Một giao dịch hoặc khối hash có chính xác 64 ký tự hexadecimal.",
+      "badChars": "Tìm chiều cao khối, hash, địa chỉ, xác nhận, đề xuất hoặc mã thông báo."
+    },
+    "categories": {
+      "page": "Các trang",
+      "block": "Khối",
+      "transaction": "Giao dịch",
+      "address": "Địa chỉ",
+      "validator": "Trình xác thực",
+      "proposal": "Đề xuất",
+      "token": "Các mã thông báo"
+    }
+  },
+  "user": {
+    "menu": "Menu tài khoản",
+    "guest": "Khách",
+    "notConnected": "Không có ví được kết nối",
+    "settings": "Cài đặt",
+    "about": "Về ChainBeat"
+  }
+}

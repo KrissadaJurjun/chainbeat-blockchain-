@@ -1,0 +1,38 @@
+{
+  "blockDetail": {
+    "title": "Část {{height}}",
+    "invalid": "Neplatná výška bloku",
+    "description": "Podrobnosti simulovaného bloku na {{chain}}.",
+    "previous": "Předchozí blok",
+    "next": "Další blok",
+    "notFoundTitle": "Blok nebyl nalezen",
+    "notFoundBody": "{{chain}} ještě nemá blok na této výšce.",
+    "transactions_one": "{{count}} transakce",
+    "transactions_few": "{{count}} transakce",
+    "transactions_many": "{{count}} transakce",
+    "transactions_other": "{{count}} transakce",
+    "txCaption": "Transakce v bloku {{height}}",
+    "noTxs": "Tento blok nemá žádné transakce",
+    "genesis": "Blok Genesis",
+    "parentHash": "Rodičský haš",
+    "demoTxs": "Demo peněženkové transakce v této výšce",
+    "demoTxsNote": "Tyto byly vytvořeny peněženkou Demo. Nejsou součástí počtu transakcí simulovaného bloku."
+  },
+  "blocksPage": {
+    "description": "Nejnovější bloky na {{chain}}. Seznam se obnovuje asi jednou za blok.",
+    "live": "Žije",
+    "avgGas": "Použité plynu Avg",
+    "tableCaption": "Poslední bloky na {{chain}}",
+    "proposer": "Návrhník",
+    "txs": "Txs",
+    "gas": "Spotřebovaný gas",
+    "size": "Velikost",
+    "emptyTitle": "Žádné bloky nebyly nalezeny",
+    "filterPlaceholder": "Filtrování podle výšky, hashu nebo validátoru",
+    "filtersLabel": "Filtry bloků",
+    "finality": "Úplnost",
+    "finalityNote": "Bloky tohoto typu sítě jsou konečné, jakmile jsou zapsány.",
+    "finalized": "Úplně dokončena",
+    "withTxsOnly": "Pouze bloky s transakcemi"
+  }
+}

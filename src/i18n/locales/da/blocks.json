@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "Blok {{height}}",
+    "invalid": "Ugyldig blokhøjde",
+    "description": "Detaljer om en simuleret blok på {{chain}}.",
+    "previous": "Tidligere blok",
+    "next": "Næste blok",
+    "notFoundTitle": "Block ikke fundet",
+    "notFoundBody": "{{chain}} har ikke blok på denne højde endnu.",
+    "transactions_one": "{{count}} transaktion",
+    "transactions_other": "{{count}} transaktioner",
+    "txCaption": "Transaktioner i blok {{height}}",
+    "noTxs": "Denne blok har ingen transaktioner",
+    "genesis": "Genesis blok",
+    "parentHash": "Forældres hash",
+    "demoTxs": "Demo tegnebogstransaktioner på denne højde",
+    "demoTxsNote": "De er ikke en del af den simulerede bloks egen transaktionstælling."
+  },
+  "blocksPage": {
+    "description": "De nyeste blokke på {{chain}} opdateres én gang pr. blok.",
+    "live": "Livet",
+    "avgGas": "Anvendt AVG-gas",
+    "tableCaption": "Sidste blokke på {{chain}}",
+    "proposer": "Forslaggiver",
+    "txs": "Txs",
+    "gas": "Brugt gas",
+    "size": "Størrelse",
+    "emptyTitle": "Ingen blokker fundet",
+    "filterPlaceholder": "Filter efter højde, hash eller validator",
+    "filtersLabel": "Blokkefiltre",
+    "finality": "Det endelige resultat",
+    "finalityNote": "Blokker på et sådant netværk er endelige, så snart de er indgået.",
+    "finalized": "Det er afsluttet",
+    "withTxsOnly": "Kun blokke med transaktioner"
+  }
+}

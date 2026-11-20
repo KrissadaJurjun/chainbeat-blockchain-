@@ -1,0 +1,130 @@
+Tablou de bord
+Validatori
+Propuneri
+Blocuri
+Tranzacții
+Portofoliu
+Schimb
+Staking
+Staking lichid
+Trimite
+Votează
+Creează propunere
+Piață
+Rețea
+Guvernanță
+Rețea IBC
+Activitate dezvoltatori
+Prezentare multichain
+Puls
+Dominanță
+Explorator de blocuri
+Explorator de tranzacții
+Explorator de token-uri
+Despre
+Explorator
+Setări
+Portofel
+Analize
+Vizualizări
+Limbă
+Temă
+Sistem
+Întunecat
+Luminos
+Demo
+Simulat
+Închide
+Încearcă din nou
+Reîmprospătează
+Copiază
+Copiat
+Șterge
+Se încarcă…
+Anterior
+Următorul
+Respinge
+Anulează
+Înapoi
+Vezi tot
+Resetează
+Exportă
+Max
+Sumă
+Sold
+Comision
+Stare
+Total
+Timp
+Înălțime
+Hash
+Tip
+Toate
+Caută
+Filtrează
+Detalii
+Confirmă
+Conectează portofelul
+Deconectează
+Verifică tranzacția
+Comision de rețea
+Copiază adresa
+Plătești
+Primești
+Adresa destinatarului
+Memo (opțional)
+Active
+Alocare
+Delegat
+Anulează staking-ul
+Curs de schimb
+Succes
+Tranzacție
+Bloc
+De la
+Către
+Memo
+Gas utilizat
+Validator
+Token
+Adresă
+Propunere
+Preț
+Ofertă
+Capitalizare de piață
+Comision
+Disponibilitate
+Putere de vot
+Clasament
+Activ
+Inactiv
+Încarcerat
+Delegatori
+Da
+Nu
+Abținere
+Nu cu veto
+Aprobată
+Respinsă
+Eșuat
+În votare
+Cvorum
+Prezență
+Depozit
+Votul tău
+Titlu
+Descriere
+Metrici on-chain
+Înălțimea blocului
+Tx pe bloc
+Timp de bloc
+APR staking
+Token-uri legate
+Ofertă totală
+Fondul comunității
+Pagina nu a fost găsită
+Înapoi la tabloul de bord
+Cele mai noi blocuri
+Cele mai noi tranzacții
+Notificări
+Altele

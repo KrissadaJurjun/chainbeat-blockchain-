@@ -1,0 +1,62 @@
+{
+  "ibcPage": {
+    "description": "Jak tokeny proudí mezi řetězy přes IBC.",
+    "volume": "24h IBC objem",
+    "chains": "Připojené řetězce",
+    "links": "Aktivní kanály",
+    "busiest": "Nejrušnější trasa",
+    "mapLabel": "Mapa IBC spojení mezi řetězy",
+    "nodeLabel": "{{name}}: {{volume}} v 24 hodinách přes {{channels}} kanálů",
+    "hint": "Přetáhněte, zaměřte nebo vyberte řetězec, abyste zdůraznili jeho spojení. Přetáhněte na pan; použijte Ctrl nebo s kolíčkem, klávesy + a − nebo tlačítka k přiblížení; stiskněte 0 k resetu.",
+    "channelsOf": "Kanály {{name}}",
+    "topChannels": "Nejvyšší kanály podle objemu",
+    "transfers_one": "{{count, number}} převod",
+    "transfers_few": "{{count, number}} převody",
+    "transfers_many": "{{count, number}} převodů",
+    "transfers_other": "{{count, number}} převodů",
+    "info": {
+      "volume": "Objem (24 hodin)",
+      "channels": "Kanály",
+      "share": "Podíl v objemu IBC",
+      "partner": "Nejzajímavější partner"
+    }
+  },
+  "multichainPage": {
+    "description": "Širší ekosystém ve stylu Cosmos na první pohled simulované čísla pro každý připojený řetězec.",
+    "chains": "Řetězy",
+    "tvl": "Celková hodnota uzavřená",
+    "validators": "Validátoři",
+    "tx24h": "Transakce (24 hodin)",
+    "height": "Výška bloků",
+    "open": "Otevřete palubní desku",
+    "switched": "Přepínám na {{name}}",
+    "registryOnly": "Přihlášená na demo ještě není možné vybrat",
+    "tvlByChain": "TVL podle řetězce",
+    "tvlHint": "Simulovaná celková hodnota uzavřená",
+    "explainTitle": "Co znamenají metriky",
+    "explainHint": "Všechny hodnoty jsou simulovány.",
+    "explain": {
+      "tvl": "Hodnota tokenů uložených nebo držených v simulovaném hospodářství sítě za simulované ceny.",
+      "height": "Kolik bloků vytvořil řetězec od jeho vzniku, s každým blokem roste o jeden.",
+      "validators": "Operátoři, kteří navrhují a podepisují bloky.",
+      "apr": "Odhadovaná roční odměna za sázky, jako procento před provizí.",
+      "bonded": "Větší podíl znamená, že větší část nabídky zajistí řetězec.",
+      "tx24h": "Transakce zahrnuty v bloky v průběhu posledních 24 hodin ve všech uvedených řetězcích."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Puls {{chain}}: každý blok je rytmus vzdálenost následuje blokový čas, výška následuje počet transakcí.",
+    "rate": "Bloková sazba",
+    "perMinute": "bloky/min",
+    "sinceLast": "Od posledního bloku",
+    "txLastMinute": "Transakce (poslední minuta)",
+    "monitor": "Pulzový monitor",
+    "legend": "Výška úderů = transakce v bloku",
+    "chartLabel": "Sledování srdečního úderu: {{rate}} bloků za minutu, {{seconds}} vteřin mezi bloky",
+    "stream": "Blokový proud",
+    "txCount_one": "{{count}} tx",
+    "txCount_few": "{{count}} txs",
+    "txCount_many": "{{count}} txs",
+    "txCount_other": "{{count}} txs"
+  }
+}

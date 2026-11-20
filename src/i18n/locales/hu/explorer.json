@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Nemzeti, IBC, likviditási és külső eszközök, amelyek a {{chain}} számon ismertek (simulálva).",
+    "stats": {
+      "total": "Nyomon követett jelvények"
+    },
+    "kinds": {
+      "native": "Az őslakos",
+      "ibc": "IBC",
+      "external": "Külső",
+      "stable": "Stablecoin",
+      "liquid": "A folyékony pálcázás"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Típus",
+      "denom": "Dénom",
+      "price": "Ár",
+      "change": "24 óra",
+      "supply": "Kínálat",
+      "holders": "Feltartók",
+      "marketCap": "Piaci kapitalizáció"
+    },
+    "filterPlaceholder": "Szűrő szimbólum, név vagy név szerint",
+    "tableCaption": "A {{chain}}-es jelvények"
+  },
+  "account": {
+    "title": "Számla",
+    "description": "A {{chain}}-es számla egyenlete és közelmúltbeli tevékenysége (simuláció).",
+    "available": "Kiegészítendő",
+    "balances": "Egyensúly",
+    "counterparty": "Számvevőszék",
+    "direction": "irány",
+    "in": "A beépítés",
+    "out": "Kifelé",
+    "history": "A tranzakciós történelem",
+    "historyCaption": "A {{address}}-es tranzakciók",
+    "invalidTitle": "Nem érvényes cím",
+    "invalidBody": "Ez nem érvényes. {{chain}} A honlapon található címek -val kezdődnek. {{prefix}} 1 és tartalmazza a csekkösszeget.",
+    "noBalances": "Nincs egyensúly.",
+    "noHistory": "Nem találtak tranzakciókat",
+    "noHistoryBody": "Ez a számlán nincs simulált aktivitás a legújabb {{blocks}} blokkban.",
+    "rewards": "A jutalmak: {{value}}",
+    "staked": "Szállított",
+    "totalValue": "Összes érték",
+    "txCount": "Tranzakciók",
+    "unknown": "Ez egy érvényes cím, de nem jelenik meg a szimulációban, így nincs egyensúly vagy történelem.",
+    "window": "a legújabb {{blocks}} blokkban",
+    "demoWallet": "Ez a Demo-es pénztárcája, a mérlegek és a tranzakciók csak ebben a böngészőben léteznek."
+  },
+  "explorer": {
+    "description": "Keresd meg a {{chain}}-et, és nézd meg, mi történik a (simulált) hálózaton.",
+    "latestBlocks": "Legújabb blokkok",
+    "latestTransactions": "Legújabb tranzakciók",
+    "searchTitle": "Keresd meg a felfedezőt!",
+    "shortcuts": "A feltáró szakaszok"
+  }
+}

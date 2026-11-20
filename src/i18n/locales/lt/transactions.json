@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "Naujausi sandoriai {{chain}}-oje.",
+    "stats": {
+      "recent": "Paskutiniai sandoriai",
+      "success": "Sėkmingas",
+      "failed": "Nepavyko",
+      "volume": "Natorinis tūris"
+    },
+    "filterPlaceholder": "Filtras pagal hashą, adresą ar aukštį",
+    "allTypes": "Visos rūšys",
+    "tableCaption": "Paskutiniai sandoriai {{chain}}",
+    "from": "Nuo",
+    "to": "Kam",
+    "memo": "Memo",
+    "noMemo": "Nėra pranešimo",
+    "raw": "Žiūrėti žaliavus duomenis (simuliuojamas)",
+    "detailTitle": "Sandoris",
+    "detailDescription": "{{chain}} numatyto sandorio duomenys.",
+    "notFoundTitle": "Transakcija nerasėta",
+    "notFoundBody": "Simuliuojant {{chain}} nėra jokių sandorių su šiuo hashu.",
+    "failedBecause": "Šis sandoris nesėkmingas: {{reason}}.",
+    "types": {
+      "send": "Siųsti",
+      "delegate": "Deleguotas",
+      "undelegate": "Nedelegatuotas",
+      "claim": "Prašymas už atlygį",
+      "vote": "Balsuoti",
+      "ibc-transfer": "IBC pervedimas",
+      "swap": "Keitimas",
+      "other": "Kiti"
+    },
+    "status": {
+      "success": "Sėkmingai",
+      "failed": "Nepavyko"
+    },
+    "block": "Blokas",
+    "cardsLabel": "Sandoriai",
+    "category": "Kategorija",
+    "date": "Datas",
+    "dateNote": "Parodyta naujausia {{count}} sandoris iki {{date}} metų pabaigos (UTC).",
+    "emptyTitle": "Negalėjo sandorių",
+    "events": "įvykiai",
+    "failedEvents": "Šis sandoris nepavyko, todėl jis išleido tik savo mokesčio įvykį.",
+    "feeSymbol": "Mokesčio ženklas",
+    "filtersLabel": "Transakcijų filtrai",
+    "gasUsed": "Panaudotas gas",
+    "gasWanted": "Reikalingas dujų kiekis",
+    "groups": {
+      "transfer": "Pervedimai",
+      "staking": "Skirstymas",
+      "governance": "Valdymas",
+      "ibc": "IBC",
+      "swap": "Švapai",
+      "other": "Kiti"
+    },
+    "latestNote": "Parodome naujausius {{count}} sandorius.",
+    "messageType": "Žinutės tipas",
+    "network": "Tinklas",
+    "symbol": "Žetonas",
+    "syntheticNote": "Tai sintetinis įrašas, sukurtas Demo Mode. Jo hashis nėra tikras blockchain hashis ir negali būti patikrintas jokiais tinklais.",
+    "token": "Žetonas",
+    "validator": "Validatorius",
+    "demoWalletNote": "Šis sandoris buvo sukurtas Demo piniginėje. Jis egzistuoja tik šiame naršyklėje: nebuvo atliktas jokių blockchain perdavimo, ir jo hash nėra tikras blockchain hash.",
+    "demoTag": "Demo piniginė"
+  }
+}

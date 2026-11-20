@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "On-chain Metrics",
+    "exportCsv": "Export as CSV",
+    "exported": "Metrics exported as CSV.",
+    "openAnalytics": "Open network analytics",
+    "last24h": "Last 24 hours",
+    "sparklineLabel": "Trend over the last 24 hours",
+    "change24h": "24 h change",
+    "blocks": "blocks",
+    "exact": "Exact value",
+    "bondedRatio": "Bonded ratio",
+    "poolShare": "Share of supply",
+    "tokenPrice": "Token price",
+    "inputInflation": "Inflation",
+    "inputTax": "Community tax",
+    "inputBonded": "Bonded ratio",
+    "csvMetric": "Metric",
+    "csvValue": "Value",
+    "csvUnit": "Unit",
+    "csvChange24h": "24h change",
+    "blockHeight": {
+      "label": "Block Height",
+      "description": "The number of blocks produced since genesis. It grows by one with every new block."
+    },
+    "totalTransactions": {
+      "label": "Transactions",
+      "description": "Total transactions processed by the network since genesis."
+    },
+    "txPerBlock": {
+      "label": "Tx per Block",
+      "description": "Average number of transactions included per block, measured over the latest 100 blocks."
+    },
+    "blockTime": {
+      "label": "Block Time",
+      "description": "Average time between consecutive blocks, measured over the latest 100 blocks."
+    },
+    "inflation": {
+      "label": "Inflation",
+      "description": "The yearly rate at which new tokens are minted to reward stakers and fund the community pool."
+    },
+    "stakingApr": {
+      "label": "Staking APR",
+      "description": "Estimated yearly return on staked tokens, before validator commission.",
+      "formula": "APR = inflation × (1 − community tax) ÷ bonded ratio"
+    },
+    "bondedTokens": {
+      "label": "Bonded Tokens",
+      "description": "Tokens currently staked with active validators. Bonded stake is what secures the network.",
+      "formula": "bonded = total supply × bonded ratio"
+    },
+    "totalSupply": {
+      "label": "Total Supply",
+      "description": "Every token in existence, including those that are staked. It grows with inflation."
+    },
+    "communityPool": {
+      "label": "Community Pool",
+      "description": "Tokens controlled by on-chain governance. A share of inflation flows in; successful proposals spend it.",
+      "formula": "pool grows by supply × inflation × community tax"
+    },
+    "poolValue": {
+      "label": "Pool Value",
+      "description": "Estimated US-dollar value of the community pool at the simulated token price.",
+      "formula": "value = pool × token price"
+    }
+  }
+}

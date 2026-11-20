@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Še vedno ni nič",
+    "emptyBody": "Za ta pogled ni podatkov.",
+    "errorTitle": "Ne morem naložiti teh podatkov",
+    "errorBody": "Nekaj se je zgodilo med branjem omrežja, preverite povezavo in poskusite znova.",
+    "crashTitle": "Nekaj je šlo narobe",
+    "crashBody": "Ta stran se je soočila z nepričakovano napako.",
+    "reload": "Stran se ponovno naloži"
+  }
+}

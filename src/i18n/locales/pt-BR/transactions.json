@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "As transações mais recentes no {{chain}}.",
+    "stats": {
+      "recent": "Transações recentes",
+      "success": "É bem-sucedido",
+      "failed": "Falhou",
+      "volume": "Volume nativo"
+    },
+    "filterPlaceholder": "Filtro por hash, endereço ou altura",
+    "allTypes": "Todos os tipos",
+    "tableCaption": "Últimas transacções em {{chain}}",
+    "from": "De",
+    "to": "Para",
+    "memo": "Memo",
+    "noMemo": "Não há memorando",
+    "raw": "Visualização de dados brutos (simulado)",
+    "detailTitle": "Transação",
+    "detailDescription": "Detalhes de uma transacção simulada no {{chain}}.",
+    "notFoundTitle": "Transação não encontrada",
+    "notFoundBody": "Não existe nenhuma transação com este hash no {{chain}} na simulação.",
+    "failedBecause": "Esta transacção falhou: {{reason}}.",
+    "types": {
+      "send": "Enviar",
+      "delegate": "Delegado",
+      "undelegate": "Não-delegado",
+      "claim": "Reclamar recompensas",
+      "vote": "Votar",
+      "ibc-transfer": "IBC transferência",
+      "swap": "Trocar",
+      "other": "Outros"
+    },
+    "status": {
+      "success": "Sucesso",
+      "failed": "Falhou"
+    },
+    "block": "Bloco",
+    "cardsLabel": "Transações",
+    "category": "Categoria",
+    "date": "Data",
+    "dateNote": "Mostra as últimas {{count}} transações até ao final de {{date}} (UTC).",
+    "emptyTitle": "Não foram encontradas transacções",
+    "events": "Eventos",
+    "failedEvents": "Esta transacção falhou, por isso emitiu apenas o seu evento de taxa.",
+    "feeSymbol": "Ficha de taxa",
+    "filtersLabel": "Filtros de transacções",
+    "gasUsed": "Gas usado",
+    "gasWanted": "Gás procurado",
+    "groups": {
+      "transfer": "Transferências",
+      "staking": "A estacação",
+      "governance": "Governança",
+      "ibc": "IBC",
+      "swap": "Swap",
+      "other": "Outros"
+    },
+    "latestNote": "Mostrando as últimas {{count}} transações, escolha uma data para olhar mais para trás.",
+    "messageType": "Tipo de mensagem",
+    "network": "Rede",
+    "symbol": "Token",
+    "syntheticNote": "Este é um registro sintético gerado para Demo Mode. Seu hash não é um hash blockchain real e não pode ser verificado em nenhuma rede.",
+    "token": "Token",
+    "validator": "Validador",
+    "demoWalletNote": "Esta transação foi criada pela carteira Demo. Existe apenas neste navegador: nenhuma transferência blockchain ocorreu, e seu hash não é um hash blockchain real.",
+    "demoTag": "Demo carteira"
+  }
+}

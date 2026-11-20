@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "Blok {{height}}",
+    "invalid": "Ugyldig blokkhøyde",
+    "description": "Detaljer om en simulert blokk på {{chain}}.",
+    "previous": "Tidligere blokk",
+    "next": "Neste blokk",
+    "notFoundTitle": "Block ikke funnet",
+    "notFoundBody": "{{chain}} har ingen blokk på denne høyden ennå.",
+    "transactions_one": "{{count}} transaksjon",
+    "transactions_other": "{{count}} transaksjoner",
+    "txCaption": "Transaksjoner i blokk {{height}}",
+    "noTxs": "Denne blokken har ingen transaksjoner",
+    "genesis": "Genesis blokk",
+    "parentHash": "Foreldrehasj",
+    "demoTxs": "Demo lommebokstransaksjoner på denne høyden",
+    "demoTxsNote": "Disse ble opprettet av lommeboken Demo. De er ikke en del av simulert blokks egen transaksjonstall."
+  },
+  "blocksPage": {
+    "description": "De nyeste blokkene på {{chain}}. Listen oppdateres omtrent en gang per blokk.",
+    "live": "Leve",
+    "avgGas": "Avg. gass brukt",
+    "tableCaption": "De siste blokkene på {{chain}}",
+    "proposer": "Forslaget",
+    "txs": "Txs",
+    "gas": "Brukt gass",
+    "size": "Størrelse",
+    "emptyTitle": "Ingen blokker funnet",
+    "filterPlaceholder": "Filter etter høyde, hash eller validator",
+    "filtersLabel": "Blokkefiltre",
+    "finality": "Finnelighet",
+    "finalityNote": "Blokker på slike nettverk er endelige så snart de er forpliktet.",
+    "finalized": "Fullført",
+    "withTxsOnly": "Kun blokker med transaksjoner"
+  }
+}

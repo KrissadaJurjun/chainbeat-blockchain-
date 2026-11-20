@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Native, IBC, liquid-stacking och externa tillgångar kända på {{chain}} (simulerad).",
+    "stats": {
+      "total": "Spårade tokens"
+    },
+    "kinds": {
+      "native": "Den inhemska",
+      "ibc": "IBC",
+      "external": "Extern",
+      "stable": "Stablecoin",
+      "liquid": "Vätska staking"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Typ",
+      "denom": "Denom",
+      "price": "Pris",
+      "change": "24 timmar",
+      "supply": "Utbud",
+      "holders": "Hållare",
+      "marketCap": "Marknadsvärde"
+    },
+    "filterPlaceholder": "Filtrering efter symbol, namn eller denomination",
+    "tableCaption": "Token på {{chain}}"
+  },
+  "account": {
+    "title": "Räkenskap",
+    "description": "Saldoer och den senaste verksamheten på ett konto på {{chain}} (simulerad).",
+    "available": "Tillgänglig",
+    "balances": "Balanser",
+    "counterparty": "Motpart",
+    "direction": "Riktning",
+    "in": "I",
+    "out": "Ut",
+    "history": "Transaktionshistorik",
+    "historyCaption": "Transaktioner av {{address}}",
+    "invalidTitle": "Inte en giltig adress",
+    "invalidBody": "Det här är inte giltigt. {{chain}} Adress. Adresser på detta nätverk börjar med {{prefix}} 1 och inkludera ett checkbelopp.",
+    "noBalances": "Ingen balans.",
+    "noHistory": "Inga transaktioner hittades",
+    "noHistoryBody": "Detta konto har ingen simulerad aktivitet i de senaste {{blocks}} block.",
+    "rewards": "Belöningar: {{value}}",
+    "staked": "Stakade",
+    "totalValue": "Totalt värde",
+    "txCount": "Transaktioner",
+    "unknown": "Detta är en giltig adress, men den visas inte i simuleringen, så den har ingen balans eller historia.",
+    "window": "i de senaste {{blocks}} kvarter",
+    "demoWallet": "Det här är din plånbok Demo, dess balanser och transaktioner simuleras och finns bara i den här webbläsaren."
+  },
+  "explorer": {
+    "description": "Sök {{chain}} och se vad som händer på det (simulerade) nätverket just nu.",
+    "latestBlocks": "Senaste block",
+    "latestTransactions": "Senaste transaktioner",
+    "searchTitle": "Sök efter utforskaren",
+    "shortcuts": "Explorersektioner"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "የታሰረ ቫልስ",
+    "viewAll": "ሁሉንም ማረጋገጫዎች ይመልከቱ",
+    "col": {
+      "validator": "አረጋጋጭ",
+      "power": "የድምጽ ኃይል",
+      "cumulative": "አጠቃላይ",
+      "commission": "ኮሚሽን",
+      "uptime": "የሥራ ጊዜ",
+      "change": "የ24 ሰዓት ለውጥ",
+      "details": "ዝርዝሮች",
+      "tokens": "የተጣበቁ ትኬቶች"
+    },
+    "stake": "ስቴክ",
+    "stakeWith": "በዚህ ማረጋገጫ ጋር ቁማር",
+    "pageDescription": "እያንዳንዱ ማረጋገጫ ሰጪ {{chain}} ፣ በድምፅ አሰጣጥ ኃይል ደረጃ የተሰጠው (ተመሰል) ።",
+    "stats": {
+      "active": "ንቁ ማረጋገጫ ሰጪዎች",
+      "nakamoto": "የናካሞቶ ጠቋሚ",
+      "nakamotoHint": "ሰንሰለቱን ለማቆም የሚያስፈልጉ ማረጋገጫ መሣሪያዎች",
+      "top10": "ከፍተኛ 10 የድምፅ አሰጣጥ ኃይል",
+      "commission": "አማካይ ኮሚሽን"
+    },
+    "filterPlaceholder": "ስም ወይም አድራሻ ማጣሪያ",
+    "statusFilter": "የማረጋገጫ ባለቤትነት ሁኔታ",
+    "tableCaption": "በ {{chain}} ላይ ያሉ ማረጋገጫዎች",
+    "detailDescription": "በ{{chain}} ላይ የተመሰረተ ማረጋገጫ.",
+    "detail": {
+      "delegators": "ወካዮች",
+      "bonded": "የተጣበቁ ቶኮኖች",
+      "last30": "ባለፉት 30 ቀናት",
+      "last90": "ባለፉት 90 ቀናት",
+      "noBlocks": "በቅርብ ጊዜ የቀረቡት ገደቦች የሉም.",
+      "noWebsite": "አይገኝም (በሐሳብ የተደገፈ ማረጋገጫ)",
+      "openPage": "ሙሉ ገጽ ይክፈቱ",
+      "powerHistory": "የድምጽ ኃይል",
+      "proposed24h": "የቀረቡት ክፍሎች (24 ሰዓቶች)",
+      "rank": "ደረጃ",
+      "recentBlocks": "በቅርብ ጊዜ የቀረቡት ክፍሎች",
+      "selfBonded": "ራስን የማስገደድ",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "የሥራ ጊዜ",
+      "valueUsd": "የጨዋታ ዋጋ {{value}}",
+      "website": "ድረ ገጽ"
+    },
+    "status": {
+      "active": "ንቁ",
+      "inactive": "ንቁ ያልሆነ",
+      "jailed": "የታሰረ"
+    },
+    "activitiesTitle": "የማረጋገጫ ሥራዎች",
+    "commissionShort": "ክፍያ {{value}}",
+    "detailTitle": "አረጋጋጭ",
+    "fictionalNote": "ለ Demo ሁነታ የፈጠራ ማረጋገጫ. ይህ እውነተኛ ኦፕሬተር አይደለም እና ምንም ነገር ስለ እሱ የተረጋገጠ አይደለም.",
+    "hoverTip": "ኮሚሽን {{commission}} · የስራ ሰዓት {{uptime}} · {{delegators}} ልዑካን",
+    "noMatching": "ምንም ተዛማጅ ማረጋገጫዎች የሉም.",
+    "notFoundBody": "{{chain}} በዚህ አድራሻ ጋር ማረጋገጫ የለውም።",
+    "notFoundTitle": "ማረጋገጫ አልተገኘም",
+    "sort": {
+      "power": "የድምጽ ኃይል",
+      "commission": "ኮሚሽን",
+      "uptime": "የሥራ ጊዜ"
+    },
+    "sortBy": "ማረጋገጫዎችን በ"
+  },
+  "validatorsViz": {
+    "description": "በ {{chain}} ላይ ለእያንዳንዱ ማረጋገጫ ሰጪ ኮሚሽን በሥራ ሰዓት ላይ ነው; የቦረቦረ መጠን የድምፅ አሰጣጥን ኃይል ያሳያል.",
+    "showAll": "ንቁ ያልሆኑ እና እስረኞች ይካተቱ",
+    "avgUptime": "አማካይ የስራ ሰዓት",
+    "zeroFee": "የዜሮ ኮሚሽን ማረጋገጫ መሳሪያዎች",
+    "chartTitle": "ኮሚሽን እና የስራ ሰዓት",
+    "chartHint": "እያንዳንዱ አረፋ አንድ ማረጋገጫ ነው",
+    "legend": "የካርታ አፈታሪክ",
+    "sizeHint": "የቦቦርዱ መጠን = የድምፅ አሰጣጥ ኃይል"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Giảm chuyển động",
+    "reduceMotionHint": "Giảm thiểu các hoạt hình và chuyển đổi.",
+    "appearance": {
+      "compact": "Thiết kế nhỏ gọn",
+      "compactHint": "Tạo diện tích nội dung nhỏ hơn một chút.",
+      "description": "Chủ đề, chuyển động và mật độ.",
+      "title": "Khả năng xuất hiện"
+    },
+    "confirm": {
+      "action": "Xác nhận",
+      "title": "Anh có chắc không?",
+      "dataset": "Điều này đặt lại đồng hồ mô phỏng, tốc độ của nó, độ trễ và lỗi bắt buộc để mặc định của họ.",
+      "wallet": "Điều này khôi phục lại số dư khởi điểm của ví Demo và loại bỏ hoạt động, phiếu bầu và đề xuất mô phỏng của nó.",
+      "all": "Điều này loại bỏ mọi cài đặt ChainBeat được lưu trữ trong trình duyệt này (tiếng, chủ đề, mạng, ví Demo, tìm kiếm gần đây) và tải lại trang."
+    },
+    "data": {
+      "datasetReset": "Demo bộ dữ liệu được thiết lập lại theo thời gian thực.",
+      "description": "Dữ liệu mới như thế nào và làm thế nào để thiết lập lại mô phỏng.",
+      "refresh": "Tới thiệu dữ liệu trực tiếp",
+      "refreshHint": "Bao nhiêu lần các danh sách và bộ đếm lại đọc lại mạng lưới (được mô phỏng).",
+      "refreshOptions": {
+        "live": "Đời sống",
+        "slow": "Tốc chậm",
+        "manual": "Hướng dẫn"
+      },
+      "resetDataset": "Set lại bộ dữ liệu demo",
+      "searchesCleared": "Các cuộc tìm kiếm gần đây đã được giải quyết.",
+      "speedHint": "Hãy tạm dừng đồng hồ mô phỏng hoặc làm chậm nó.",
+      "title": "Dữ liệu"
+    },
+    "description": "Sự xuất hiện, ngôn ngữ, mạng lưới và quyền riêng tư. Tất cả đều được lưu trữ chỉ trong trình duyệt này.",
+    "language": {
+      "count": "{{shipped}} trong số {{total}} ngôn ngữ có sẵn",
+      "current": "Ngôn ngữ hiện tại",
+      "description": "Chọn ngôn ngữ giao diện. Tìm kiếm theo tên bản địa, tên tiếng Anh hoặc mã.",
+      "fallback": "Các văn bản chưa được dịch được hiển thị bằng tiếng Anh.",
+      "title": "Ngôn ngữ"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Mạng lưới nào để khám phá và dữ liệu đến từ đâu.",
+      "endpoint": "Điểm cuối trực tiếp",
+      "live": "Đời sống",
+      "liveUnavailable": "Dữ liệu trực tiếp không có sẵn trong xây dựng này: mỗi trang hiển thị dữ liệu mô phỏng. Nếu một điểm cuối được cấu hình bạn có thể kiểm tra kết nối, nhưng ứng dụng không bao giờ trộn dữ liệu trực tiếp và mô phỏng.",
+      "mode": "Nguồn dữ liệu",
+      "noEndpoint": "Không có (dữ liệu mô phỏng)",
+      "selected": "Mạng",
+      "status": "Kết nối",
+      "statusDemo": "Mạng mô phỏng · chiều cao {{height}}",
+      "title": "Mạng",
+      "unavailable": "không có sẵn",
+      "test": "Kết nối thử nghiệm",
+      "testing": "Thử nghiệm...",
+      "testHint": "Chuyển hai yêu cầu GET chỉ đọc đến điểm cuối dưới đây và hiển thị câu trả lời của nó.",
+      "testOk": "Kết nối với {{chain}}: khối mới nhất {{height}}, trả lời trong {{ms}} ms.",
+      "testPartial": "Kết nối với {{chain}}: khối mới nhất {{height}}, trả lời trong {{ms}} ms. Một số chi tiết tùy chọn không có sẵn.",
+      "testError": {
+        "timeout": "Điểm kết thúc không trả lời kịp thời.",
+        "network": "Điểm cuối không thể đạt được. kiểm tra địa chỉ và nó cho phép yêu cầu từ trang web này.",
+        "http": "Điểm cuối trả lời bằng một lỗi.",
+        "invalid": "Điểm cuối đã trả lời, nhưng không trong định dạng của một Cosmos REST API, vì vậy không có gì được sử dụng."
+      }
+    },
+    "privacy": {
+      "clearAll": "Xóa tất cả dữ liệu ChainBeat trong trình duyệt này",
+      "description": "Những gì ứng dụng này lưu trữ và những gì nó có thể thấy.",
+      "keysCaption": "Kho lưu trữ trình duyệt được sử dụng bởi ChainBeat",
+      "noNetwork": "ChainBeat không gửi dữ liệu bất cứ đâu: nó không có phân tích và không thực hiện yêu cầu ngoại trừ các tệp của riêng mình. Có hai ngoại lệ tùy chọn: nút Test connection, chỉ xuất hiện khi bạn cấu hình một điểm cuối và gửi hai yêu cầu chỉ đọc cho nó, và nút đăng nhập Google, chỉ xuất hiện sau khi bạn thêm ID khách hàng Google của riêng bạn và sau đó được tải từ Google.",
+      "noSeed": "ChainBeat không bao giờ yêu cầu, lưu trữ hoặc nhìn thấy một cụm từ hạt giống, khóa riêng hoặc mật khẩu ví.",
+      "storage": "Ưu tiên, mạng được chọn, đồng hồ mô phỏng, ví Demo, tìm kiếm gần đây và bất kỳ tài khoản demo nào bạn tạo được lưu trong localStorage của trình duyệt này.",
+      "title": "Quyền riêng tư",
+      "wallet": "Nếu bạn kết nối phần mở rộng ví trình duyệt, ChainBeat chỉ đọc địa chỉ công khai và tên tài khoản của bạn, và chỉ sau khi bạn phê duyệt nó. Không có gì được ký hoặc gửi.",
+      "keys": {
+        "lang": "Ngôn ngữ được chọn",
+        "ui": "Chủ đề, chuyển động, mật độ, bố cục và yêu thích",
+        "chain": "Mạng được chọn",
+        "sim": "Đồng hồ mô phỏng, tốc độ và độ trễ",
+        "wallet": "Demo ví: số dư tưởng tượng, hoạt động, phiếu bầu, đề xuất",
+        "notifications": "Các thông báo nào bạn đã đọc hoặc từ chối, và các sự kiện địa phương (tiền wallet, giao dịch mô phỏng)",
+        "search": "Tìm kiếm gần đây",
+        "auth": "Demo tài khoản: tên người dùng, địa chỉ email, hash mật khẩu có muối và đăng nhập hiện tại"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Phương thức Demo",
+    "chipTip": "Tất cả dữ liệu đều được mô phỏng.",
+    "controls": "Demo kiểm soát",
+    "controlsIntro": "ChainBeat chạy trên dữ liệu mô phỏng xác định. Không có gì được đọc từ, hoặc gửi đến, một blockchain thực sự.",
+    "clock": "Đồng hồ mô phỏng",
+    "simulatedNow": "Thời gian mô phỏng",
+    "offset": "{{value}} giờ trước",
+    "advanceHour": "1 giờ trước",
+    "advanceDay": "1 ngày trước",
+    "resetClock": "Đặt lại đồng hồ",
+    "clockNote": "Tiến bộ đồng hồ tạo ra các khối, giá và sự kiện mới trên {{chain}}.",
+    "network": "Hành vi mạng",
+    "latency": "Tiền trễ mô phỏng",
+    "latencyOff": "Tháo đi",
+    "simulateErrors": "Mô phỏng lỗi mạng",
+    "simulateErrorsHint": "Mỗi yêu cầu thất bại để bạn có thể kiểm tra tình trạng lỗi.",
+    "wallet": "Demo ví",
+    "resetWallet": "Reset demo wallet",
+    "walletReset": "Demo ví được thiết lập trở lại số dư khởi điểm của nó.",
+    "noticeTitle": "Khóa Demo.",
+    "noticeBody": "Quá trình làm việc này được mô phỏng. Không có gì được ký kết hoặc phát sóng và không có tiền thực sự liên quan.",
+    "behind": "{{value}} giờ sau thời gian thực",
+    "speed": "Tốc độ mô phỏng",
+    "speeds": {
+      "paused": "Chạm dừng",
+      "slow": "Tốc chậm",
+      "normal": "Tự nhiên"
+    }
+  },
+  "about": {
+    "title": "Về ChainBeat",
+    "demo": "ChainBeat đang chạy trong chế độ Demo. Mỗi khối, giá, xác nhận và đề xuất được tạo theo cách xác định trong trình duyệt của bạn. Đây không phải là số liệu thống kê mạng chính hiện tại.",
+    "privacy": "Không cần khóa API, khóa riêng hoặc cụm từ hạt giống. Tài khoản demo tùy chọn, sở thích và ví demo chỉ được lưu trữ trong trình duyệt của bạn.",
+    "shortcuts": "Các đường tắt bàn phím",
+    "shortcutSearch": "Tìm kiếm tập trung",
+    "shortcutClose": "Kết thúc các hộp thoại và menu",
+    "languages": "Các ngôn ngữ giao diện: {{shipped}} trong số {{total}}. Các bản dịch được hỗ trợ bằng máy và không được các người nói tiếng mẹ đẻ xem xét; nên xem xét chuyên nghiệp trước khi sử dụng công cộng.",
+    "pageDescription": "ChainBeat là gì, nó xử lý dữ liệu như thế nào, và các đường tắt bàn phím của nó.",
+    "shortcutPalette": "Tìm kiếm mở (phát lệnh)"
+  }
+}

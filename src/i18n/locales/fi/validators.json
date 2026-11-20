@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Säästetty valsi",
+    "viewAll": "Näytä kaikki validoivat",
+    "col": {
+      "validator": "Validaattori",
+      "power": "Äänivalta",
+      "cumulative": "Kokonaismäärä",
+      "commission": "Komissio",
+      "uptime": "Käytettävyys",
+      "change": "24 tunnin vaihto",
+      "details": "Tiedot",
+      "tokens": "Pankkihyväiset tunnukset"
+    },
+    "stake": "Panostus",
+    "stakeWith": "Tämä validointikorvaus",
+    "pageDescription": "Jokaisen validoinnin antaneen {{chain}}, äänestysvoiman mukaan luokiteltu (simuloitu).",
+    "stats": {
+      "active": "Aktiiviset validatorit",
+      "nakamoto": "Nakamoto-koefficientti",
+      "nakamotoHint": "Vahvistuslaitteet, joita tarvitaan ketjun pysäyttämiseksi",
+      "top10": "Top-10 äänestysvoima",
+      "commission": "Keskimääräinen palkkio"
+    },
+    "filterPlaceholder": "Suodattava nimellä tai osoitteella",
+    "statusFilter": "Validatorin asema",
+    "tableCaption": "Vahvistuslaitteet {{chain}}",
+    "detailDescription": "Simuloitu validointimerkki {{chain}}:llä.",
+    "detail": {
+      "delegators": "Delegoijat",
+      "bonded": "Säästetty tunnus",
+      "last30": "viimeiset 30 päivää",
+      "last90": "viimeiset 90 päivää",
+      "noBlocks": "Ei viime aikoina ehdotettuja rajoituksia.",
+      "noWebsite": "ei ole käytettävissä (fiktiivinen validointimerkki)",
+      "openPage": "Avaa koko sivu",
+      "powerHistory": "Äänivalta",
+      "proposed24h": "Ehdotetut kohdat (24 tuntia)",
+      "rank": "Sijoitus",
+      "recentBlocks": "Äskettäin ehdotetut kohdat",
+      "selfBonded": "Itsekäyttöinen",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Käytettävyys",
+      "valueUsd": "Osakearvo {{value}}",
+      "website": "Verkkosivusto"
+    },
+    "status": {
+      "active": "Aktiivinen",
+      "inactive": "Ei-aktiivinen",
+      "jailed": "Vangittu"
+    },
+    "activitiesTitle": "Vahvistustoiminta",
+    "commissionShort": "Palkkiot {{value}}",
+    "detailTitle": "Validaattori",
+    "fictionalNote": "Se ei ole oikea operaattori eikä mitään siitä ole tarkistettu.",
+    "hoverTip": "Komission {{commission}} · käyttöaika {{uptime}} · {{delegators}} valtuutettua",
+    "noMatching": "Ei vastaavaa validointia.",
+    "notFoundBody": "{{chain}}:llä ei ole tätä osoitetta sisältävää validointia.",
+    "notFoundTitle": "Validaattori ei löytynyt",
+    "sort": {
+      "power": "Äänivalta",
+      "commission": "Komissio",
+      "uptime": "Käytettävyys"
+    },
+    "sortBy": "Validaattorit luokitellaan"
+  },
+  "validatorsViz": {
+    "description": "Komission verrattuna käyttöaikaan jokaiselle validoijalle {{chain}}; kuplan koko osoittaa äänestysvoimaa.",
+    "showAll": "Sisältää toimimattomia ja vankilassa olevia",
+    "avgUptime": "Keskimääräinen käyttöaika",
+    "zeroFee": "Nollakomission validoittajat",
+    "chartTitle": "Komissio vs käyttöaika",
+    "chartHint": "Jokainen kupla on yksi validoija",
+    "legend": "Karttilegenda",
+    "sizeHint": "Pullon koko = äänestysvoima"
+  }
+}

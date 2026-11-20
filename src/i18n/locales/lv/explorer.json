@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Native, IBC, likviditātes uzkrājumi un ārējie aktīvi, kas pazīstami ar {{chain}} (simulēts).",
+    "stats": {
+      "total": "Izmeklētie žetoni"
+    },
+    "kinds": {
+      "native": "Native",
+      "ibc": "IBC",
+      "external": "Ārējais",
+      "stable": "Stablecoin",
+      "liquid": "Liquid staking"
+    },
+    "col": {
+      "token": "Tokens",
+      "type": "Veids",
+      "denom": "Denoms",
+      "price": "Cena",
+      "change": "24 stundas",
+      "supply": "Piedāvājums",
+      "holders": "Turētāji",
+      "marketCap": "Tirgus kapitalizācija"
+    },
+    "filterPlaceholder": "Filtrēšana pēc simbola, nosaukuma vai nosaukuma",
+    "tableCaption": "Spēles uz {{chain}}"
+  },
+  "account": {
+    "title": "Konta",
+    "description": "Saldi un pēdējā konta darbība {{chain}} (simulēts).",
+    "available": "Pieejams",
+    "balances": "Saldi",
+    "counterparty": "Kontrapartija",
+    "direction": "Norāde",
+    "in": "Vārds",
+    "out": "Izslēgti",
+    "history": "Transakcijas vēsture",
+    "historyCaption": "Transakcijas par {{address}}",
+    "invalidTitle": "Nē, nav spēkā esoša adrese",
+    "invalidBody": "Tas nav spēkā {{chain}} adreses. adreses šajā tīklā sākas ar {{prefix}} 1 un iekļauj pārbaudes summu.",
+    "noBalances": "Nav līdzsvaru.",
+    "noHistory": "Nav konstatētas darījumi",
+    "noHistoryBody": "Šajā kontā nav simulētas aktivitātes jaunākajiem {{blocks}} blokiem.",
+    "rewards": "Atbalsts: {{value}}",
+    "staked": "Sastāvs",
+    "totalValue": "Kopējā vērtība",
+    "txCount": "Darījumi",
+    "unknown": "Tas ir spēkā esoša adrese, bet tā nav parādīta simulācijā, tāpēc tā nav bilances vai vēstures.",
+    "window": "jaunākajiem {{blocks}} blokiem",
+    "demoWallet": "Tas ir jūsu Demo. portfelis."
+  },
+  "explorer": {
+    "description": "Izmeklējiet {{chain}} un redzit, kas notiek (simulētā) tīklā tieši tagad.",
+    "latestBlocks": "Jaunākie bloki",
+    "latestTransactions": "Jaunākie darījumi",
+    "searchTitle": "Izmeklējiet pētnieku",
+    "shortcuts": "Eksploratora sekcijas"
+  }
+}

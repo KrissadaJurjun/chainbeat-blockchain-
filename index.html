@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en" dir="ltr" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="color-scheme" content="dark light" />
+    <meta name="theme-color" content="#071421" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <meta
+      name="description"
+      content="ChainBeat — a multilingual blockchain explorer and Web3 analytics dashboard. Demo Mode runs on clearly-labelled simulated data."
+    />
+    <meta property="og:title" content="ChainBeat — Blockchain Explorer" />
+    <meta property="og:description" content="Explore blocks. Track transactions. Understand Web3." />
+    <meta property="og:type" content="website" />
+    <title>ChainBeat — Blockchain Explorer</title>
+    <!-- Applies the saved theme before first paint (a flash of the wrong theme otherwise). External, not inline, so a strict CSP works. -->
+    <script src="%BASE_URL%theme-init.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>ChainBeat needs JavaScript enabled to run.</noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

@@ -1,0 +1,102 @@
+{
+  "overview": {
+    "title": "pangkalahatang-ideya",
+    "unit": "Performance index · Base = 100 sa start ng range",
+    "refreshFailed": "Hindi maaaring mag-update na nagpapakita ng huling naka-load na data."
+  },
+  "chart": {
+    "keyboardHint": "Gamitin ang mga arrow key upang lumipat sa pagitan ng mga punto ng data.",
+    "summary": "Ang index ng pagganap sa itaas ng {{range}}: {{details}}",
+    "rangeLabel": "Pagkaroon ng oras",
+    "seriesLabel": "Mga serye ng mga chart",
+    "keepOne": "Hindi bababa sa isa sa mga serye ay dapat manatiling nakikita",
+    "emptyTitle": "Walang data para sa hanay na ito",
+    "emptyBody": "Subukan ang isa pang range ng oras o mag-refresh.",
+    "range": {
+      "24H": "24H",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "Sa huling 24 oras",
+      "7D": "Sa huling 7 araw",
+      "30D": "Sa huling 30 araw",
+      "90D": "Sa huling 90 araw"
+    },
+    "zoomControls": "Mga kontrol ng zoom",
+    "zoomIn": "I-zoom sa",
+    "zoomOut": "Mag-zoom out",
+    "resetView": "Pagtingin ng pag-set",
+    "zoomLevel": "antas ng zoom"
+  },
+  "proposals": {
+    "title": "Mga Panukala",
+    "filter": "Proposal filter",
+    "live": "Mabuhay",
+    "total": "Kabuuan",
+    "viewAll": "Tingnan ang lahat ng mga proposal",
+    "noneLive": "Walang mga live proposal",
+    "noneLiveBody": "Walang patuloy na pamamahala sa kasalukuyan.",
+    "showAll": "Ipakita ang mga kamakailang proposal",
+    "endsIn": "Ang mga dulo {{time}}",
+    "turnout": "Turnout",
+    "vote": "Bumoto",
+    "status": {
+      "voting": "Isinasagawa ang pagboto",
+      "deposit": "Deposito",
+      "passed": "Naipasa",
+      "rejected": "Tinanggihan",
+      "failed": "Nabigo"
+    },
+    "passed": "Naipasa",
+    "rejected": "Tinanggihan",
+    "noneMatching": "Walang katumbas na mga proposal",
+    "noneMatchingBody": "Walang tumutugma sa filter na ito ngayon."
+  },
+  "dev": {
+    "title": "Aktibidad ng developer",
+    "summary": "{{total}} mga kontribusyon",
+    "viewFull": "Bukas na aktibidad ng mga developer",
+    "heatmapLabel": "Karte ng init ng kontribusyon: {{total}} kontribusyon sa loob ng {{weeks}} linggo",
+    "less": "Mas kaunti",
+    "more": "higit pa",
+    "cellTitle_one": "{{count}} kontribusyon sa {{date}}",
+    "cellTitle_other": "{{count}} kontribusyon sa {{date}}",
+    "range": "Heatmap range",
+    "ranges": {
+      "month": "Buwan",
+      "quarter": "Quarter",
+      "year": "Taon"
+    }
+  },
+  "repos": {
+    "title": "Active Repository",
+    "period": "Period",
+    "periods": {
+      "week": "Linggo",
+      "month": "Buwan",
+      "year": "Taon",
+      "quarter": "Quarter"
+    },
+    "contributors": "Mga Nag-aambag",
+    "stars": "Ang mga bituin",
+    "sparkline": "Pagkakasunduan ng aktibidad para sa {{name}}",
+    "vsPrevious": "{{change}} vs. nakaraang panahon",
+    "up": "Tumayo",
+    "down": "Sa ibaba",
+    "caption": "Pangako sa napili na panahon · simulating repositories",
+    "col": {
+      "repository": "Repository",
+      "language": "Wika",
+      "commits": "Pangako",
+      "change": "Pagbabago",
+      "trend": "Tendensya"
+    },
+    "commitsCount": "Pagkakasunduan: {{count}}",
+    "demoNote": "Demo data: ang repository na ito ay fictitious at ang aktibidad nito ay sinimulan. Hindi ito konektado sa GitHub.",
+    "emptyBody": "Walang aktibidad sa repository sa panahong ito.",
+    "emptyTitle": "Walang aktibidad sa repository",
+    "history": "Mga aktibidad sa pag-uugali"
+  }
+}

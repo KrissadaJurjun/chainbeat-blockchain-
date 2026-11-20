@@ -1,0 +1,56 @@
+{
+  "ibcPage": {
+    "description": "代币如何通过 IBC 在各链之间流动。连线越粗，24 小时交易量越大。",
+    "volume": "24 小时 IBC 交易量",
+    "chains": "已连接的链",
+    "links": "活跃通道",
+    "busiest": "最繁忙路线",
+    "mapLabel": "各链之间的 IBC 连接图",
+    "nodeLabel": "{{name}}：24 小时 {{volume}}，共 {{channels}} 条通道",
+    "hint": "转移,聚焦或选择链接以突出其连接. 拖到面板;使用Ctrl或随滚动轮, + 和 − 键,或放大按; 按0重置.",
+    "channelsOf": "{{name}} 的通道",
+    "topChannels": "交易量最大的通道",
+    "transfers_other": "{{count, number}} 笔转账",
+    "info": {
+      "volume": "量 (24小时)",
+      "channels": "道",
+      "share": "IBC体积的份额",
+      "partner": "最繁忙的伴侣"
+    }
+  },
+  "multichainPage": {
+    "description": "一览更广泛的 Cosmos 风格生态：每条已连接链的模拟数据。",
+    "chains": "链",
+    "tvl": "总锁仓价值",
+    "validators": "验证者",
+    "tx24h": "交易（24 小时）",
+    "height": "区块高度",
+    "open": "打开仪表盘",
+    "switched": "已切换到 {{name}}",
+    "registryOnly": "已为演示登记，暂不可选择",
+    "tvlByChain": "各链 TVL",
+    "tvlHint": "模拟的总锁仓价值",
+    "explainTitle": "这些指标的含义",
+    "explainHint": "在本页面上的数字的简单定义.所有值都是模拟的.",
+    "explain": {
+      "tvl": "网络模拟经济中投资或持有的代币的价值,以模拟价格.实际的\"锁定总值\"数字使用不同的定义,并没有在这里使用.",
+      "height": "链接自成立以来已经产生了多少块,每块都增加一块.",
+      "validators": "运营商提出和签署区块的数量是活动集合的大小.",
+      "apr": "预计每年的投资奖励,是佣金前的百分比. 它随着通货膨胀和投资的代币的份额而变化.",
+      "bonded": "一个更高的份额意味着更多的供应将确保链接.",
+      "tx24h": "在过去24小时内,所有上市链的区块中包含的交易."
+    }
+  },
+  "heartbeatPage": {
+    "description": "{{chain}} 的脉搏：每个区块就是一次心跳；间隔对应出块时间，高度对应交易数量。",
+    "rate": "出块速率",
+    "perMinute": "区块/分钟",
+    "sinceLast": "距上一个区块",
+    "txLastMinute": "交易（最近一分钟）",
+    "monitor": "脉搏监视器",
+    "legend": "心跳高度 = 区块内交易数",
+    "chartLabel": "心跳曲线：每分钟 {{rate}} 个区块，区块间隔 {{seconds}} 秒",
+    "stream": "区块流",
+    "txCount_other": "{{count}} 笔交易"
+  }
+}

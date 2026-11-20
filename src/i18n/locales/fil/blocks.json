@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "Blokong {{height}}",
+    "invalid": "Hindi kapaki-pakinabang na taas ng bloke",
+    "description": "Mga detalye ng isang simulating bloke sa {{chain}}.",
+    "previous": "Unang bloke",
+    "next": "Sa susunod na bloke",
+    "notFoundTitle": "Hindi natagpuan ang bloke",
+    "notFoundBody": "{{chain}} ay walang bloke sa taas na ito pa.",
+    "transactions_one": "{{count}} transaksyon",
+    "transactions_other": "{{count}} transaksyon",
+    "txCaption": "Mga transaksyon sa block {{height}}",
+    "noTxs": "Ang bloke na ito ay walang mga transaksyon",
+    "genesis": "Blok ng Genesis",
+    "parentHash": "Pang-anak na hash",
+    "demoTxs": "Demo mga transaksyon sa wallet sa taas na ito",
+    "demoTxsNote": "Ang mga ito ay nilikha ng Demo wallet."
+  },
+  "blocksPage": {
+    "description": "Ang pinakabagong mga bloke sa {{chain}}.",
+    "live": "Mabuhay",
+    "avgGas": "Avg. gas na ginamit",
+    "tableCaption": "Mga huling bloke sa {{chain}}",
+    "proposer": "Proponente",
+    "txs": "Txs",
+    "gas": "Nagamit na gas",
+    "size": "Ang laki",
+    "emptyTitle": "Walang mga bloke na natagpuan",
+    "filterPlaceholder": "Pag-filter ayon sa taas, hash o validator",
+    "filtersLabel": "Mga filter ng bloke",
+    "finality": "Katapusan",
+    "finalityNote": "Ang mga bloke sa ganitong uri ng network ay nakatakdang matapos ang kanilang pagsasagawa.",
+    "finalized": "Nakumpleto",
+    "withTxsOnly": "Mga bloke lamang na may mga transaksyon"
+  }
+}

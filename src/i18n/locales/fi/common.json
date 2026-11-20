@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simuloitu",
+    "close": "Sulje",
+    "retry": "Yritä uudelleen",
+    "refresh": "Päivitä",
+    "copy": "Kopioi",
+    "copied": "Kopioitu",
+    "clear": "Tyhjennä",
+    "loading": "Ladataan…",
+    "options": "Vaihtoehdot",
+    "previous": "Edellinen",
+    "next": "Seuraava",
+    "pagination": "Sivustelu",
+    "pageN": "Sivulla {{n}}",
+    "dismiss": "Hylkää",
+    "cancel": "Peruuta",
+    "viewAll": "Näytä kaikki",
+    "max": "Maks.",
+    "amount": "Määrä",
+    "balance": "Saldo",
+    "fee": "Maksu",
+    "status": "Tila",
+    "time": "Aika",
+    "height": "Korkeus",
+    "hash": "Tiiviste",
+    "type": "Tyyppi",
+    "all": "Kaikki",
+    "showing": "Näyttämällä {{from}} Vihreä {{to}}................. {{total}}",
+    "noResults": "Tulokset eivät vastaa suodattimia.",
+    "rowsPerPage": "Varjoja sivulla",
+    "actions": "Toimet",
+    "exportCsv": "Export CSV",
+    "details": "Tiedot",
+    "clearFilters": "Selkeät suodattimet",
+    "collapseAll": "Kaikki romahtavat",
+    "copyJson": "Kopioida JSON",
+    "expandAll": "Laajennetaan kaikki",
+    "showMore": "Näytä {{count}} lisää"
+  },
+  "language": {
+    "label": "Kieli",
+    "search": "Hakukieliä"
+  },
+  "theme": {
+    "label": "Teema",
+    "system": "Järjestelmä",
+    "dark": "Tumma",
+    "light": "Vaalea"
+  },
+  "footer": {
+    "tagline": "Tutki blokit, seurata liiketoimia ja ymmärrä Web3:ta.",
+    "demo": "Demo Modi kaikki luvut ovat simuloituja eivätkä ole todellisia verkkotilastot.",
+    "share": "Osallistaminen",
+    "linkCopied": "Linkin kopiointi levylaudalle.",
+    "docs": "Dokumentti",
+    "links": "Allekirjoittamat linkit",
+    "modeDemo": "Demo Verkko",
+    "repository": "Varastointi",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Sivua ei löytynyt",
+    "body": "Etsiäsi sivu ei ole olemassa tai se on muuttunut.",
+    "home": "Takaisin koontinäyttöön"
+  },
+  "gate": {
+    "title": "Liittäkää lompakko Demo jatkamaan",
+    "body": "Tämä työvirta toimii simuloidussa lompakossa. Liitä lompakko Demo kokeilemaan sitä.",
+    "realTitle": "Oikea lompakko on yhteydessä",
+    "realBody": "{{address}} Se on kytketty, mutta ChainBeat Demo -tilassa ei koskaan allekirjoiteta tai lähetetä liiketoimia.",
+    "useDemo": "Käytä lompakkoa Demo"
+  }
+}

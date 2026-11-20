@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Native, IBC, liquidity-stacking a externe aktíva známe na {{chain}} (simulované).",
+    "stats": {
+      "total": "Sledované tokeny"
+    },
+    "kinds": {
+      "native": "Domorodý",
+      "ibc": "ČÍSLO IBC",
+      "external": "Externé",
+      "stable": "Stablecoin",
+      "liquid": "Liquid staking"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Typ",
+      "denom": "Dénom",
+      "price": "Cena",
+      "change": "Dvadsaťpäť hodín",
+      "supply": "Ponuka",
+      "holders": "držitelia",
+      "marketCap": "Trhová kapitalizácia"
+    },
+    "filterPlaceholder": "Filtrovanie podľa symbolu, názvu alebo denominácie",
+    "tableCaption": "Tokeny na {{chain}}"
+  },
+  "account": {
+    "title": "Účet",
+    "description": "Zostatky a nedávna činnosť účtu na {{chain}} (simulované).",
+    "available": "Dostupné",
+    "balances": "Zostatky",
+    "counterparty": "Strana protistrany",
+    "direction": "smer",
+    "in": "V",
+    "out": "Vyšiel",
+    "history": "História transakcií",
+    "historyCaption": "Transakcie z {{address}}",
+    "invalidTitle": "Nie je platná adresa",
+    "invalidBody": "Toto nie je platné. {{chain}} Adresa. Adresy v tejto sieti začínajú {{prefix}} 1 a zahrnúť šekovú sumu.",
+    "noBalances": "Bez rovnováhy.",
+    "noHistory": "Žiadne transakcie neboli nájdené",
+    "noHistoryBody": "Tento účet nemá simulovanú aktivitu v najnovších {{blocks}} blokoch.",
+    "rewards": "Odmeny: {{value}}",
+    "staked": "Vložené",
+    "totalValue": "Celková hodnota",
+    "txCount": "Transakcie",
+    "unknown": "Toto je platná adresa, ale neobjevuje sa v simulácii, takže nemá rovnováhy ani históriu.",
+    "window": "v najnovších {{blocks}} blokoch",
+    "demoWallet": "Toto je vaša peňaženka Demo, jej vyrovnania a transakcie sú simulované a existujú len v tomto prehliadači."
+  },
+  "explorer": {
+    "description": "Vyhľadajte {{chain}} a pozrite sa, čo sa práve deje na (simulovanej) sieti.",
+    "latestBlocks": "Najnovšie bloky",
+    "latestTransactions": "Najnovšie transakcie",
+    "searchTitle": "Vyhľadajte prieskumníka",
+    "shortcuts": "Oddelenia Explorer"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "notifications": {
+    "label": "Benachrichtigungen",
+    "title": "Benachrichtigungen",
+    "unread": "Ungelesen",
+    "unreadLabel_one": "{{count}} ungelesene Benachrichtigung",
+    "unreadLabel_other": "{{count}} ungelesene Benachrichtigungen",
+    "markAllRead": "Alle als gelesen markieren",
+    "empty": "Sie sind auf dem neuesten Stand.",
+    "items": {
+      "proposalVoting": "Vorschlag Nr. {{id}} befindet sich in der Abstimmung – noch ca. {{hours}} Std.",
+      "proposalPassed": "Vorschlag Nr. {{id}} wurde angenommen und wird umgesetzt.",
+      "validatorJailed": "{{name}} wurde wegen Inaktivität gesperrt („Jail“).",
+      "upgradeScheduled": "Das Netzwerk-Upgrade {{version}} ist in {{days}} Tagen geplant.",
+      "ibcVolume": "Das IBC-Transfervolumen ist in den letzten 24 Std. um {{pct}} % gestiegen.",
+      "newBlock": "Block {{height}} wurde auf {{chain}} (simuliert) produziert.",
+      "walletConnectedDemo": "Demo Brieftasche verbunden (simuliert).",
+      "walletConnected": "{{name}} verbunden, nichts wurde unterschrieben.",
+      "walletDisconnected": "Die Brieftasche ist von dieser Browser-Sitzung getrennt.",
+      "txSuccess": "Simulierte Transaktion bestätigt: {{summary}}",
+      "txFailed": "Eine simulierte Transaktion ist gescheitert, weil die Fehlersimulation eingeschaltet ist.",
+      "proposalCreated": "Demo Vorschlag Nr. {{id}} {{title}} wurde hinzugefügt (simuliert).",
+      "networkChanged": "Übersetzt auf {{chain}}, simulierte Daten anzeigen.",
+      "simPaused": "Simulierte Daten werden erst aktualisiert, wenn Sie sie wieder aufnehmen.",
+      "errorSimulation": "Die Fehlersimulation ist aktiviert, Datenanfragen und Geldbörsenbestätigungen scheitern, bis Sie sie deaktivieren."
+    },
+    "dismiss": "Mitteilung zur Ablehnung",
+    "clearAll": "Alles klar machen",
+    "simulatedNote": "Die Elemente aus dem Netzwerk-Feed werden simuliert."
+  }
+}

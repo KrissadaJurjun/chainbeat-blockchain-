@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Hier ist noch nichts",
+    "emptyBody": "In dieser Ansicht gibt es keine Daten anzuzeigen.",
+    "errorTitle": "Diese Daten konnten nicht geladen werden",
+    "errorBody": "Beim Lesen des Netzwerks ist etwas schiefgelaufen. Prüfen Sie Ihre Verbindung und versuchen Sie es erneut.",
+    "crashTitle": "Etwas ist schiefgelaufen",
+    "crashBody": "Auf dieser Seite ist ein unerwarteter Fehler aufgetreten.",
+    "reload": "Seite neu laden"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "blockDetail": {
+    "title": "블록 {{height}}",
+    "invalid": "잘못된 블록 높이",
+    "description": "{{chain}}의 시뮬레이션 블록 상세 정보입니다.",
+    "previous": "이전 블록",
+    "next": "다음 블록",
+    "notFoundTitle": "블록을 찾을 수 없습니다",
+    "notFoundBody": "{{chain}}에는 아직 이 높이의 블록이 없습니다.",
+    "transactions_other": "트랜잭션 {{count}}건",
+    "txCaption": "블록 {{height}}의 트랜잭션",
+    "noTxs": "이 블록에는 트랜잭션이 없습니다",
+    "genesis": "창세기 블록",
+    "parentHash": "부모 해시",
+    "demoTxs": "Demo 이 높이의 지갑 거래",
+    "demoTxsNote": "이들은 Demo 지갑에 의해 만들어졌습니다. 그들은 시뮬레이션 블록 자체의 트랜잭션 카운트의 일부가 아닙니다."
+  },
+  "blocksPage": {
+    "description": "{{chain}}의 최신 블록입니다. 목록은 블록 시간마다 한 번 정도 갱신됩니다.",
+    "live": "실시간",
+    "avgGas": "평균 가스 사용량",
+    "tableCaption": "{{chain}}의 최신 블록",
+    "proposer": "제안자",
+    "txs": "Tx 수",
+    "gas": "사용 가스",
+    "size": "크기",
+    "emptyTitle": "블록은 발견되지 않았습니다",
+    "filterPlaceholder": "높이에 따른 필터, 해시 또는 검증기",
+    "filtersLabel": "블록 필터",
+    "finality": "최종성",
+    "finalityNote": "이런 종류의 네트워크에 있는 블록은 종결되자마자 최종됩니다.",
+    "finalized": "완성",
+    "withTxsOnly": "거래가 있는 블록만"
+  }
+}

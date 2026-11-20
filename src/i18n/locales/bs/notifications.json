@@ -1,0 +1,32 @@
+{
+  "notifications": {
+    "label": "Obavještenja",
+    "title": "Obavještenja",
+    "unread": "Nepročitana",
+    "unreadLabel_one": "{{count}} nepisana obaveštenja",
+    "unreadLabel_few": "{{count}} neobjavljena obaveštenja",
+    "unreadLabel_other": "{{count}} neobjavljenih obaveštenja",
+    "markAllRead": "Označite sve kao što je pročitano",
+    "empty": "Svi ste uhvaćeni.",
+    "items": {
+      "proposalVoting": "Prijedlog #{{id}} je u periodu glasanja oko {{hours}} sata ostalo.",
+      "proposalPassed": "Prijedlog #{{id}} je usvojen i biće primenjen.",
+      "validatorJailed": "{{name}} je bio u zatvoru zbog pauze.",
+      "upgradeScheduled": "Upgradiranje mreže {{version}} je zakazano za {{days}} dana.",
+      "ibcVolume": "Obim prijenosa IBC-a porastao je {{pct}} % u poslednjih 24 sata.",
+      "newBlock": "Blok {{height}} je proizveden na {{chain}} (simuliran).",
+      "walletConnectedDemo": "Demo novčanik povezan (simuliran).",
+      "walletConnected": "{{name}} je povezan, ništa nije potpisano.",
+      "walletDisconnected": "Novčanik je isključen iz sesije pretraživača.",
+      "txSuccess": "Potvrđena simulacija transakcije: {{summary}}",
+      "txFailed": "Simulirana transakcija nije uspela jer je simulacija grešaka uključena.",
+      "proposalCreated": "Demo prijedlog #{{id}} {{title}} je dodan (simuliran).",
+      "networkChanged": "Prešao na {{chain}}, prikazuje simulirani podaci.",
+      "simPaused": "Simulacija je zaustavljena, simulirani podaci neće biti ažurirani dok ga ne nastavite.",
+      "errorSimulation": "Simulacija greške je uključena, zahtjevi podataka i potvrde novčanika neće uspeti dok ga ne isključite."
+    },
+    "dismiss": "Obaveštenje o odbijanju",
+    "clearAll": "Očisti sve",
+    "simulatedNote": "Čestice iz mrežnog signala su simulisane."
+  }
+}

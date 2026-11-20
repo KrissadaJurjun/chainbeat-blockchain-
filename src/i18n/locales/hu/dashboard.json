@@ -1,0 +1,102 @@
+{
+  "overview": {
+    "title": "Összefoglalás",
+    "unit": "Rendelkezési index · Alap = 100 a tartomány kezdetén",
+    "refreshFailed": "Nem tudtam frissíteni az utolsó töltetett adatokat."
+  },
+  "chart": {
+    "keyboardHint": "Használd a nyílkulcsokat az adatpontok között.",
+    "summary": "A teljesítményt mutató több mint {{range}}: {{details}}",
+    "rangeLabel": "Időtartomány",
+    "seriesLabel": "Figyázati sorozat",
+    "keepOne": "Legalább egy sorozatnak láthatónak kell maradnia",
+    "emptyTitle": "E tartományra vonatkozóan nincsenek adatok",
+    "emptyBody": "Próbáld ki egy másik időtartamot, vagy frissítsd meg.",
+    "range": {
+      "24H": "24 ÓRÁN BELÜL",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "Az elmúlt 24 órában",
+      "7D": "Az elmúlt hét nap",
+      "30D": "Az elmúlt 30 nap",
+      "90D": "Az elmúlt 90 nap"
+    },
+    "zoomControls": "Zoom vezérlés",
+    "zoomIn": "Gyerünk!",
+    "zoomOut": "Gyerünk!",
+    "resetView": "Újraállítási nézet",
+    "zoomLevel": "Zoom szint"
+  },
+  "proposals": {
+    "title": "Javaslatok",
+    "filter": "A javaslat szűrője",
+    "live": "Életben",
+    "total": "Összesen",
+    "viewAll": "Minden javaslatot megtekinteni",
+    "noneLive": "Nincs élő javaslat",
+    "noneLiveBody": "Jelenleg nincs folyamatban lévő kormányzás.",
+    "showAll": "A legutóbbi javaslatok bemutatása",
+    "endsIn": "{{time}}. fejezet",
+    "turnout": "Részvétel",
+    "vote": "Szavazás",
+    "status": {
+      "voting": "Szavazás folyamatban",
+      "deposit": "Letét",
+      "passed": "Elfogadva",
+      "rejected": "Elutasítva",
+      "failed": "Sikertelen"
+    },
+    "passed": "Elfogadva",
+    "rejected": "Elutasítva",
+    "noneMatching": "Egyetértő javaslatok nem",
+    "noneMatchingBody": "Egyelőre semmi sem egyezik ezzel a szűrővel."
+  },
+  "dev": {
+    "title": "Fejlesztői aktivitás",
+    "summary": "{{total}} hozzájárulás",
+    "viewFull": "Nyitott fejlesztői tevékenység",
+    "heatmapLabel": "Befizetés hőmappája: {{total}} befizetés {{weeks}} hét alatt",
+    "less": "Kevesebb",
+    "more": "Többet",
+    "cellTitle_one": "{{count}} hozzájárulás {{date}}",
+    "cellTitle_other": "{{count}} járulék {{date}}",
+    "range": "A hőmérsékleti térkép hatótávolság",
+    "ranges": {
+      "month": "Hónap",
+      "quarter": "Háromszáz",
+      "year": "Év"
+    }
+  },
+  "repos": {
+    "title": "Aktív tároló",
+    "period": "Évszak",
+    "periods": {
+      "week": "Hétfő",
+      "month": "Hónap",
+      "year": "Év",
+      "quarter": "Háromszáz"
+    },
+    "contributors": "Céltevők",
+    "stars": "Csillagok",
+    "sparkline": "A {{name}}-es kötelezettségvállalási tevékenység",
+    "vsPrevious": "{{change}} vs. előző időszak",
+    "up": "Felé!",
+    "down": "Le!",
+    "caption": "A kiválasztott időszakban elkötelezett kötelezettségek · szimulált adattárak",
+    "col": {
+      "repository": "Könyvtár",
+      "language": "Nyelv",
+      "commits": "Kötelezettségek",
+      "change": "Változás",
+      "trend": "Trend"
+    },
+    "commitsCount": "Kötelezettségek: {{count}}",
+    "demoNote": "Demo adat: ez a tároló fiktív, és tevékenységét szimulálják.",
+    "emptyBody": "Ebben az időszakban nincs tároló tevékenység.",
+    "emptyTitle": "A tároló nem rendelkezik tevékenységgel",
+    "history": "Célos tevékenység"
+  }
+}

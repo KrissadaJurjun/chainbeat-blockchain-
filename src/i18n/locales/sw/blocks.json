@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "Sehemu {{height}}",
+    "invalid": "Urefu usiofaa wa block",
+    "description": "Maelezo ya block simulated juu ya {{chain}}.",
+    "previous": "Sehemu ya awali",
+    "next": "Blogi inayofuata",
+    "notFoundTitle": "Block haipatikani",
+    "notFoundBody": "{{chain}} haina block katika urefu huu bado.",
+    "transactions_one": "{{count}} shughuli",
+    "transactions_other": "{{count}} shughuli",
+    "txCaption": "shughuli katika kundi {{height}}",
+    "noTxs": "Blogu hii haina shughuli",
+    "genesis": "Mwanzo block",
+    "parentHash": "Mzazi hash",
+    "demoTxs": "Demo shughuli za mkoba katika urefu huu",
+    "demoTxsNote": "Hizi ziliundwa na Demo mkoba. Wao si sehemu ya simulated block wenyewe shughuli hesabu."
+  },
+  "blocksPage": {
+    "description": "Sehemu za hivi karibuni kwenye {{chain}}. Orodha hufanywa upya mara moja kwa kila mlango.",
+    "live": "Kuishi",
+    "avgGas": "Gesi ya Avg. inayotumiwa",
+    "tableCaption": "Bloki za mwisho kwenye {{chain}}",
+    "proposer": "Mpendwa",
+    "txs": "Txs",
+    "gas": "Gesi iliyotumika",
+    "size": "Ukubwa",
+    "emptyTitle": "Hakuna vitalu vilivyopatikana",
+    "filterPlaceholder": "Kichujio kwa urefu, hash au uthibitishaji",
+    "filtersLabel": "Vichujio vya kuzuia",
+    "finality": "Mwisho",
+    "finalityNote": "Vizuizi kwenye aina hii ya mtandao ni ya mwisho mara tu wao ni kuanzishwa.",
+    "finalized": "Imekamilika",
+    "withTxsOnly": "Tu blocks na shughuli"
+  }
+}

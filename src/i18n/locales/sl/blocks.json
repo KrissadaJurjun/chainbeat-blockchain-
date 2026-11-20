@@ -1,0 +1,38 @@
+{
+  "blockDetail": {
+    "title": "Blok {{height}}",
+    "invalid": "Neveljavna višina blokov",
+    "description": "Podrobnosti simuliranega bloku na {{chain}}.",
+    "previous": "Predhodni blok",
+    "next": "Naslednji blok",
+    "notFoundTitle": "Blok ne najdemo",
+    "notFoundBody": "{{chain}} še ni blokiral na tej višini.",
+    "transactions_one": "{{count}} transakcija",
+    "transactions_two": "{{count}} transakcije",
+    "transactions_few": "{{count}} transakcije",
+    "transactions_other": "{{count}} transakcij",
+    "txCaption": "Transakcije v bloku {{height}}",
+    "noTxs": "Ta blok nima transakcij",
+    "genesis": "Blok Genesis",
+    "parentHash": "Starševska hrošča",
+    "demoTxs": "Demo transakcije v denarnici na tej višini",
+    "demoTxsNote": "To je ustvaril denarnica Demo, ki ni del računa transakcij simuliranega bloka."
+  },
+  "blocksPage": {
+    "description": "Najnovejši blokovi na {{chain}} se seznam posodablja enkrat na blok.",
+    "live": "Živeti",
+    "avgGas": "Uporabljen avg. plin",
+    "tableCaption": "Zadnji blok na {{chain}}",
+    "proposer": "Predlagatelj",
+    "txs": "Txs",
+    "gas": "Porabljen gas",
+    "size": "Velikost",
+    "emptyTitle": "Nobenih blokov ni bilo",
+    "filterPlaceholder": "Filter po višini, hash ali validatorju",
+    "filtersLabel": "Filtri za blokiranje",
+    "finality": "Končni dogodek",
+    "finalityNote": "Blokovi na takšnem omrežju so končni takoj, ko se izvajajo.",
+    "finalized": "Dokončana",
+    "withTxsOnly": "Samo blokovi z transakcijami"
+  }
+}

@@ -1,0 +1,130 @@
+Irányítópult
+Validátorok
+Javaslatok
+Blokkok
+Tranzakciók
+Portfólió
+Csere
+Staking
+Likvid staking
+Küldés
+Szavazás
+Javaslat létrehozása
+Piac
+Hálózat
+Kormányzás
+IBC-hálózat
+Fejlesztői aktivitás
+Többláncos áttekintés
+Szívverés
+Dominancia
+Blokkböngésző
+Tranzakcióböngésző
+Tokenböngésző
+Névjegy
+Böngésző
+Beállítások
+Tárca
+Elemzések
+Vizualizációk
+Nyelv
+Téma
+Rendszer
+Sötét
+Világos
+Demó
+Szimulált
+Bezárás
+Újrapróbálás
+Frissítés
+Másolás
+Másolva
+Törlés
+Betöltés…
+Előző
+Következő
+Elvetés
+Mégse
+Vissza
+Összes megtekintése
+Visszaállítás
+Exportálás
+Max.
+Összeg
+Egyenleg
+Díj
+Állapot
+Összesen
+Idő
+Magasság
+Hash
+Típus
+Összes
+Keresés
+Szűrés
+Részletek
+Megerősítés
+Tárca csatlakoztatása
+Leválasztás
+Tranzakció áttekintése
+Hálózati díj
+Cím másolása
+Ön fizet
+Ön kap
+Címzett címe
+Megjegyzés (nem kötelező)
+Eszközök
+Eloszlás
+Delegált
+Staking visszavonása
+Árfolyam
+Sikeres
+Tranzakció
+Blokk
+Feladó
+Címzett
+Megjegyzés
+Felhasznált gas
+Validátor
+Token
+Cím
+Javaslat
+Ár
+Kínálat
+Piaci kapitalizáció
+Jutalék
+Rendelkezésre állás
+Szavazati erő
+Rang
+Aktív
+Inaktív
+Bebörtönzött
+Delegálók
+Igen
+Nem
+Tartózkodás
+Nem vétóval
+Elfogadva
+Elutasítva
+Sikertelen
+Szavazás folyamatban
+Határozatképesség
+Részvétel
+Letét
+Az Ön szavazata
+Megnevezés
+Leírás
+Láncon belüli mutatók
+Blokkmagasság
+Tx / blokk
+Blokkidő
+Staking APR
+Lekötött tokenek
+Teljes kínálat
+Közösségi alap
+Az oldal nem található
+Vissza az irányítópultra
+Legújabb blokkok
+Legújabb tranzakciók
+Értesítések
+Egyéb

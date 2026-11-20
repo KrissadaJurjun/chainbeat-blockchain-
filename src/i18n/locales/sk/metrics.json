@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Metriky on-chain",
+    "exportCsv": "Vývoz ako CSV",
+    "exported": "Metriky vyvážané ako CSV.",
+    "openAnalytics": "Otvorená sieťová analýza",
+    "last24h": "Posledné 24 hodín",
+    "sparklineLabel": "Trendy v posledných 24 hodinách",
+    "change24h": "Zmena 24 hodín",
+    "blocks": "bloky",
+    "exact": "Presná hodnota",
+    "bondedRatio": "Zodpovedné pomery",
+    "poolShare": "Podiel dodávok",
+    "tokenPrice": "Cena tokenu",
+    "inputInflation": "Inflácia",
+    "inputTax": "Daň Spoločenstva",
+    "inputBonded": "Zodpovedné pomery",
+    "csvMetric": "Metrická hodnota",
+    "csvValue": "Hodnota",
+    "csvUnit": "Jednotka",
+    "csvChange24h": "24hodinová zmena",
+    "blockHeight": {
+      "label": "Výška bloku",
+      "description": "Počet blokov vyrobených od vzniku rastie o jeden s každým novým blokom."
+    },
+    "totalTransactions": {
+      "label": "Transakcie",
+      "description": "Celkové transakcie spracované sieťou od vzniku."
+    },
+    "txPerBlock": {
+      "label": "Tx na blok",
+      "description": "Priemerný počet zahrnutých transakcií na blok, meraný za posledných 100 blokov."
+    },
+    "blockTime": {
+      "label": "Čas bloku",
+      "description": "Priemerný čas medzi po sebe nasledujúcimi blokmi, meraný počas posledných 100 blokov."
+    },
+    "inflation": {
+      "label": "Inflácia",
+      "description": "Ročná sadzba, za ktorú sa vyrábajú nové tokeny na odmenu účastníkov a financovanie komunitného fondu."
+    },
+    "stakingApr": {
+      "label": "APR stakingu",
+      "description": "Odhadovaná ročná návratnosť zaviazaných tokensov pred províziou validátora.",
+      "formula": "APR = inflácia × (1 − zdanenie Spoločenstva) ÷ pomer záväzkov"
+    },
+    "bondedTokens": {
+      "label": "Viazané tokeny",
+      "description": "Tokeny, ktoré sú v súčasnosti uložené s aktívnymi validátormi.",
+      "formula": "Obligované = celkové dodávky × pomer obligovaných"
+    },
+    "totalSupply": {
+      "label": "Celková ponuka",
+      "description": "Všetky existujúce tokeny, vrátane tých, ktoré sú v stávke, rastú s infláciou."
+    },
+    "communityPool": {
+      "label": "Komunitný fond",
+      "description": "Tokeny ovládané riadením v reťazci. podiel inflácie prúdi; úspešné návrhy ho utrácajú.",
+      "formula": "Hladina rastie podľa ponuky × inflácie × dane Spoločenstva"
+    },
+    "poolValue": {
+      "label": "Hodnota bazénu",
+      "description": "Odhadovaná hodnota komunitného fondu v amerických dolároch za simulovanú cenu tokenu.",
+      "formula": "hodnota = pool × cena tokenu"
+    }
+  }
+}

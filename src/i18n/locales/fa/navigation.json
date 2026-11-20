@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "حرکت در لبه جانبی",
+    "primary": "ناوبری اصلی",
+    "menu": "مینیو ناوبری",
+    "openMenu": "مینیو ناوبری باز",
+    "closeMenu": "مینیو ناوبری را ببندید",
+    "collapseSidebar": "لبه جانبی سقوط",
+    "expandSidebar": "لبه ی جانبی را گسترش دهید",
+    "skipToContent": "به محتوای اصلی کلیک کنید",
+    "home": "خانه \" چین بیت \"",
+    "pages": "صفحات",
+    "dashboard": "داشبورد",
+    "validators": "اعتبارسنج‌ها",
+    "proposals": "پیشنهادها",
+    "blocks": "بلوک‌ها",
+    "transactions": "تراکنش‌ها",
+    "portfolio": "سبد دارایی",
+    "swap": "تعویض",
+    "stake": "استیکینگ",
+    "liquidStaking": "استیکینگ نقدشونده",
+    "send": "ارسال",
+    "vote": "رأی‌گیری",
+    "createProposal": "ایجاد پیشنهاد",
+    "market": "بازار",
+    "network": "شبکه",
+    "governance": "حاکمیت",
+    "ibcNetwork": "شبکه IBC",
+    "devActivity": "فعالیت توسعه‌دهندگان",
+    "multichain": "نمای کلی چندزنجیره‌ای",
+    "heartbeat": "ضربان",
+    "dominance": "تسلط",
+    "validatorsViz": "اعتبارسنج‌ها",
+    "blockExplorer": "کاوشگر بلوک",
+    "transactionExplorer": "کاوشگر تراکنش",
+    "tokenExplorer": "کاوشگر توکن",
+    "about": "درباره",
+    "explorerHome": "کاوشگر",
+    "governanceHome": "مرکز حاکمیت",
+    "settings": "تنظیمات"
+  },
+  "sections": {
+    "explorer": "کاوشگر",
+    "wallet": "کیف پول",
+    "analytics": "تحلیل‌ها",
+    "visualizations": "نمایش‌های بصری"
+  },
+  "chains": {
+    "favorite": "{{name}} رو به favorites اضافه کن",
+    "unfavorite": "شماره {{name}} رو از favorites حذف کن",
+    "simulatedHealthy": "شبکه شبیه سازی شده · سالم"
+  },
+  "search": {
+    "label": "جستجوی چین بیت",
+    "placeholder": "بلوک جستجو، تکس، آدرس...",
+    "results": "نتایج جستجو",
+    "noResults": "هیچ نتیجه ای برای {{query}}",
+    "kinds": {
+      "page": "صفحه",
+      "block": "بلوک",
+      "transaction": "Tx",
+      "validator": "اعتبارسنج",
+      "token": "توکن",
+      "address": "آدرس",
+      "proposal": "پیشنهاد"
+    },
+    "recent": "جستجوهای اخیر",
+    "clearRecent": "جستجوهای اخیر",
+    "removeRecent": "{{query}} را از جستجوهای اخیر حذف کنید",
+    "hint": "یک بلوک ارتفاع، یک تراکنش هش، یک آدرس را امتحان کنید ( {{prefix}} 1...), یک اعتبار دهنده، یک شماره پیشنهاد یا یک نام نشان.",
+    "submit": "جستجو",
+    "searching": "دنبالش ميگردم...",
+    "resultCount": "نتایج: {{count}}",
+    "invalid": {
+      "tooLong": "این برای یک اصطلاح جستجو خیلی طولانی است (زیاتر 200 حرف).",
+      "badChecksum": "به نظر مياد يه آدرس باشه ولي رقم چکش با هم مطابقت نداره.",
+      "badHash": "یک تراکنش یا بلوک هاش دقیقاً 64 حرف شش اعشاری دارد.",
+      "badChars": "دنبال ارتفاع بلوک، هشتگ، آدرس، اعتبارگر، پیشنهاد یا توکن بگردید."
+    },
+    "categories": {
+      "page": "صفحات",
+      "block": "بلوک‌ها",
+      "transaction": "تراکنش‌ها",
+      "address": "آدرس ها",
+      "validator": "اعتبارسنج‌ها",
+      "proposal": "پیشنهادها",
+      "token": "توکن ها"
+    }
+  },
+  "user": {
+    "menu": "مینیو حساب",
+    "guest": "مهمان",
+    "notConnected": "هیچ کیف پول متصل نیست",
+    "settings": "تنظیمات",
+    "about": "درباره \" چین بیت \""
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simulert",
+    "close": "Lukk",
+    "retry": "Prøv igjen",
+    "refresh": "Oppdater",
+    "copy": "Kopier",
+    "copied": "Kopiert",
+    "clear": "Tøm",
+    "loading": "Laster…",
+    "options": "Alternativer",
+    "previous": "Forrige",
+    "next": "Neste",
+    "pagination": "Paginering",
+    "pageN": "Siden {{n}}",
+    "dismiss": "Avvis",
+    "cancel": "Avbryt",
+    "viewAll": "Se alle",
+    "max": "Maks",
+    "amount": "Beløp",
+    "balance": "Saldo",
+    "fee": "Gebyr",
+    "status": "Status",
+    "time": "Tid",
+    "height": "Høyde",
+    "hash": "Hash",
+    "type": "Type",
+    "all": "Alle",
+    "showing": "Å vise {{from}} {{to}} av {{total}}",
+    "noResults": "Ingen resultater samsvarer med filtrene dine.",
+    "rowsPerPage": "Råer per side",
+    "actions": "Handlinger",
+    "exportCsv": "Eksport CSV",
+    "details": "Detaljer",
+    "clearFilters": "Klar filter",
+    "collapseAll": "Kollapse alle",
+    "copyJson": "Kopiere JSON",
+    "expandAll": "Utvide alt",
+    "showMore": "Vis {{count}} mer"
+  },
+  "language": {
+    "label": "Språk",
+    "search": "Søkspråk"
+  },
+  "theme": {
+    "label": "Tema",
+    "system": "System",
+    "dark": "Mørk",
+    "light": "Lys"
+  },
+  "footer": {
+    "tagline": "Utforsk blokker, spore transaksjoner, forstå Web3.",
+    "demo": "Demo Modus alle tall er simulert og er ikke reelle nettstatistikker.",
+    "share": "Del",
+    "linkCopied": "Link kopiert til klippbrettet.",
+    "docs": "Dokumentasjon",
+    "links": "Fods linker",
+    "modeDemo": "Demo Nett",
+    "repository": "Repositoriet",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Siden ble ikke funnet",
+    "body": "Siden du leter etter eksisterer ikke eller har flyttet.",
+    "home": "Tilbake til dashbordet"
+  },
+  "gate": {
+    "title": "Koble lommeboken Demo for å fortsette",
+    "body": "Denne arbeidsflyten kjører på en simulert lommebok. Koble lommebok Demo for å prøve det ingenting ekte er noen gang signert eller sendt.",
+    "realTitle": "En ekte lommebok er koblet",
+    "realBody": "{{address}} er koblet, men ChainBeat Demo Mode signerer eller sender aldri transaksjoner. Skifte til Demo lommeboken for å prøve denne arbeidsflyten.",
+    "useDemo": "Bruk lommeboken Demo"
+  }
+}

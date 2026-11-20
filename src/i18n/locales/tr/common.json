@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simüle",
+    "close": "Kapat",
+    "retry": "Tekrar dene",
+    "refresh": "Yenile",
+    "copy": "Kopyala",
+    "copied": "Kopyalandı",
+    "clear": "Temizle",
+    "loading": "Yükleniyor…",
+    "options": "Seçenekler",
+    "previous": "Önceki",
+    "next": "Sonraki",
+    "pagination": "Sayfalama",
+    "pageN": "Sayfa {{n}}",
+    "dismiss": "Gizle",
+    "cancel": "İptal",
+    "viewAll": "Tümünü gör",
+    "max": "Maks.",
+    "amount": "Tutar",
+    "balance": "Bakiye",
+    "fee": "Ücret",
+    "status": "Durum",
+    "time": "Zaman",
+    "height": "Yükseklik",
+    "hash": "Hash",
+    "type": "Tür",
+    "all": "Tümü",
+    "showing": "Göstermek {{from}} {{to}} {{total}}",
+    "noResults": "Sıfırlarınızla hiçbir sonuç eşleşmiyor.",
+    "rowsPerPage": "Sayfa başına sıralar",
+    "actions": "Eylemler",
+    "exportCsv": "İhracat CSV",
+    "details": "Ayrıntılar",
+    "clearFilters": "Açık filtreler",
+    "collapseAll": "Hepsi çöktü",
+    "copyJson": "JSON kopyası",
+    "expandAll": "Hepsini genişlet",
+    "showMore": "{{count}} daha göster"
+  },
+  "language": {
+    "label": "Dil",
+    "search": "Arama dilleri"
+  },
+  "theme": {
+    "label": "Tema",
+    "system": "Sistem",
+    "dark": "Koyu",
+    "light": "Açık"
+  },
+  "footer": {
+    "tagline": "Blokları keşfet, işlemleri izle ve Web3'i anla.",
+    "demo": "Demo Mod tüm rakamlar simüle edilmiştir ve gerçek ağ istatistikleri değildir.",
+    "share": "Paylaşmak",
+    "linkCopied": "Bağlantı çubuğa kopyalandı.",
+    "docs": "Belgeler",
+    "links": "Altyazı bağlantıları",
+    "modeDemo": "Demo Ağ",
+    "repository": "Depolama",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "body": "Aradığınız sayfa mevcut değil ya da taşındı.",
+    "home": "Panele dön"
+  },
+  "gate": {
+    "title": "Demo cüzdanı devam etmek için bağla",
+    "body": "Bu iş akışı simülasyon bir cüzdanda çalışır. Denemek için Demo cüzdanı bağlayın.",
+    "realTitle": "Gerçek bir cüzdan bağlantılı",
+    "realBody": "{{address}} bağlantılıdır, ama ChainBeat Demo Mod hiçbir zaman işlemleri imzalamaz veya yayınlamaz. Bu iş akışını denemek için Demo cüzdanına geçin.",
+    "useDemo": "Demo cüzdanını kullan"
+  }
+}

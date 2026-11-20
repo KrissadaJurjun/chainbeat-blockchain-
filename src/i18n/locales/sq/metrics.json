@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Metrikat on-chain",
+    "exportCsv": "Eksporti si CSV",
+    "exported": "Metrika të eksportuara si CSV.",
+    "openAnalytics": "Analizat e rrjetit të hapur",
+    "last24h": "24 orët e fundit",
+    "sparklineLabel": "Trend në 24 orët e fundit",
+    "change24h": "Ndryshimi 24 orë",
+    "blocks": "blloqe",
+    "exact": "Vlera e saktë",
+    "bondedRatio": "Raporti i lidhur",
+    "poolShare": "Pjesë e furnizimit",
+    "tokenPrice": "Çmimi i tokenit",
+    "inputInflation": "Inflacioni",
+    "inputTax": "Tatimi komunitar",
+    "inputBonded": "Raporti i lidhur",
+    "csvMetric": "Metrikë",
+    "csvValue": "Vlera",
+    "csvUnit": "Njësia",
+    "csvChange24h": "Ndryshimi 24 orë",
+    "blockHeight": {
+      "label": "Lartësia e bllokut",
+      "description": "Numri i blloqeve të prodhuara që nga gjenesi, rritet me një me çdo blloq të ri."
+    },
+    "totalTransactions": {
+      "label": "Transaksionet",
+      "description": "Transaksionet totale të përpunuara nga rrjeti që nga gjenesi."
+    },
+    "txPerBlock": {
+      "label": "Transaksione për bllok",
+      "description": "Numri mesatar i transaksioneve të përfshira për blok, i matur gjatë 100 blokëve të fundit."
+    },
+    "blockTime": {
+      "label": "Koha e bllokut",
+      "description": "Koha mesatare midis blloqeve të radhës, e matur gjatë 100 blloqeve të fundit."
+    },
+    "inflation": {
+      "label": "Inflacioni",
+      "description": "Tarifi vjetor me të cilin shënohen tokenë të rinj për të shpërblyer pjesëmarrësit dhe për të financuar fondin e komunitetit."
+    },
+    "stakingApr": {
+      "label": "APR i stakingut",
+      "description": "Përfitimi i vlerësuar vjetor i tokenave të plasuar, para komisionit të validatorit.",
+      "formula": "APR = inflacion × (1 − taksa e komunitetit) ÷ raport i obligimeve"
+    },
+    "bondedTokens": {
+      "label": "Tokenë të lidhur",
+      "description": "Tokenët aktualisht të vendosura me validatorë aktivë.",
+      "formula": "i lidhur = furnizim total × raport i lidhur"
+    },
+    "totalSupply": {
+      "label": "Oferta totale",
+      "description": "Çdo token që ekziston, duke përfshirë ato që janë të vështira, rritet me inflacionin."
+    },
+    "communityPool": {
+      "label": "Fondi i komunitetit",
+      "description": "Tokenet e kontrolluara nga qeverisja në zinxhir. Një pjesë e inflacionit rrjedh në; propozimet e suksesshme shpenzojnë atë.",
+      "formula": "Pool rritet sipas furnizimit × inflacionit × taksave të komunitetit"
+    },
+    "poolValue": {
+      "label": "Vlera e bazës",
+      "description": "Vlera e vlerësuar në dollarë amerikanë e bazës së komunitetit në çmimin e simuluar të tokenit.",
+      "formula": "vlera = pool × çmimi i tokenit"
+    }
+  }
+}

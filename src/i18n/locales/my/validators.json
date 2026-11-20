@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "ချိတ်ဆက်ထားသော Vals",
+    "viewAll": "Validator အားလုံးကို ကြည့်ပါ။",
+    "col": {
+      "validator": "ဗယ်လီဒေတာ",
+      "power": "မဲပေးအား",
+      "cumulative": "စုစုပေါင်း",
+      "commission": "ကော်မရှင်",
+      "uptime": "အလုပ်လုပ်ချိန်",
+      "change": "24 နာရီ အပြောင်းအလဲ",
+      "details": "အသေးစိတ်",
+      "tokens": "ချုပ်ဆိုထားသော လက်မှတ်များ"
+    },
+    "stake": "စတေ့ခ်",
+    "stakeWith": "ဒီအတည်ပြုကိရိယာနဲ့ စွန့်စားပါ။",
+    "pageDescription": "အတည်ပြုသူတိုင်းက {{chain}} ကို လုံခြုံစေတယ်၊ မဲပေးစွမ်းအားအရ အဆင့်သတ်မှတ်ထားတယ်။ (တုန်လှုပ်ထားတယ်။).",
+    "stats": {
+      "active": "Active validators များ",
+      "nakamoto": "Nakamoto ပမာဏ",
+      "nakamotoHint": "သံကြိုးကို ရပ်တန့်ရန် လိုအပ်သော အတည်ပြုကိရိယာများ",
+      "top10": "Top-10 မဲပေးစွမ်းအား",
+      "commission": "ပျမ်းမျှ ကော်မရှင်"
+    },
+    "filterPlaceholder": "အမည် သို့မဟုတ်လိပ်စာဖြင့် စစ်ဆေးခြင်း",
+    "statusFilter": "အတည်ပြုသူအခြေအနေ",
+    "tableCaption": "အတည်ပြုကိရိယာ {{chain}}",
+    "detailDescription": "{{chain}} မှာ simulated validator တစ်ခုပါ။.",
+    "detail": {
+      "delegators": "ကိုယ်စားလှယ်အပ်သူများ",
+      "bonded": "ချိတ်ဆက်ထားသော လက်မှတ်များ",
+      "last30": "နောက်ဆုံး ရက် 30",
+      "last90": "နောက်ဆုံး ရက် 90",
+      "noBlocks": "မကြာသေးခင်က အဆိုပြုထားတဲ့ ဘလော့ကဒ်တွေ မရှိဘူး။.",
+      "noWebsite": "မရရှိနိုင် (အတုအယောင် validator)",
+      "openPage": "စာမျက်နှာတစ်ခုလုံးကို ဖွင့်ပါ",
+      "powerHistory": "မဲပေးအား",
+      "proposed24h": "အဆိုပြုသော ဘလော့များ (24 h)",
+      "rank": "အဆင့်",
+      "recentBlocks": "မကြာသေးမီက အဆိုပြုထားသော ဘလော့ခ်များ",
+      "selfBonded": "မိမိကိုယ်ကို ချုပ်နှောင်ထားခြင်း",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "အလုပ်လုပ်ချိန်",
+      "valueUsd": "စွန့်စားမှုတန်ဖိုး {{value}}",
+      "website": "ဝက်ဘ်ဆိုက်"
+    },
+    "status": {
+      "active": "တက်ကြွသော",
+      "inactive": "မတက်ကြွသော",
+      "jailed": "ထောင်ချထားသော"
+    },
+    "activitiesTitle": "အတည်ပြုသူ လုပ်ဆောင်ချက်များ",
+    "commissionShort": "အခကြေး {{value}}",
+    "detailTitle": "ဗယ်လီဒေတာ",
+    "fictionalNote": "Demo Mode အတွက် စိတ်ကူးယဉ် validator ပါ။ ဒါက တကယ့် operator မဟုတ်ဘူး၊ ဒါနဲ့ပတ်သက်ပြီး ဘာမှ စစ်ဆေးခြင်းမရှိဘူး။.",
+    "hoverTip": "ကော်မရှင် {{commission}} · လုပ်အားချိန် {{uptime}} · {{delegators}} ကိုယ်စားလှယ်",
+    "noMatching": "ကိုက်ညီတဲ့ အတည်ပြုကိရိယာတွေ မရှိဘူး။.",
+    "notFoundBody": "{{chain}} မှာ ဒီလိပ်စာနဲ့ validator မရှိဘူး။.",
+    "notFoundTitle": "Validator မတွေ့ရသေး",
+    "sort": {
+      "power": "မဲပေးအား",
+      "commission": "ကော်မရှင်",
+      "uptime": "အလုပ်လုပ်ချိန်"
+    },
+    "sortBy": "Validator တွေကို"
+  },
+  "validatorsViz": {
+    "description": "{{chain}} မှာ validator တစ်ခုစီအတွက် Commission versus uptime ပါ။ ပူဖောင်းအရွယ်အစားက မဲပေးစွမ်းအားကို ပြသတယ်။.",
+    "showAll": "အလုပ်မလုပ်သူ၊ ထောင်ချခံရသူတို့ကို ထည့်သွင်းပါ။",
+    "avgUptime": "ပျမ်းမျှအလုပ်လုပ်ချိန်",
+    "zeroFee": "0 ကော်မရှင်မရှိသော အတည်ပြုကိရိယာများ",
+    "chartTitle": "ကော်မရှင်နဲ့ အပိုလုပ်ချိန်",
+    "chartHint": "ပူဖောင်းတိုင်းဟာ validator တစ်ခုပါ။",
+    "legend": "စံပုံပြင် ဒဏ္ဍာရီ",
+    "sizeHint": "ပူဖောင်းအရွယ်အစား = မဲပေးစွမ်းအား"
+  }
+}

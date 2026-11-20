@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Metrike na verigi",
+    "exportCsv": "Izvoz kot CSV",
+    "exported": "Meritve, izvožene kot CSV.",
+    "openAnalytics": "Odprta analiza omrežja",
+    "last24h": "V zadnjih 24 urah",
+    "sparklineLabel": "Trend v zadnjih 24 urah",
+    "change24h": "24 urna sprememba",
+    "blocks": "blokovi",
+    "exact": "Presna vrednost",
+    "bondedRatio": "Obvezni delež",
+    "poolShare": "Delež dobave",
+    "tokenPrice": "Cena žetonov",
+    "inputInflation": "Inflacija",
+    "inputTax": "Obvezni davek",
+    "inputBonded": "Obvezni delež",
+    "csvMetric": "Metrika",
+    "csvValue": "Vrednost",
+    "csvUnit": "Enota",
+    "csvChange24h": "24 urna sprememba",
+    "blockHeight": {
+      "label": "Višina bloka",
+      "description": "Število blokov, proizvedenih od začetka, se povečuje za enega z vsakim novim blokom."
+    },
+    "totalTransactions": {
+      "label": "Transakcije",
+      "description": "Skupna količina transakcij, ki jih omrežje obdeluje od začetka."
+    },
+    "txPerBlock": {
+      "label": "Transakcij na blok",
+      "description": "Povprečni število vključenih transakcij na blok, merjen v zadnjih 100 blokih."
+    },
+    "blockTime": {
+      "label": "Čas bloka",
+      "description": "Povprečen čas med zaporednimi blokovi, izmerjen v zadnjih 100 blokih."
+    },
+    "inflation": {
+      "label": "Inflacija",
+      "description": "Letna stopnja, po kateri se novimi žetonmi izpijejo, da nagrajujejo deležnike in financirajo skupnost."
+    },
+    "stakingApr": {
+      "label": "APR stakinga",
+      "description": "Predhodna letna donosnost tveganih žetonov pred komisijo za potrjevanje.",
+      "formula": "APR = inflacija × (1 − davek Skupnosti) ÷ razmerje obveznic"
+    },
+    "bondedTokens": {
+      "label": "Vezani žetoni",
+      "description": "Tokeni, ki so trenutno zavezani z aktivnimi validatorji.",
+      "formula": "obvezane = skupna dobava × razmerje obvezane"
+    },
+    "totalSupply": {
+      "label": "Skupna ponudba",
+      "description": "Vse znamke, vključno s tistimi, ki so v igri, rastejo s inflacijo."
+    },
+    "communityPool": {
+      "label": "Skupnostni sklad",
+      "description": "Tokeni, ki jih nadzoruje upravljanje na verigi.",
+      "formula": "Bomba raste glede na ponudbo × inflacijo × davek Skupnosti"
+    },
+    "poolValue": {
+      "label": "Vrednost bazena",
+      "description": "Ocenjena vrednost skupnega bazena v ameriških dolarjih po simulirani ceni tokena.",
+      "formula": "vrednost = zbirka × cena tokena"
+    }
+  }
+}

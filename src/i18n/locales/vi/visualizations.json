@@ -1,0 +1,56 @@
+{
+  "ibcPage": {
+    "description": "Làm thế nào các token di chuyển giữa các chuỗi trên IBC. các liên kết dày hơn có nghĩa là khối lượng 24 giờ nhiều hơn.",
+    "volume": "24h IBC khối lượng",
+    "chains": "Các chuỗi kết nối",
+    "links": "Các kênh hoạt động",
+    "busiest": "Con đường bận rộn nhất",
+    "mapLabel": "Bản đồ của IBC kết nối giữa các chuỗi",
+    "nodeLabel": "{{name}}: {{volume}} trong 24 giờ qua {{channels}} kênh",
+    "hint": "Hover, tập trung hoặc chọn một chuỗi để làm nổi bật các kết nối của nó. kéo đến pan; sử dụng Ctrl hoặc với bánh xe cuộn, các phím + và − hoặc các nút để phóng to; nhấn 0 để thiết lập lại.",
+    "channelsOf": "Các kênh của {{name}}",
+    "topChannels": "Các kênh cao nhất theo khối lượng",
+    "transfers_other": "{{count, number}} chuyển nhượng",
+    "info": {
+      "volume": "Số lượng (24 giờ)",
+      "channels": "Các kênh",
+      "share": "Tỷ lệ của khối lượng IBC",
+      "partner": "Đối tác bận rộn nhất"
+    }
+  },
+  "multichainPage": {
+    "description": "Hệ sinh thái kiểu Cosmos rộng hơn trong một cái nhìn mô phỏng các con số cho mỗi chuỗi kết nối.",
+    "chains": "Các chuỗi",
+    "tvl": "Tổng giá trị khóa",
+    "validators": "Trình xác thực",
+    "tx24h": "Giao dịch (24h)",
+    "height": "Độ cao khối",
+    "open": "Mở bảng điều khiển",
+    "switched": "Chuyển sang {{name}}",
+    "registryOnly": "Đăng ký cho bản demo chưa được chọn",
+    "tvlByChain": "TVL theo chuỗi",
+    "tvlHint": "Giá trị tổng được khóa mô phỏng",
+    "explainTitle": "Các số liệu có nghĩa là gì",
+    "explainHint": "Các định nghĩa ngôn ngữ đơn giản của các con số trên trang này. Tất cả các giá trị được mô phỏng.",
+    "explain": {
+      "tvl": "Giá trị của các token được đặt cược hoặc giữ trong nền kinh tế mô phỏng của mạng, với giá mô phỏng.",
+      "height": "Từ khi bắt đầu, chuỗi đã tạo ra bao nhiêu khối, nó tăng lên một khối với mỗi khối.",
+      "validators": "Các nhà khai thác đề xuất và ký các khối. Số lượng là kích thước của tập hợp hoạt động.",
+      "apr": "Phần thưởng hàng năm ước tính cho đặt cược, như một phần trăm trước khi ủy ban. Nó di chuyển với lạm phát và với tỷ lệ token được đặt cược.",
+      "bonded": "Tỷ lệ của tổng nguồn cung token được đặt cược. Một tỷ lệ lớn hơn có nghĩa là nhiều nguồn cung cấp hơn là đảm bảo chuỗi.",
+      "tx24h": "Các giao dịch được bao gồm trong các khối trong 24 giờ qua trên tất cả các chuỗi được liệt kê."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Nhịp tim của {{chain}}: mỗi khối là một nhịp khoảng cách theo thời gian khối, chiều cao theo số lượng giao dịch.",
+    "rate": "Tỷ lệ khối",
+    "perMinute": "khối/min",
+    "sinceLast": "Kể từ khối cuối cùng",
+    "txLastMinute": "Giao dịch (thời gian cuối cùng)",
+    "monitor": "Kiểm tra nhịp tim",
+    "legend": "Độ cao đập = giao dịch trong khối",
+    "chartLabel": "Theo dõi nhịp tim: {{rate}} khối mỗi phút, {{seconds}} giây giữa các khối",
+    "stream": "Block stream",
+    "txCount_other": "{{count}} txs"
+  }
+}

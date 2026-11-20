@@ -1,0 +1,102 @@
+{
+  "overview": {
+    "title": "Üldvaade",
+    "unit": "Toimivõimsuse indeks · Baas = 100 vahemikku alguses",
+    "refreshFailed": "Ma ei suutnud värskendada näitab viimased laaditud andmed."
+  },
+  "chart": {
+    "keyboardHint": "Kasutage nuga võtmed, et liikuda andmepunktide vahel.",
+    "summary": "Toetuse indeks üle {{range}}: {{details}}",
+    "rangeLabel": "Aegne vahemik",
+    "seriesLabel": "Kaartide seeria",
+    "keepOne": "Vähemalt üks seeria peab jääma nähtavaks",
+    "emptyTitle": "Selle piirkonna kohta ei ole andmeid",
+    "emptyBody": "Proovi teist ajavahemikku või värskenda.",
+    "range": {
+      "24H": "24 TUNDI",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "Viimased 24 tundi",
+      "7D": "Viimased 7 päeva",
+      "30D": "Viimased 30 päeva",
+      "90D": "Viimased 90 päeva"
+    },
+    "zoomControls": "Zoomi juhtimine",
+    "zoomIn": "Suurendage",
+    "zoomOut": "Zoom välja",
+    "resetView": "Vaatmine ümberarvestamine",
+    "zoomLevel": "Zoomi tase"
+  },
+  "proposals": {
+    "title": "Ettepanekud",
+    "filter": "Eelnõu filter",
+    "live": "Elavad",
+    "total": "Kokku",
+    "viewAll": "Vaata kõiki ettepanekuid",
+    "noneLive": "Ei ole otseseid ettepanekuid",
+    "noneLiveBody": "Praegu ei toimu juhtimist.",
+    "showAll": "Näita viimased ettepanekud",
+    "endsIn": "Lõpp {{time}}",
+    "turnout": "Osalus",
+    "vote": "Hääleta",
+    "status": {
+      "voting": "Hääletus käib",
+      "deposit": "Tagatis",
+      "passed": "Vastu võetud",
+      "rejected": "Tagasi lükatud",
+      "failed": "Ebaõnnestus"
+    },
+    "passed": "Vastu võetud",
+    "rejected": "Tagasi lükatud",
+    "noneMatching": "Ei ole vastavaid ettepanekuid",
+    "noneMatchingBody": "Mitte miski ei sobi praegu selle filteriga."
+  },
+  "dev": {
+    "title": "Arendajate tegevus",
+    "summary": "{{total}} sissemaksed",
+    "viewFull": "Avatud arendaja tegevus",
+    "heatmapLabel": "Toetuse soojuskaart: {{total}} toetust {{weeks}} nädala jooksul",
+    "less": "Vähem",
+    "more": "Rohkem",
+    "cellTitle_one": "{{count}} toetus {{date}}",
+    "cellTitle_other": "{{count}} toetust {{date}}",
+    "range": "Soojuskaardi vahemik",
+    "ranges": {
+      "month": "Kuu",
+      "quarter": "Kolmekümmend",
+      "year": "Aasta"
+    }
+  },
+  "repos": {
+    "title": "Aktiivne hoiukord",
+    "period": "Periood",
+    "periods": {
+      "week": "Nädal",
+      "month": "Kuu",
+      "year": "Aasta",
+      "quarter": "Kolmekümmend"
+    },
+    "contributors": "Osalejad",
+    "stars": "Tähed",
+    "sparkline": "{{name}} kohustuste tegemine",
+    "vsPrevious": "{{change}} vs eelmine periood",
+    "up": "Üle",
+    "down": "Allpool",
+    "caption": "Valitud perioodil võetud kohustused · simuleritud hoiukogud",
+    "col": {
+      "repository": "Repository",
+      "language": "Keel",
+      "commits": "Kohustuslikud kohustused",
+      "change": "Muutus",
+      "trend": "Trend"
+    },
+    "commitsCount": "Kohustused: {{count}}",
+    "demoNote": "Demo andmed: see repository on fiktiivne ja selle tegevus on simulatsiooniline.",
+    "emptyBody": "Selle perioodi jooksul ei ole hoiustamisaktiivsust.",
+    "emptyTitle": "Repositori tegevust ei ole",
+    "history": "Täiendav tegevus"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "데모",
+    "simulated": "시뮬레이션",
+    "close": "닫기",
+    "retry": "다시 시도",
+    "refresh": "새로고침",
+    "copy": "복사",
+    "copied": "복사됨",
+    "clear": "지우기",
+    "loading": "불러오는 중…",
+    "options": "옵션",
+    "previous": "이전",
+    "next": "다음",
+    "pagination": "페이지 이동",
+    "pageN": "{{n}}페이지",
+    "dismiss": "닫기",
+    "cancel": "취소",
+    "viewAll": "모두 보기",
+    "max": "최대",
+    "amount": "수량",
+    "balance": "잔액",
+    "fee": "수수료",
+    "status": "상태",
+    "time": "시간",
+    "height": "높이",
+    "hash": "해시",
+    "type": "유형",
+    "all": "전체",
+    "showing": "총 {{total}}개 중 {{from}}–{{to}}번째 표시",
+    "noResults": "필터와 일치하는 결과가 없습니다.",
+    "rowsPerPage": "페이지당 행 수",
+    "actions": "작업",
+    "exportCsv": "CSV 내보내기",
+    "details": "상세 정보",
+    "clearFilters": "맑은 필터",
+    "collapseAll": "모두 붕괴",
+    "copyJson": "JSON 복사",
+    "expandAll": "모든 것을 확장",
+    "showMore": "{{count}} 더 보여줘"
+  },
+  "language": {
+    "label": "언어",
+    "search": "언어 검색"
+  },
+  "theme": {
+    "label": "테마",
+    "system": "시스템",
+    "dark": "다크",
+    "light": "라이트"
+  },
+  "footer": {
+    "tagline": "블록을 탐색하고, 트랜잭션을 추적하고, Web3를 이해하세요.",
+    "demo": "데모 모드: 모든 수치는 시뮬레이션이며 실제 네트워크 통계가 아닙니다.",
+    "share": "공유",
+    "linkCopied": "링크를 클립보드에 복사했습니다.",
+    "docs": "문서화",
+    "links": "발자국 링크",
+    "modeDemo": "Demo 네트워크",
+    "repository": "저장소",
+    "version": "v{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "페이지를 찾을 수 없습니다",
+    "body": "찾으시는 페이지가 없거나 이동되었습니다.",
+    "home": "대시보드로 돌아가기"
+  },
+  "gate": {
+    "title": "계속하려면 데모 지갑을 연결하세요",
+    "body": "이 흐름은 시뮬레이션 지갑에서 실행됩니다. 데모 지갑을 연결해 체험해 보세요. 실제로 서명하거나 전송되는 것은 없습니다.",
+    "realTitle": "실제 지갑이 연결되어 있습니다",
+    "realBody": "{{address}}이(가) 연결되어 있지만, ChainBeat 데모 모드는 트랜잭션에 서명하거나 전송하지 않습니다. 이 흐름을 체험하려면 데모 지갑으로 전환하세요.",
+    "useDemo": "데모 지갑 사용"
+  }
+}

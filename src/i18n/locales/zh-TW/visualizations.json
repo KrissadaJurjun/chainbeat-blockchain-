@@ -1,0 +1,56 @@
+{
+  "ibcPage": {
+    "description": "密碼如何在IBC個連鎖之間流動.",
+    "volume": "24h IBC 音量",
+    "chains": "連接的連鎖",
+    "links": "活跃的頻道",
+    "busiest": "最繁忙的路線",
+    "mapLabel": "鎖之間的 IBC 個連接地圖",
+    "nodeLabel": "{{name}} 其他國家: {{volume}} 在 24 小時內, {{channels}} 道",
+    "hint": "覽,聚焦或選擇連鎖以突顯其連結. 拖到面板;使用Ctrl或,隨著滚動輪, + 和 − 鍵,或放大按; 按0重置.",
+    "channelsOf": "{{name}}號的通道",
+    "topChannels": "按量排列的最高頻道",
+    "transfers_other": "{{count, number}} 轉讓",
+    "info": {
+      "volume": "數量 (24 小時)",
+      "channels": "道",
+      "share": "IBC 卷的份额",
+      "partner": "我們最忙碌的伴侶"
+    }
+  },
+  "multichainPage": {
+    "description": "模擬每個連接連鎖的數字.",
+    "chains": "鎖 鎖",
+    "tvl": "封鎖的總值",
+    "validators": "驗證者",
+    "tx24h": "交易時間 (24小時)",
+    "height": "區塊高度",
+    "open": "打開儀表板",
+    "switched": "轉換為{{name}}",
+    "registryOnly": "已註冊參加演示活動 尚未可選",
+    "tvlByChain": "按連鎖的TVL",
+    "tvlHint": "模擬封鎖的總值",
+    "explainTitle": "這些指數意味著什麼?",
+    "explainHint": "在本頁面上顯示的數字的簡體定義.",
+    "explain": {
+      "tvl": "在網路模擬經濟中投注或持有的代幣的價值,以模擬價格.",
+      "height": "該連鎖自成立後已產生了多少塊, 每個塊都增加一塊.",
+      "validators": "數字是活動集的尺寸.",
+      "apr": "預計每年的獎勵為賭注, 在佣金之前的百分比. 它隨著通胀和投注的代幣份额而移動.",
+      "bonded": "更多的數量意味著更多的數量確保連鎖.",
+      "tx24h": "在過去24小時內,。"
+    }
+  },
+  "heartbeatPage": {
+    "description": "的脈動 {{chain}} 每個區塊都是節拍 隔離跟著區塊時間,高度跟著交易數量.",
+    "rate": "區塊利率",
+    "perMinute": "積木/分鐘",
+    "sinceLast": "在過去的街區",
+    "txLastMinute": "交易 (最後一分鐘)",
+    "monitor": "動脈顯示器",
+    "legend": "打擊高度 = 區塊中的交易",
+    "chartLabel": "每分鐘{{rate}}次,每分鐘{{seconds}}秒之間",
+    "stream": "區塊流程",
+    "txCount_other": "{{count}}txs"
+  }
+}

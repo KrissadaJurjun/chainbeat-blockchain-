@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demó",
+    "simulated": "Szimulált",
+    "close": "Bezárás",
+    "retry": "Újrapróbálás",
+    "refresh": "Frissítés",
+    "copy": "Másolás",
+    "copied": "Másolva",
+    "clear": "Törlés",
+    "loading": "Betöltés…",
+    "options": "Választási lehetőségek",
+    "previous": "Előző",
+    "next": "Következő",
+    "pagination": "A weboldalt",
+    "pageN": "{{n}}. oldal",
+    "dismiss": "Elvetés",
+    "cancel": "Mégse",
+    "viewAll": "Összes megtekintése",
+    "max": "Max.",
+    "amount": "Összeg",
+    "balance": "Egyenleg",
+    "fee": "Díj",
+    "status": "Állapot",
+    "time": "Idő",
+    "height": "Magasság",
+    "hash": "Hash",
+    "type": "Típus",
+    "all": "Összes",
+    "showing": "Megmutatni. {{from}} {{to}} a {{total}}",
+    "noResults": "Nincs eredmény, ami megfelelne a szűrőidnek.",
+    "rowsPerPage": "Egy oldalon sorok",
+    "actions": "Cselekmények",
+    "exportCsv": "Export-CSV",
+    "details": "Részletek",
+    "clearFilters": "Nyilvános szűrők",
+    "collapseAll": "Minden összeomlik",
+    "copyJson": "JSON másolat",
+    "expandAll": "Fejtsd ki mindent",
+    "showMore": "Mutasd meg még {{count}}"
+  },
+  "language": {
+    "label": "Nyelv",
+    "search": "Keresési nyelvek"
+  },
+  "theme": {
+    "label": "Téma",
+    "system": "Rendszer",
+    "dark": "Sötét",
+    "light": "Világos"
+  },
+  "footer": {
+    "tagline": "Kutatni a blokkokot, nyomon követni a tranzakciókat, megérteni a Web3-at.",
+    "demo": "Demo Modus minden számot szimulálnak, és nem valós hálózati statisztikák.",
+    "share": "A részesedés",
+    "linkCopied": "Következtetés a pincérre.",
+    "docs": "Dokumentáció",
+    "links": "A lábjegy linkek",
+    "modeDemo": "Demo Hálózat",
+    "repository": "Könyvtár",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Az oldal nem található",
+    "body": "A keresett oldal nem létezik, vagy elmozdult.",
+    "home": "Vissza az irányítópultra"
+  },
+  "gate": {
+    "title": "Kapcsold össze a Demo pénztárcát, hogy folytatódjon",
+    "body": "Ez a munkafolyamat egy szimulált pénztárcán fut.",
+    "realTitle": "Egy igazi pénztárca kapcsolódik",
+    "realBody": "{{address}} A ChainBeat Demo mód soha nem ír alá vagy közvetíti a tranzakciókat.",
+    "useDemo": "Használd a Demo pénztárcát"
+  }
+}

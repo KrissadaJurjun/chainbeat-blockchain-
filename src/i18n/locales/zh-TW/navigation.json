@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "側行導航",
+    "primary": "主要的航行",
+    "menu": "導航菜單",
+    "openMenu": "打開導航菜單",
+    "closeMenu": "關閉導航菜單",
+    "collapseSidebar": "崩潰的側欄",
+    "expandSidebar": "擴大側欄",
+    "skipToContent": "跳到主內容",
+    "home": "鎖定回家",
+    "pages": "頁面",
+    "dashboard": "儀表板",
+    "validators": "驗證者",
+    "proposals": "提案",
+    "blocks": "區塊",
+    "transactions": "交易",
+    "portfolio": "投資組合",
+    "swap": "兌換",
+    "stake": "質押",
+    "liquidStaking": "流動性質押",
+    "send": "發送",
+    "vote": "投票",
+    "createProposal": "建立提案",
+    "market": "市場",
+    "network": "網路",
+    "governance": "治理",
+    "ibcNetwork": "IBC 網路",
+    "devActivity": "開發活動",
+    "multichain": "多鏈總覽",
+    "heartbeat": "心跳",
+    "dominance": "主導地位",
+    "validatorsViz": "驗證者",
+    "blockExplorer": "區塊瀏覽器",
+    "transactionExplorer": "交易瀏覽器",
+    "tokenExplorer": "代幣瀏覽器",
+    "about": "關於",
+    "explorerHome": "瀏覽器",
+    "governanceHome": "治理中心",
+    "settings": "設定"
+  },
+  "sections": {
+    "explorer": "瀏覽器",
+    "wallet": "錢包",
+    "analytics": "分析",
+    "visualizations": "視覺化"
+  },
+  "chains": {
+    "favorite": "加入最喜歡的 {{name}}",
+    "unfavorite": "取消{{name}}從最喜歡的頁面中",
+    "simulatedHealthy": "模擬網絡 · 健康"
+  },
+  "search": {
+    "label": "搜尋網路連鎖",
+    "placeholder": "搜尋區,TX,地址...",
+    "results": "搜尋結果",
+    "noResults": "{{query}} 沒有結果",
+    "kinds": {
+      "page": "頁面",
+      "block": "區塊",
+      "transaction": "其他國家",
+      "validator": "驗證者",
+      "token": "代幣",
+      "address": "地址",
+      "proposal": "提案"
+    },
+    "recent": "最近的搜尋結果",
+    "clearRecent": "清晰的近期搜索",
+    "removeRecent": "在最近的搜尋中移除 {{query}}",
+    "hint": "試試試試試試試試試試試試試試試試試試試試試試試試試試試試試試試試試試試試試試試試 {{prefix}} 1...),核准符號,提案號碼或代號符號.",
+    "submit": "搜尋",
+    "searching": "我們正在尋找...",
+    "resultCount": "數據: {{count}}",
+    "invalid": {
+      "tooLong": "這是一個搜尋詞語的時間太長了 (最多 200 字符).",
+      "badChecksum": "這看起來像是地址, 但它的檢查數量不匹配.",
+      "badHash": "交易或區塊哈希包含 64 位六位數字符.",
+      "badChars": "搜尋區塊高度,哈希,地址,驗證碼,提案或代碼."
+    },
+    "categories": {
+      "page": "頁面",
+      "block": "區塊",
+      "transaction": "交易",
+      "address": "年 月 日",
+      "validator": "驗證者",
+      "proposal": "提案",
+      "token": "標籤"
+    }
+  },
+  "user": {
+    "menu": "帳戶菜單",
+    "guest": "客人",
+    "notConnected": "沒有錢包連接",
+    "settings": "設定",
+    "about": "關於 ChainBeat"
+  }
+}

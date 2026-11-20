@@ -1,0 +1,104 @@
+{
+  "overview": {
+    "title": "Apžvalgas",
+    "unit": "Perdavimo indeksas · Bazinis = 100 nuo startinio intervalo pradžios",
+    "refreshFailed": "Negaliu atnaujinti rodo paskutinį įkrovus duomenis."
+  },
+  "chart": {
+    "keyboardHint": "Naudokite strėlės raktus, kad judėtumėte tarp duomenų taškų.",
+    "summary": "Darbo rodiklis virš {{range}}: {{details}}",
+    "rangeLabel": "Laiko intervalas",
+    "seriesLabel": "Grafikų serija",
+    "keepOne": "Bent viena serija turi likti matoma",
+    "emptyTitle": "Nėra duomenų apie šį diapazoną",
+    "emptyBody": "Pabandyk kitą laiko intervalą arba atnaujink.",
+    "range": {
+      "24H": "24 VALANDAS",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "Paskutinės 24 valandas",
+      "7D": "Paskutinės septynios dienos",
+      "30D": "Per pastaruosius 30 dienų",
+      "90D": "Per pastaruosius 90 dienų"
+    },
+    "zoomControls": "Zoom valdikliai",
+    "zoomIn": "Užsiplėskite",
+    "zoomOut": "Išsipildykite",
+    "resetView": "Atnaujintas vaizdas",
+    "zoomLevel": "Zoomo lygis"
+  },
+  "proposals": {
+    "title": "Pasiūlymai",
+    "filter": "Pasiūlymo filtras",
+    "live": "Gyvenimas",
+    "total": "Iš viso",
+    "viewAll": "Žiūrėti visus pasiūlymus",
+    "noneLive": "Nėra jokių pasiūlymų",
+    "noneLiveBody": "Šiuo metu nėra vykstančio valdymo.",
+    "showAll": "Parodykite naujausius pasiūlymus",
+    "endsIn": "{{time}} pabaiga",
+    "turnout": "Aktyvumas",
+    "vote": "Balsuoti",
+    "status": {
+      "voting": "Vyksta balsavimas",
+      "deposit": "Indėlis",
+      "passed": "Priimta",
+      "rejected": "Atmesta",
+      "failed": "Nepavyko"
+    },
+    "passed": "Priimta",
+    "rejected": "Atmesta",
+    "noneMatching": "Nėra atitinkamų pasiūlymų",
+    "noneMatchingBody": "Šiuo metu nieko neatitinka su šiuo filtru."
+  },
+  "dev": {
+    "title": "Kūrėjų veikla",
+    "summary": "{{total}} įnašai",
+    "viewFull": "Atvira plėtojimo veikla",
+    "heatmapLabel": "Indėlio šilumos žemėlapis: {{total}} indėlio per {{weeks}} savaites",
+    "less": "Mažiau",
+    "more": "Daugiau",
+    "cellTitle_one": "{{count}} įnašas iš {{date}}",
+    "cellTitle_few": "{{count}} įnašai {{date}}",
+    "cellTitle_many": "{{count}} įnašų į {{date}}",
+    "cellTitle_other": "{{count}} įnašų į {{date}}",
+    "range": "Šilumos žemėlapio diapazonas",
+    "ranges": {
+      "month": "Mėnuo",
+      "quarter": "Ketvirta dalis",
+      "year": "Metė"
+    }
+  },
+  "repos": {
+    "title": "Aktyvus saugyklas",
+    "period": "Periodą",
+    "periods": {
+      "week": "savaitė",
+      "month": "Mėnuo",
+      "year": "Metė",
+      "quarter": "Ketvirta dalis"
+    },
+    "contributors": "Dalyviai",
+    "stars": "Žvaigždės",
+    "sparkline": "Įsipareigojimo veikla {{name}}",
+    "vsPrevious": "{{change}} prieš ankstesnią laikotarpį",
+    "up": "Į viršų",
+    "down": "Į žemę",
+    "caption": "Įsipareigojimai pasirinktame laikotarpiu · simuliuojami saugyklai",
+    "col": {
+      "repository": "Repozitorius",
+      "language": "Kalba",
+      "commits": "Įsipareigojimai",
+      "change": "Pakeitimas",
+      "trend": "Trendas"
+    },
+    "commitsCount": "Įsipareigojimai: {{count}}",
+    "demoNote": "Demo duomenys: šis saugyklas yra fiktyvus ir jo veikla simuliuojama. Jis nėra prijungtas prie GitHub.",
+    "emptyBody": "Per šį laikotarpį nėra duomenų saugyklos veiklos.",
+    "emptyTitle": "Nėra duomenų saugyklos veiklos",
+    "history": "Įsipareigojimo veikla"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "E simuluar",
+    "close": "Mbyll",
+    "retry": "Provo përsëri",
+    "refresh": "Rifresko",
+    "copy": "Kopjo",
+    "copied": "U kopjua",
+    "clear": "Pastro",
+    "loading": "Po ngarkohet…",
+    "options": "Opsionet",
+    "previous": "E mëparshme",
+    "next": "Tjetra",
+    "pagination": "Paginacion",
+    "pageN": "Faqja {{n}}",
+    "dismiss": "Hiq",
+    "cancel": "Anulo",
+    "viewAll": "Shiko të gjitha",
+    "max": "Maks.",
+    "amount": "Shuma",
+    "balance": "Bilanci",
+    "fee": "Tarifa",
+    "status": "Statusi",
+    "time": "Koha",
+    "height": "Lartësia",
+    "hash": "Hash",
+    "type": "Lloji",
+    "all": "Të gjitha",
+    "showing": "Shfaqja {{from}} {{to}} nga {{total}}",
+    "noResults": "Asnjë rezultat nuk përputhet me filtrat tuaja.",
+    "rowsPerPage": "Rregullime për faqe",
+    "actions": "Aksionet",
+    "exportCsv": "CSV për eksport",
+    "details": "Detajet",
+    "clearFilters": "Filtrat e pastër",
+    "collapseAll": "Të gjithë rrëzohen",
+    "copyJson": "Kopje JSON",
+    "expandAll": "Zgjeroni të gjithë",
+    "showMore": "Shikoni {{count}} më shumë"
+  },
+  "language": {
+    "label": "Gjuha",
+    "search": "Gjuhët e kërkimit"
+  },
+  "theme": {
+    "label": "Tema",
+    "system": "Sistemi",
+    "dark": "E errët",
+    "light": "E çelët"
+  },
+  "footer": {
+    "tagline": "Eksploro bloket, gjurmo transaksionet, kupto Web3.",
+    "demo": "Demo Mode të gjitha shifra janë simulasi dhe nuk janë statistika reale të rrjetit.",
+    "share": "Ndalimi",
+    "linkCopied": "Link kopjuar në klipboard.",
+    "docs": "Dokumentacioni",
+    "links": "Lidhje në këmbë",
+    "modeDemo": "Demo Rrjeti",
+    "repository": "Repositori",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Faqja nuk u gjet",
+    "body": "Faqja që po kërkoni nuk ekziston ose është zhvendosur.",
+    "home": "Kthehu te paneli"
+  },
+  "gate": {
+    "title": "Lidhni portofolin Demo për të vazhduar",
+    "body": "Kjo rrjedhë e punës funksionon në një portofol simuluar. Lidhni portofolin Demo për ta provuar atë asgjë e vërtetë nuk është nënshkruar ose dërguar kurrë.",
+    "realTitle": "Një portofol i vërtetë është i lidhur",
+    "realBody": "{{address}} është i lidhur, por Mode demo ChainBeat kurrë nuk nënshkruajnë ose transmeton transaksionet.",
+    "useDemo": "Përdorni portofolin Demo"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "サイドバーナビゲーション",
+    "primary": "メインナビゲーション",
+    "menu": "ナビゲーションメニュー",
+    "openMenu": "ナビゲーションメニューを開く",
+    "closeMenu": "ナビゲーションメニューを閉じる",
+    "collapseSidebar": "サイドバーを折りたたむ",
+    "expandSidebar": "サイドバーを展開",
+    "skipToContent": "メインコンテンツへスキップ",
+    "home": "ChainBeat ホーム",
+    "pages": "ページ",
+    "dashboard": "ダッシュボード",
+    "validators": "バリデータ",
+    "proposals": "提案",
+    "blocks": "ブロック",
+    "transactions": "トランザクション",
+    "portfolio": "ポートフォリオ",
+    "swap": "スワップ",
+    "stake": "ステーキング",
+    "liquidStaking": "リキッドステーキング",
+    "send": "送金",
+    "vote": "投票",
+    "createProposal": "提案を作成",
+    "market": "マーケット",
+    "network": "ネットワーク",
+    "governance": "ガバナンス",
+    "ibcNetwork": "IBC ネットワーク",
+    "devActivity": "開発アクティビティ",
+    "multichain": "マルチチェーン概要",
+    "heartbeat": "ハートビート",
+    "dominance": "ドミナンス",
+    "validatorsViz": "バリデータ",
+    "blockExplorer": "ブロックエクスプローラー",
+    "transactionExplorer": "トランザクションエクスプローラー",
+    "tokenExplorer": "トークンエクスプローラー",
+    "about": "について",
+    "explorerHome": "エクスプローラー",
+    "governanceHome": "統治センター",
+    "settings": "設定"
+  },
+  "sections": {
+    "explorer": "エクスプローラー",
+    "wallet": "ウォレット",
+    "analytics": "分析",
+    "visualizations": "可視化"
+  },
+  "chains": {
+    "favorite": "{{name}} をお気に入りに追加",
+    "unfavorite": "{{name}} をお気に入りから削除",
+    "simulatedHealthy": "シミュレーションネットワーク · 正常"
+  },
+  "search": {
+    "label": "ChainBeat を検索",
+    "placeholder": "ブロック、Tx、アドレスを検索…",
+    "results": "検索結果",
+    "noResults": "「{{query}}」に一致する結果はありません",
+    "kinds": {
+      "page": "ページ",
+      "block": "ブロック",
+      "transaction": "Tx",
+      "validator": "バリデータ",
+      "token": "トークン",
+      "address": "アドレス",
+      "proposal": "提案"
+    },
+    "recent": "最近の検索",
+    "clearRecent": "明らかに最近の検索",
+    "removeRecent": "最近の検索から {{query}} を削除する",
+    "hint": "ブロック高度,トランザクションハッシュ,アドレス ( {{prefix}} 1...),検証者,提案番号または代号符号.",
+    "submit": "検索",
+    "searching": "探している...",
+    "resultCount": "結果: {{count}}",
+    "invalid": {
+      "tooLong": "検索用語としては長すぎます (最大200文字).",
+      "badChecksum": "これは住所のように見えるが,そのチェック数は一致しない. 字体誤差をチェックする.",
+      "badHash": "トランザクションやブロックハッシュには 64つの六 दशमलव文字がある.",
+      "badChars": "ブロックの高さ ハッシュ アドレス 検証器 提案 代証。"
+    },
+    "categories": {
+      "page": "ページ",
+      "block": "ブロック",
+      "transaction": "トランザクション",
+      "address": "アドレス",
+      "validator": "バリデータ",
+      "proposal": "提案",
+      "token": "トークン"
+    }
+  },
+  "user": {
+    "menu": "アカウントメニュー",
+    "guest": "ゲスト",
+    "notConnected": "ウォレット未接続",
+    "settings": "設定",
+    "about": "ChainBeat について"
+  }
+}

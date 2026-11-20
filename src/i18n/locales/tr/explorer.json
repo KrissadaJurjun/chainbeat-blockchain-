@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Doğal, IBC, sıvı depolama ve {{chain}}'de bilinen dış varlıklar (simülasyon).",
+    "stats": {
+      "total": "İzlenen simgeler"
+    },
+    "kinds": {
+      "native": "Yerli",
+      "ibc": "IBC",
+      "external": "Dış",
+      "stable": "Stablecoin",
+      "liquid": "Sıvı kaymak"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Tür",
+      "denom": "Denom",
+      "price": "Fiyat",
+      "change": "24 saat",
+      "supply": "Arz",
+      "holders": "Hükümdarlar",
+      "marketCap": "Piyasa değeri"
+    },
+    "filterPlaceholder": "Simge, isim veya isimle filtrelenme",
+    "tableCaption": "{{chain}} numaralı tokenler"
+  },
+  "account": {
+    "title": "Hesap",
+    "description": "{{chain}}'deki bir hesabın bakiyeleri ve son etkinliği (simülasyon).",
+    "available": "Kullanılabilir",
+    "balances": "Tasarımlar",
+    "counterparty": "Karşı taraf",
+    "direction": "Yön",
+    "in": "İçeride",
+    "out": "Dışarıda",
+    "history": "İşlem Tarihi",
+    "historyCaption": "{{address}}'in işlemleri",
+    "invalidTitle": "Geçerli bir adres değil",
+    "invalidBody": "Bu geçerli değil. {{chain}} Bu ağdaki adresler ile başlar. {{prefix}} 1 ve bir kontrol miktarı içerir.",
+    "noBalances": "Hiçbir dengesizlik yok.",
+    "noHistory": "Hiçbir işlem bulunamadı",
+    "noHistoryBody": "Bu hesapta en yeni {{blocks}} blokta simülasyon yapılmış bir etkinlik yok.",
+    "rewards": "Ödüller: {{value}}",
+    "staked": "Çıkartılmış",
+    "totalValue": "Toplam değer",
+    "txCount": "İşlemler",
+    "unknown": "Bu geçerli bir adres, ama simülasyonda görünmüyor, bu yüzden dengesi ya da geçmişi yok.",
+    "window": "En yeni {{blocks}} blokta",
+    "demoWallet": "Bu senin Demo cüzdanın. Onun dengeleri ve işlemleri simüle edilir ve sadece bu tarayıcıda var."
+  },
+  "explorer": {
+    "description": "{{chain}}'i arayın ve şu anda (simülasyon) ağda neler olup bittiğini görün.",
+    "latestBlocks": "En yeni bloklar",
+    "latestTransactions": "En yeni işlemler",
+    "searchTitle": "Araştırmacıyı arayın",
+    "shortcuts": "Explorer bölümleri"
+  }
+}

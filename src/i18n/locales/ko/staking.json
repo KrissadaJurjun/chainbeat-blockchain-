@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "{{chain}}의 검증인에게 토큰을 위임하고 시뮬레이션 보상을 받아 보세요.",
+    "validator": "검증인",
+    "pickValidator": "검증인 선택",
+    "estimate": "예상 수익",
+    "netApr": "순 APR(수수료 차감 후)",
+    "yearly": "연간 보상",
+    "monthly": "월간 보상",
+    "unbonding": "언본딩 기간",
+    "commission": "검증인 수수료율",
+    "notice": "실제 네트워크에서는 스테이킹을 해제한 토큰이 {{days}}일의 언본딩 기간 동안 잠깁니다. 여기서는 모든 것이 시뮬레이션이며 즉시 처리됩니다.",
+    "yourStake": "{{chain}}의 내 스테이크",
+    "unstake": "스테이킹 해제",
+    "unstakeTitle": "{{validator}} 스테이킹 해제",
+    "unstakeDescription": "실제 네트워크에서는 {{days}}일의 언본딩 기간이 끝나면 토큰이 잠금 해제됩니다.",
+    "confirmUnstake": "스테이킹 해제(시뮬레이션)",
+    "done": "스테이킹 완료(시뮬레이션)",
+    "doneBody": "데모 지갑에서 위임했습니다. 실제 언본딩 기간은 {{days}}일입니다.",
+    "unstaked": "스테이킹 해제됨(시뮬레이션)",
+    "unstakedBody": "데모 지갑으로 즉시 반환되었습니다. 실제 네트워크에서는 {{days}}일이 걸립니다.",
+    "errors": {
+      "validator": "검증인을 선택하세요.",
+      "moreThanStaked": "스테이킹한 수량보다 많이 해제할 수 없습니다."
+    },
+    "review": "재검토 할당",
+    "confirmDescription": "이 브라우저에 있는 Demo 지갑만 확인하면 변경됩니다.",
+    "aprDisclaimer": "표시된 APR는 현재 인플레이션, 공동체 세금 및 채권 비율에 기초한 추정입니다. 그것은 보장된 수익률이 아니며 시간이 지남에 따라 변화합니다.",
+    "rewardsHistory": "보상 역사",
+    "noRewardsHistory": "아직 보상을 청구하지 않았습니다.",
+    "rewardsClaimed": "청구된 {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "토큰을 스테이킹하고, 보상을 계속 받으면서도 거래할 수 있는 리퀴드 스테이킹 토큰을 받으세요.",
+    "mode": "방향",
+    "stake": "스테이킹",
+    "unstake": "상환",
+    "asset": "자산",
+    "youStake": "스테이킹({{symbol}})",
+    "youRedeem": "상환({{symbol}})",
+    "youReceive": "수령({{symbol}})",
+    "exchangeRate": "교환 비율",
+    "apr": "예상 APR",
+    "protocolFee": "보상에 대한 프로토콜 수수료",
+    "notice": "리퀴드 스테이킹 토큰과 그 비율은 시뮬레이션입니다. 온체인에서는 아무것도 발행되지 않습니다.",
+    "done": "변환이 완료되었습니다(시뮬레이션)",
+    "doneBody": "데모 지갑 잔액이 업데이트되었습니다.",
+    "review": "재검토 전환",
+    "confirmDescription": "이 브라우저에서 Demo 지갑만 변경합니다.",
+    "risksTitle": "이해 할 수 있는 위험성",
+    "risks": {
+      "smartContract": "스마트 계약 위험: 액체 저장 프로토콜은 소프트웨어이며 소프트웨어에는 버그가 있을 수 있습니다.",
+      "depeg": "De-peg 위험: 액체 토큰은 그것이 나타내는 토큰의 가치보다 낮게 거래될 수 있습니다.",
+      "validator": "검증자 위험: 프로토콜 뒤에 있는 검증자가 삭감되면 모든 소유자는 손실을 공유합니다.",
+      "unbonding": "출력 지연: 프로토콜을 통해 환불하는 것은 네트워크의 해제 기간만큼 오래 걸릴 수 있습니다."
+    },
+    "rateExplain": "환율은 액체 토큰이 얼마나 많은 주가있는 토큰에 해당하는지입니다. 주가있는 보상으로 증가하므로 액체 토큰이 천천히 주가있는 토큰보다 가치가 더됩니다.",
+    "noProtocol": "ChainBeat은 실제 액체 스택 프로토콜과 통합되지 않습니다. 이 페이지는 교육 시뮬레이션입니다."
+  }
+}

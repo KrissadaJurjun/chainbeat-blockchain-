@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delegerar tokens till en validator på {{chain}} för att tjäna simulerade belöningar.",
+    "validator": "Validerare",
+    "pickValidator": "Välj en validerare",
+    "estimate": "Uppskattade avkastningar",
+    "netApr": "Nettotillskott (efter provision)",
+    "yearly": "Betalningar per år",
+    "monthly": "Betalningar per månad",
+    "unbonding": "Avbondningsperiod",
+    "commission": "Valideringskommission",
+    "notice": "På ett verkligt nätverk är uttagna insatser låsta för {{days}} dagar. Här är allt simulerat och omedelbart.",
+    "yourStake": "Din insats på {{chain}}",
+    "unstake": "Avsluta staking",
+    "unstakeTitle": "Avstängning från {{validator}}",
+    "unstakeDescription": "På ett verkligt nätverk skulle dina tokens låsa upp efter den {{days}}-dagar låsningsperioden.",
+    "confirmUnstake": "Avspelning (simulerad)",
+    "done": "Stakade (simulerade)",
+    "doneBody": "Det skulle vara en period av avveckling. {{days}} Dagar.",
+    "unstaked": "Inkluderade (simulerade)",
+    "unstakedBody": "Ett verkligt nätverk skulle behöva. {{days}} Dagar.",
+    "errors": {
+      "validator": "Välj en validator.",
+      "moreThanStaked": "Du kan inte avspegla mer än du har satsat."
+    },
+    "review": "Översynspel",
+    "confirmDescription": "Kontrollera delegationen, bekräftandet ändrar bara plånboken Demo i den här webbläsaren.",
+    "aprDisclaimer": "Den APR som visas är en uppskattning baserad på den nuvarande inflationen, gemenskapsskatten och obligationsförhållandet.",
+    "rewardsHistory": "Belöningshistoria",
+    "noRewardsHistory": "Ingen belöning har krävts än.",
+    "rewardsClaimed": "Klagad {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Staka en token och ta emot en vätska staking token som fortsätter att tjäna belöningar samtidigt som den förblir handelsbar.",
+    "mode": "Riktning",
+    "stake": "Staka",
+    "unstake": "Avsluta staking",
+    "asset": "Förmögenheter",
+    "youStake": "Du satsar ({{symbol}})",
+    "youRedeem": "Du löser ({{symbol}})",
+    "youReceive": "Du får ({{symbol}})",
+    "exchangeRate": "Växelkurs",
+    "apr": "Uppskattad APR",
+    "protocolFee": "Protokollsavgift för belöningar",
+    "notice": "De simuleras, men inget görs på kedjan.",
+    "done": "Omvandling fullbordad (simulerad)",
+    "doneBody": "Dina Demo-plånboksbalanser uppdaterades.",
+    "review": "Översyn omvandling",
+    "confirmDescription": "Kontrollera konverteringen. bekräftande ändrar bara plånboken Demo i den här webbläsaren.",
+    "risksTitle": "Risker för att förstå",
+    "risks": {
+      "smartContract": "Risk för smarta kontrakt: Liquid-stacking-protokoll är mjukvara, och mjukvaran kan ha fel.",
+      "depeg": "De-peg risk: den likvida tokenen kan handlas under värdet på de tokener den representerar.",
+      "validator": "Risk för validerare: Om de validerare bakom protokollet skärs, delar varje innehavare förlusten.",
+      "unbonding": "Utgångsfördröjning: Inlösen genom protokollet kan ta lika lång tid som nätverks avbunden tid."
+    },
+    "rateExplain": "Valutaväxeln är hur många satsade tokens en likvid token står för. Den växer som satsning belöningar ackumuleras, så en likvid token långsamt blir värd mer än en satsad token.",
+    "noProtocol": "ChainBeat integreras inte med något verkligt flytande-stacking-protokoll."
+  }
+}

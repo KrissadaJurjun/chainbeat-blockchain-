@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "Cele mai recente tranzacţii pe {{chain}}. Deschide una pentru toate detaliile.",
+    "stats": {
+      "recent": "Tranzacții recente",
+      "success": "Succes",
+      "failed": "Eșuat",
+      "volume": "Volumul nativ"
+    },
+    "filterPlaceholder": "Filtrare prin hash, adresă sau înălțime",
+    "allTypes": "Toate tipurile",
+    "tableCaption": "Ultimele tranzacții pe {{chain}}",
+    "from": "De la",
+    "to": "Către",
+    "memo": "Memo",
+    "noMemo": "Nici un memorandum",
+    "raw": "Prezentarea datelor brute (simulat)",
+    "detailTitle": "Tranzacție",
+    "detailDescription": "Detalii despre o tranzacție simulată pe {{chain}}.",
+    "notFoundTitle": "Tranzacția nu a fost găsită",
+    "notFoundBody": "Nu există nicio tranzacţie cu acest hash pe {{chain}} în simulaţie.",
+    "failedBecause": "Această tranzacţie a eşuat: {{reason}}.",
+    "types": {
+      "send": "Trimite",
+      "delegate": "Delegat",
+      "undelegate": "Nedelegat",
+      "claim": "Reclamarea recompensei",
+      "vote": "Votează",
+      "ibc-transfer": "IBC transfer",
+      "swap": "Schimb",
+      "other": "Altele"
+    },
+    "status": {
+      "success": "Succes",
+      "failed": "Eșuat"
+    },
+    "block": "Bloc",
+    "cardsLabel": "Tranzacții",
+    "category": "Categorie",
+    "date": "Dată",
+    "dateNote": "Prezentarea ultimelor {{count}} de tranzacții până la sfârșitul anului {{date}} (UTC).",
+    "emptyTitle": "Nu s-au găsit tranzacții",
+    "events": "Evenimente",
+    "failedEvents": "Această tranzacție a eșuat, așa că a emis doar evenimentul de taxă.",
+    "feeSymbol": "Tokenul de taxă",
+    "filtersLabel": "Filtre de tranzacții",
+    "gasUsed": "Gas utilizat",
+    "gasWanted": "Gasul este dorit",
+    "groups": {
+      "transfer": "Transferuri",
+      "staking": "Staking",
+      "governance": "Guvernanță",
+      "ibc": "IBC",
+      "swap": "Swap-uri",
+      "other": "Altele"
+    },
+    "latestNote": "Arată ultimele {{count}} de tranzacţii.",
+    "messageType": "Tip de mesaj",
+    "network": "Rețea",
+    "symbol": "Token",
+    "syntheticNote": "Aceasta este o înregistrare sintetică generată pentru Demo Mode. hash-ul său nu este un hash blockchain real și nu poate fi verificat pe nicio rețea.",
+    "token": "Token",
+    "validator": "Validator",
+    "demoWalletNote": "Această tranzacție a fost creată de portofelul Demo. Există doar în acest browser: nu a avut loc niciun transfer de blockchain, iar hash-ul său nu este un hash real de blockchain.",
+    "demoTag": "Demo portofel"
+  }
+}

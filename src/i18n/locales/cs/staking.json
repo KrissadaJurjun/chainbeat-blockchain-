@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delegovat tokeny na validátor na {{chain}} a získat simulované odměny.",
+    "validator": "Validátor",
+    "pickValidator": "Vyberte validátor",
+    "estimate": "Odhadované výnosy",
+    "netApr": "Čistý APR (po prověřování)",
+    "yearly": "Odměny ročně",
+    "monthly": "Odměny měsíčně",
+    "unbonding": "Period odhlášení závazků",
+    "commission": "Prováděcí komise",
+    "notice": "Na reálné síti je stažení uzavřeno po dobu {{days}} dnů. Tady je vše simulováno a okamžitě.",
+    "yourStake": "Vaše sázka na {{chain}}",
+    "unstake": "Zrušit staking",
+    "unstakeTitle": "Odstavení z {{validator}}",
+    "unstakeDescription": "Na reálné síti se vaše tokeny odemknou po {{days}} dnech odpojení.",
+    "confirmUnstake": "Odložení (simulované)",
+    "done": "Vytvářené (simulované)",
+    "doneBody": "V demo peněžence by to byla skutečná období odvolání. {{days}} Dny.",
+    "unstaked": "Neúspěšné (simulované)",
+    "unstakedBody": "Vrátil se na demo peněženku okamžitě. {{days}} Dny.",
+    "errors": {
+      "validator": "Vyber si validátor.",
+      "moreThanStaked": "Nemůžeš odložit víc, než jsi odložil."
+    },
+    "review": "Závazek z přezkoumání",
+    "confirmDescription": "Zkontrolujte delegaci, potvrzení mění pouze peněženku Demo v tomto prohlížeči.",
+    "aprDisclaimer": "Zobrazený APR je odhad založený na současné inflaci, daně Společenství a poměru dluhopisů, není zaručeným výnosem a mění se v průběhu času.",
+    "rewardsHistory": "Historie odměňování",
+    "noRewardsHistory": "Zatím žádná odměna nebyla vyhlášena.",
+    "rewardsClaimed": "Výsouzení {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Vytáhněte token a obdržíte token s likvidní stávkou, který vydělává odměny, zatímco zůstává obchodovatelný.",
+    "mode": "Směr",
+    "stake": "Staking",
+    "unstake": "Zrušit staking",
+    "asset": "Prodej",
+    "youStake": "Vy vázání ({{symbol}})",
+    "youRedeem": "Vy vykoupíte ({{symbol}})",
+    "youReceive": "Obdržíte ({{symbol}})",
+    "exchangeRate": "Směnný kurz",
+    "apr": "Odhadovaná APR",
+    "protocolFee": "Protokolní poplatek za odměny",
+    "notice": "Vytvářené tokeny a jejich sazby jsou simulovány.",
+    "done": "Konverze dokončena (simulovaná)",
+    "doneBody": "Vaše peněženky Demo byly aktualizovány.",
+    "review": "Přeprava z přezkoumání",
+    "confirmDescription": "Zkontrolujte konverzi. Potvrzení mění pouze peněženku Demo v tomto prohlížeči.",
+    "risksTitle": "Riziko pochopení",
+    "risks": {
+      "smartContract": "Riziko chytrých smluv: protokoly s zásobováním tekutin jsou software a software může mít chyby.",
+      "depeg": "Risk depeg: likvidní token může být obchodován pod hodnotou tokenů, které představuje.",
+      "validator": "Riziko validátorů: pokud se validátory za protokolem sníží, každý držitel sdílí ztrátu.",
+      "unbonding": "Zpoždění výstupu: vykoupení prostřednictvím protokolu může trvat tak dlouho, jako je období odpojení sítě."
+    },
+    "rateExplain": "Měnový kurz je to, kolik žetónů je vázáno na jeden likvidní žetón. Růst roste, jak se stávkové odměny hromadí, takže jeden likvidní žetón pomalu stává hodnotou více než jeden stávkový žetón.",
+    "noProtocol": "ChainBeat se neintegruje s žádným reálným protokolem stahování tekutin. Tato stránka je vzdělávací simulace."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Navigation sidebar",
+    "primary": "Usafirishaji wa msingi",
+    "menu": "Orodha ya urambazaji",
+    "openMenu": "Open navigation menyu",
+    "closeMenu": "Funga menyu ya urambazaji",
+    "collapseSidebar": "Collapse sidebar",
+    "expandSidebar": "Kuongeza sidebar",
+    "skipToContent": "Skip kwa maudhui kuu",
+    "home": "ChainBeat nyumbani",
+    "pages": "Kurasa",
+    "dashboard": "Dashibodi",
+    "validators": "Wathibitishaji",
+    "proposals": "Mapendekezo",
+    "blocks": "Vitalu",
+    "transactions": "Miamala",
+    "portfolio": "Portfolio",
+    "swap": "Badilishana",
+    "stake": "Staking",
+    "liquidStaking": "Staking ya kioevu",
+    "send": "Tuma",
+    "vote": "Piga kura",
+    "createProposal": "Unda pendekezo",
+    "market": "Soko",
+    "network": "Mtandao",
+    "governance": "Utawala",
+    "ibcNetwork": "Mtandao wa IBC",
+    "devActivity": "Shughuli za wasanidi",
+    "multichain": "Muhtasari wa minyororo mingi",
+    "heartbeat": "Mapigo ya moyo",
+    "dominance": "Ushawishi",
+    "validatorsViz": "Wathibitishaji",
+    "blockExplorer": "Kichunguzi cha vitalu",
+    "transactionExplorer": "Kichunguzi cha miamala",
+    "tokenExplorer": "Kichunguzi cha tokeni",
+    "about": "Kuhusu",
+    "explorerHome": "Kichunguzi",
+    "governanceHome": "Kituo cha utawala",
+    "settings": "Mipangilio"
+  },
+  "sections": {
+    "explorer": "Kichunguzi",
+    "wallet": "Pochi",
+    "analytics": "Uchanganuzi",
+    "visualizations": "Taswira"
+  },
+  "chains": {
+    "favorite": "Ongeza {{name}} kwa favorites",
+    "unfavorite": "Ondoa {{name}} kutoka kwenye favorites",
+    "simulatedHealthy": "Mtandao wa kuiga · afya"
+  },
+  "search": {
+    "label": "Tafuta ChainBeat",
+    "placeholder": "Kutafuta block, tx, anwani...",
+    "results": "Matokeo ya utafutaji",
+    "noResults": "Hakuna matokeo kwa {{query}}",
+    "kinds": {
+      "page": "Ukurasa",
+      "block": "Kitalu",
+      "transaction": "Tx",
+      "validator": "Mthibitishaji",
+      "token": "Tokeni",
+      "address": "Anwani",
+      "proposal": "Pendekezo"
+    },
+    "recent": "Utafutaji wa hivi karibuni",
+    "clearRecent": "Utafutaji wa hivi karibuni ulio wazi",
+    "removeRecent": "Ondoa {{query}} kutoka kwa utafutaji wa hivi karibuni",
+    "hint": "Jaribu block urefu, shughuli hash, anwani ( {{prefix}} 1...), uthibitishaji, nambari ya pendekezo au ishara ya jina.",
+    "submit": "Tafuta",
+    "searching": "Kutafuta...",
+    "resultCount": "Matokeo: {{count}}",
+    "invalid": {
+      "tooLong": "Hiyo ni muda mrefu sana kwa ajili ya maneno ya utafutaji (si zaidi ya herufi 200).",
+      "badChecksum": "Hii inaonekana kama anwani, lakini checksum yake si sambamba. Angalia kwa ajili ya makosa ya kuandika.",
+      "badHash": "shughuli au block hash ina hasa 64 hexadecimal wahusika.",
+      "badChars": "Tafuta urefu wa block, hash, anwani, uthibitishaji, pendekezo au ishara."
+    },
+    "categories": {
+      "page": "Kurasa",
+      "block": "Vitalu",
+      "transaction": "Miamala",
+      "address": "Anwani",
+      "validator": "Wathibitishaji",
+      "proposal": "Mapendekezo",
+      "token": "Ishara"
+    }
+  },
+  "user": {
+    "menu": "Orodha ya akaunti",
+    "guest": "Mgeni",
+    "notConnected": "Hakuna mkoba kuunganishwa",
+    "settings": "Mipangilio",
+    "about": "Kuhusu ChainBeat"
+  }
+}

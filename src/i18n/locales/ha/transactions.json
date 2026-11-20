@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "Sabbin ma'amaloli a kan {{chain}}. Buɗe ɗaya don cikakken bayani.",
+    "stats": {
+      "recent": "Ayyukan da aka yi kwanan nan",
+      "success": "Sun Yi Nasara",
+      "failed": "Ya gaza",
+      "volume": "Ƙarfi na asali"
+    },
+    "filterPlaceholder": "Ana tace ta hanyar hash, adireshin ko tsayi",
+    "allTypes": "Dukan nau'i-nau'i",
+    "tableCaption": "Sabbin ma'amaloli a kan {{chain}}",
+    "from": "Daga",
+    "to": "Zuwa",
+    "memo": "Memo",
+    "noMemo": "Babu wata sanarwa",
+    "raw": "Duba raw data (simulated)",
+    "detailTitle": "Mu'amala",
+    "detailDescription": "Bayani game da ma'amala ta simintin a kan {{chain}}.",
+    "notFoundTitle": "Ba a samu ma'amala ba",
+    "notFoundBody": "Babu wata ma'amala da wannan hash wanzu a kan {{chain}} a cikin kwaikwayo.",
+    "failedBecause": "Wannan ma'amala ta gaza: {{reason}}.",
+    "types": {
+      "send": "Aika",
+      "delegate": "Wakilin",
+      "undelegate": "Ba a ba da izini ba",
+      "claim": "Neman kyaututtuka",
+      "vote": "Kada kuri'a",
+      "ibc-transfer": "IBC canja wurin",
+      "swap": "Musaya",
+      "other": "Sauran"
+    },
+    "status": {
+      "success": "Nasara",
+      "failed": "Ya gaza"
+    },
+    "block": "Block",
+    "cardsLabel": "Mu'amaloli",
+    "category": "Ƙungiya",
+    "date": "Ranar",
+    "dateNote": "Nuna sabon {{count}} ma'amaloli har zuwa karshen {{date}} (UTC).",
+    "emptyTitle": "Babu ma'amaloli da aka samu",
+    "events": "Abubuwan da suka faru",
+    "failedEvents": "Wannan ma'amala ta gaza, don haka ta fitar da kawai ta fee taron.",
+    "feeSymbol": "Alamar haraji",
+    "filtersLabel": "Matattarar ma'amala",
+    "gasUsed": "Gas da aka yi amfani da shi",
+    "gasWanted": "Ana son gas",
+    "groups": {
+      "transfer": "Canje-canje",
+      "staking": "Ƙuntatawa",
+      "governance": "Mulki",
+      "ibc": "IBC",
+      "swap": "Kasuwanci",
+      "other": "Sauran"
+    },
+    "latestNote": "Yana nuna sabon ma'amala {{count}}, zaɓi kwanan wata don duba baya.",
+    "messageType": "Nau'in saƙo",
+    "network": "Hanyar sadarwa",
+    "symbol": "Token",
+    "syntheticNote": "Wannan rikodin roba ne wanda aka samar don Yanayin Demo. hash dinsa ba ainihin hash bane kuma ba za'a iya tabbatar dashi a kowane cibiyar sadarwa ba.",
+    "token": "Token",
+    "validator": "Mai tabbatarwa",
+    "demoWalletNote": "Wannan ma'amaloli da aka halitta da Demo walat. shi ne kawai wanzu a cikin wannan browser: babu wani blockchain canja wurin da ya faru, da hash ba real blockchain hash.",
+    "demoTag": "Demo Aljihu"
+  }
+}

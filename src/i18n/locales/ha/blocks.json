@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "Ƙungiya ta {{height}}",
+    "invalid": "Tsawon bangon da ba shi da inganci",
+    "description": "Bayani game da wani simintin block a kan {{chain}}.",
+    "previous": "Rukunin da ya gabata",
+    "next": "Ƙofar da ke gaba",
+    "notFoundTitle": "Ba a samu wani yanki ba",
+    "notFoundBody": "{{chain}} ba shi da wani block a wannan tsawo har yanzu.",
+    "transactions_one": "{{count}} ma'amala",
+    "transactions_other": "{{count}} ma'amaloli",
+    "txCaption": "Ayyuka a cikin bangare na {{height}}",
+    "noTxs": "Wannan rukunin ba shi da ma'amaloli",
+    "genesis": "Tsarin Farawa",
+    "parentHash": "Mahaifiyar da aka haifa",
+    "demoTxs": "Demo ma'amaloli na walat a wannan tsawo",
+    "demoTxsNote": "An kirkiro su ne ta hanyar walat Demo. Ba sa cikin lissafin ma'amaloli da aka yi amfani da shi."
+  },
+  "blocksPage": {
+    "description": "Sabbin gine-gine a kan {{chain}}. Jerin yana sabuntawa sau ɗaya a kowane lokaci.",
+    "live": "Rayuwa",
+    "avgGas": "Avg. gas da aka yi amfani da shi",
+    "tableCaption": "Ƙarshen shinge a kan {{chain}}",
+    "proposer": "Mai ba da shawara",
+    "txs": "Txs",
+    "gas": "Gas da aka yi amfani da shi",
+    "size": "Girma",
+    "emptyTitle": "Ba a samu guntu ba",
+    "filterPlaceholder": "Fita ta tsayi, hash ko mai tabbatarwa",
+    "filtersLabel": "Matattarar toshewa",
+    "finality": "Ƙarshen",
+    "finalityNote": "Ƙuntatawa a kan irin wannan hanyar sadarwa na ƙarshe ne da zaran an aikata su.",
+    "finalized": "Ƙarshen",
+    "withTxsOnly": "Kawai blocks tare da ma'amaloli"
+  }
+}

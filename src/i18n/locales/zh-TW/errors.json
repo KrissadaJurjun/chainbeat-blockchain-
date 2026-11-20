@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "這裡還沒有任何東西",
+    "emptyBody": "這項觀點沒有任何數據.",
+    "errorTitle": "我們無法加載這些數據",
+    "errorBody": "檢查你的連接, 再試一次.",
+    "crashTitle": "發生了一些問題",
+    "crashBody": "這個頁面遇到了意外的錯誤.",
+    "reload": "重新加載頁面"
+  }
+}

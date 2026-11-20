@@ -1,0 +1,62 @@
+{
+  "ibcPage": {
+    "description": "Jak tokeny przepływają między łańcuchami po IBC. grubsze linki oznaczają większą 24-godzinną objętość.",
+    "volume": "24h IBC objętość",
+    "chains": "Łączone łańcuchy",
+    "links": "Aktywne kanały",
+    "busiest": "Najczęstszą trasą",
+    "mapLabel": "Mapa IBC połączeń między łańcuchami",
+    "nodeLabel": "{{name}}: {{volume}} w ciągu 24 godzin na {{channels}} kanałach",
+    "hint": "Przeciągnij, skoncentruj lub wybierz łańcuch, aby podkreślić jego połączenia. Przeciągnij do pan; użyj Ctrl lub z kołem przewijania, klawiszem + i − lub przyciskami do zwiększenia; naciśnij 0 do resetu.",
+    "channelsOf": "Kanały {{name}}",
+    "topChannels": "Najwyższe kanały objętościowe",
+    "transfers_one": "{{count, number}} przeniesienie",
+    "transfers_few": "{{count, number}} transfery",
+    "transfers_many": "{{count, number}} przekazów",
+    "transfers_other": "{{count, number}} przekazów",
+    "info": {
+      "volume": "Wielkość (24 h)",
+      "channels": "Kanały",
+      "share": "Udział w objętości IBC",
+      "partner": "Najbardziej zajęty partner"
+    }
+  },
+  "multichainPage": {
+    "description": "Szerszy ekosystem w stylu Cosmos na pierwszy rzut oka symulowane cyfry dla każdego połączonego łańcucha.",
+    "chains": "Łańcuchy",
+    "tvl": "Całkowita wartość zamknięta",
+    "validators": "Walidatorzy",
+    "tx24h": "Transakcje (24 godziny)",
+    "height": "Wysokość bloku",
+    "open": "Otwórz deskę napędową",
+    "switched": "Przesunięto na {{name}}",
+    "registryOnly": "Rejestrowany na demo nie można jeszcze wybrać",
+    "tvlByChain": "TVL według łańcucha",
+    "tvlHint": "Simulowana całkowita wartość zamknięta",
+    "explainTitle": "Co oznaczają metryki",
+    "explainHint": "Na tej stronie znajdują się wyraźne definicje liczb. Wszystkie wartości są symulowane.",
+    "explain": {
+      "tvl": "Wartość tokenów stawianych lub przechowywanych w symulowanej gospodarce sieci, w symulowanych cenach.",
+      "height": "Ile bloków wytworzyła łańcuch od początku, wzrasta o jeden z każdym blokem.",
+      "validators": "Liczba jest wielkością zbioru aktywnego.",
+      "apr": "Szacowana roczna nagroda za stawkę, jako procent przed prowizją.",
+      "bonded": "Większy udział oznacza zabezpieczenie łańcucha.",
+      "tx24h": "Transakcje objęte blokami w ciągu ostatnich 24 godzin we wszystkich łańcuchach wymienionych w wykazie."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Puls {{chain}}: każdy blok jest uderzeniem odstęp następuje po czasie bloku, wysokość następuje po liczbie transakcji.",
+    "rate": "Stopa blokowa",
+    "perMinute": "bloków/min",
+    "sinceLast": "Od ostatniego bloku",
+    "txLastMinute": "Transakcje (w ostatniej chwili)",
+    "monitor": "Monitor pulsowy",
+    "legend": "Wysokość uderzenia = transakcje w bloku",
+    "chartLabel": "Śledzenie bicia serca: {{rate}} bloków na minutę, {{seconds}} sekundy między blokami",
+    "stream": "Przepływ bloków",
+    "txCount_one": "{{count}} tx",
+    "txCount_few": "{{count}} txs",
+    "txCount_many": "{{count}} txs",
+    "txCount_other": "{{count}} txs"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "聯繫的瓦爾斯",
+    "viewAll": "查看所有驗證碼",
+    "col": {
+      "validator": "驗證者",
+      "power": "投票權",
+      "cumulative": "累計的數量",
+      "commission": "佣金",
+      "uptime": "正常運作時間",
+      "change": "24小時的變更",
+      "details": "詳細資料",
+      "tokens": "聯合證券"
+    },
+    "stake": "質押",
+    "stakeWith": "這種認證器的賭注",
+    "pageDescription": "按投票權排名 (模擬) 獲得{{chain}}的每個驗證人.",
+    "stats": {
+      "active": "活跃的验证器",
+      "nakamoto": "納卡莫托系數",
+      "nakamotoHint": "要停止連鎖的驗證機",
+      "top10": "排名前十名的投票權",
+      "commission": "平均佣金"
+    },
+    "filterPlaceholder": "按姓名或地址的濾網",
+    "statusFilter": "認證人狀態",
+    "tableCaption": "在 {{chain}} 號的證實器",
+    "detailDescription": "在{{chain}}號的模擬驗證器.",
+    "detail": {
+      "delegators": "委託人",
+      "bonded": "聯繫的代幣",
+      "last30": "在過去的30天",
+      "last90": "過去90天",
+      "noBlocks": "沒有最近提出的區塊.",
+      "noWebsite": "沒有可用 (虛假的驗證碼)",
+      "openPage": "打開完整頁面",
+      "powerHistory": "投票權",
+      "proposed24h": "提出的區塊 (24 小時)",
+      "rank": "排名",
+      "recentBlocks": "最近提出的區塊",
+      "selfBonded": "獨立的",
+      "txs": "Txs: {{count}} 年",
+      "uptimeHistory": "正常運作時間",
+      "valueUsd": "股價值 {{value}}",
+      "website": "網站"
+    },
+    "status": {
+      "active": "活躍",
+      "inactive": "未活躍",
+      "jailed": "已監禁"
+    },
+    "activitiesTitle": "認證人活動",
+    "commissionShort": "收費 {{value}} 年",
+    "detailTitle": "驗證者",
+    "fictionalNote": "這不是真正的操作員, 沒有任何關於它的驗證.",
+    "hoverTip": "委員會 {{commission}} · 工作時間 {{uptime}} · {{delegators}} 代表",
+    "noMatching": "沒有相匹配的驗證劑.",
+    "notFoundBody": "{{chain}} 沒有這個地址的驗證碼.",
+    "notFoundTitle": "沒有找到驗證碼",
+    "sort": {
+      "power": "投票權",
+      "commission": "佣金",
+      "uptime": "正常運作時間"
+    },
+    "sortBy": "排序核准器按"
+  },
+  "validatorsViz": {
+    "description": "在{{chain}}號每個驗證碼的使用時間,。",
+    "showAll": "包含不活動和被監禁的人",
+    "avgUptime": "平均使用時間",
+    "zeroFee": "沒有收費的驗證機",
+    "chartTitle": "委托與使用時間",
+    "chartHint": "每個泡都是一個驗證碼",
+    "legend": "圖表傳說",
+    "sizeHint": "泡大小 = 投票權"
+  }
+}

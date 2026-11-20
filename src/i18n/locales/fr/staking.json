@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Déléguez des jetons à un validateur de {{chain}} pour gagner des récompenses simulées.",
+    "validator": "Validateur",
+    "pickValidator": "Choisir un validateur",
+    "estimate": "Rendements estimés",
+    "netApr": "APR net (après commission)",
+    "yearly": "Récompenses par an",
+    "monthly": "Récompenses par mois",
+    "unbonding": "Période d’unbonding",
+    "commission": "Commission du validateur",
+    "notice": "Sur un vrai réseau, le stake retiré reste verrouillé pendant la période d’unbonding de {{days}} jours. Ici, tout est simulé et instantané.",
+    "yourStake": "Votre stake sur {{chain}}",
+    "unstake": "Retirer le stake",
+    "unstakeTitle": "Retirer le stake de {{validator}}",
+    "unstakeDescription": "Sur un vrai réseau, vos jetons seraient débloqués après la période d’unbonding de {{days}} jours.",
+    "confirmUnstake": "Retirer le stake (simulé)",
+    "done": "Staking effectué (simulé)",
+    "doneBody": "Délégué dans le portefeuille de démonstration. La véritable période d’unbonding serait de {{days}} jours.",
+    "unstaked": "Stake retiré (simulé)",
+    "unstakedBody": "Rendu immédiatement au portefeuille de démonstration. Un vrai réseau prendrait {{days}} jours.",
+    "errors": {
+      "validator": "Choisissez un validateur.",
+      "moreThanStaked": "Vous ne pouvez pas retirer plus que ce que vous avez staké."
+    },
+    "review": "Enjeu d'examen",
+    "confirmDescription": "Vérifiez la délégation. La confirmation ne modifie que le portefeuille Demo dans ce navigateur.",
+    "aprDisclaimer": "L'APR affiché est une estimation basée sur l'inflation actuelle, l'impôt communautaire et le ratio obligataire.",
+    "rewardsHistory": "L'histoire des récompenses",
+    "noRewardsHistory": "Aucune récompense n'a encore été réclamée.",
+    "rewardsClaimed": "Prétendu {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Stakez un jeton et recevez un jeton de staking liquide qui continue de générer des récompenses tout en restant échangeable.",
+    "mode": "Sens",
+    "stake": "Staker",
+    "unstake": "Racheter",
+    "asset": "Actif",
+    "youStake": "Vous stakez ({{symbol}})",
+    "youRedeem": "Vous rachetez ({{symbol}})",
+    "youReceive": "Vous recevez ({{symbol}})",
+    "exchangeRate": "Taux de change",
+    "apr": "APR estimé",
+    "protocolFee": "Frais de protocole sur les récompenses",
+    "notice": "Les jetons de staking liquide et leurs taux sont simulés. Rien n’est émis on-chain.",
+    "done": "Conversion effectuée (simulé)",
+    "doneBody": "Les soldes de votre portefeuille de démonstration ont été mis à jour.",
+    "review": "Révision de la conversion",
+    "confirmDescription": "Vérifiez la conversion. La confirmation ne change que le portefeuille Demo dans ce navigateur.",
+    "risksTitle": "Risques à comprendre",
+    "risks": {
+      "smartContract": "Risque des contrats intelligents: les protocoles de stockage des liquides sont des logiciels, et les logiciels peuvent contenir des bugs.",
+      "depeg": "Risque de dépeg: le jeton liquide peut être négocié en dessous de la valeur des jetons qu'il représente.",
+      "validator": "Risque de validateur: si les validateurs derrière le protocole sont coupés, chaque détenteur partage la perte.",
+      "unbonding": "Retard de sortie: le rachat par le protocole peut prendre aussi longtemps que la période de déconnexion du réseau."
+    },
+    "rateExplain": "Le taux de change est le nombre de jetons mis en jeu qu'un jeton liquide représente. Il augmente à mesure que les récompenses de mise s'accumulent, de sorte qu'un jeton liquide devient lentement de plus en plus valant qu'un jeton mis en jeu.",
+    "noProtocol": "ChainBeat n'est pas intégré à un véritable protocole de stockage de liquide. Cette page est une simulation éducative."
+  }
+}

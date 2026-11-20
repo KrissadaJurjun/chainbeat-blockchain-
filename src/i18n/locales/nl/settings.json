@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Vermindering van de beweging",
+    "reduceMotionHint": "Animaties en transities minimaliseren.",
+    "appearance": {
+      "compact": "Compact layout",
+      "compactHint": "Trekt het inhoudsplaatsje iets kleiner.",
+      "description": "Thema, beweging en dichtheid.",
+      "title": "Uiterlijk"
+    },
+    "confirm": {
+      "action": "Bevestigen",
+      "title": "- Weet je het zeker? - Ja.",
+      "dataset": "Hiermee worden de gesimuleerde klok, de snelheid, de latentie en de gedwongen fouten opnieuw ingesteld.",
+      "wallet": "Dit herstelt de startbalans van de Demo portemonnee en verwijdert de gesimuleerde activiteit, stemmen en voorstellen.",
+      "all": "Dit verwijdert elke ChainBeat-instelling die in deze browser is opgeslagen (taal, thema, netwerk, Demo portemonnee, recente zoekopdrachten) en laadt de pagina opnieuw op."
+    },
+    "data": {
+      "datasetReset": "Demo Dataset opnieuw ingesteld op realtime.",
+      "description": "Hoe vers de gegevens zijn en hoe de simulatie wordt ingesteld.",
+      "refresh": "Vernieuwen van live data",
+      "refreshHint": "Hoe vaak lijsten en tellers het (gesimulateerde) netwerk opnieuw lezen.",
+      "refreshOptions": {
+        "live": "Leven",
+        "slow": "Langzaam",
+        "manual": "Handleiding"
+      },
+      "resetDataset": "Demo-dataset opnieuw instellen",
+      "searchesCleared": "Onlangse zoekopdrachten.",
+      "speedHint": "Stop de gesimuleerde klok of vertraag het.",
+      "title": "Gegevens"
+    },
+    "description": "Uiterlijk, taal, netwerk en privacy. Alles wordt alleen opgeslagen in deze browser.",
+    "language": {
+      "count": "{{shipped}} van de beschikbare {{total}} talen",
+      "current": "Tegenwoordig gebruikte taal",
+      "description": "Kies de interface taal. Zoek naar moedernaam, Engelse naam of code.",
+      "fallback": "Teksten die nog niet zijn vertaald, worden in het Engels weergegeven.",
+      "title": "Taal"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Welk netwerk te verkennen en waar de gegevens vandaan komen.",
+      "endpoint": "Live eindpunt",
+      "live": "Leven",
+      "liveUnavailable": "Live data is niet beschikbaar in deze build: elke pagina toont gesimuleerde gegevens. Als een eindpunt is ingesteld kunt u de verbinding testen, maar de app mengt nooit live en gesimuleerde gegevens.",
+      "mode": "Gegevensbron",
+      "noEndpoint": "Geen (gesimulateerde gegevens)",
+      "selected": "Netwerk",
+      "status": "Verbinding",
+      "statusDemo": "Simulatief netwerk · hoogte {{height}}",
+      "title": "Netwerk",
+      "unavailable": "niet beschikbaar",
+      "test": "Testverbinding",
+      "testing": "Het testen...",
+      "testHint": "Stuurt twee enkel-leesbare GET-verzoeken naar het onderstaande eindpunt en laat zien wat het antwoord is. Niets wordt opgeslagen en de gegevensbron verandert niet.",
+      "testOk": "Verbinding naar {{chain}}: laatste blok {{height}}, beantwoord in {{ms}} ms.",
+      "testPartial": "Verbinding naar {{chain}}: laatste blok {{height}}, beantwoord in {{ms}} ms. Sommige optionele details waren niet beschikbaar.",
+      "testError": {
+        "timeout": "Het eindpunt beantwoordde niet op tijd.",
+        "network": "Het eindpunt kon niet worden bereikt. Controleer het adres en dat het verzoeken van deze site toelaat.",
+        "http": "Het eindpunt antwoordde met een fout.",
+        "invalid": "Het eindpunt reageerde, maar niet in het formaat van een Cosmos REST API, dus niets werd gebruikt."
+      }
+    },
+    "privacy": {
+      "clearAll": "Verwijder alle ChainBeat-gegevens in deze browser",
+      "description": "Wat deze app opslaat en wat ze kan zien.",
+      "keysCaption": "Browseropslag gebruikt door ChainBeat",
+      "noNetwork": "ChainBeat stuurt nergens gegevens: het heeft geen analytics en doet geen verzoeken behalve voor zijn eigen bestanden. Er zijn twee optionele uitzonderingen: de Test connection knop, die alleen verschijnt wanneer je een eindpunt configureert en er twee alleen-lees verzoeken naar stuurt, en de Google-login-knop, die alleen verschijnt nadat je je eigen Google-client-ID hebt toegevoegd en vervolgens van Google wordt geladen.",
+      "noSeed": "ChainBeat vraagt nooit naar, opslaat of ziet geen seed phrase, privé-sleutel of portemonnee wachtwoord.",
+      "storage": "Voorkeuren, het geselecteerde netwerk, de gesimuleerde klok, de Demo portemonnee, recente zoekopdrachten en elk demo-account dat u maakt, worden alleen opgeslagen in de localStorage van deze browser.",
+      "title": "Privaatheid",
+      "wallet": "Als u een browseraansluiting voor uw portemonnee verbindt, leest ChainBeat alleen uw publieke adres en rekeningnaam, en pas nadat u het hebt goedgekeurd. Er wordt niets ondertekend of verzonden.",
+      "keys": {
+        "lang": "Geselecteerde taal",
+        "ui": "Thema, beweging, dichtheid, uitleg en favorieten",
+        "chain": "Geselecteerd netwerk",
+        "sim": "Simulatie van klok, snelheid en latentie",
+        "wallet": "Demo portemonnee: fictieve saldo's, activiteit, stemmen, voorstellen",
+        "notifications": "Welke meldingen u hebt gelezen of afgewezen, en de lokale gebeurtenissen (portemonnee, gesimuleerde transacties)",
+        "search": "Recente zoekopdrachten",
+        "auth": "Demo accounts: gebruikersnamen, e-mailadressen, gezouten wachtwoordhashes en de huidige inlog"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Demo Modus",
+    "chipTip": "Alle gegevens zijn gesimuleerd.",
+    "controls": "Demo controles",
+    "controlsIntro": "ChainBeat draait op deterministische gesimuleerde gegevens. Er wordt hier niets gelezen of naar een echte blockchain gestuurd.",
+    "clock": "Simulatie van de klok",
+    "simulatedNow": "Simulatie van de tijd",
+    "offset": "{{value}} uur vooruit",
+    "advanceHour": "Een uur vooruit",
+    "advanceDay": "1 dag vooruit",
+    "resetClock": "Herinstellen van de klok",
+    "clockNote": "Door de klok vooruit te gaan, worden nieuwe blokken, prijzen en gebeurtenissen op {{chain}} geproduceerd.",
+    "network": "Netwerkgedrag",
+    "latency": "Simulatie van latentie",
+    "latencyOff": "Uit",
+    "simulateErrors": "Simuleren van netwerkfouten",
+    "simulateErrorsHint": "Elk verzoek mislukt, dus u kunt foutstatistieken inspecteren.",
+    "wallet": "Demo portemonnee",
+    "resetWallet": "Demo portemonnee opnieuw instellen",
+    "walletReset": "Demo portemonnee opnieuw ingesteld op zijn startbalans.",
+    "noticeTitle": "Modus Demo.",
+    "noticeBody": "Deze workflow wordt gesimuleerd. Er wordt niets ondertekend of uitgezonden en er zijn geen echte fondsen betrokken.",
+    "behind": "{{value}} uur achter op realtime",
+    "speed": "Simulatie-snelheid",
+    "speeds": {
+      "paused": "Gepauzeerd",
+      "slow": "Langzaam",
+      "normal": "Normaal"
+    }
+  },
+  "about": {
+    "title": "Over ChainBeat",
+    "demo": "ChainBeat loopt in Demo Mode. Elk blok, prijs, validator en voorstel wordt deterministisch gegenereerd in uw browser. Dit zijn geen actuele mainnet-statistieken.",
+    "privacy": "Er is geen API-sleutel, privé-sleutel of seed-frase nodig. Optionele demo-accounts, voorkeuren en de demo-portemonnee worden alleen opgeslagen in uw browser.",
+    "shortcuts": "Sleutelbordnauwkeuringen",
+    "shortcutSearch": "Focuszoek",
+    "shortcutClose": "Sluit dialoog- en menu's",
+    "languages": "Interface talen: {{shipped}} van de {{total}}. De vertalingen worden geholpen door machines en zijn niet door moedertaalsprekers beoordeeld; een professionele beoordeling wordt aanbevolen voor openbaar gebruik.",
+    "pageDescription": "Wat ChainBeat is, hoe het met gegevens omgaat, en de toetsenbordverkortingen.",
+    "shortcutPalette": "Open zoekopdracht (opdrachtpalet)"
+  }
+}

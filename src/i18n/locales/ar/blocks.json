@@ -1,0 +1,40 @@
+{
+  "blockDetail": {
+    "title": "الكتلة {{height}}",
+    "invalid": "ارتفاع كتلة غير صالح",
+    "description": "تفاصيل كتلة محاكاة على {{chain}}.",
+    "previous": "الكتلة السابقة",
+    "next": "الكتلة التالية",
+    "notFoundTitle": "الكتلة غير موجودة",
+    "notFoundBody": "لا توجد في {{chain}} كتلة بهذا الارتفاع بعد.",
+    "transactions_zero": "لا توجد معاملات",
+    "transactions_one": "معاملة واحدة",
+    "transactions_two": "معاملتان",
+    "transactions_few": "{{count}} معاملات",
+    "transactions_many": "{{count}} معاملة",
+    "transactions_other": "{{count}} معاملة",
+    "txCaption": "معاملات الكتلة {{height}}",
+    "noTxs": "لا تحتوي هذه الكتلة على معاملات",
+    "genesis": "كتلة جينيسيس",
+    "parentHash": "الحشيش الوالد",
+    "demoTxs": "Demo معاملات محفظة في هذا المعدل",
+    "demoTxsNote": "تم إنشاؤها بواسطة محفظة Demo وهي ليست جزءاً من حساب المعاملات الخاص بالجكل المحاكي."
+  },
+  "blocksPage": {
+    "description": "أحدث الكتل على {{chain}}. تتحدث القائمة مرة واحدة تقريبًا في كل زمن كتلة.",
+    "live": "مباشر",
+    "avgGas": "متوسط الغاز المستخدم",
+    "tableCaption": "أحدث الكتل على {{chain}}",
+    "proposer": "مقترِح الكتلة",
+    "txs": "المعاملات",
+    "gas": "الغاز المستخدم",
+    "size": "الحجم",
+    "emptyTitle": "لم يتم العثور على كتلة",
+    "filterPlaceholder": "تصفية حسب الارتفاع أو الهاشة أو المؤكدة",
+    "filtersLabel": "مرشحات حظر",
+    "finality": "النهاية",
+    "finalityNote": "الحواجز على هذا النوع من الشبكات هي نهائية بمجرد أن يتم الالتزام بها.",
+    "finalized": "تم إتمامها",
+    "withTxsOnly": "فقط كتلة مع المعاملات"
+  }
+}

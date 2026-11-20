@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "A legújabb tranzakció a {{chain}}-en.",
+    "stats": {
+      "recent": "Nemrégiben történt ügyletek",
+      "success": "Sikeres",
+      "failed": "Sikertelen",
+      "volume": "Nemzeti térfogat"
+    },
+    "filterPlaceholder": "Szűrő hash, cím vagy magasság szerint",
+    "allTypes": "Minden típus",
+    "tableCaption": "Újabb tranzakciók a {{chain}}",
+    "from": "Feladó",
+    "to": "Címzett",
+    "memo": "Megjegyzés",
+    "noMemo": "Nincs jegyzőkönyv",
+    "raw": "A nyers adatok megtekintése (simuláció)",
+    "detailTitle": "Tranzakció",
+    "detailDescription": "A {{chain}}-es simulált tranzakció részletei.",
+    "notFoundTitle": "Tranzakció nem talált",
+    "notFoundBody": "A szimulációban nem történt semmiféle ügylet a {{chain}}-en.",
+    "failedBecause": "Ez a tranzakció nem sikerült: {{reason}}.",
+    "types": {
+      "send": "Küldés",
+      "delegate": "A küldött",
+      "undelegate": "Nem felhatalmazáson alapuló",
+      "claim": "A díjak igénybevétele",
+      "vote": "Szavazás",
+      "ibc-transfer": "IBC átruházás",
+      "swap": "Csere",
+      "other": "Egyéb"
+    },
+    "status": {
+      "success": "Sikeres",
+      "failed": "Sikertelen"
+    },
+    "block": "Blokk",
+    "cardsLabel": "Tranzakciók",
+    "category": "Kategória",
+    "date": "Évjegyzés",
+    "dateNote": "A legújabb {{count}} tranzakció megjelenítése a {{date}}-es év végéig (UTC).",
+    "emptyTitle": "Nem találtak tranzakciókat",
+    "events": "Helyes események",
+    "failedEvents": "Ez a tranzakció nem sikerült, ezért csak a díjadíjat adta ki.",
+    "feeSymbol": "A díjjegy",
+    "filtersLabel": "Tranzakciós szűrők",
+    "gasUsed": "Felhasznált gas",
+    "gasWanted": "Szükség van gázra",
+    "groups": {
+      "transfer": "Áthelyezések",
+      "staking": "Szállás",
+      "governance": "Kormányzás",
+      "ibc": "IBC",
+      "swap": "Sváp",
+      "other": "Egyéb"
+    },
+    "latestNote": "A legújabb {{count}}-es tranzakciókat mutatja.",
+    "messageType": "Üzenetek típusa",
+    "network": "Hálózat",
+    "symbol": "Token",
+    "syntheticNote": "Ez egy szintetikus rekord, amit a Demo-es módhoz hoztak létre.",
+    "token": "Token",
+    "validator": "Validátor",
+    "demoWalletNote": "Ezt a tranzakciót a Demo-es pénztárca készítette. Csak ebben a böngészőben létezik: nem történt blokklánc átruházás, és a hash nem egy igazi blokklánc hash.",
+    "demoTag": "Demo pénztárca"
+  }
+}

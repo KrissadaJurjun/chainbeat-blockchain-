@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Täällä ei ole vielä mitään",
+    "emptyBody": "Ei ole näyttöä tästä näkökulmasta.",
+    "errorTitle": "En voinut ladata näitä tietoja",
+    "errorBody": "Jos jokin meni pieleen, tarkista yhteys ja yritä uudelleen.",
+    "crashTitle": "Jokin meni pieleen",
+    "crashBody": "Tämä sivu löysi odottamattoman virheen.",
+    "reload": "Uusi lataussivu"
+  }
+}

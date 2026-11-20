@@ -1,0 +1,104 @@
+{
+  "overview": {
+    "title": "Przegląd",
+    "unit": "Indeks wydajności · Baza = 100 na początku zasięgu",
+    "refreshFailed": "Nie mogłem odświeżyć pokazując ostatnie załadowane dane."
+  },
+  "chart": {
+    "keyboardHint": "Korzystaj z klawiszy strzałki do przemieszczania się pomiędzy punktami danych.",
+    "summary": "Indeks wydajności powyżej {{range}}: {{details}}",
+    "rangeLabel": "Zakres czasu",
+    "seriesLabel": "Serial wykresów",
+    "keepOne": "Przynajmniej jedna seria musi pozostać widoczna",
+    "emptyTitle": "Żadnych danych na ten zakres",
+    "emptyBody": "Spróbuj innego zakresu czasu lub odświeżyć.",
+    "range": {
+      "24H": "24H",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "Ostatnie 24 godziny",
+      "7D": "Ostatnie 7 dni",
+      "30D": "Ostatnie 30 dni",
+      "90D": "Ostatnie 90 dni"
+    },
+    "zoomControls": "Kontrola zwiększenia",
+    "zoomIn": "Zwiększ",
+    "zoomOut": "Zoom out",
+    "resetView": "Widok ponownego ustawienia",
+    "zoomLevel": "Poziom zwiększenia"
+  },
+  "proposals": {
+    "title": "Propozycje",
+    "filter": "Filtr propozycji",
+    "live": "Życie",
+    "total": "Razem",
+    "viewAll": "Zobacz wszystkie propozycje",
+    "noneLive": "Żadnych propozycji na żywo",
+    "noneLiveBody": "Obecnie nie ma trwającego zarządzania.",
+    "showAll": "Wyświetlanie ostatnich propozycji",
+    "endsIn": "Koniec {{time}}",
+    "turnout": "Frekwencja",
+    "vote": "Głosuj",
+    "status": {
+      "voting": "Trwa głosowanie",
+      "deposit": "Depozyt",
+      "passed": "Przyjęta",
+      "rejected": "Odrzucona",
+      "failed": "Nieudana"
+    },
+    "passed": "Przyjęta",
+    "rejected": "Odrzucona",
+    "noneMatching": "Nie ma odpowiednich propozycji",
+    "noneMatchingBody": "Nic nie pasuje do tego filtra."
+  },
+  "dev": {
+    "title": "Aktywność deweloperów",
+    "summary": "{{total}} wkłady",
+    "viewFull": "Otwarta działalność dewelopera",
+    "heatmapLabel": "Karta ciepła wkładu: {{total}} wkładów w ciągu {{weeks}} tygodni",
+    "less": "Mniej",
+    "more": "Więcej",
+    "cellTitle_one": "{{count}} wkład na {{date}}",
+    "cellTitle_few": "{{count}} wkłady na {{date}}",
+    "cellTitle_many": "{{count}} wkładów na {{date}}",
+    "cellTitle_other": "{{count}} wkładów na {{date}}",
+    "range": "Zakres map ciepła",
+    "ranges": {
+      "month": "Miesiąc",
+      "quarter": "Czwarta część",
+      "year": "Rok"
+    }
+  },
+  "repos": {
+    "title": "Aktywny repozytorium",
+    "period": "Okres",
+    "periods": {
+      "week": "Tydzień",
+      "month": "Miesiąc",
+      "year": "Rok",
+      "quarter": "Czwarta część"
+    },
+    "contributors": "Wspieranci",
+    "stars": "Gwiazdy",
+    "sparkline": "Działalność zobowiązań w odniesieniu do {{name}}",
+    "vsPrevious": "{{change}} w stosunku do poprzedniego okresu",
+    "up": "W górę",
+    "down": "W dół",
+    "caption": "Zobowiązania w wybranym okresie · symulowane repozytory",
+    "col": {
+      "repository": "Repozytorium",
+      "language": "Język",
+      "commits": "Zobowiązania",
+      "change": "Zmiana",
+      "trend": "Trend"
+    },
+    "commitsCount": "Zobowiązania: {{count}}",
+    "demoNote": "Demo dane: to repozytorium jest fikcyjne i jego aktywność jest symulowana.",
+    "emptyBody": "W tym okresie nie ma aktywności w rejestracji.",
+    "emptyTitle": "Brak aktywności w repozytorium",
+    "history": "Działalność zaangażowana"
+  }
+}

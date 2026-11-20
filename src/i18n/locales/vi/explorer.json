@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Tài sản bản địa, IBC, tài sản lưu trữ thanh khoản và tài sản bên ngoài được biết đến trên {{chain}} (được mô phỏng).",
+    "stats": {
+      "total": "Các token theo dõi"
+    },
+    "kinds": {
+      "native": "Người bản địa",
+      "ibc": "IBC",
+      "external": "Bên ngoài",
+      "stable": "Stablecoin",
+      "liquid": "Đổ chất lỏng"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Loại",
+      "denom": "Dénom",
+      "price": "Giá",
+      "change": "24h",
+      "supply": "Nguồn cung",
+      "holders": "Các chủ sở hữu",
+      "marketCap": "Vốn hóa thị trường"
+    },
+    "filterPlaceholder": "Bộ lọc theo biểu tượng, tên hoặc tên gọi",
+    "tableCaption": "Các mã thông báo trên {{chain}}"
+  },
+  "account": {
+    "title": "Tài khoản",
+    "description": "Số dư và hoạt động gần đây của một tài khoản trên {{chain}} (được mô phỏng).",
+    "available": "Có sẵn",
+    "balances": "Số dư",
+    "counterparty": "Bên đối tác",
+    "direction": "Định hướng",
+    "in": "Trong",
+    "out": "Ra ngoài",
+    "history": "Lịch sử giao dịch",
+    "historyCaption": "Giao dịch của {{address}}",
+    "invalidTitle": "Không có địa chỉ hợp lệ",
+    "invalidBody": "Điều này không hợp lệ. {{chain}} Địa chỉ. Địa chỉ trên mạng này bắt đầu với {{prefix}} 1 và bao gồm số tiền kiểm tra.",
+    "noBalances": "Không cân bằng.",
+    "noHistory": "Không có giao dịch nào được tìm thấy",
+    "noHistoryBody": "Tài khoản này không có hoạt động mô phỏng trong các khối {{blocks}} mới nhất.",
+    "rewards": "Giải thưởng: {{value}}",
+    "staked": "Thêm:",
+    "totalValue": "Tổng giá trị",
+    "txCount": "Giao dịch",
+    "unknown": "Đây là một địa chỉ hợp lệ, nhưng nó không xuất hiện trong mô phỏng, vì vậy nó không có cân bằng hoặc lịch sử.",
+    "window": "trong các khối mới nhất {{blocks}}",
+    "demoWallet": "Đây là ví Demo của bạn. Số dư và giao dịch của nó được mô phỏng và chỉ tồn tại trong trình duyệt này."
+  },
+  "explorer": {
+    "description": "Tìm kiếm {{chain}} và xem những gì đang xảy ra trên mạng (được mô phỏng) ngay bây giờ.",
+    "latestBlocks": "Khối mới nhất",
+    "latestTransactions": "Giao dịch mới nhất",
+    "searchTitle": "Tìm kiếm người thám hiểm",
+    "shortcuts": "Các phần Explorer"
+  }
+}

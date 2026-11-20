@@ -1,0 +1,60 @@
+{
+  "ibcPage": {
+    "description": "Kako tokeni teče između lanca preko IBC.",
+    "volume": "24h IBC volumen",
+    "chains": "Spojeni lanci",
+    "links": "Aktivni kanali",
+    "busiest": "Najprometniji put",
+    "mapLabel": "Karta IBC veza između lanca",
+    "nodeLabel": "{{name}}: {{volume}} u 24 sata preko {{channels}} kanala",
+    "hint": "Prebaci, usredotoči ili odaberite lanac kako bi istakli njegove veze. Vlači na ploču; koristite Ctrl ili s kola za prebacivanje, ključeve + i − ili dugme za povezivanje; pritisnite 0 kako biste resetirali.",
+    "channelsOf": "Članovi {{name}}",
+    "topChannels": "Najviši kanali po obimu",
+    "transfers_one": "{{count, number}} prijenos",
+    "transfers_few": "{{count, number}} prijenosa",
+    "transfers_other": "{{count, number}} prijenosa",
+    "info": {
+      "volume": "Obim (24 h)",
+      "channels": "Kanali",
+      "share": "Udio u količini IBC",
+      "partner": "Najzauzetniji partner"
+    }
+  },
+  "multichainPage": {
+    "description": "Šireniji ekosistema u Cosmos stilu na prvi pogled simulirani brojki za svaki povezan lanac.",
+    "chains": "Zvezde",
+    "tvl": "Ukupna vrijednost zaključana",
+    "validators": "Validatori",
+    "tx24h": "Transacije (24h)",
+    "height": "Visina blokova",
+    "open": "Otvoreno upravljačko tablo",
+    "switched": "Prešao na {{name}}",
+    "registryOnly": "Registriran za demo još uvijek ne može se odabrati",
+    "tvlByChain": "TVL po lancu",
+    "tvlHint": "Simulirana ukupna vrijednost zaključana",
+    "explainTitle": "Što znače metričke vrijednosti?",
+    "explainHint": "Jednostavne definicije cifre na ovoj stranici.",
+    "explain": {
+      "tvl": "S druge strane, vrijednost tokena koji se stavljaju ili drže u simuliranom gospodarstvu mreže, po simuliranim cijenama.",
+      "height": "Koliko je blokova proizvedeno od početka lanca.",
+      "validators": "Operatori koji predlažu i potpisaju blokove.",
+      "apr": "Procenjena godišnja nagrada za ulaganje, kao procenat prije provizije.",
+      "bonded": "Udio ukupne ponude tokena koji je ugrožen. Veći udio znači da više ponude osigurava lanac.",
+      "tx24h": "Transacije uključene u blokove u posljednjih 24 sata u svim imenovanim lanacima."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Puls od {{chain}}: svaki blok je bit rasprostranjenost slijedi blok vremena, visina slijedi broj transakcija.",
+    "rate": "Blokna stopa",
+    "perMinute": "Blokovi/min",
+    "sinceLast": "Od posljednjeg bloka",
+    "txLastMinute": "Transacije (posljednja minuta)",
+    "monitor": "Monitor pulsacije",
+    "legend": "Vježina udara = transakcije u bloku",
+    "chartLabel": "Sljedeći: {{rate}} bloka u minuti, {{seconds}} sekundi između bloka",
+    "stream": "Blokni tok",
+    "txCount_one": "{{count}} kg",
+    "txCount_few": "{{count}} txs",
+    "txCount_other": "{{count}} txs"
+  }
+}

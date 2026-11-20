@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simulirano",
+    "close": "Zapri",
+    "retry": "Poskusi znova",
+    "refresh": "Osveži",
+    "copy": "Kopiraj",
+    "copied": "Kopirano",
+    "clear": "Počisti",
+    "loading": "Nalaganje…",
+    "options": "Možnosti",
+    "previous": "Prejšnja",
+    "next": "Naslednja",
+    "pagination": "Stranišče",
+    "pageN": "Stranica {{n}}",
+    "dismiss": "Opusti",
+    "cancel": "Prekliči",
+    "viewAll": "Prikaži vse",
+    "max": "Maks.",
+    "amount": "Znesek",
+    "balance": "Stanje",
+    "fee": "Pristojbina",
+    "status": "Status",
+    "time": "Čas",
+    "height": "Višina",
+    "hash": "Hash",
+    "type": "Vrsta",
+    "all": "Vse",
+    "showing": "Pokazujemo {{from}} Številka {{to}} iz {{total}}",
+    "noResults": "Ni rezultatov, ki bi ustrezali vašim filtrom.",
+    "rowsPerPage": "Roke na stran",
+    "actions": "Ukrepi",
+    "exportCsv": "Izvoz CSV",
+    "details": "Podrobnosti",
+    "clearFilters": "Čisti filtri",
+    "collapseAll": "Vse se je zrušilo",
+    "copyJson": "Kopirajte JSON",
+    "expandAll": "Razširi vse",
+    "showMore": "Pokažite več {{count}}"
+  },
+  "language": {
+    "label": "Jezik",
+    "search": "Iščetne jezike"
+  },
+  "theme": {
+    "label": "Tema",
+    "system": "Sistemska",
+    "dark": "Temna",
+    "light": "Svetla"
+  },
+  "footer": {
+    "tagline": "Raziskovanje blokov, sledenje transakcij, razumevanje spletnega mesta 3.",
+    "demo": "Demo Režim vse številke so simulirane in niso resnične statistike omrežja.",
+    "share": "Delitev",
+    "linkCopied": "Povezava je kopirana na ploščo.",
+    "docs": "Dokumentacija",
+    "links": "Spodnji povezave",
+    "modeDemo": "Demo Mreža",
+    "repository": "Repositorij",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Strani ni mogoče najti",
+    "body": "Stranica, ki jo iščete, ne obstaja ali se je premaknila.",
+    "home": "Nazaj na nadzorno ploščo"
+  },
+  "gate": {
+    "title": "Povežite denarnico Demo za nadaljevanje",
+    "body": "Ta delovni tok poteka na simulirani denarnici. Povežite denarnico Demo in poskusite.",
+    "realTitle": "Prava denarnica je povezana",
+    "realBody": "{{address}} je priključen, vendar način ChainBeat Demo nikoli ne podpiše ali prenaša transakcij. Premenite na denarnico Demo za poskusiti ta potek dela.",
+    "useDemo": "Uporabite denarnico Demo"
+  }
+}

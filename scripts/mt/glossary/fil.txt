@@ -1,0 +1,130 @@
+Dashboard
+Mga Validator
+Mga Panukala
+Mga Block
+Mga Transaksyon
+Portfolio
+Palitan
+Stake
+Liquid Staking
+Ipadala
+Bumoto
+Gumawa ng panukala
+Merkado
+Network
+Pamamahala
+IBC Network
+Aktibidad ng developer
+Pangkalahatang-ideya ng multichain
+Tibok ng puso
+Dominasyon
+Block Explorer
+Transaction Explorer
+Token Explorer
+Tungkol
+Explorer
+Mga Setting
+Wallet
+Analytics
+Mga Visualization
+Wika
+Tema
+Sistema
+Madilim
+Maliwanag
+Demo
+Simulado
+Isara
+Subukan muli
+I-refresh
+Kopyahin
+Nakopya
+I-clear
+Naglo-load…
+Nakaraan
+Susunod
+Isantabi
+Kanselahin
+Bumalik
+Tingnan lahat
+I-reset
+I-export
+Max
+Halaga
+Balanse
+Bayad
+Katayuan
+Kabuuan
+Oras
+Taas
+Hash
+Uri
+Lahat
+Maghanap
+I-filter
+Mga detalye
+Kumpirmahin
+Ikonekta ang wallet
+Idiskonekta
+Suriin ang transaksyon
+Bayad sa network
+Kopyahin ang address
+Magbabayad ka
+Matatanggap mo
+Address ng tatanggap
+Memo (opsyonal)
+Mga asset
+Alokasyon
+Na-delegate
+I-unstake
+Exchange rate
+Matagumpay
+Transaksyon
+Block
+Mula
+Para kay
+Memo
+Nagamit na gas
+Validator
+Token
+Address
+Panukala
+Presyo
+Suplay
+Market cap
+Komisyon
+Uptime
+Kapangyarihan sa pagboto
+Ranggo
+Aktibo
+Hindi aktibo
+Nakakulong
+Mga delegator
+Oo
+Hindi
+Abstain
+Hindi na may veto
+Naipasa
+Tinanggihan
+Nabigo
+Isinasagawa ang pagboto
+Quorum
+Turnout
+Deposito
+Ang boto mo
+Pamagat
+Paglalarawan
+Mga sukatan on-chain
+Taas ng block
+Tx kada block
+Oras ng block
+Staking APR
+Mga nakatali na token
+Kabuuang suplay
+Pondo ng komunidad
+Hindi nahanap ang pahina
+Bumalik sa dashboard
+Mga pinakabagong block
+Mga pinakabagong transaksyon
+Mga abiso
+Iba pa

@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Zníženie pohybu",
+    "reduceMotionHint": "Minimalizujte animácie a priechody.",
+    "appearance": {
+      "compact": "Kompaktné usporiadanie",
+      "compactHint": "Vytvára obsahovú plochu o niečo menšiu.",
+      "description": "Téma, pohyb a hustota.",
+      "title": "Pozornosť"
+    },
+    "confirm": {
+      "action": "Potvrdiť",
+      "title": "- Si si istá? - Áno.",
+      "dataset": "Tým sa simulovaný hodinky, jeho rýchlosť, latencia a nútené chyby resetujú na ich predvolené.",
+      "wallet": "Tým sa obnovia začiatočné zostatky peňaženky Demo a odstráni sa simulovaná aktivita, hlasy a návrhy.",
+      "all": "Tým sa odstránia všetky nastavenia ChainBeat uložené v tomto prehliadači (jazyk, téma, sieť, peňaženka Demo, nedávne vyhľadávania) a stránka sa znovu načíta."
+    },
+    "data": {
+      "datasetReset": "Demo Nastavenie datového súboru na reálne časové nastavenie.",
+      "description": "Ako sú údaje čerstvé a ako nastaviť simuláciu.",
+      "refresh": "Aktualizujte živé údaje",
+      "refreshHint": "Ako často zoznamy a počítače znovu čítajú (simulovanú) sieť.",
+      "refreshOptions": {
+        "live": "Žiť",
+        "slow": "Pomaly",
+        "manual": "Príručka"
+      },
+      "resetDataset": "Nastavenie demo datového súboru",
+      "searchesCleared": "Nedávne prehliadky vyčistené.",
+      "speedHint": "Zastavte simulovaný hodinky alebo spomalite ich.",
+      "title": "Údaje"
+    },
+    "description": "Vyzeranie, jazyk, sieť a súkromie. Všetko je uložené len v tomto prehliadači.",
+    "language": {
+      "count": "{{shipped}} z {{total}} dostupných jazykov",
+      "current": "Aktuálny jazyk",
+      "description": "Vyberte jazyk rozhrania. Vyhľadávajte podľa rodného mena, anglického mena alebo kódu.",
+      "fallback": "Text, ktorý ešte nebol prekladaný, je zobrazený v angličtine.",
+      "title": "Jazyk"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Ktorú sieť preskúmať a odkiaľ pochádzajú údaje.",
+      "endpoint": "Živý koncový bod",
+      "live": "Žiť",
+      "liveUnavailable": "V tejto budove nie sú k dispozícii živé údaje: každá stránka zobrazuje simulované údaje. Ak je nakonfigurovaný koncový bod, môžete testovať pripojenie, ale aplikácia nikdy nezmieša živé a simulované údaje.",
+      "mode": "Zdroj údajov",
+      "noEndpoint": "Žiadne (simulované údaje)",
+      "selected": "Sieť",
+      "status": "Spolupráca",
+      "statusDemo": "Simulovaná sieť · výška {{height}}",
+      "title": "Sieť",
+      "unavailable": "nie je k dispozícii",
+      "test": "Testové pripojenie",
+      "testing": "Testovanie...",
+      "testHint": "Posiela dve požiadavky GET na čítanie len na nižšie uvedený cieľový bod a zobrazuje, čo odpovedá. Nič nie je uložené a zdroj údajov sa nemení.",
+      "testOk": "Pripojený k {{chain}}: najnovší blok {{height}}, odpovedal v {{ms}} ms.",
+      "testPartial": "Pripojený na {{chain}}: najnovší blok {{height}}, odpovedal v {{ms}} ms.",
+      "testError": {
+        "timeout": "Konečný bod neodpovedal včas.",
+        "network": "Koncový bod nemohol byť dosiahnutý. Zkontrolujte adresu a to umožňuje žiadosti z tejto stránky.",
+        "http": "Konečný bod odpovedal chybou.",
+        "invalid": "Konečný bod odpovedal, ale nie vo formáte Cosmos REST API, takže sa nič nepoužívalo."
+      }
+    },
+    "privacy": {
+      "clearAll": "Vymazať všetky údaje ChainBeat v tomto prehliadači",
+      "description": "Čo táto aplikácia ukladá a čo vidí.",
+      "keysCaption": "Uloženie prehliadača používané ChainBeat",
+      "noNetwork": "ChainBeat nikam neposiela žiadne údaje: nemá žiadne analytické údaje a neposkytuje žiadnu žiadosť okrem vlastných súborov. Existujú dve výnimočné výnimky: tlačidlo Test connection, ktoré sa zobrazí iba pri konfigurácii koncového bodu a posiela mu dve žiadosti len pre čítanie, a tlačidlo Google sign-in, ktoré sa zobrazí iba po pridaní vlastného ID klienta Google a potom je naložené z Google.",
+      "noSeed": "ChainBeat nikdy nevyžiada, neukladá ani nevidí sémovú frázu, súkromný kľúč alebo heslo na peňaženku.",
+      "storage": "Preferencie, vybraná sieť, simulovaný hodinky, peňaženka Demo, nedávne vyhľadávania a akýkoľvek demo účet vytvoríte sú uložené len v lokálnom ukladaní tohto prehliadača.",
+      "title": "Súkromnosť",
+      "wallet": "Ak pripojíte rozšírenie peňaženky prehliadača, ChainBeat číta iba vašu verejnú adresu a názov účtu a len po tom, ako ju schválite. Nič nie je podpísané alebo odoslané.",
+      "keys": {
+        "lang": "Vybraný jazyk",
+        "ui": "Téma, pohyb, hustota, usporiadanie a obľúbené",
+        "chain": "Vybraná sieť",
+        "sim": "Simulované hodinky, rýchlosť a latencia",
+        "wallet": "Demo peňaženka: fiktívne bilancie, činnosť, hlasy, návrhy",
+        "notifications": "Aké oznámenia ste prečítali alebo odmietli, a miestne udalosti (peňaženka, simulované transakcie)",
+        "search": "Nedávne vyhľadávania",
+        "auth": "Demo účty: používateľské mená, e-mailové adresy, slané heslá a súčasné prihlásenie"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Demo Režim",
+    "chipTip": "Všetky údaje sú simulované.",
+    "controls": "Demo ovládacie prvky",
+    "controlsIntro": "ChainBeat funguje na deterministických simulovaných dátách. Nič tu nie je prečítané alebo odoslané na skutočný blockchain.",
+    "clock": "Simulované hodinky",
+    "simulatedNow": "Simulovaný čas",
+    "offset": "{{value}} hodín vpred",
+    "advanceHour": "1 hodina vopred",
+    "advanceDay": "1 deň vopred",
+    "resetClock": "Nastavenie hodiniek",
+    "clockNote": "Pokračovanie v čase vytvára nové bloky, ceny a udalosti na {{chain}}.",
+    "network": "správanie v sieti",
+    "latency": "Simulovaná latencia",
+    "latencyOff": "Odstránené",
+    "simulateErrors": "Simulácia sieťových chýb",
+    "simulateErrorsHint": "Každá žiadosť zlyhá, takže môžete skontrolovať prípady chyby.",
+    "wallet": "Demo peňaženka",
+    "resetWallet": "Reset demo peňaženka",
+    "walletReset": "Demo peňaženka resetovaná na začiatočné zostatky.",
+    "noticeTitle": "Režim Demo.",
+    "noticeBody": "Tento pracovný postup je simulovaný, nič nie je podpísané ani vysielané a nie sú zahrnuté žiadne skutočné finančné prostriedky.",
+    "behind": "{{value}} hodín za reálnym časom",
+    "speed": "Rýchlosť simulácie",
+    "speeds": {
+      "paused": "Zastavba",
+      "slow": "Pomaly",
+      "normal": "Normálne"
+    }
+  },
+  "about": {
+    "title": "O ChainBeate",
+    "demo": "ChainBeat funguje v režime Demo. Každý blok, cena, validátor a návrh sa deterministicky generuje vo vašom prehliadači.",
+    "privacy": "Nevyžaduje sa žiadny kľúč API, súkromný kľúč alebo fráza seed. Voliteľné demo účty, preferencie a demo peňaženka sú uložené iba v prehliadači.",
+    "shortcuts": "Skratky na klávesnicu",
+    "shortcutSearch": "Hľadanie zamerania",
+    "shortcutClose": "Zbližovanie dialógov a menu",
+    "languages": "Interface jazyky: {{shipped}} z {{total}}. Preklady sú strojovo podporované a neboli preskúmané rodnými rečami; pred verejným použitím sa odporúča odborné preskúmanie.",
+    "pageDescription": "Čo je ChainBeat, ako sa zaoberá údajmi a jeho klávesnice.",
+    "shortcutPalette": "Otvorený vyhľadávanie (požadovacia paleta)"
+  }
+}

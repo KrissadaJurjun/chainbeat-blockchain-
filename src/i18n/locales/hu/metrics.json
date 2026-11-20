@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Láncon belüli mutatók",
+    "exportCsv": "CSV-ként történő kivitel",
+    "exported": "CSV formában exportált mutatók.",
+    "openAnalytics": "Nyitott hálózati elemzés",
+    "last24h": "Az elmúlt 24 órában",
+    "sparklineLabel": "Az elmúlt 24 órán át tartó trend",
+    "change24h": "24 órás változás",
+    "blocks": "blokkok",
+    "exact": "Tökéletes érték",
+    "bondedRatio": "Kötelezettséggel rendelkező arány",
+    "poolShare": "Az ellátás részesedése",
+    "tokenPrice": "A jelvény ára",
+    "inputInflation": "Infláció",
+    "inputTax": "Közösségi adó",
+    "inputBonded": "Kötelezettséggel rendelkező arány",
+    "csvMetric": "Metrikus",
+    "csvValue": "Érték",
+    "csvUnit": "Egység",
+    "csvChange24h": "24 órás váltás",
+    "blockHeight": {
+      "label": "Blokkmagasság",
+      "description": "Az eredet óta előállított blokkok száma, és minden új blokkol egyvel nő."
+    },
+    "totalTransactions": {
+      "label": "Tranzakciók",
+      "description": "A hálózat által a keletkezés óta feldolgozott összes tranzakció."
+    },
+    "txPerBlock": {
+      "label": "Tx / blokk",
+      "description": "A blokkonként szereplő tranzakciók átlagos száma az elmúlt 100 blokkban."
+    },
+    "blockTime": {
+      "label": "Blokkidő",
+      "description": "Az egymást követő blokkok közötti átlagos idő, az elmúlt 100 blokk során mért."
+    },
+    "inflation": {
+      "label": "Infláció",
+      "description": "Az éves ráta, amelyen az új jelvényeket készítenek a befektetők jutalmazására és a közösségi forrás finanszírozására."
+    },
+    "stakingApr": {
+      "label": "Staking APR",
+      "description": "A befektetett tokenek becsült éves megtérülése a hitelesítő jutalék előtti.",
+      "formula": "APR = infláció × (1 − közösségi adó) ÷ kötvénykötelezett arány"
+    },
+    "bondedTokens": {
+      "label": "Lekötött tokenek",
+      "description": "A tokenek jelenleg aktív validátorokkal vannak betöltve.",
+      "formula": "kötött = teljes ellátás × kötött arány"
+    },
+    "totalSupply": {
+      "label": "Teljes kínálat",
+      "description": "Minden létező jelvény, beleértve azokat is, amelyek kockázattal vannak lefektetve, az inflációval nő."
+    },
+    "communityPool": {
+      "label": "Közösségi alap",
+      "description": "Az infláció részesedése beáramlik, a sikeres javaslatok pedig kihasználják.",
+      "formula": "A pontszám a kínálat × az infláció × a közösségi adó alapján növekszik"
+    },
+    "poolValue": {
+      "label": "A medencék értéke",
+      "description": "A közösségi forrás becsült dolláros értéke a simulált jelvényáránál.",
+      "formula": "érték = pool × jelvényár"
+    }
+  }
+}

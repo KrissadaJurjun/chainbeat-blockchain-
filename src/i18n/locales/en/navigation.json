@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Sidebar navigation",
+    "primary": "Main navigation",
+    "menu": "Navigation menu",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu",
+    "collapseSidebar": "Collapse sidebar",
+    "expandSidebar": "Expand sidebar",
+    "skipToContent": "Skip to main content",
+    "home": "ChainBeat home",
+    "pages": "Pages",
+    "dashboard": "Dashboard",
+    "validators": "Validators",
+    "proposals": "Proposals",
+    "blocks": "Blocks",
+    "transactions": "Transactions",
+    "portfolio": "Portfolio",
+    "swap": "Swap",
+    "stake": "Stake",
+    "liquidStaking": "Liquid Staking",
+    "send": "Send",
+    "vote": "Vote",
+    "createProposal": "Create Proposal",
+    "market": "Market",
+    "network": "Network",
+    "governance": "Governance",
+    "ibcNetwork": "IBC Network",
+    "devActivity": "Dev Activity",
+    "multichain": "Multichain Overview",
+    "heartbeat": "Heartbeat",
+    "dominance": "Dominance",
+    "validatorsViz": "Validators",
+    "blockExplorer": "Block Explorer",
+    "transactionExplorer": "Transaction Explorer",
+    "tokenExplorer": "Token Explorer",
+    "about": "About",
+    "explorerHome": "Explorer",
+    "governanceHome": "Governance hub",
+    "settings": "Settings"
+  },
+  "sections": {
+    "explorer": "Explorer",
+    "wallet": "Wallet",
+    "analytics": "Analytics",
+    "visualizations": "Visualizations"
+  },
+  "chains": {
+    "favorite": "Add {{name}} to favorites",
+    "unfavorite": "Remove {{name}} from favorites",
+    "simulatedHealthy": "Simulated network · healthy"
+  },
+  "search": {
+    "label": "Search ChainBeat",
+    "placeholder": "Search block, tx, address…",
+    "results": "Search results",
+    "noResults": "No results for “{{query}}”",
+    "kinds": {
+      "page": "Page",
+      "block": "Block",
+      "transaction": "Tx",
+      "validator": "Validator",
+      "token": "Token",
+      "address": "Address",
+      "proposal": "Proposal"
+    },
+    "recent": "Recent searches",
+    "clearRecent": "Clear recent searches",
+    "removeRecent": "Remove “{{query}}” from recent searches",
+    "hint": "Try a block height, a transaction hash, an address ({{prefix}}1…), a validator, a proposal number or a token denom.",
+    "submit": "Search",
+    "searching": "Searching…",
+    "resultCount": "Results: {{count}}",
+    "invalid": {
+      "tooLong": "That is too long to be a search term (200 characters at most).",
+      "badChecksum": "This looks like an address, but its checksum does not match. Check it for typos.",
+      "badHash": "A transaction or block hash has exactly 64 hexadecimal characters.",
+      "badChars": "Search for a block height, a hash, an address, a validator, a proposal or a token."
+    },
+    "categories": {
+      "page": "Pages",
+      "block": "Blocks",
+      "transaction": "Transactions",
+      "address": "Addresses",
+      "validator": "Validators",
+      "proposal": "Proposals",
+      "token": "Tokens"
+    }
+  },
+  "user": {
+    "menu": "Account menu",
+    "guest": "Guest",
+    "notConnected": "No wallet connected",
+    "settings": "Settings",
+    "about": "About ChainBeat"
+  }
+}

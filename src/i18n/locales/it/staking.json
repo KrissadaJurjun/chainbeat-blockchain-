@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delega i token a un validatore su {{chain}} per guadagnare ricompense simulate.",
+    "validator": "Validatore",
+    "pickValidator": "Scegli un validatore",
+    "estimate": "Ritorno stimato",
+    "netApr": "RAP netto (dopo la commissione)",
+    "yearly": "Premi annuali",
+    "monthly": "Premi mensili",
+    "unbonding": "Periodo di non obbligazione",
+    "commission": "Commissione di validatore",
+    "notice": "Su una rete reale, la scommessa ritirata è bloccata per il periodo di disimpegno di {{days}} giorni.",
+    "yourStake": "La tua scommessa sul {{chain}}",
+    "unstake": "Rimuovi stake",
+    "unstakeTitle": "Distacco dal {{validator}}",
+    "unstakeDescription": "Su una rete reale i tuoi token si sbloccerebbero dopo il periodo di decollazione di {{days}} giorni.",
+    "confirmUnstake": "Disponibilità (simulazione)",
+    "done": "Scatto (simulato)",
+    "doneBody": "Una vera e propria fase di disimpegno sarebbe... {{days}} Giorni.",
+    "unstaked": "Non coinvolto (simulato)",
+    "unstakedBody": "Torna subito al portafoglio Demo, una vera rete richiede {{days}} giorni.",
+    "errors": {
+      "validator": "Scegli un validatore.",
+      "moreThanStaked": "Non puoi scartare piu' di quanto hai scommesso."
+    },
+    "review": "Ingaggio di revisione",
+    "confirmDescription": "Controlla la delegazione, confermando cambia solo il portafoglio Demo in questo browser.",
+    "aprDisclaimer": "L'APR mostrato è una stima basata sull'attuale inflazione, sull'imposta comunitaria e sul rapporto obbligazionario, non è un rendimento garantito e cambia nel tempo.",
+    "rewardsHistory": "Storia delle ricompense",
+    "noRewardsHistory": "Non sono state richieste ricompense.",
+    "rewardsClaimed": "Rivendicato {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Metti in gioco un token e ricevi un token liquido che continua a guadagnare ricompense mentre resta negoziabile.",
+    "mode": "Direzione",
+    "stake": "Staking",
+    "unstake": "Rimuovi stake",
+    "asset": "Asset",
+    "youStake": "Tu sei in gioco ({{symbol}})",
+    "youRedeem": "Tu riscatti ({{symbol}})",
+    "youReceive": "Ricevete ({{symbol}})",
+    "exchangeRate": "Tasso di cambio",
+    "apr": "RAP stimato",
+    "protocolFee": "Tariffa protocollo sulle ricompense",
+    "notice": "I token liquidi e i loro tassi sono simulati.",
+    "done": "Conversione completa (simulata)",
+    "doneBody": "I tuoi saldi del portafoglio Demo sono stati aggiornati.",
+    "review": "Revisione della conversione",
+    "confirmDescription": "Controlla la conversione, confermando cambia solo il portafoglio Demo in questo browser.",
+    "risksTitle": "Rischi di comprensione",
+    "risks": {
+      "smartContract": "Rischio dei contratti intelligenti: i protocolli di accumulo di liquidi sono software e il software può avere bug.",
+      "depeg": "Rischio de-peg: il token liquido può essere scambiato al di sotto del valore dei token che rappresenta.",
+      "validator": "Rischio di validatore: se i validatori dietro il protocollo vengono tagliati, ogni titolare condivide la perdita.",
+      "unbonding": "Ritardo di uscita: il rimborso tramite il protocollo può richiedere il periodo di disimpegno della rete."
+    },
+    "rateExplain": "Il tasso di cambio è il numero di token in gioco che un token liquido rappresenta. Cresce con l'accumulo delle ricompense in gioco, in modo che un token liquido diventi lentamente più valido di un token in gioco.",
+    "noProtocol": "ChainBeat non si integra con nessun vero protocollo di stacking liquido. Questa pagina è una simulazione educativa."
+  }
+}

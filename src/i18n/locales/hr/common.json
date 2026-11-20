@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simulirano",
+    "close": "Zatvori",
+    "retry": "Pokušaj ponovno",
+    "refresh": "Osvježi",
+    "copy": "Kopiraj",
+    "copied": "Kopirano",
+    "clear": "Očisti",
+    "loading": "Učitavanje…",
+    "options": "Opcije",
+    "previous": "Prethodno",
+    "next": "Sljedeće",
+    "pagination": "Stranica",
+    "pageN": "Stranica {{n}}",
+    "dismiss": "Odbaci",
+    "cancel": "Odustani",
+    "viewAll": "Prikaži sve",
+    "max": "Maks.",
+    "amount": "Iznos",
+    "balance": "Stanje",
+    "fee": "Naknada",
+    "status": "Status",
+    "time": "Vrijeme",
+    "height": "Visina",
+    "hash": "Hash",
+    "type": "Vrsta",
+    "all": "Sve",
+    "showing": "Pokazujući {{from}} Sljedeći članak {{to}} Od {{total}}",
+    "noResults": "Nijedan rezultat ne odgovara vašim filtrima.",
+    "rowsPerPage": "Rijeci po stranici",
+    "actions": "Akcije",
+    "exportCsv": "Izvozni CSV",
+    "details": "Detalji",
+    "clearFilters": "Čisti filtri",
+    "collapseAll": "Sve se raspada",
+    "copyJson": "Kopiranje JSON-a",
+    "expandAll": "Sve proširiti",
+    "showMore": "Pokažite još {{count}}"
+  },
+  "language": {
+    "label": "Jezik",
+    "search": "Ruki za pretragu"
+  },
+  "theme": {
+    "label": "Tema",
+    "system": "Sustav",
+    "dark": "Tamna",
+    "light": "Svijetla"
+  },
+  "footer": {
+    "tagline": "Pretražite blokove, pratite transakcije, razumijete Web3.",
+    "demo": "Demo Modalitet svi podaci su simulirani i nisu stvarna statistička mreža.",
+    "share": "Podjeljenje",
+    "linkCopied": "Link kopiran na ploču.",
+    "docs": "Dokumentacija",
+    "links": "Povezivanja u podnožju",
+    "modeDemo": "Demo Mreža",
+    "repository": "Repozitorij",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Stranica nije pronađena",
+    "body": "Stranica koju tražite ne postoji ili se pomakla.",
+    "home": "Natrag na nadzornu ploču"
+  },
+  "gate": {
+    "title": "Povežite novčanik Demo kako bi nastavili",
+    "body": "Ovaj protok rada se pokreće na simuliranom novčaniku. Povežite novčanik Demo da ga probate.",
+    "realTitle": "Pravi novčanik je povezan",
+    "realBody": "{{address}} ČinBeat Demo Mode nikada ne potpiše ili emitira transakcije.",
+    "useDemo": "Koristite novčanik Demo"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Activos nativos, IBC, de staking líquido y externos conocidos en {{chain}} (simulado).",
+    "stats": {
+      "total": "Tokens seguidos"
+    },
+    "kinds": {
+      "native": "Nativo",
+      "ibc": "IBC",
+      "external": "Externo",
+      "stable": "Stablecoin",
+      "liquid": "Staking líquido"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Tipo",
+      "denom": "Denom",
+      "price": "Precio",
+      "change": "24 h",
+      "supply": "Suministro",
+      "holders": "Titulares",
+      "marketCap": "Capitalización"
+    },
+    "filterPlaceholder": "Filtrar por símbolo, nombre o denom",
+    "tableCaption": "Tokens en {{chain}}"
+  },
+  "account": {
+    "title": "Cuenta",
+    "description": "Saldos y actividad reciente de una cuenta en {{chain}} (simulado).",
+    "available": "Disponible",
+    "balances": "Saldos",
+    "counterparty": "Contraparte",
+    "direction": "Dirección",
+    "in": "En el",
+    "out": "Fuera",
+    "history": "Historial de las transacciones",
+    "historyCaption": "Transacciones de {{address}}",
+    "invalidTitle": "No es una dirección válida",
+    "invalidBody": "Esto no es válido. {{chain}} Las direcciones en esta red comienzan con {{prefix}} 1 y incluir una suma de comprobación.",
+    "noBalances": "No hay equilibrio.",
+    "noHistory": "No se encuentran transacciones",
+    "noHistoryBody": "Esta cuenta no tiene actividad simulada en los últimos {{blocks}} bloques.",
+    "rewards": "Las recompensas: {{value}}",
+    "staked": "Encasillado",
+    "totalValue": "Valor total",
+    "txCount": "Transacciones",
+    "unknown": "Esta es una dirección válida, pero no aparece en la simulación, por lo que no tiene equilibrios o historial.",
+    "window": "en los más recientes {{blocks}} bloques",
+    "demoWallet": "Este es su cartera Demo, sus saldos y transacciones son simuladas y sólo existen en este navegador."
+  },
+  "explorer": {
+    "description": "Busque en {{chain}} y vea lo que está sucediendo en la red (simulada) en este momento.",
+    "latestBlocks": "Últimos bloques",
+    "latestTransactions": "Últimas transacciones",
+    "searchTitle": "Busca al explorador",
+    "shortcuts": "Secciones exploradoras"
+  }
+}

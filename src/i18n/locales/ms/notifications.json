@@ -1,0 +1,30 @@
+{
+  "notifications": {
+    "label": "Pemberitahuan",
+    "title": "Pemberitahuan",
+    "unread": "Tidak dibaca",
+    "unreadLabel_other": "{{count}} pemberitahuan yang tidak dibaca",
+    "markAllRead": "Tanda semua seperti yang telah dibaca",
+    "empty": "Awak semua tertangkap.",
+    "items": {
+      "proposalVoting": "Cadangan #{{id}} dalam tempoh pengundiannya kira-kira {{hours}} jam tersisa.",
+      "proposalPassed": "Cadangan #{{id}} diluluskan dan akan digunakan.",
+      "validatorJailed": "{{name}} telah dipenjara kerana masa lapang.",
+      "upgradeScheduled": "Pembaruan rangkaian {{version}} dijadualkan dalam {{days}} hari.",
+      "ibcVolume": "IBC Volume pemindahan meningkat {{pct}}% dalam 24 jam terakhir.",
+      "newBlock": "Blok {{height}} dihasilkan pada {{chain}} (disimulasikan).",
+      "walletConnectedDemo": "Demo dompet yang disambungkan (disimulasikan).",
+      "walletConnected": "{{name}} dihubungi, tiada apa yang ditandatangani.",
+      "walletDisconnected": "Dompet terputus dari sesi penyemak imbas ini.",
+      "txSuccess": "Transaksi simulasi disahkan: {{summary}}",
+      "txFailed": "Transaksi simulasi gagal kerana simulasi ralat telah diaktifkan.",
+      "proposalCreated": "Demo cadangan #{{id}} {{title}} ditambah (disimulasikan).",
+      "networkChanged": "Bertukar ke {{chain}}, menunjukkan data simulasi.",
+      "simPaused": "Simulasi dihentikan. Data simulasi tidak akan dikemas kini sehingga anda meneruskan.",
+      "errorSimulation": "Simulasi kesilapan diaktifkan, permintaan data dan pengesahan dompet akan gagal sehingga anda mematikannya."
+    },
+    "dismiss": "Pemberitahuan penolakan",
+    "clearAll": "Bersihkan semua",
+    "simulatedNote": "Barang-barang dari feed rangkaian disimulasikan. Tiada apa di sini adalah amaran blockchain langsung."
+  }
+}

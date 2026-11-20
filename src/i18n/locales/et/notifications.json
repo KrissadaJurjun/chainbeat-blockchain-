@@ -1,0 +1,31 @@
+{
+  "notifications": {
+    "label": "Teavitused",
+    "title": "Teavitused",
+    "unread": "Loetamata",
+    "unreadLabel_one": "{{count}} lugemat teatist",
+    "unreadLabel_other": "{{count}} lugemat teatist",
+    "markAllRead": "Märkige kõik, mis on lugenud",
+    "empty": "Te olete kõik kinni.",
+    "items": {
+      "proposalVoting": "Eelnõu nr {{id}} on hääletamise ajal umbes {{hours}} tundi jäänud.",
+      "proposalPassed": "Ettepanek nr {{id}} on vastu võetud ja seda kohaldatakse.",
+      "validatorJailed": "{{name}} sattus vanglasse.",
+      "upgradeScheduled": "Võrgu uuendamine {{version}} on planeeritud {{days}} päeva pärast.",
+      "ibcVolume": "IBC Viimase 24 tunni jooksul kasvas ülekande maht {{pct}}% võrra.",
+      "newBlock": "Kodu {{height}} toodeti {{chain}} (simuleeritud).",
+      "walletConnectedDemo": "Demo rahakott ühendatud (simuleeritud).",
+      "walletConnected": "{{name}} on ühendatud, midagi ei olnud allkirjastatud.",
+      "walletDisconnected": "Rööpetaja ühendus selle brauseri istungist lahti.",
+      "txSuccess": "Simuleeritud tehing kinnitatud: {{summary}}",
+      "txFailed": "Simuleeritud tehing ebaõnnestus, sest eksitussimulatsioon on käivitatud.",
+      "proposalCreated": "Demo lisati ettepanek nr {{id}} {{title}} (simuleeritud).",
+      "networkChanged": "Ma lülitasin {{chain}}-le, näitan simuleeritud andmeid.",
+      "simPaused": "Simulatsioon on peatatud. Simulatsiooni andmed ei uuendata enne, kui seda jätkate.",
+      "errorSimulation": "Piiruse simulatsioon on sisse lülitatud."
+    },
+    "dismiss": "Hüljatamise teatis",
+    "clearAll": "Kõik puhtaks",
+    "simulatedNote": "Ei ole siin midagi, mis oleks reaalne blokid."
+  }
+}

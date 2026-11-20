@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "الأصول الأصلية وأصول IBC والتخزين السائل والخارجية المعروفة على {{chain}} (محاكاة).",
+    "stats": {
+      "total": "الرموز المتتبَّعة"
+    },
+    "kinds": {
+      "native": "أصلي",
+      "ibc": "IBC",
+      "external": "خارجي",
+      "stable": "عملة مستقرة",
+      "liquid": "تخزين سائل"
+    },
+    "col": {
+      "token": "الرمز",
+      "type": "النوع",
+      "denom": "Denom",
+      "price": "السعر",
+      "change": "24 س",
+      "supply": "المعروض",
+      "holders": "الحائزون",
+      "marketCap": "القيمة السوقية"
+    },
+    "filterPlaceholder": "تصفية بالرمز أو الاسم أو denom",
+    "tableCaption": "الرموز على {{chain}}"
+  },
+  "account": {
+    "title": "الحساب",
+    "description": "الرصيد والنشاط الأخير للحساب على رقم {{chain}} (المحاكاة).",
+    "available": "المتاحة",
+    "balances": "التوازنات",
+    "counterparty": "الجهة المقابلة",
+    "direction": "الاتجاه",
+    "in": "في",
+    "out": "خارج",
+    "history": "تاريخ المعاملات",
+    "historyCaption": "المعاملات من {{address}}",
+    "invalidTitle": "لا يوجد عنوان صالح",
+    "invalidBody": "هذا ليس صحيحاً {{chain}} العنوان. العناوين في هذه الشبكة تبدأ ب {{prefix}} 1 ويشمل مبلغ التحقق.",
+    "noBalances": "لا توازن.",
+    "noHistory": "لا توجد صفقات",
+    "noHistoryBody": "هذا الحساب ليس لديه نشاط محاكي في أحدث {{blocks}} كتلة.",
+    "rewards": "المكافآت: {{value}}",
+    "staked": "مُحَطّم",
+    "totalValue": "القيمة الإجمالية",
+    "txCount": "المعاملات",
+    "unknown": "هذا هو عنوان صالح، لكنه لا يظهر في المحاكاة، لذلك ليس لديه توازن أو تاريخ.",
+    "window": "في أحدث {{blocks}} كتلة",
+    "demoWallet": "هذه محفظتك Demo تم محاكاة رصيدها وعملياتها وتوجد فقط في هذا المتصفح."
+  },
+  "explorer": {
+    "description": "ابحث عن رقم {{chain}} وترى ما يحدث على الشبكة المحاكاة الآن.",
+    "latestBlocks": "أحدث الكتل",
+    "latestTransactions": "آخر المعاملات",
+    "searchTitle": "ابحث عن المستكشف",
+    "shortcuts": "أجزاء البحث"
+  }
+}

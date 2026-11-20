@@ -1,0 +1,37 @@
+{
+  "blockDetail": {
+    "title": "Blocul {{height}}",
+    "invalid": "Înălțime invalidă a blocurilor",
+    "description": "Detalii despre un bloc simulat pe {{chain}}.",
+    "previous": "Blocul precedent",
+    "next": "Următorul bloc",
+    "notFoundTitle": "Blocul nu a fost găsit",
+    "notFoundBody": "{{chain}} nu are nici un bloc la această înălţime încă.",
+    "transactions_one": "{{count}} tranzacție",
+    "transactions_few": "{{count}} tranzacții",
+    "transactions_other": "{{count}} tranzacții",
+    "txCaption": "Tranzacții în blocul {{height}}",
+    "noTxs": "Acest bloc nu are tranzacţii",
+    "genesis": "Blocul Genezei",
+    "parentHash": "Haşă părintească",
+    "demoTxs": "Demo tranzacții de portofel la această înălțime",
+    "demoTxsNote": "Acestea au fost create de portofelul Demo."
+  },
+  "blocksPage": {
+    "description": "Cele mai noi blocuri de pe {{chain}}.",
+    "live": "Să trăieşti",
+    "avgGas": "Găsici de avg. utilizate",
+    "tableCaption": "Ultimele blocuri de pe {{chain}}",
+    "proposer": "Propunătorul",
+    "txs": "Txs",
+    "gas": "Gas utilizat",
+    "size": "Dimensiunea",
+    "emptyTitle": "Nu s-au găsit blocuri",
+    "filterPlaceholder": "Filtru după înălțime, hash sau validator",
+    "filtersLabel": "Filtre de blocare",
+    "finality": "Finalitatea",
+    "finalityNote": "Blocurile de pe acest tip de rețea sunt finale de îndată ce sunt angajate.",
+    "finalized": "Finalizat",
+    "withTxsOnly": "Numai blocuri cu tranzacții"
+  }
+}

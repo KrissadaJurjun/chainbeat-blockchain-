@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Kasuwanci, IBC, ajiyar ruwa da dukiyar waje da aka sani a kan {{chain}} (da aka kwaikwaya).",
+    "stats": {
+      "total": "Alamar da aka bi"
+    },
+    "kinds": {
+      "native": "'Yan asalin ƙasar",
+      "ibc": "IBC",
+      "external": "Na waje",
+      "stable": "Stablecoin",
+      "liquid": "Ƙarƙashin ruwa"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Nau'i",
+      "denom": "Ƙaƙwalwar Ƙaƙwalwa",
+      "price": "Farashi",
+      "change": "Sa'o'i 24",
+      "supply": "Samarwa",
+      "holders": "Masu riƙewa",
+      "marketCap": "Darajar kasuwa"
+    },
+    "filterPlaceholder": "Fitarwa ta alama, suna ko suna",
+    "tableCaption": "Alamomi a kan {{chain}}"
+  },
+  "account": {
+    "title": "Asusun",
+    "description": "Balances da kwanan nan aiki na wani asusu a kan {{chain}} (simulated).",
+    "available": "Ana samunsa",
+    "balances": "Ƙididdiga",
+    "counterparty": "Ƙararrawa",
+    "direction": "Hanyar da za a bi",
+    "in": "A cikin",
+    "out": "A waje",
+    "history": "Tarihin ma'amala",
+    "historyCaption": "Kasuwanci na {{address}}",
+    "invalidTitle": "Ba adireshin da ya dace ba",
+    "invalidBody": "Wannan ba shi da inganci {{chain}} Adireshin a wannan cibiyar sadarwa fara da {{prefix}} 1 kuma ya haɗa da adadin kuɗi.",
+    "noBalances": "Babu daidaito.",
+    "noHistory": "Babu ma'amaloli da aka samu",
+    "noHistoryBody": "Wannan asusun ba shi da wani aiki na kwaikwayon a cikin sabon {{blocks}} blocks.",
+    "rewards": "Kyauta: {{value}}",
+    "staked": "Ƙarƙasa",
+    "totalValue": "Jimlar darajar",
+    "txCount": "Mu'amaloli",
+    "unknown": "Wannan adireshin yana da inganci, amma bai bayyana a cikin kwaikwayon ba, don haka ba shi da daidaito ko tarihi.",
+    "window": "a cikin sabbin gidaje {{blocks}}",
+    "demoWallet": "Wannan shi ne walat dinka na Demo, ana kwaikwayon kudadensa da ma'amaloli kuma suna wanzu ne kawai a cikin wannan mai bincike."
+  },
+  "explorer": {
+    "description": "Bincika {{chain}} kuma ka ga abin da ke faruwa a kan (simulated) cibiyar sadarwa a yanzu.",
+    "latestBlocks": "Sabbin block",
+    "latestTransactions": "Sabbin mu'amaloli",
+    "searchTitle": "Ka bincika mai binciken",
+    "shortcuts": "Sassan bincike"
+  }
+}

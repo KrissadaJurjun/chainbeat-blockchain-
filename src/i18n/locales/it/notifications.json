@@ -1,0 +1,32 @@
+{
+  "notifications": {
+    "label": "Notifiche",
+    "title": "Notifiche",
+    "unread": "Non letti",
+    "unreadLabel_one": "{{count}} notifica non letta",
+    "unreadLabel_many": "{{count}} notifiche non lette",
+    "unreadLabel_other": "{{count}} notifiche non lette",
+    "markAllRead": "Segnalare tutto come è stato letto",
+    "empty": "Siete tutti intrappolati.",
+    "items": {
+      "proposalVoting": "La proposta n. {{id}} è in fase di votazione circa {{hours}} ore.",
+      "proposalPassed": "La proposta n. {{id}} è stata approvata e verrà applicata.",
+      "validatorJailed": "{{name}} è stato incarcerato per tempo di pausa.",
+      "upgradeScheduled": "L'aggiornamento della rete {{version}} è previsto in {{days}} giorni.",
+      "ibcVolume": "IBC Il volume dei trasferimenti è aumentato del {{pct}}% nelle ultime 24 ore.",
+      "newBlock": "Il blocco {{height}} è stato prodotto su {{chain}} (simulato).",
+      "walletConnectedDemo": "Demo portafoglio collegato (simulato).",
+      "walletConnected": "{{name}} connesso, niente è stato firmato.",
+      "walletDisconnected": "Portafoglio disconnesso da questa sessione del browser.",
+      "txSuccess": "Confirmazione della transazione simulata: {{summary}}",
+      "txFailed": "Una transazione simulata è fallita perché la simulazione di errore è attiva.",
+      "proposalCreated": "Demo Proposta n. {{id}} {{title}} è stata aggiunta (simulata).",
+      "networkChanged": "Passato al {{chain}}, mostrando dati simulati.",
+      "simPaused": "La simulazione è in pausa. I dati simulati non saranno aggiornati finché non li riprenderete.",
+      "errorSimulation": "La simulazione dell'errore è attivata, le richieste di dati e le conferme del portafoglio falliranno finché non lo spegnerete."
+    },
+    "dismiss": "Notifica di rifiuto",
+    "clearAll": "Spogliate tutto",
+    "simulatedNote": "Gli elementi del feed di rete sono simulati."
+  }
+}

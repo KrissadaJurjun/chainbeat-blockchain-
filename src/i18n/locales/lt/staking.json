@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Deleguokite žetonus validuotojui {{chain}} numeriu, kad gautumėte simuliuotus apdovanojimus.",
+    "validator": "Validatorius",
+    "pickValidator": "Pasirinkite patvirtintojį",
+    "estimate": "Apskaičiuotos grąžos",
+    "netApr": "Netos APR (po komisijos)",
+    "yearly": "Užmokesčiai per metus",
+    "monthly": "Mokesčiai per mėnesį",
+    "unbonding": "Sutarties nutraukimo laikotarpis",
+    "commission": "Validatorių komisija",
+    "notice": "Realybiniame tinkle atsitrauktas statymas užrakintas {{days}} dienų atsiskyrimo laikotarpiui.",
+    "yourStake": "Jūsų vaidmuo {{chain}}",
+    "unstake": "Atšaukti stakingą",
+    "unstakeTitle": "Atšaukimas nuo {{validator}} m",
+    "unstakeDescription": "Realybiniame tinkle jūsų žetoniai būtų atidaromi po {{days}} dienų atsiskyrimo laikotarpio.",
+    "confirmUnstake": "Atšaukimas (simuliuojamas)",
+    "done": "Skaičiuotas (simuluojamas)",
+    "doneBody": "Išvestas Demo piniginėje, tikrasis atsiskyrimo laikotarpis būtų {{days}} dienos.",
+    "unstaked": "Nepertraukiama (simuliuojama)",
+    "unstakedBody": "Grįžta prie demo piniginės iš karto. {{days}} Po kelių dienų.",
+    "errors": {
+      "validator": "Pasirinkite patvirtintoją.",
+      "moreThanStaked": "Negalima atšaukti daugiau, nei uždėjote."
+    },
+    "review": "Atkreipkite dėmesį į peržiūrą",
+    "confirmDescription": "Patikrinkite delegaciją, tik patvirtinimas pakeičia Demo piniginį šiame naršyklėje.",
+    "aprDisclaimer": "Parodyta APR yra dabartinės infliacijos, Bendrijos mokesčio ir obligacijų koeficiento apskaičiavimas, kuris nėra garantuotas grąžos dydis ir keičiasi laikui bėgant.",
+    "rewardsHistory": "Laimų istorija",
+    "noRewardsHistory": "Kol kas nėra reikalaujama atlygio.",
+    "rewardsClaimed": "Išreikštas {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Įdėkite žetoną ir gaukite skystą žetoną, kuris išlaiko uždirbti atlygį, o išlieka prekybinis.",
+    "mode": "Veiksmas",
+    "stake": "Stakingas",
+    "unstake": "Atšaukti stakingą",
+    "asset": "Asėtai",
+    "youStake": "Jūs statysite ({{symbol}})",
+    "youRedeem": "Jūs atpirkite ({{symbol}})",
+    "youReceive": "Jūs gausite ({{symbol}})",
+    "exchangeRate": "Keitimo kursas",
+    "apr": "Apskaičiuotas APR",
+    "protocolFee": "Protokolo mokestis už atlygį",
+    "notice": "Lėtiniai žetoniai ir jų tarifai simuliuojami. Niekas nėra išrašytas grandinėje.",
+    "done": "Konvertacija baigta (simuluota)",
+    "doneBody": "Jūsų Demo piniginės balansas buvo atnaujintas.",
+    "review": "Peržiūros konvertacija",
+    "confirmDescription": "Patikrinkite konvertaciją. Pasitikėjimas tik pakeičia Demo piniginį šiame naršyklėje.",
+    "risksTitle": "Rizikai suprasti",
+    "risks": {
+      "smartContract": "Išmaniųjų sutarčių rizika: skysčių surinkimo protokolai yra programinė įranga, o programinė įranga gali turėti klaidų.",
+      "depeg": "De-peg rizika: likvidus žetonas gali prekiauti žemiau jo atstovaujamų žetonų vertės.",
+      "validator": "Validacijos rizika: jei protokolo pagrindiniai validacijos elementai sumažinami, kiekvienas turėtojas padalinasi nuostoliais.",
+      "unbonding": "Išėjimo vėlavimas: išpirkimas per protokolą gali užtrukti tiek laiko, kiek tinklo atsisakymo laikotarpis."
+    },
+    "rateExplain": "Keitimo kursas yra tai, kiek užimtų žetonų yra vienas likvidus žetonas. Jis auga, kai užimtų atlygų kaupasi, todėl vienas likvidus žetonas lėtai tampa vertingesnis nei vienas užimtas žetonas.",
+    "noProtocol": "\"ChainBeat\" nėra integruotas su bet kokiu tikru skysčių surinkimo protokolu. Šis puslapis yra švietimo simuliatorius."
+  }
+}

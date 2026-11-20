@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "ການ ນຳ ທາງແຖບຂ້າງ",
+    "primary": "ການເດີນເຮືອຕົ້ນຕໍ",
+    "menu": "ເມນູການເດີນທາງ",
+    "openMenu": "ເມນູການ ນຳ ທາງເປີດ",
+    "closeMenu": "ປິດເມນູການ ນຳ ທາງ",
+    "collapseSidebar": "collapse sidebar",
+    "expandSidebar": "ຂະຫຍາຍແຖບຂ້າງ",
+    "skipToContent": "ກ້າວໄປຫາເນື້ອຫາຕົ້ນຕໍ",
+    "home": "ChainBeat ບ້ານ",
+    "pages": "ຫນ້າ",
+    "dashboard": "ແດຊບອດ",
+    "validators": "ຜູ້ກວດສອບ",
+    "proposals": "ຂໍ້ສະເໜີ",
+    "blocks": "ບລັອກ",
+    "transactions": "ທຸລະກຳ",
+    "portfolio": "ພອດໂຟລິໂອ",
+    "swap": "ແລກປ່ຽນ",
+    "stake": "ສະເຕກ",
+    "liquidStaking": "ສະເຕກແບບຄ່ອງຕົວ",
+    "send": "ສົ່ງ",
+    "vote": "ລົງຄະແນນ",
+    "createProposal": "ສ້າງຂໍ້ສະເໜີ",
+    "market": "ຕະຫຼາດ",
+    "network": "ເຄືອຂ່າຍ",
+    "governance": "ການປົກຄອງ",
+    "ibcNetwork": "ເຄືອຂ່າຍ IBC",
+    "devActivity": "ກິດຈະກຳນັກພັດທະນາ",
+    "multichain": "ພາບລວມຫຼາຍລະບົບຕ່ອງໂສ້",
+    "heartbeat": "ຈັງຫວະຫົວໃຈ",
+    "dominance": "ການມີອິດທິພົນ",
+    "validatorsViz": "ຜູ້ກວດສອບ",
+    "blockExplorer": "ຕົວສຳຫຼວດບລັອກ",
+    "transactionExplorer": "ຕົວສຳຫຼວດທຸລະກຳ",
+    "tokenExplorer": "ຕົວສຳຫຼວດໂທເຄັນ",
+    "about": "ກ່ຽວກັບ",
+    "explorerHome": "ຕົວສຳຫຼວດ",
+    "governanceHome": "ສູນຄຸ້ມຄອງ",
+    "settings": "ການຕັ້ງຄ່າ"
+  },
+  "sections": {
+    "explorer": "ຕົວສຳຫຼວດ",
+    "wallet": "ກະເປົາເງິນ",
+    "analytics": "ການວິເຄາະ",
+    "visualizations": "ການສະແດງພາບ"
+  },
+  "chains": {
+    "favorite": "ຕື່ມ {{name}} ກັບ favorites",
+    "unfavorite": "ເອົາ {{name}} ອອກຈາກ Favorites",
+    "simulatedHealthy": "ເຄືອຂ່າຍແບບ ຈຳ ລອງ · ສຸຂະພາບແຂງແຮງ"
+  },
+  "search": {
+    "label": "ຊອກຫາ ChainBeat",
+    "placeholder": "ຄັງຄົ້ນຫາ, TX, ທີ່ຢູ່...",
+    "results": "ຜົນການຊອກຫາ",
+    "noResults": "ບໍ່ມີຜົນ ສຳ ເລັດ ສຳ ລັບ {{query}}",
+    "kinds": {
+      "page": "ຫນ້າ",
+      "block": "ບລັອກ",
+      "transaction": "TX",
+      "validator": "ຜູ້ກວດສອບ",
+      "token": "ໂທເຄັນ",
+      "address": "ທີ່ຢູ່",
+      "proposal": "ຂໍ້ສະເໜີ"
+    },
+    "recent": "ການຄົ້ນຫາຫຼ້າສຸດ",
+    "clearRecent": "ການຄົ້ນຫາລ້າສຸດທີ່ແຈ້ງ",
+    "removeRecent": "ລຶບ {{query}} ຈາກການຄົ້ນຫາຫຼ້າສຸດ",
+    "hint": "ທົດລອງຄວາມສູງຂອງໂບລັອກ, ການເຮັດທຸລະກຳ hash, ທີ່ຢູ່ ( {{prefix}} 1 ...), ຕົວອະນຸມັດ, ເລກການສະເຫນີຫລືຕົວອະນຸມັດ.",
+    "submit": "ຄົ້ນຫາ",
+    "searching": "ຊອກຫາ...",
+    "resultCount": "ຜົນ: {{count}}",
+    "invalid": {
+      "tooLong": "ນັ້ນແມ່ນຍາວເກີນໄປທີ່ຈະເປັນ ຄຳ ຊອກຫາ (200 ຕົວອັກສອນສູງສຸດ).",
+      "badChecksum": "ນີ້ເບິ່ງຄືວ່າເປັນທີ່ຢູ່, ແຕ່ປະລິມານການກວດສອບມັນບໍ່ເຫມາະສົມ. ກວດເບິ່ງມັນສຳລັບຄວາມຜິດພາດການພິມ.",
+      "badHash": "ການເຮັດທຸລະກຳຫຼື block hash ມີຕົວອັກສອນ hexadecimal 64 ຢ່າງແທ້ຈິງ.",
+      "badChars": "ຊອກຫາຄວາມສູງຂອງໂບລັອກ, hash, ທີ່ຢູ່, ການຢັ້ງຢືນ, ການສະເຫນີຫຼື token."
+    },
+    "categories": {
+      "page": "ຫນ້າ",
+      "block": "ບລັອກ",
+      "transaction": "ທຸລະກຳ",
+      "address": "ທີ່ຢູ່",
+      "validator": "ຜູ້ກວດສອບ",
+      "proposal": "ຂໍ້ສະເໜີ",
+      "token": "Tokens"
+    }
+  },
+  "user": {
+    "menu": "ເມນູບັນຊີ",
+    "guest": "ແຂກ",
+    "notConnected": "ບໍ່ມີກະເປົາທີ່ເຊື່ອມຕໍ່",
+    "settings": "ການຕັ້ງຄ່າ",
+    "about": "ກ່ຽວກັບ ChainBeat"
+  }
+}

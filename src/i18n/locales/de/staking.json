@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delegieren Sie Token an einen Validator auf {{chain}}, um simulierte Belohnungen zu verdienen.",
+    "validator": "Validator",
+    "pickValidator": "Validator auswählen",
+    "estimate": "Geschätzte Erträge",
+    "netApr": "Netto-APR (nach Provision)",
+    "yearly": "Belohnungen pro Jahr",
+    "monthly": "Belohnungen pro Monat",
+    "unbonding": "Unbonding-Zeitraum",
+    "commission": "Provision des Validators",
+    "notice": "In einem echten Netzwerk bleibt entstaktes Guthaben für den Unbonding-Zeitraum von {{days}} Tagen gesperrt. Hier ist alles simuliert und sofort wirksam.",
+    "yourStake": "Ihr Stake auf {{chain}}",
+    "unstake": "Unstaken",
+    "unstakeTitle": "{{validator}} entstaken",
+    "unstakeDescription": "In einem echten Netzwerk würden Ihre Token nach dem Unbonding-Zeitraum von {{days}} Tagen freigegeben.",
+    "confirmUnstake": "Unstaken (simuliert)",
+    "done": "Gestaked (simuliert)",
+    "doneBody": "In der Demo-Wallet delegiert. Der echte Unbonding-Zeitraum würde {{days}} Tage betragen.",
+    "unstaked": "Entstaked (simuliert)",
+    "unstakedBody": "Sofort an die Demo-Wallet zurückgegeben. Ein echtes Netzwerk würde {{days}} Tage brauchen.",
+    "errors": {
+      "validator": "Wählen Sie einen Validator aus.",
+      "moreThanStaked": "Sie können nicht mehr entstaken, als Sie gestaked haben."
+    },
+    "review": "Überprüfungsbeteiligung",
+    "confirmDescription": "Überprüfen Sie die Delegation, wenn Sie bestätigen, ändert sich nur die Demo Brieftasche in diesem Browser.",
+    "aprDisclaimer": "Die gezeigte APR ist eine Schätzung auf der Grundlage der aktuellen Inflation, der Gemeinschaftssteuer und des Anleihungsverhältnisses; sie ist keine garantierte Rendite und ändert sich im Laufe der Zeit.",
+    "rewardsHistory": "Die Geschichte der Belohnungen",
+    "noRewardsHistory": "Noch keine Belohnungen beansprucht.",
+    "rewardsClaimed": "Beanspruchung {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Staken Sie einen Token und erhalten Sie einen Liquid-Staking-Token, der weiter Belohnungen einbringt und dabei handelbar bleibt.",
+    "mode": "Richtung",
+    "stake": "Staken",
+    "unstake": "Einlösen",
+    "asset": "Asset",
+    "youStake": "Sie staken ({{symbol}})",
+    "youRedeem": "Sie lösen ein ({{symbol}})",
+    "youReceive": "Sie erhalten ({{symbol}})",
+    "exchangeRate": "Wechselkurs",
+    "apr": "Geschätzter APR",
+    "protocolFee": "Protokollgebühr auf Belohnungen",
+    "notice": "Liquid-Staking-Token und ihre Kurse sind simuliert. On-Chain wird nichts ausgegeben.",
+    "done": "Umwandlung abgeschlossen (simuliert)",
+    "doneBody": "Die Guthaben Ihrer Demo-Wallet wurden aktualisiert.",
+    "review": "Überprüfung der Umrechnung",
+    "confirmDescription": "Überprüfen Sie die Konvertierung. Die Bestätigung ändert nur die Demo Brieftasche in diesem Browser.",
+    "risksTitle": "Risiken für das Verständnis",
+    "risks": {
+      "smartContract": "Smart-Contract-Risiko: Liquid-Stacking-Protokolle sind Software, und Software kann Fehler haben.",
+      "depeg": "Risiko des De-pegs: Der liquide Token kann unter dem Wert der Token, die er vertritt, gehandelt werden.",
+      "validator": "Validierungsrisiko: Wenn die Validierungen hinter dem Protokoll abgeschnitten werden, teilt jeder Inhaber den Verlust.",
+      "unbonding": "Ausgangsverzögerung: Die Einlösung durch das Protokoll kann so lange dauern wie die Entbindungsdauer des Netzwerks."
+    },
+    "rateExplain": "Der Wechselkurs ist, wie viele Token ein liquides Token steht. Es wächst, wenn sich die Belohnungen des Einsatzes ansammeln, so dass ein liquides Token langsam mehr als ein gesetztes Token wert wird.",
+    "noProtocol": "ChainBeat integriert sich nicht mit einem echten Liquid-Stacking-Protokoll."
+  }
+}

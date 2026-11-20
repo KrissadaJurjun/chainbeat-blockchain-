@@ -1,0 +1,101 @@
+{
+  "overview": {
+    "title": "Tổng quan",
+    "unit": "Chỉ số hiệu suất · Base = 100 khi khởi động phạm vi",
+    "refreshFailed": "Không thể làm mới cho thấy dữ liệu tải cuối cùng."
+  },
+  "chart": {
+    "keyboardHint": "Sử dụng các phím mũi tên để di chuyển giữa các điểm dữ liệu.",
+    "summary": "Chỉ số hiệu suất trên {{range}}: {{details}}",
+    "rangeLabel": "Phạm vi thời gian",
+    "seriesLabel": "Dòng biểu đồ",
+    "keepOne": "Ít nhất một loạt phải được nhìn thấy",
+    "emptyTitle": "Không có dữ liệu cho phạm vi này",
+    "emptyBody": "Hãy thử một khoảng thời gian khác hoặc làm mới.",
+    "range": {
+      "24H": "24H",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "24 giờ qua",
+      "7D": "7 ngày qua",
+      "30D": "30 ngày qua",
+      "90D": "90 ngày qua"
+    },
+    "zoomControls": "Kiểm soát zoom",
+    "zoomIn": "Zoom vào",
+    "zoomOut": "Zoom out",
+    "resetView": "View Reset",
+    "zoomLevel": "Mức zoom"
+  },
+  "proposals": {
+    "title": "Đề xuất",
+    "filter": "Bộ lọc đề xuất",
+    "live": "Đời sống",
+    "total": "Tổng",
+    "viewAll": "Xem tất cả các đề xuất",
+    "noneLive": "Không có đề xuất trực tiếp",
+    "noneLiveBody": "Hiện tại không có sự quản lý đang diễn ra.",
+    "showAll": "Hiển thị các đề xuất gần đây",
+    "endsIn": "Kết thúc {{time}}",
+    "turnout": "Tỷ lệ tham gia",
+    "vote": "Bỏ phiếu",
+    "status": {
+      "voting": "Đang bỏ phiếu",
+      "deposit": "Tiền đặt cọc",
+      "passed": "Đã thông qua",
+      "rejected": "Bị bác bỏ",
+      "failed": "Thất bại"
+    },
+    "passed": "Đã thông qua",
+    "rejected": "Bị bác bỏ",
+    "noneMatching": "Không có đề xuất phù hợp",
+    "noneMatchingBody": "Hiện tại không có gì phù hợp với bộ lọc này."
+  },
+  "dev": {
+    "title": "Hoạt động nhà phát triển",
+    "summary": "{{total}} đóng góp",
+    "viewFull": "Hành động phát triển mở",
+    "heatmapLabel": "Bản đồ nhiệt đóng góp: {{total}} đóng góp trong {{weeks}} tuần",
+    "less": "Ít hơn",
+    "more": "Hơn nữa",
+    "cellTitle_other": "{{count}} đóng góp trên {{date}}",
+    "range": "Phạm vi hotmap",
+    "ranges": {
+      "month": "Tháng",
+      "quarter": "Quarter",
+      "year": "Năm"
+    }
+  },
+  "repos": {
+    "title": "Kho lưu trữ hoạt động",
+    "period": "Thời gian",
+    "periods": {
+      "week": "Tuần",
+      "month": "Tháng",
+      "year": "Năm",
+      "quarter": "Quarter"
+    },
+    "contributors": "Những người đóng góp",
+    "stars": "Các ngôi sao",
+    "sparkline": "Hành động cam kết đối với {{name}}",
+    "vsPrevious": "{{change}} so với giai đoạn trước",
+    "up": "Đứng lên",
+    "down": "Đứng xuống",
+    "caption": "Các cam kết trong thời gian được lựa chọn · kho lưu trữ mô phỏng",
+    "col": {
+      "repository": "Kho lưu trữ",
+      "language": "Ngôn ngữ",
+      "commits": "Các cam kết",
+      "change": "Thay đổi",
+      "trend": "Xu hướng"
+    },
+    "commitsCount": "Các cam kết: {{count}}",
+    "demoNote": "Demo dữ liệu: kho lưu trữ này là hư cấu và hoạt động của nó được mô phỏng. Nó không kết nối với GitHub.",
+    "emptyBody": "Không có hoạt động lưu trữ trong thời gian này.",
+    "emptyTitle": "Không có hoạt động lưu trữ",
+    "history": "Hành động cam kết"
+  }
+}

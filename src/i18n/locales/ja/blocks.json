@@ -1,0 +1,35 @@
+{
+  "blockDetail": {
+    "title": "ブロック {{height}}",
+    "invalid": "無効なブロック高です",
+    "description": "{{chain}} 上のシミュレーションのブロックの詳細です。",
+    "previous": "前のブロック",
+    "next": "次のブロック",
+    "notFoundTitle": "ブロックが見つかりません",
+    "notFoundBody": "{{chain}} には、この高さのブロックがまだありません。",
+    "transactions_other": "{{count}} 件のトランザクション",
+    "txCaption": "ブロック {{height}} のトランザクション",
+    "noTxs": "このブロックにトランザクションはありません",
+    "genesis": "創世記ブロック",
+    "parentHash": "親のハッシュ",
+    "demoTxs": "Demo この高さの財布取引",
+    "demoTxsNote": "Demoの財布によって作成されたもので シミュレーションブロックのトランザクションカウントの一部ではありません。"
+  },
+  "blocksPage": {
+    "description": "{{chain}} の最新ブロックです。一覧はおよそブロック時間ごとに更新されます。",
+    "live": "ライブ",
+    "avgGas": "平均ガス使用量",
+    "tableCaption": "{{chain}} の最新ブロック",
+    "proposer": "プロポーザー",
+    "txs": "Tx 数",
+    "gas": "使用ガス",
+    "size": "サイズ",
+    "emptyTitle": "ブロックが見つかりませんでした",
+    "filterPlaceholder": "高さによるフィルター,ハッシュまたは検証器",
+    "filtersLabel": "ブロックフィルター",
+    "finality": "終結",
+    "finalityNote": "このようなネットワークのブロックは,実行された直ぐに最終的なものです.",
+    "finalized": "完成",
+    "withTxsOnly": "取引のブロックのみ"
+  }
+}

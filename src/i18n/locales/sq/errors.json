@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Asgjë ende këtu",
+    "emptyBody": "Nuk ka të dhëna për këtë pikëpamje.",
+    "errorTitle": "Nuk mund ta ngarkoj këto të dhëna",
+    "errorBody": "Diçka shkoi keq kur lexova rrjetin, kontrolloni lidhjen dhe provoni përsëri.",
+    "crashTitle": "Diçka shkoi keq",
+    "crashBody": "Kjo faqe ka pasur një gabim të papritur.",
+    "reload": "Faqja e ngarkesës"
+  }
+}

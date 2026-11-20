@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simulasi",
+    "close": "Tutup",
+    "retry": "Coba lagi",
+    "refresh": "Muat ulang",
+    "copy": "Salin",
+    "copied": "Tersalin",
+    "clear": "Hapus",
+    "loading": "Memuat…",
+    "options": "Opsi",
+    "previous": "Sebelumnya",
+    "next": "Berikutnya",
+    "pagination": "Paginasi",
+    "pageN": "Halaman {{n}}",
+    "dismiss": "Abaikan",
+    "cancel": "Batal",
+    "viewAll": "Lihat semua",
+    "max": "Maks.",
+    "amount": "Jumlah",
+    "balance": "Saldo",
+    "fee": "Biaya",
+    "status": "Status",
+    "time": "Waktu",
+    "height": "Tinggi",
+    "hash": "Hash",
+    "type": "Jenis",
+    "all": "Semua",
+    "showing": "Menunjukkan {{from}} {{to}} dari {{total}}",
+    "noResults": "Tidak ada hasil yang cocok dengan filtermu.",
+    "rowsPerPage": "Baris per halaman",
+    "actions": "Aksi",
+    "exportCsv": "CSV ekspor",
+    "details": "Detail",
+    "clearFilters": "Filter yang jelas",
+    "collapseAll": "Semua runtuh",
+    "copyJson": "Salin JSON",
+    "expandAll": "Perluas semua",
+    "showMore": "Tunjukkan {{count}} lagi"
+  },
+  "language": {
+    "label": "Bahasa",
+    "search": "Bahasa pencarian"
+  },
+  "theme": {
+    "label": "Tema",
+    "system": "Sistem",
+    "dark": "Gelap",
+    "light": "Terang"
+  },
+  "footer": {
+    "tagline": "Menjelajahi blok, melacak transaksi, memahami Web3.",
+    "demo": "Demo Mode semua angka disimulasikan dan bukan statistik jaringan nyata.",
+    "share": "Berbagi",
+    "linkCopied": "Link disalin ke papan klip.",
+    "docs": "Dokumen",
+    "links": "Tautan kaki",
+    "modeDemo": "Demo Jaringan",
+    "repository": "Repository",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Halaman tidak ditemukan",
+    "body": "Halaman yang Anda cari tidak ada atau telah pindah.",
+    "home": "Kembali ke dasbor"
+  },
+  "gate": {
+    "title": "Sambungkan dompet Demo untuk melanjutkan",
+    "body": "Perjalanan ini berjalan di dompet simulasi. Sambungkan dompet Demo untuk mencobanya tidak ada yang nyata yang pernah ditandatangani atau dikirim.",
+    "realTitle": "Dompet nyata terhubung",
+    "realBody": "{{address}} terhubung, tapi Mode ChainBeat Demo tidak pernah menandatangani atau menyiarkan transaksi. beralih ke dompet Demo untuk mencoba alur kerja ini.",
+    "useDemo": "Gunakan dompet Demo"
+  }
+}

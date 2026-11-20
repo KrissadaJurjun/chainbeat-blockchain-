@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "온체인 지표",
+    "exportCsv": "CSV로 내보내기",
+    "exported": "지표를 CSV로 내보냈습니다.",
+    "openAnalytics": "네트워크 분석 열기",
+    "last24h": "최근 24시간",
+    "sparklineLabel": "최근 24시간 추세",
+    "change24h": "24시간 변동",
+    "blocks": "블록",
+    "exact": "정확한 값",
+    "bondedRatio": "본딩 비율",
+    "poolShare": "총공급량 대비 비중",
+    "tokenPrice": "토큰 가격",
+    "inputInflation": "인플레이션",
+    "inputTax": "커뮤니티 세금",
+    "inputBonded": "본딩 비율",
+    "csvMetric": "지표",
+    "csvValue": "값",
+    "csvUnit": "단위",
+    "csvChange24h": "24시간 변동",
+    "blockHeight": {
+      "label": "블록 높이",
+      "description": "제네시스 이후 생성된 블록의 수입니다. 새 블록이 생길 때마다 1씩 증가합니다."
+    },
+    "totalTransactions": {
+      "label": "트랜잭션",
+      "description": "제네시스 이후 네트워크가 처리한 전체 트랜잭션 수입니다."
+    },
+    "txPerBlock": {
+      "label": "블록당 Tx",
+      "description": "최근 100개 블록 기준, 블록 하나에 포함된 평균 트랜잭션 수입니다."
+    },
+    "blockTime": {
+      "label": "블록 시간",
+      "description": "최근 100개 블록 기준, 연속된 블록 사이의 평균 간격입니다."
+    },
+    "inflation": {
+      "label": "인플레이션",
+      "description": "스테이커에게 보상하고 커뮤니티 풀을 채우기 위해 새 토큰이 발행되는 연간 비율입니다."
+    },
+    "stakingApr": {
+      "label": "스테이킹 APR",
+      "description": "검증인 수수료를 차감하기 전, 스테이킹된 토큰의 예상 연 수익률입니다.",
+      "formula": "APR = 인플레이션 × (1 − 커뮤니티 세금) ÷ 본딩 비율"
+    },
+    "bondedTokens": {
+      "label": "본딩된 토큰",
+      "description": "현재 활성 검증인에게 스테이킹된 토큰입니다. 본딩된 스테이크가 네트워크를 보호합니다.",
+      "formula": "본딩 수량 = 총공급량 × 본딩 비율"
+    },
+    "totalSupply": {
+      "label": "총공급량",
+      "description": "스테이킹된 토큰을 포함해 존재하는 모든 토큰입니다. 인플레이션에 따라 증가합니다."
+    },
+    "communityPool": {
+      "label": "커뮤니티 풀",
+      "description": "온체인 거버넌스가 관리하는 토큰입니다. 인플레이션의 일부를 받으며 통과된 제안으로 지출됩니다.",
+      "formula": "풀 증가분 ≈ 공급량 × 인플레이션 × 커뮤니티 세금"
+    },
+    "poolValue": {
+      "label": "풀 가치",
+      "description": "시뮬레이션 토큰 가격 기준으로 추정한 커뮤니티 풀의 미국 달러 가치입니다.",
+      "formula": "가치 = 풀 × 토큰 가격"
+    }
+  }
+}

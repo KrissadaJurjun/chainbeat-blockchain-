@@ -1,0 +1,103 @@
+{
+  "overview": {
+    "title": "Pregled",
+    "unit": "Indeks performansi · Baza = 100 na početku opsega",
+    "refreshFailed": "Nisam mogao da osvežim koji prikazuje poslednje naložene podatke."
+  },
+  "chart": {
+    "keyboardHint": "Koristite ključeve strelice da se krećete između tačaka podataka.",
+    "summary": "Indeks performansi iznad {{range}}: {{details}}",
+    "rangeLabel": "Vremenski raspon",
+    "seriesLabel": "Serija grafikona",
+    "keepOne": "Najmanje jedna serija mora ostati vidljiva",
+    "emptyTitle": "Ne postoje podaci za ovaj raspon",
+    "emptyBody": "Pokušaj u drugom vremenskom rasponu ili osvježi se.",
+    "range": {
+      "24H": "24 SATA",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "Poslednjih 24 sata",
+      "7D": "Poslednjih 7 dana",
+      "30D": "Poslednjih 30 dana",
+      "90D": "Poslednjih 90 dana"
+    },
+    "zoomControls": "Kontrole za povezivanje",
+    "zoomIn": "Povezivanje",
+    "zoomOut": "Izuzmi se",
+    "resetView": "Prikaz ponovnog podešavanja",
+    "zoomLevel": "Razina približavanja"
+  },
+  "proposals": {
+    "title": "Prijedlozi",
+    "filter": "Filter prijedloga",
+    "live": "Živi",
+    "total": "Ukupno",
+    "viewAll": "Pogledajte sve prijedloge",
+    "noneLive": "Nema direktnih prijedloga",
+    "noneLiveBody": "Trenutno ne postoji kontinuirano upravljanje.",
+    "showAll": "Pokaži nedavne prijedloge",
+    "endsIn": "Konci {{time}}",
+    "turnout": "Izlaznost",
+    "vote": "Glasaj",
+    "status": {
+      "voting": "Glasanje u toku",
+      "deposit": "Depozit",
+      "passed": "Usvojeno",
+      "rejected": "Odbijeno",
+      "failed": "Neuspjelo"
+    },
+    "passed": "Usvojeno",
+    "rejected": "Odbijeno",
+    "noneMatching": "Nema odgovarajućih prijedloga",
+    "noneMatchingBody": "Ništa trenutno ne odgovara ovom filtru."
+  },
+  "dev": {
+    "title": "Aktivnost programera",
+    "summary": "{{total}} doprinosi",
+    "viewFull": "Aktivnost otvorenih programera",
+    "heatmapLabel": "Karta toplote doprinosa: {{total}} doprinosa u periodu od {{weeks}} nedelje",
+    "less": "Manje",
+    "more": "Više",
+    "cellTitle_one": "{{count}} doprinos na {{date}}",
+    "cellTitle_few": "{{count}} doprinosi na {{date}}",
+    "cellTitle_other": "{{count}} doprinosa na {{date}}",
+    "range": "Raznovrsni raspon toplote",
+    "ranges": {
+      "month": "Mesec",
+      "quarter": "Četvrtina",
+      "year": "Godina"
+    }
+  },
+  "repos": {
+    "title": "Aktivni repozitorij",
+    "period": "Period",
+    "periods": {
+      "week": "Sedmica",
+      "month": "Mesec",
+      "year": "Godina",
+      "quarter": "Četvrtina"
+    },
+    "contributors": "Učesnici",
+    "stars": "Zvijezde",
+    "sparkline": "Aktivnost obaveze za {{name}}",
+    "vsPrevious": "{{change}} u odnosu na prethodni period",
+    "up": "U redu",
+    "down": "Dolje",
+    "caption": "Obaveze u odabranom periodu · simulirani repozitoriji",
+    "col": {
+      "repository": "Repozitorij",
+      "language": "Jezik",
+      "commits": "Obaveze",
+      "change": "Promjena",
+      "trend": "Trend"
+    },
+    "commitsCount": "Komiteti: {{count}}",
+    "demoNote": "Demo podaci: ovaj repozitorij je izmišljen i njegova aktivnost se simulira.",
+    "emptyBody": "U ovom periodu ne postoji aktivnost skladišta.",
+    "emptyTitle": "Ne postoji aktivnost skladišta",
+    "history": "Aktivnost obaveze"
+  }
+}

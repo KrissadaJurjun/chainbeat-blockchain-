@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simulado",
+    "close": "Fechar",
+    "retry": "Tentar novamente",
+    "refresh": "Atualizar",
+    "copy": "Copiar",
+    "copied": "Copiado",
+    "clear": "Limpar",
+    "loading": "Carregando…",
+    "options": "Opções",
+    "previous": "Anterior",
+    "next": "Próximo",
+    "pagination": "Paginação",
+    "pageN": "Página {{n}}",
+    "dismiss": "Dispensar",
+    "cancel": "Cancelar",
+    "viewAll": "Ver tudo",
+    "max": "Máx.",
+    "amount": "Valor",
+    "balance": "Saldo",
+    "fee": "Taxa",
+    "status": "Status",
+    "time": "Hora",
+    "height": "Altura",
+    "hash": "Hash",
+    "type": "Tipo",
+    "all": "Todos",
+    "showing": "Mostrar. {{from}} {{to}} de {{total}}",
+    "noResults": "Nenhum resultado coincide com os teus filtros.",
+    "rowsPerPage": "Linhas por página",
+    "actions": "Ações",
+    "exportCsv": "CSV de exportação",
+    "details": "Detalhes",
+    "clearFilters": "Filtros transparentes",
+    "collapseAll": "Colapso todo",
+    "copyJson": "Copiar JSON",
+    "expandAll": "Expandir tudo",
+    "showMore": "Mostre mais {{count}}"
+  },
+  "language": {
+    "label": "Idioma",
+    "search": "Línguas de pesquisa"
+  },
+  "theme": {
+    "label": "Tema",
+    "system": "Sistema",
+    "dark": "Escuro",
+    "light": "Claro"
+  },
+  "footer": {
+    "tagline": "Explora blocos, acompanha transações, entende a Web3.",
+    "demo": "Demo Modo todos os números são simulados e não são estatísticas de rede reais.",
+    "share": "Compartilhar",
+    "linkCopied": "Link copiado para o clipboard.",
+    "docs": "Documentação",
+    "links": "Links de rodapé",
+    "modeDemo": "Demo Rede",
+    "repository": "Repositório",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "body": "A página que procura não existe ou mudou-se.",
+    "home": "Voltar ao painel"
+  },
+  "gate": {
+    "title": "Conecte a carteira Demo para continuar",
+    "body": "Este fluxo de trabalho é executado em uma carteira simulada. Conecte a carteira Demo para experimentá-la nada real é assinado ou enviado.",
+    "realTitle": "Uma carteira real está ligada",
+    "realBody": "{{address}} Está conectado, mas o modo de demonstração ChainBeat nunca assinou ou transmite transações.",
+    "useDemo": "Use a carteira Demo"
+  }
+}

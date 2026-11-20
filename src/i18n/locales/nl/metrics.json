@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "On-chain-statistieken",
+    "exportCsv": "Export als CSV",
+    "exported": "Metrics die als CSV worden geëxporteerd.",
+    "openAnalytics": "Open netwerkanalyse",
+    "last24h": "De laatste 24 uur",
+    "sparklineLabel": "Trend van de afgelopen 24 uur",
+    "change24h": "24 uur aanpassing",
+    "blocks": "blokken",
+    "exact": "Precise waarde",
+    "bondedRatio": "Geobligatieverhouding",
+    "poolShare": "Aandeel van het aanbod",
+    "tokenPrice": "Tokenprijs",
+    "inputInflation": "Inflatie",
+    "inputTax": "Gemeenschapsbelasting",
+    "inputBonded": "Geobligatieverhouding",
+    "csvMetric": "Metricum",
+    "csvValue": "Value",
+    "csvUnit": "Eenheid",
+    "csvChange24h": "24-uurswisseling",
+    "blockHeight": {
+      "label": "Blokhoogte",
+      "description": "Het aantal blokken dat is geproduceerd sinds het ontstaan, groeit met elk nieuw blok."
+    },
+    "totalTransactions": {
+      "label": "Transacties",
+      "description": "Totaal van de door het netwerk verwerkte transacties sinds het ontstaan."
+    },
+    "txPerBlock": {
+      "label": "Tx per blok",
+      "description": "Gemiddeld aantal transacties per blok, gemeten over de laatste 100 blokken."
+    },
+    "blockTime": {
+      "label": "Bloktijd",
+      "description": "Gemiddelde tijd tussen opeenvolgende blokken, gemeten over de laatste 100 blokken."
+    },
+    "inflation": {
+      "label": "Inflatie",
+      "description": "Het jaarlijkse tarief waarmee nieuwe tokens worden gemunt om stakers te belonen en de community pool te financieren."
+    },
+    "stakingApr": {
+      "label": "Staking-APR",
+      "description": "Schatting van het jaarlijkse rendement van gestelde tokens, vóór de validatorcommissie.",
+      "formula": "APR = inflatie × (1 − communautaire belasting) ÷ obligatieverhouding"
+    },
+    "bondedTokens": {
+      "label": "Gebonden tokens",
+      "description": "Tokens die momenteel worden ingezet met actieve validatoren.",
+      "formula": "gebonden = totale aanbod × gebonden verhouding"
+    },
+    "totalSupply": {
+      "label": "Totaal aanbod",
+      "description": "Elke token die bestaat, inclusief die die in het spel staan, groeit met de inflatie."
+    },
+    "communityPool": {
+      "label": "Communitypool",
+      "description": "Een deel van de inflatie komt binnen, succesvolle voorstellen besteden het.",
+      "formula": "Pool groeit naar aanbod × inflatie × gemeenschapsbelasting"
+    },
+    "poolValue": {
+      "label": "Poolwaarde",
+      "description": "De geschatte waarde van de community pool in Amerikaanse dollars tegen de gesimuleerde tokenprijs.",
+      "formula": "waarde = pool × tokenprijs"
+    }
+  }
+}

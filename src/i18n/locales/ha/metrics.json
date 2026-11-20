@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Ma'aunin on-chain",
+    "exportCsv": "Fitarwa a matsayin CSV",
+    "exported": "An fitar da ma'auni a matsayin CSV.",
+    "openAnalytics": "Binciken cibiyar sadarwa mai budewa",
+    "last24h": "Sa'o'i 24 na ƙarshe",
+    "sparklineLabel": "Yanayin da ya faru a cikin sa'o'i 24 da suka gabata",
+    "change24h": "Canjin awa 24",
+    "blocks": "ƙuƙwalwar ƙuƙwalwar ƙuƙwalwar ƙu",
+    "exact": "Gaskiyar darajar",
+    "bondedRatio": "Ƙididdigar da aka danganta",
+    "poolShare": "Raba na wadata",
+    "tokenPrice": "Farashin tambari",
+    "inputInflation": "Ƙarfin kuɗi",
+    "inputTax": "Harajin Ƙungiyar",
+    "inputBonded": "Ƙididdigar da aka danganta",
+    "csvMetric": "Ƙididdiga",
+    "csvValue": "Ƙimar",
+    "csvUnit": "Ƙungiya",
+    "csvChange24h": "Canjin awa 24",
+    "blockHeight": {
+      "label": "Tsawon block",
+      "description": "Yawan katako da aka samar tun lokacin da aka fara halitta yana ƙaruwa da ɗaya da kowane sabon katako."
+    },
+    "totalTransactions": {
+      "label": "Mu'amaloli",
+      "description": "Jimlar ma'amaloli da cibiyar sadarwar ta aiwatar tun lokacin da aka fara."
+    },
+    "txPerBlock": {
+      "label": "Mu'amaloli a kowane block",
+      "description": "Matsakaicin adadin ma'amaloli da aka haɗa a kowane bangare, a kan bangarorin 100 na ƙarshe."
+    },
+    "blockTime": {
+      "label": "Lokacin block",
+      "description": "Matsakaicin lokaci tsakanin bangarori masu biyowa, auna a cikin bangarori 100 na ƙarshe."
+    },
+    "inflation": {
+      "label": "Ƙarfin kuɗi",
+      "description": "Kudin shekara-shekara da ake yin sabbin tokens don yabon masu saka jari da kuma tallafawa tarin jama'a."
+    },
+    "stakingApr": {
+      "label": "APR na staking",
+      "description": "An kiyasta dawowar shekara-shekara akan alamun da aka saka hannun jari, kafin kwamiti na tabbatarwa.",
+      "formula": "APR = tsada × (1 − harajin al'umma) ÷ bonded ratio"
+    },
+    "bondedTokens": {
+      "label": "Token da aka ɗaure",
+      "description": "A halin yanzu ana amfani da tokens tare da masu tabbatarwa masu aiki.",
+      "formula": "bonded = jimlar wadata × bonded rabo"
+    },
+    "totalSupply": {
+      "label": "Jimillar samarwa",
+      "description": "Kowane alamar da ke akwai, ciki har da waɗanda aka saka a ciki. Yana girma tare da hauhawar farashin."
+    },
+    "communityPool": {
+      "label": "Asusun al'umma",
+      "description": "Tokens suna sarrafawa ta hanyar gudanarwa a kan sarkar. Wani ɓangare na ƙimar farashi yana shigowa; shawarwari masu nasara suna kashe shi.",
+      "formula": "Ƙarfin yana girma ta hanyar samarwa × ƙaruwa × harajin al'umma"
+    },
+    "poolValue": {
+      "label": "Darajar Ruwan Ruwa",
+      "description": "Kimanin darajar dala na Amurka na tarin jama'a a farashin alamar da aka kwaikwaya.",
+      "formula": "darajar = pool × farashin alama"
+    }
+  }
+}

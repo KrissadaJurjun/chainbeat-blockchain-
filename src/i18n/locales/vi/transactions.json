@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "Các giao dịch mới nhất trên {{chain}}.",
+    "stats": {
+      "recent": "Giao dịch gần đây",
+      "success": "Thành công",
+      "failed": "Thất bại",
+      "volume": "Khối lượng bản địa"
+    },
+    "filterPlaceholder": "Trình bằng hash, địa chỉ hoặc chiều cao",
+    "allTypes": "Tất cả các loại",
+    "tableCaption": "Các giao dịch mới nhất trên {{chain}}",
+    "from": "Từ",
+    "to": "Đến",
+    "memo": "Memo",
+    "noMemo": "Không ghi nhớ",
+    "raw": "Xem dữ liệu thô (được mô phỏng)",
+    "detailTitle": "Giao dịch",
+    "detailDescription": "Chi tiết về một giao dịch mô phỏng trên {{chain}}.",
+    "notFoundTitle": "Giao dịch không được tìm thấy",
+    "notFoundBody": "Không có giao dịch với hash này tồn tại trên {{chain}} trong mô phỏng.",
+    "failedBecause": "Giao dịch này thất bại: {{reason}}.",
+    "types": {
+      "send": "Gửi",
+      "delegate": "Người đại diện",
+      "undelegate": "Không ủy nhiệm",
+      "claim": "Đề xuất phần thưởng",
+      "vote": "Bỏ phiếu",
+      "ibc-transfer": "IBC chuyển nhượng",
+      "swap": "Hoán đổi",
+      "other": "Các loại khác"
+    },
+    "status": {
+      "success": "Thành công",
+      "failed": "Thất bại"
+    },
+    "block": "Khối",
+    "cardsLabel": "Giao dịch",
+    "category": "Phân loại",
+    "date": "Ngày",
+    "dateNote": "Hiển thị {{count}} giao dịch mới nhất cho đến cuối năm {{date}} (UTC).",
+    "emptyTitle": "Không có giao dịch nào được tìm thấy",
+    "events": "Các sự kiện",
+    "failedEvents": "Giao dịch này thất bại, vì vậy nó chỉ phát hành sự kiện phí của nó.",
+    "feeSymbol": "Điểm chỉ số phí",
+    "filtersLabel": "Các bộ lọc giao dịch",
+    "gasUsed": "Gas đã dùng",
+    "gasWanted": "Chất xăng được tìm kiếm",
+    "groups": {
+      "transfer": "Chuyển chuyển",
+      "staking": "Đánh giá",
+      "governance": "Quản trị",
+      "ibc": "IBC",
+      "swap": "Swap",
+      "other": "Các loại khác"
+    },
+    "latestNote": "Cho thấy {{count}} giao dịch mới nhất, chọn một ngày để nhìn lại.",
+    "messageType": "Loại tin nhắn",
+    "network": "Mạng",
+    "symbol": "Token",
+    "syntheticNote": "Đây là một bản ghi tổng hợp được tạo ra cho Demo Mode. Hash của nó không phải là một hash blockchain thực sự và nó không thể được xác minh trên bất kỳ mạng nào.",
+    "token": "Token",
+    "validator": "Trình xác thực",
+    "demoWalletNote": "Giao dịch này được tạo ra bởi ví Demo. Nó chỉ tồn tại trong trình duyệt này: không có chuyển giao blockchain được thực hiện, và hash của nó không phải là một hash blockchain thực sự.",
+    "demoTag": "Demo ví"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simulasi",
+    "close": "Tutup",
+    "retry": "Cuba lagi",
+    "refresh": "Muat semula",
+    "copy": "Salin",
+    "copied": "Disalin",
+    "clear": "Kosongkan",
+    "loading": "Memuatkan…",
+    "options": "Pilihan",
+    "previous": "Sebelumnya",
+    "next": "Seterusnya",
+    "pagination": "Pagination",
+    "pageN": "Halaman {{n}}",
+    "dismiss": "Abaikan",
+    "cancel": "Batal",
+    "viewAll": "Lihat semua",
+    "max": "Maks.",
+    "amount": "Jumlah",
+    "balance": "Baki",
+    "fee": "Yuran",
+    "status": "Status",
+    "time": "Masa",
+    "height": "Ketinggian",
+    "hash": "Hash",
+    "type": "Jenis",
+    "all": "Semua",
+    "showing": "Menunjukkan {{from}} {{to}} daripada {{total}}",
+    "noResults": "Tiada hasil yang sesuai dengan penapis anda.",
+    "rowsPerPage": "Barisan setiap halaman",
+    "actions": "Tindakan",
+    "exportCsv": "CSV eksport",
+    "details": "Butiran",
+    "clearFilters": "Penapis yang jelas",
+    "collapseAll": "Semua runtuh",
+    "copyJson": "Salin JSON",
+    "expandAll": "Membesarkan semua",
+    "showMore": "Tunjukkan {{count}} lagi"
+  },
+  "language": {
+    "label": "Bahasa",
+    "search": "Bahasa carian"
+  },
+  "theme": {
+    "label": "Tema",
+    "system": "Sistem",
+    "dark": "Gelap",
+    "light": "Cerah"
+  },
+  "footer": {
+    "tagline": "Menjelajahi blok, melacak transaksi, memahami Web3.",
+    "demo": "Demo Mod semua angka disimulasikan dan bukan statistik rangkaian sebenar.",
+    "share": "Berkongsi",
+    "linkCopied": "Link disalin ke papan klip.",
+    "docs": "Dokumen",
+    "links": "Pautan kaki",
+    "modeDemo": "Demo Rangkaian",
+    "repository": "Repository",
+    "version": "v{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Halaman tidak ditemui",
+    "body": "Halaman yang anda cari tidak wujud atau telah berpindah.",
+    "home": "Kembali ke papan pemuka"
+  },
+  "gate": {
+    "title": "Sambungkan dompet Demo untuk meneruskan",
+    "body": "Aliran kerja ini dijalankan pada dompet simulasi. Sambungkan dompet Demo untuk mencubanya tiada apa yang sebenar pernah ditandatangani atau dihantar.",
+    "realTitle": "Dompet sebenar dihubungkan",
+    "realBody": "{{address}} disambungkan, tetapi Mode ChainBeat Demo tidak menandatangani atau menyiarkan transaksi. beralih ke dompet Demo untuk mencuba aliran kerja ini.",
+    "useDemo": "Gunakan dompet Demo"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "ibcPage": {
+    "description": "Come i token fluiscono tra le catene su IBC. i collegamenti più spessi significano un volume maggiore di 24 ore.",
+    "volume": "24h IBC volume",
+    "chains": "Catene collegate",
+    "links": "Canali attivi",
+    "busiest": "Il percorso più trafficato",
+    "mapLabel": "Mappa di IBC connessioni tra catene",
+    "nodeLabel": "{{name}}: {{volume}} in 24 ore su {{channels}} canali",
+    "hint": "Spostare, focalizzare o selezionare una catena per evidenziare le sue connessioni. Trascinare al pannello; usare Ctrl o con la ruota dello scroll, i tassi + e − o i pulsanti per zoomare; premere 0 per ripristinare.",
+    "channelsOf": "Canali di {{name}}",
+    "topChannels": "Canali superiori per volume",
+    "transfers_one": "{{count, number}} trasferimento",
+    "transfers_many": "{{count, number}} trasferimenti",
+    "transfers_other": "{{count, number}} trasferimenti",
+    "info": {
+      "volume": "Volume (24 ore)",
+      "channels": "Canali",
+      "share": "Parte del volume IBC",
+      "partner": "Il partner più impegnato"
+    }
+  },
+  "multichainPage": {
+    "description": "L'ecosistema più ampio in stile Cosmos all'occhiata simulare le cifre per ogni catena connessa.",
+    "chains": "Catene",
+    "tvl": "Valore totale bloccato",
+    "validators": "Validatori",
+    "tx24h": "Transazioni (24 ore)",
+    "height": "Altezze dei blocchi",
+    "open": "Dispositivo aperto",
+    "switched": "Passato al {{name}}",
+    "registryOnly": "Registrato per la demo non ancora selezionabile",
+    "tvlByChain": "TVL per catena",
+    "tvlHint": "Valore totale bloccato simulato",
+    "explainTitle": "Cosa significano le metriche",
+    "explainHint": "Le definizioni semplici delle cifre di questa pagina.",
+    "explain": {
+      "tvl": "Il valore dei token investiti o detenuti nell'economia simulata della rete, a prezzi simulati.",
+      "height": "Quanti blocchi ha prodotto la catena da quando è iniziata, cresce di uno con ogni blocco.",
+      "validators": "Gli operatori che propongono e firmano i blocchi.",
+      "apr": "La remunerazione annuale stimata per la scommessa, in percentuale prima della commissione.",
+      "bonded": "La quota dell'offerta totale di token che è puntata. Una quota più alta significa che più dell'offerta sta assicurando la catena.",
+      "tx24h": "Transazioni comprese in blocchi nelle ultime 24 ore in tutte le catene elencate."
+    }
+  },
+  "heartbeatPage": {
+    "description": "L'impulso di {{chain}}: ogni blocco è un battito spaziamento segue il tempo del blocco, altezza segue il numero di transazioni.",
+    "rate": "Tariffa di blocco",
+    "perMinute": "blocchi/min",
+    "sinceLast": "Dall'ultimo blocco",
+    "txLastMinute": "Transazioni (ultimo minuto)",
+    "monitor": "Monitor del polso",
+    "legend": "Altezza del battito = transazioni nel blocco",
+    "chartLabel": "Traccia del battito cardiaco: {{rate}} blocchi al minuto, {{seconds}} secondi tra i blocchi",
+    "stream": "Strumento di blocco",
+    "txCount_one": "{{count}} tx",
+    "txCount_many": "{{count}} txs",
+    "txCount_other": "{{count}} txs"
+  }
+}

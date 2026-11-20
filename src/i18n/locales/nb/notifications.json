@@ -1,0 +1,31 @@
+{
+  "notifications": {
+    "label": "Varsler",
+    "title": "Varsler",
+    "unread": "Ules",
+    "unreadLabel_one": "{{count}} uløste melding",
+    "unreadLabel_other": "{{count}} ulæste meldinger",
+    "markAllRead": "Merk alt som lest",
+    "empty": "Du er alle fanget opp.",
+    "items": {
+      "proposalVoting": "Forslaget nr. {{id}} er i stemmesteden ca. {{hours}} timer igjen.",
+      "proposalPassed": "Forslag nr. {{id}} ble vedtatt og vil bli brukt.",
+      "validatorJailed": "{{name}} ble fengslet for nedetid.",
+      "upgradeScheduled": "Nettverksoppgradering {{version}} er planlagt i {{days}} dager.",
+      "ibcVolume": "IBC Overførselsvolumet økte med {{pct}}% i løpet av de siste 24 timene.",
+      "newBlock": "Block {{height}} ble produsert på {{chain}} (simulert).",
+      "walletConnectedDemo": "Demo lommebok tilkoblet (simulert).",
+      "walletConnected": "{{name}} er tilkoblet, ingenting ble signert.",
+      "walletDisconnected": "Wallet avkoblet fra denne nettlesersessionen.",
+      "txSuccess": "Simulert transaksjon bekreftet: {{summary}}",
+      "txFailed": "En simulert transaksjon mislyktes fordi feilsimulering er på.",
+      "proposalCreated": "Demo forslag nr. {{id}} {{title}} ble lagt til (simulert).",
+      "networkChanged": "Skipper til {{chain}}, viser simulerte data.",
+      "simPaused": "Simulering stoppet. Simulerte data vil ikke oppdateres før du gjenopptar den.",
+      "errorSimulation": "Feilsimulering er på, dataforespørsler og lommebok bekreftelser vil mislykkes før du slår den av."
+    },
+    "dismiss": "Kvittering om avslag",
+    "clearAll": "Rengjør alt",
+    "simulatedNote": "Ingenting her er en live blockchain-varsel."
+  }
+}

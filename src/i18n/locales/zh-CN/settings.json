@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "减少动态效果",
+    "reduceMotionHint": "尽量减少动画和过渡效果。",
+    "appearance": {
+      "compact": "紧的布局",
+      "compactHint": "将内容面积稍微缩小.",
+      "description": "主题,运动和密度.",
+      "title": "外观"
+    },
+    "confirm": {
+      "action": "确认",
+      "title": "你确定吗?",
+      "dataset": "这将模拟时钟,其速度,延迟和强制性错误重置到默认状态. Demo 钱包没有被触及.",
+      "wallet": "这将恢复Demo钱包的起始余额,并取消其模拟活动,投票和提案.",
+      "all": "这将删除本浏览器中存储的每个 ChainBeat 设置 (语言,主题,网络, Demo 钱包,最近的搜索) 并重新加载页面."
+    },
+    "data": {
+      "datasetReset": "Demo 数据集重置为实时.",
+      "description": "如何重新设置模拟.",
+      "refresh": "更新现场数据",
+      "refreshHint": "列表和计数器如何经常重新阅读 (模拟) 网络.",
+      "refreshOptions": {
+        "live": "活下去",
+        "slow": "慢慢",
+        "manual": "手册"
+      },
+      "resetDataset": "重新设置演示数据集",
+      "searchesCleared": "最近的搜索清除了.",
+      "speedHint": "停止模拟时钟或减速.",
+      "title": "数据"
+    },
+    "description": "所有的东西只存储在这个浏览器中.",
+    "language": {
+      "count": "在可用的{{total}}种语言中,有{{shipped}}种",
+      "current": "目前的语言",
+      "description": "选择接口语言,以本地名称,英语名称或代码搜索.",
+      "fallback": "目前尚未翻译的文本显示在英语中.",
+      "title": "语言"
+    },
+    "network": {
+      "demo": "演示",
+      "description": "哪个网络要探索,以及数据来自哪里.",
+      "endpoint": "现场终端点",
+      "live": "活下去",
+      "liveUnavailable": "如果设置终端点,您可以测试连接,但应用程序永远不会混合现场和模拟数据.",
+      "mode": "数据来源",
+      "noEndpoint": "没有 (模拟数据)",
+      "selected": "网络",
+      "status": "连接",
+      "statusDemo": "模拟网络 · 高度 {{height}}",
+      "title": "网络",
+      "unavailable": "无法使用",
+      "test": "测试连接",
+      "testing": "测试...",
+      "testHint": "在下面的终端点发送两个只可读的GET请求,并显示其答案. 没有任何数据被存储,数据源没有变化.",
+      "testOk": "连接到 {{chain}}: 最新区块 {{height}},回复在 {{ms}} ms.",
+      "testPartial": "连接到{{chain}}号:最新区块{{height}}号,回复了{{ms}}分钟.",
+      "testError": {
+        "timeout": "终点没有及时回答.",
+        "network": "检查地址,并确认该网站允许请求.",
+        "http": "终点回答了一个错误.",
+        "invalid": "终端点回答了,但不是在Cosmos REST API格式,所以没有使用任何东西."
+      }
+    },
+    "privacy": {
+      "clearAll": "在这个浏览器中清除所有 ChainBeat 数据",
+      "description": "这个应用程序存储的内容以及它可以看到的内容.",
+      "keysCaption": "由 ChainBeat 使用的浏览器存储",
+      "noNetwork": "链Beat 没有任何数据:它没有分析,除了自己的文件外没有请求.有两个可选的例外: 测试连接按,只有当您配置终端点并向它发送两次只读取请求时才会出现,以及谷歌登录按,只有在您添加自己的谷歌客户端ID后才会出现,然后从谷歌上传.",
+      "noSeed": "链Beat 永远不会询问,存储或看到种子短语,私钥或钱包密码.",
+      "storage": "首选,选择的网络,模拟的时钟,Demo钱包,最近的搜索以及您创建的任何演示帐户都仅存于本浏览器的本地存储器中.",
+      "title": "隐私",
+      "wallet": "如果您连接浏览器钱包扩展, ChainBeat 只会读取您的公开地址和帐户名称,。",
+      "keys": {
+        "lang": "选择的语言",
+        "ui": "主题,运动,密度,布局和最喜欢",
+        "chain": "选择的网络",
+        "sim": "模拟时钟,速度和延迟",
+        "wallet": "Demo 钱包:虚构余额,活动,投票,提案",
+        "notifications": "您阅读或拒绝了哪些通知,以及当地的事件 (钱包,模拟交易)",
+        "search": "最近的搜索",
+        "auth": "Demo账户:用户名,电子邮件地址,化密码哈希和当前登录"
+      }
+    }
+  },
+  "demo": {
+    "mode": "演示模式",
+    "chipTip": "所有数据均为模拟。点击打开演示控制面板。",
+    "controls": "演示控制",
+    "controlsIntro": "ChainBeat 使用确定性的模拟数据运行。你所见的一切都不是从真实区块链读取或发送的。",
+    "clock": "模拟时钟",
+    "simulatedNow": "模拟时间",
+    "offset": "提前 {{value}} 小时",
+    "advanceHour": "快进 1 小时",
+    "advanceDay": "快进 1 天",
+    "resetClock": "重置时钟",
+    "clockNote": "快进时钟会在 {{chain}} 上生成新的区块、价格和事件。同一时刻的数据始终完全一致。",
+    "network": "网络行为",
+    "latency": "模拟延迟",
+    "latencyOff": "关闭",
+    "simulateErrors": "模拟网络错误",
+    "simulateErrorsHint": "让所有请求失败，以便查看错误状态。",
+    "wallet": "演示钱包",
+    "resetWallet": "重置演示钱包",
+    "walletReset": "演示钱包已恢复为初始余额。",
+    "noticeTitle": "演示模式。",
+    "noticeBody": "此流程为模拟。不会签名或广播任何内容，也没有真实资产。",
+    "behind": "{{value}}小时后于实时",
+    "speed": "模拟速度",
+    "speeds": {
+      "paused": "暂停",
+      "slow": "慢慢",
+      "normal": "正常的"
+    }
+  },
+  "about": {
+    "title": "关于 ChainBeat",
+    "demo": "ChainBeat 运行在演示模式下。每个区块、价格、验证者和提案都在你的浏览器中以确定性方式生成，并非当前主网的统计数据。",
+    "privacy": "不需要API密钥,私钥或种子短语.可选的演示帐户,偏好和演示钱包只存储在浏览器中.",
+    "shortcuts": "键盘快捷键",
+    "shortcutSearch": "聚焦搜索框",
+    "shortcutClose": "关闭对话框和菜单",
+    "languages": "接口语言:{{total}}种中{{shipped}}种. 翻译是机器辅助的,并未由母语使用者进行审查;建议在公众使用前进行专业审查.",
+    "pageDescription": "它是什么,它如何处理数据,以及键盘快捷方式.",
+    "shortcutPalette": "开放搜索 (命令表)"
+  }
+}

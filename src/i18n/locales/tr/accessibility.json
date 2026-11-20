@@ -1,0 +1,6 @@
+{
+  "accessibility": {
+    "navigatedTo": "{{title}}'e yönlendirilmiş",
+    "loadingPage": "Yükleme sayfası"
+  }
+}

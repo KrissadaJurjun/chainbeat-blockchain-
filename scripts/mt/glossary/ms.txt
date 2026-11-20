@@ -1,0 +1,130 @@
+Papan pemuka
+Pengesah
+Cadangan
+Blok
+Transaksi
+Portfolio
+Tukar
+Staking
+Staking cecair
+Hantar
+Undi
+Cipta cadangan
+Pasaran
+Rangkaian
+Tadbir urus
+Rangkaian IBC
+Aktiviti pembangun
+Gambaran keseluruhan pelbagai rantaian
+Degupan jantung
+Dominasi
+Penjelajah blok
+Penjelajah transaksi
+Penjelajah token
+Perihal
+Penjelajah
+Tetapan
+Dompet
+Analitik
+Visualisasi
+Bahasa
+Tema
+Sistem
+Gelap
+Cerah
+Demo
+Simulasi
+Tutup
+Cuba lagi
+Muat semula
+Salin
+Disalin
+Kosongkan
+Memuatkan…
+Sebelumnya
+Seterusnya
+Abaikan
+Batal
+Kembali
+Lihat semua
+Tetapkan semula
+Eksport
+Maks.
+Jumlah
+Baki
+Yuran
+Status
+Jumlah keseluruhan
+Masa
+Ketinggian
+Hash
+Jenis
+Semua
+Cari
+Tapis
+Butiran
+Sahkan
+Sambung dompet
+Putuskan sambungan
+Semak transaksi
+Yuran rangkaian
+Salin alamat
+Anda bayar
+Anda terima
+Alamat penerima
+Memo (pilihan)
+Aset
+Peruntukan
+Diwakilkan
+Nyahstake
+Kadar pertukaran
+Berjaya
+Transaksi
+Blok
+Daripada
+Kepada
+Memo
+Gas digunakan
+Pengesah
+Token
+Alamat
+Cadangan
+Harga
+Bekalan
+Permodalan pasaran
+Komisen
+Masa operasi
+Kuasa mengundi
+Kedudukan
+Aktif
+Tidak aktif
+Dipenjarakan
+Pewakil
+Ya
+Tidak
+Berkecuali
+Tidak dengan veto
+Diluluskan
+Ditolak
+Gagal
+Pengundian sedang berlangsung
+Kuorum
+Penyertaan
+Deposit
+Undi anda
+Tajuk
+Penerangan
+Metrik on-chain
+Ketinggian blok
+Transaksi setiap blok
+Masa blok
+APR staking
+Token terikat
+Jumlah bekalan
+Kolam komuniti
+Halaman tidak ditemui
+Kembali ke papan pemuka
+Blok terkini
+Transaksi terkini
+Pemberitahuan
+Lain-lain

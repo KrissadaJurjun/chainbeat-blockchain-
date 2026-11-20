@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "ការ navigate sidebar",
+    "primary": "នាវាចរណ៍ សំខាន់ៗ",
+    "menu": "Menu នាវាចរណ៍",
+    "openMenu": "Menu ការចម្លង បើក",
+    "closeMenu": "បិទ Menu នាវាចរណ៍",
+    "collapseSidebar": "collapse sidebar",
+    "expandSidebar": "ពង្រីក sidebar",
+    "skipToContent": "ផ្ទេរទៅក្នុងខ្លឹមសារសំខាន់",
+    "home": "ChainBeat ផ្ទះ",
+    "pages": "ទំព័រ",
+    "dashboard": "ផ្ទាំងគ្រប់គ្រង",
+    "validators": "អ្នកផ្ទៀងផ្ទាត់",
+    "proposals": "សំណើ",
+    "blocks": "ប្លុក",
+    "transactions": "ប្រតិបត្តិការ",
+    "portfolio": "ផតហ្វូលីយ៉ូ",
+    "swap": "ប្តូរ",
+    "stake": "ស្តេក",
+    "liquidStaking": "លីគីតស្តេកកិង",
+    "send": "ផ្ញើ",
+    "vote": "បោះឆ្នោត",
+    "createProposal": "បង្កើតសំណើ",
+    "market": "ទីផ្សារ",
+    "network": "បណ្តាញ",
+    "governance": "អភិបាលកិច្ច",
+    "ibcNetwork": "បណ្តាញ IBC",
+    "devActivity": "សកម្មភាពអ្នកអភិវឌ្ឍន៍",
+    "multichain": "ទិដ្ឋភាពទូទៅពហុខ្សែសង្វាក់",
+    "heartbeat": "ចង្វាក់បេះដូង",
+    "dominance": "ភាពលេចធ្លោ",
+    "validatorsViz": "អ្នកផ្ទៀងផ្ទាត់",
+    "blockExplorer": "កម្មវិធីស្វែងរកប្លុក",
+    "transactionExplorer": "កម្មវិធីស្វែងរកប្រតិបត្តិការ",
+    "tokenExplorer": "កម្មវិធីស្វែងរកថូខឹន",
+    "about": "អំពី",
+    "explorerHome": "កម្មវិធីស្វែងរក",
+    "governanceHome": "មជ្ឈមណ្ឌល គ្រប់គ្រង",
+    "settings": "ការកំណត់"
+  },
+  "sections": {
+    "explorer": "កម្មវិធីស្វែងរក",
+    "wallet": "កាបូប",
+    "analytics": "ការវិភាគ",
+    "visualizations": "ការបង្ហាញជារូបភាព"
+  },
+  "chains": {
+    "favorite": "បន្ថែម {{name}} ទៅ favorites",
+    "unfavorite": "ដក {{name}} ចេញពី Favorites",
+    "simulatedHealthy": "បណ្តាញ simulate · សុខភាព"
+  },
+  "search": {
+    "label": "ស្វែងរក ChainBeat",
+    "placeholder": "ប្លុកស្វែងរក, TX, អាសយដ្ឋាន...",
+    "results": "លទ្ធផលស្វែងរក",
+    "noResults": "គ្មាន លទ្ធផល សម្រាប់ {{query}}",
+    "kinds": {
+      "page": "ទំព័រ",
+      "block": "ប្លុក",
+      "transaction": "TX",
+      "validator": "អ្នកផ្ទៀងផ្ទាត់",
+      "token": "ថូខឹន",
+      "address": "អាសយដ្ឋាន",
+      "proposal": "សំណើ"
+    },
+    "recent": "ការស្វែងរកថ្មីៗ",
+    "clearRecent": "ការ ស្វែង រក ថ្មីៗ",
+    "removeRecent": "កម្ចាត់ {{query}} ពី ការ ស្វែងរក ថ្មីៗ",
+    "hint": "សាកល្បងកម្ពស់ប្លុក, hash ប្រតិបត្តិការ, អាសយដ្ឋាន ( {{prefix}} 1 ...), ជា validator, លេខសំណើ ឬលេខទិន្នន័យ។.",
+    "submit": "ស្វែងរក",
+    "searching": "ស្វែងរក...",
+    "resultCount": "លទ្ធផល: {{count}}",
+    "invalid": {
+      "tooLong": "វា យូរ ពេក ដើម្បី ជា ពាក្យ ស្វែងរក (សរុប 200 តួ) ។.",
+      "badChecksum": "នេះ មើល ទៅ ដូច ជា អាសយដ្ឋាន ប៉ុន្តែ លទ្ធផល នៃ ការ ត្រួតពិនិត្យ របស់ វា មិន ស្មើ គ្នា នោះ ទេ សូម ត្រួតពិនិត្យ មើល វា ដើម្បី រក ឃើញ កំហុស ក្នុង ការ សរសេរ។.",
+      "badHash": "ការផ្ទេរ ឬ block hash មានអក្សរ hexadecimal ចំនួន 64។.",
+      "badChars": "ស្វែង រក កម្ពស់ ប្លុក, hash, អាសយដ្ឋាន, validator, សំណើ ឬ token។."
+    },
+    "categories": {
+      "page": "ទំព័រ",
+      "block": "ប្លុក",
+      "transaction": "ប្រតិបត្តិការ",
+      "address": "អាសយដ្ឋាន",
+      "validator": "អ្នកផ្ទៀងផ្ទាត់",
+      "proposal": "សំណើ",
+      "token": "សញ្ញា"
+    }
+  },
+  "user": {
+    "menu": "Menu គណនី",
+    "guest": "ភ្ញៀវ",
+    "notConnected": "គ្មាន ថវិកា ដែល ភ្ជាប់",
+    "settings": "ការកំណត់",
+    "about": "អំពី ChainBeat"
+  }
+}

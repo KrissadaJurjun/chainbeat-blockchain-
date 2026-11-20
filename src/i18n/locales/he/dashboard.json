@@ -1,0 +1,103 @@
+{
+  "overview": {
+    "title": "סקירה מובילה",
+    "unit": "אינדיקס ביצועים · בסיס = 100 בתחילת הטווח",
+    "refreshFailed": "לא הצלחתי לעדכן מראה את הנתונים המלאים האחרונים."
+  },
+  "chart": {
+    "keyboardHint": "תארת, השתמש במפתחות החצים כדי לזוז בין נקודות הנתונים.",
+    "summary": "אינדיקס הביצועים מעל {{range}}: {{details}}",
+    "rangeLabel": "טווח זמן",
+    "seriesLabel": "סדרת תארים",
+    "keepOne": "לפחות סדרה אחת חייבת להישאר נראית",
+    "emptyTitle": "אין נתונים עבור טווח זה",
+    "emptyBody": "נסה טווח זמן אחר או להתחדש.",
+    "range": {
+      "24H": "24 שעות",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "24 השעות האחרונות",
+      "7D": "7 הימים האחרונים",
+      "30D": "30 הימים האחרונים",
+      "90D": "90 הימים האחרונים"
+    },
+    "zoomControls": "פיקוח זום",
+    "zoomIn": "הזום",
+    "zoomOut": "זום החוצה",
+    "resetView": "תצוגה להגדיר מחדש",
+    "zoomLevel": "רמת הזום"
+  },
+  "proposals": {
+    "title": "הצעות",
+    "filter": "מסנן הצעה",
+    "live": "חיה",
+    "total": "סה״כ",
+    "viewAll": "ראו את כל ההצעות",
+    "noneLive": "אין הצעות חי",
+    "noneLiveBody": "כרגע אין ממשלה מתמשכת.",
+    "showAll": "הצגת הצעות האחרונות",
+    "endsIn": "סיום {{time}}",
+    "turnout": "שיעור השתתפות",
+    "vote": "הצבעה",
+    "status": {
+      "voting": "בהצבעה",
+      "deposit": "פיקדון",
+      "passed": "אושרה",
+      "rejected": "נדחתה",
+      "failed": "נכשלה"
+    },
+    "passed": "אושרה",
+    "rejected": "נדחתה",
+    "noneMatching": "אין הצעות מתאימות",
+    "noneMatchingBody": "שום דבר לא תואם את המסנן הזה כרגע."
+  },
+  "dev": {
+    "title": "פעילות מפתחים",
+    "summary": "{{total}} תרומות",
+    "viewFull": "פעילות פיתוח פתוחה",
+    "heatmapLabel": "מפת חום תרומות: {{total}} תרומות במשך {{weeks}} שבועות",
+    "less": "פחות",
+    "more": "עוד",
+    "cellTitle_one": "{{count}} תרומה על {{date}}",
+    "cellTitle_two": "{{count}} תרומות על {{date}}",
+    "cellTitle_other": "{{count}} תרומות על {{date}}",
+    "range": "טווח של כרטיסי חום",
+    "ranges": {
+      "month": "חודש",
+      "quarter": "רבע",
+      "year": "שנה"
+    }
+  },
+  "repos": {
+    "title": "מחסן פעיל",
+    "period": "תקופה",
+    "periods": {
+      "week": "שבוע",
+      "month": "חודש",
+      "year": "שנה",
+      "quarter": "רבע"
+    },
+    "contributors": "משתתפים",
+    "stars": "כוכבים",
+    "sparkline": "פעילות מחויבות ל-{{name}}",
+    "vsPrevious": "{{change}} לעומת תקופה קודמת",
+    "up": "למעלה",
+    "down": "למטה",
+    "caption": "מחויבות בתקופה שנבחרה · מאגרות סימולציה",
+    "col": {
+      "repository": "מאגר",
+      "language": "שפה",
+      "commits": "התחייבויות",
+      "change": "שינוי",
+      "trend": "מגמה"
+    },
+    "commitsCount": "מחויבות: {{count}}",
+    "demoNote": "Demo נתונים: המאגר הזה הוא בדיוני ופעילותו משקפת. הוא לא מחובר GitHub.",
+    "emptyBody": "אין פעילות מחסן בתקופה זו.",
+    "emptyTitle": "אין פעילות מחסן",
+    "history": "פעילות מחויבות"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "accessibility": {
+    "navigatedTo": "A {{title}}-es irányba navigálva",
+    "loadingPage": "Töltőlap"
+  }
+}

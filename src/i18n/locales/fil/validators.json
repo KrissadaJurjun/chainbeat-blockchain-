@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Mga Vals na Pinagsama",
+    "viewAll": "Tingnan ang lahat ng mga validator",
+    "col": {
+      "validator": "Validator",
+      "power": "Kapangyarihan sa pagboto",
+      "cumulative": "Kumulatibong",
+      "commission": "Komisyon",
+      "uptime": "Uptime",
+      "change": "24 oras na pagbabago",
+      "details": "Mga detalye",
+      "tokens": "Mga token na naka-bond"
+    },
+    "stake": "Stake",
+    "stakeWith": "I-play ang stake na may validator na ito",
+    "pageDescription": "Ang bawat validator na nakakakuha ng {{chain}}, na inilarawan sa pamamagitan ng voting power (simulated).",
+    "stats": {
+      "active": "Active validators",
+      "nakamoto": "Nakamoto coefficient",
+      "nakamotoHint": "Mga validator na kinakailangan upang ihinto ang kadena",
+      "top10": "Top-10 vote power",
+      "commission": "Average commission"
+    },
+    "filterPlaceholder": "Pag-filter sa pamamagitan ng pangalan o address",
+    "statusFilter": "Katayuan ng validator",
+    "tableCaption": "Mga validator sa {{chain}}",
+    "detailDescription": "Isang simulating validator sa {{chain}}.",
+    "detail": {
+      "delegators": "Mga delegator",
+      "bonded": "Mga token na naka-bond",
+      "last30": "huling 30 araw",
+      "last90": "huling 90 araw",
+      "noBlocks": "Walang kamakailan-lamang iminungkahi na mga bloke.",
+      "noWebsite": "hindi magagamit (fictional validator)",
+      "openPage": "Buksan ang buong pahina",
+      "powerHistory": "Kapangyarihan sa pagboto",
+      "proposed24h": "Proposed na mga bloke (24 h)",
+      "rank": "Ranggo",
+      "recentBlocks": "Bagong iminungkahi na mga bloke",
+      "selfBonded": "Nag-iimbak sa sarili",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Uptime",
+      "valueUsd": "Ang halaga ng stake {{value}}",
+      "website": "Website"
+    },
+    "status": {
+      "active": "Aktibo",
+      "inactive": "Hindi aktibo",
+      "jailed": "Nakakulong"
+    },
+    "activitiesTitle": "Mga Aktibidad ng Validator",
+    "commissionShort": "Pagbabayad {{value}}",
+    "detailTitle": "Validator",
+    "fictionalNote": "Fictional validator para sa Demo Mode. Ito ay hindi isang tunay na operator at walang tungkol dito ay verified.",
+    "hoverTip": "Komisyon {{commission}} · oras ng pag-andar {{uptime}} · {{delegators}} delegado",
+    "noMatching": "Walang tumutugma na mga validator.",
+    "notFoundBody": "{{chain}} ay walang validator na may address na ito.",
+    "notFoundTitle": "Hindi natagpuan ang validator",
+    "sort": {
+      "power": "Kapangyarihan sa pagboto",
+      "commission": "Komisyon",
+      "uptime": "Uptime"
+    },
+    "sortBy": "I-sort ang mga validator sa pamamagitan ng"
+  },
+  "validatorsViz": {
+    "description": "Commission versus uptime para sa bawat validator sa {{chain}}; ang laki ng bubble ay nagpapakita ng voting power.",
+    "showAll": "Kasama ang hindi aktibo at nakabilanggo",
+    "avgUptime": "Average uptime",
+    "zeroFee": "Mga validator ng zero commission",
+    "chartTitle": "Komisyon vs oras ng pag-andar",
+    "chartHint": "Ang bawat bubble ay isang validator",
+    "legend": "Ang kuwento ng chart",
+    "sizeHint": "Ang laki ng bubble = voting power"
+  }
+}

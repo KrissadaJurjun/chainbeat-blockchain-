@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Native, IBC, likviditeetti- ja ulkopuoliset varat, jotka tunnetaan nimellä {{chain}} (simuloitu).",
+    "stats": {
+      "total": "Jäljellä olevat tunnukset"
+    },
+    "kinds": {
+      "native": "Kotimainen",
+      "ibc": "IBC",
+      "external": "Ulkoiset",
+      "stable": "Stablecoin",
+      "liquid": "Liquid staking"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Tyyppi",
+      "denom": "Sähkö",
+      "price": "Hinta",
+      "change": "Kaksi vuorokautta",
+      "supply": "Tarjonta",
+      "holders": "Pitäjät",
+      "marketCap": "Markkina-arvo"
+    },
+    "filterPlaceholder": "Suodatus symbolien, nimityksen tai nimityksen mukaan",
+    "tableCaption": "Näytteet {{chain}}"
+  },
+  "account": {
+    "title": "Tilinpäätös",
+    "description": "Tilin saldot ja viimeaikainen toiminta {{chain}} (simuloitu).",
+    "available": "Käytettävissä",
+    "balances": "Rajoitus",
+    "counterparty": "Vastapuoli",
+    "direction": "Suuntaus",
+    "in": "Sisällä",
+    "out": "Ulkona",
+    "history": "Kaupankäynnin historia",
+    "historyCaption": "{{address}}:n liiketoimet",
+    "invalidTitle": "Ei ole pätevä osoite",
+    "invalidBody": "Tämä ei ole pätevä. {{chain}} Tässä verkossa olevat osoitteet alkavat {{prefix}} 1 ja sisällyttää tarkistus summa.",
+    "noBalances": "Ei tasapainoja.",
+    "noHistory": "Mitään liiketoimia ei löytynyt",
+    "noHistoryBody": "Tällä tilillä ei ole simuloitu toimintaa uusimmilla {{blocks}} blokilla.",
+    "rewards": "Palkkiot: {{value}}",
+    "staked": "Kytketty",
+    "totalValue": "Kokonaisarvo",
+    "txCount": "Transaktiot",
+    "unknown": "Tämä on pätevä osoite, mutta se ei ilmene simuloinnissa, joten sillä ei ole tasapainoja tai historiaa.",
+    "window": "uusimmissa {{blocks}} korttelissa",
+    "demoWallet": "Tämä on lompakko Demo, jonka saldot ja tapahtumat on simuloitu ja ne ovat vain tässä selaimessa."
+  },
+  "explorer": {
+    "description": "Etsi {{chain}} ja katso mitä tapahtuu (simuloidussa) verkossa juuri nyt.",
+    "latestBlocks": "Uusimmat lohkot",
+    "latestTransactions": "Uusimmat transaktiot",
+    "searchTitle": "Etsikää tutkimusmatkailijaa",
+    "shortcuts": "Tutkijan osat"
+  }
+}

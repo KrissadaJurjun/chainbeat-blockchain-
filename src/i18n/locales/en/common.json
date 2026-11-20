@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simulated",
+    "close": "Close",
+    "retry": "Try again",
+    "refresh": "Refresh",
+    "copy": "Copy",
+    "copied": "Copied",
+    "clear": "Clear",
+    "loading": "Loading…",
+    "options": "Options",
+    "previous": "Previous",
+    "next": "Next",
+    "pagination": "Pagination",
+    "pageN": "Page {{n}}",
+    "dismiss": "Dismiss",
+    "cancel": "Cancel",
+    "viewAll": "View all",
+    "max": "Max",
+    "amount": "Amount",
+    "balance": "Balance",
+    "fee": "Fee",
+    "status": "Status",
+    "time": "Time",
+    "height": "Height",
+    "hash": "Hash",
+    "type": "Type",
+    "all": "All",
+    "showing": "Showing {{from}}–{{to}} of {{total}}",
+    "noResults": "No results match your filters.",
+    "rowsPerPage": "Rows per page",
+    "actions": "Actions",
+    "exportCsv": "Export CSV",
+    "details": "Details",
+    "clearFilters": "Clear filters",
+    "collapseAll": "Collapse all",
+    "copyJson": "Copy JSON",
+    "expandAll": "Expand all",
+    "showMore": "Show {{count}} more"
+  },
+  "language": {
+    "label": "Language",
+    "search": "Search languages"
+  },
+  "theme": {
+    "label": "Theme",
+    "system": "System",
+    "dark": "Dark",
+    "light": "Light"
+  },
+  "footer": {
+    "tagline": "Explore Blocks. Track Transactions. Understand Web3.",
+    "demo": "Demo Mode — all figures are simulated and are not real network statistics.",
+    "share": "Share",
+    "linkCopied": "Link copied to clipboard.",
+    "docs": "Documentation",
+    "links": "Footer links",
+    "modeDemo": "Demo Network",
+    "repository": "Repository",
+    "version": "v{{version}} — {{mode}}"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "The page you're looking for doesn't exist or has moved.",
+    "home": "Back to dashboard"
+  },
+  "gate": {
+    "title": "Connect the Demo wallet to continue",
+    "body": "This workflow runs on a simulated wallet. Connect the Demo wallet to try it — nothing real is ever signed or sent.",
+    "realTitle": "A real wallet is connected",
+    "realBody": "{{address}} is connected, but ChainBeat Demo Mode never signs or broadcasts transactions. Switch to the Demo wallet to try this workflow.",
+    "useDemo": "Use the Demo wallet"
+  }
+}

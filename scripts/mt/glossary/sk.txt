@@ -1,0 +1,130 @@
+Prehľad
+Validátori
+Návrhy
+Bloky
+Transakcie
+Portfólio
+Výmena
+Staking
+Likvidný staking
+Odoslať
+Hlasovať
+Vytvoriť návrh
+Trh
+Sieť
+Správa
+Sieť IBC
+Aktivita vývojárov
+Prehľad viacerých reťazcov
+Tep
+Dominancia
+Prieskumník blokov
+Prieskumník transakcií
+Prieskumník tokenov
+O aplikácii
+Prieskumník
+Nastavenia
+Peňaženka
+Analytika
+Vizualizácie
+Jazyk
+Motív
+Systém
+Tmavý
+Svetlý
+Demo
+Simulované
+Zavrieť
+Skúsiť znova
+Obnoviť
+Kopírovať
+Skopírované
+Vymazať
+Načítava sa…
+Predchádzajúce
+Ďalšie
+Skryť
+Zrušiť
+Späť
+Zobraziť všetko
+Resetovať
+Exportovať
+Max
+Suma
+Zostatok
+Poplatok
+Stav
+Spolu
+Čas
+Výška
+Hash
+Typ
+Všetko
+Hľadať
+Filtrovať
+Podrobnosti
+Potvrdiť
+Pripojiť peňaženku
+Odpojiť
+Skontrolovať transakciu
+Sieťový poplatok
+Kopírovať adresu
+Platíte
+Dostanete
+Adresa príjemcu
+Memo (voliteľné)
+Aktíva
+Alokácia
+Delegované
+Zrušiť staking
+Výmenný kurz
+Úspech
+Transakcia
+Blok
+Od
+Komu
+Memo
+Spotrebovaný gas
+Validátor
+Token
+Adresa
+Návrh
+Cena
+Ponuka
+Trhová kapitalizácia
+Provízia
+Dostupnosť
+Hlasovacia sila
+Poradie
+Aktívny
+Neaktívny
+Uväznený
+Delegujúci
+Áno
+Nie
+Zdržať sa
+Nie s vetom
+Schválené
+Zamietnuté
+Zlyhalo
+Prebieha hlasovanie
+Kvórum
+Účasť
+Vklad
+Váš hlas
+Názov
+Popis
+Metriky on-chain
+Výška bloku
+Tx na blok
+Čas bloku
+APR stakingu
+Viazané tokeny
+Celková ponuka
+Komunitný fond
+Stránka sa nenašla
+Späť na prehľad
+Najnovšie bloky
+Najnovšie transakcie
+Upozornenia
+Ostatné

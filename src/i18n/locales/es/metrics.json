@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Métricas on-chain",
+    "exportCsv": "Exportar como CSV",
+    "exported": "Métricas exportadas como CSV.",
+    "openAnalytics": "Abrir analítica de la red",
+    "last24h": "Últimas 24 horas",
+    "sparklineLabel": "Tendencia de las últimas 24 horas",
+    "change24h": "Variación en 24 h",
+    "blocks": "bloques",
+    "exact": "Valor exacto",
+    "bondedRatio": "Ratio de bonding",
+    "poolShare": "Parte del suministro",
+    "tokenPrice": "Precio del token",
+    "inputInflation": "Inflación",
+    "inputTax": "Impuesto comunitario",
+    "inputBonded": "Ratio de bonding",
+    "csvMetric": "Métrica",
+    "csvValue": "Valor",
+    "csvUnit": "Unidad",
+    "csvChange24h": "Variación 24 h",
+    "blockHeight": {
+      "label": "Altura de bloque",
+      "description": "El número de bloques producidos desde el génesis. Crece en uno con cada bloque nuevo."
+    },
+    "totalTransactions": {
+      "label": "Transacciones",
+      "description": "Total de transacciones procesadas por la red desde el génesis."
+    },
+    "txPerBlock": {
+      "label": "Tx por bloque",
+      "description": "Número medio de transacciones incluidas por bloque, medido en los últimos 100 bloques."
+    },
+    "blockTime": {
+      "label": "Tiempo de bloque",
+      "description": "Tiempo medio entre bloques consecutivos, medido en los últimos 100 bloques."
+    },
+    "inflation": {
+      "label": "Inflación",
+      "description": "La tasa anual a la que se emiten nuevos tokens para recompensar a los stakers y financiar el fondo comunitario."
+    },
+    "stakingApr": {
+      "label": "APR de staking",
+      "description": "Rendimiento anual estimado de los tokens en staking, antes de la comisión del validador.",
+      "formula": "APR = inflación × (1 − impuesto comunitario) ÷ ratio de bonding"
+    },
+    "bondedTokens": {
+      "label": "Tokens en bonding",
+      "description": "Tokens actualmente en staking con validadores activos. El stake en bonding es lo que protege la red.",
+      "formula": "en bonding = suministro total × ratio de bonding"
+    },
+    "totalSupply": {
+      "label": "Suministro total",
+      "description": "Todos los tokens existentes, incluidos los que están en staking. Crece con la inflación."
+    },
+    "communityPool": {
+      "label": "Fondo comunitario",
+      "description": "Tokens controlados por la gobernanza on-chain. Recibe una parte de la inflación y lo gastan las propuestas aprobadas.",
+      "formula": "el fondo crece suministro × inflación × impuesto comunitario"
+    },
+    "poolValue": {
+      "label": "Valor del fondo",
+      "description": "Valor estimado en dólares estadounidenses del fondo comunitario al precio simulado del token.",
+      "formula": "valor = fondo × precio del token"
+    }
+  }
+}

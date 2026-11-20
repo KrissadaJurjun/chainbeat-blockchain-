@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Magbabawasan ng paggalaw",
+    "reduceMotionHint": "I-minimize ang mga animation at transition.",
+    "appearance": {
+      "compact": "Compact layout",
+      "compactHint": "Naglalarawan ng lugar ng nilalaman na medyo mas maliit.",
+      "description": "Tema, paggalaw at densidad.",
+      "title": "Pakikitungo"
+    },
+    "confirm": {
+      "action": "Kumpirmahin",
+      "title": "Tiyak ka ba?",
+      "dataset": "Ito ay resets ang simulating oras, ang bilis nito, ang latency at pinilit na mga pagkakamali sa kanilang mga default.",
+      "wallet": "Ito ay nagbabalik sa mga simulating balanse ng Demo wallet at inaalis ang simulating aktibidad nito, mga boto at mga proposal.",
+      "all": "Inialis nito ang bawat setting ng ChainBeat na naka-imbak sa browser na ito ( wika, tema, network, Demo wallet, kamakailang paghahanap) at muling i-load ang pahina."
+    },
+    "data": {
+      "datasetReset": "Demo Dataset reset sa real time.",
+      "description": "Kung gaano bago ang data at kung paano i-reset ang simulasiyon.",
+      "refresh": "I-update ang mga live data",
+      "refreshHint": "Gaano kadalasang binabasa ulit ng mga listahan at counter ang (simulated) network.",
+      "refreshOptions": {
+        "live": "Mabuhay",
+        "slow": "Madali",
+        "manual": "Manual"
+      },
+      "resetDataset": "I-reset ang demo data set",
+      "searchesCleared": "Ang mga kamakailang paghahanap ay na-clear.",
+      "speedHint": "I-pause ang simulating oras o mabagal ito.",
+      "title": "Data"
+    },
+    "description": "Ang hitsura, wika, network at privacy. Ang lahat ay naka-imbak lamang sa browser na ito.",
+    "language": {
+      "count": "{{shipped}} sa {{total}} wika na magagamit",
+      "current": "Kasalukuyan na wika",
+      "description": "Pumili ng wika ng interface. Maghanap sa pamamagitan ng pangalan ng ina, pangalan sa Ingles o code.",
+      "fallback": "Ang teksto na hindi pa nai-translate ay ipinapakita sa Ingles.",
+      "title": "Wika"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Anong network ang pag-usisa at saan nagmumula ang data.",
+      "endpoint": "Live endpoint",
+      "live": "Mabuhay",
+      "liveUnavailable": "Ang live data ay hindi magagamit sa pagbuo na ito: ang bawat pahina ay nagpapakita ng simulating data. Kung ang isang endpoint ay naka-configure maaari mong subukan ang koneksyon, ngunit ang app ay hindi kailanman nagsasama ng live at simulating data.",
+      "mode": "Pinagmulan ng data",
+      "noEndpoint": "Walang (simulated data)",
+      "selected": "Network",
+      "status": "Pagkakonekta",
+      "statusDemo": "Simulating network · taas {{height}}",
+      "title": "Network",
+      "unavailable": "hindi magagamit",
+      "test": "Pagsusubaybay sa pagsubok",
+      "testing": "Pagsubok...",
+      "testHint": "Nagpadala ng dalawang read-only GET request sa endpoint sa ibaba at nagpapakita kung ano ang sagot nito. Walang nai-save at ang pinagmulan ng data ay hindi nagbabago.",
+      "testOk": "Nakonekta sa {{chain}}: pinakabagong bloke {{height}}, sinagot sa {{ms}} ms.",
+      "testPartial": "Nakonekta sa {{chain}}: pinakabagong bloke {{height}}, sinagot sa {{ms}} ms. Ang ilang mga optional na detalye ay hindi magagamit.",
+      "testError": {
+        "timeout": "Hindi tumugon ang endpoint sa tamang panahon.",
+        "network": "Ang endpoint ay hindi nakarating. suriin ang address at na pinapayagan nito ang mga kahilingan mula sa site na ito.",
+        "http": "Sinagot ng endpoint ang isang pagkakamali.",
+        "invalid": "Ang endpoint ay tumugon, ngunit hindi sa format ng isang Cosmos REST API, kaya walang ginamit."
+      }
+    },
+    "privacy": {
+      "clearAll": "I-clear ang lahat ng data ng ChainBeat sa browser na ito",
+      "description": "Ano ang naka-imbak ng app na ito at ano ang nakikita nito.",
+      "keysCaption": "Pag-iimbak ng browser na ginagamit ng ChainBeat",
+      "noNetwork": "Ang ChainBeat ay hindi nagpadala ng anumang data kahit saan: walang analytics at hindi gumagawa ng anumang mga kahilingan maliban sa kanyang sariling mga file. Mayroong dalawang pagpipiliang pag-iwas: ang Test connection pindutan, na lumitaw lamang kapag naka-configure ka ng isang endpoint at nagpadala ng dalawang mga kahilingan sa pagbabasa lamang dito, at ang Google login pindutan, na lumitaw lamang pagkatapos mong magdagdag ng iyong sariling Google client ID at pagkatapos ay naka-load mula sa Google.",
+      "noSeed": "Ang ChainBeat ay hindi kailanman humihingi, nag-iimbak o nakikitang isang binhi na salita, pribadong key o password sa wallet.",
+      "storage": "Ang mga kagustuhan, ang napili na network, ang simulan na oras, ang Demo wallet, mga kamakailang paghahanap at anumang demo account na iyong nilikha ay nai-save sa localStorage lamang ng browser na ito.",
+      "title": "Pribado",
+      "wallet": "Kung ikonekta mo ang extension ng wallet ng browser, binabasa lamang ng ChainBeat ang iyong pambansang address at pangalan ng account, at pagkatapos mo lamang mag-apruba nito. Walang sinulatan o ipinadala.",
+      "keys": {
+        "lang": "Piniling wika",
+        "ui": "Tema, paggalaw, density, layout at mga paborito",
+        "chain": "Pinili na network",
+        "sim": "Simulating oras, bilis at latency",
+        "wallet": "Demo wallet: fictitious balances, aktibidad, mga boto, mga proposal",
+        "notifications": "Ano ang mga notification na nabasa o tinanggihan mo, at ang mga lokal na kaganapan (wallet, simulating mga transaksyon)",
+        "search": "Mga kamakailang paghahanap",
+        "auth": "Demo account: mga username, email address, salted password hashes at kasalukuyang pag-sign-in"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Demo Modus",
+    "chipTip": "Lahat ng data ay simulate. Buksan ang demo controls.",
+    "controls": "Demo mga kontrol",
+    "controlsIntro": "Ang ChainBeat ay nagpapatakbo sa deterministic simulated data. Walang nabasa dito, o ipinadala sa, isang tunay na blockchain.",
+    "clock": "Simulating oras",
+    "simulatedNow": "Simulating oras",
+    "offset": "{{value}} h nang maaga",
+    "advanceHour": "1 oras nang maaga",
+    "advanceDay": "1 araw nang maaga",
+    "resetClock": "I-reset ang orasan",
+    "clockNote": "Ang pag-unlad ng oras ay gumagawa ng mga bagong bloke, presyo at kaganapan sa {{chain}}.",
+    "network": "Pag-uugali ng network",
+    "latency": "Simulating latency",
+    "latencyOff": "I-off",
+    "simulateErrors": "Simulasyon ng mga error sa network",
+    "simulateErrorsHint": "Ang bawat kahilingan ay nabigo kaya maaari mong suriin ang mga estado ng error.",
+    "wallet": "Demo wallet",
+    "resetWallet": "I-reset ang demo wallet",
+    "walletReset": "Demo wallet reset sa kanyang simula balances.",
+    "noticeTitle": "Demo Mode.",
+    "noticeBody": "Ang workflow na ito ay sinimulan. Walang sinulatan o ipinapalabas at walang tunay na pondo na kasangkot.",
+    "behind": "{{value}} oras na huli sa real time",
+    "speed": "bilis ng simulasiyon",
+    "speeds": {
+      "paused": "Nagpa-pause",
+      "slow": "Madali",
+      "normal": "Normal"
+    }
+  },
+  "about": {
+    "title": "Tungkol sa ChainBeat",
+    "demo": "Ang ChainBeat ay tumatakbo sa Demo Mode. Ang bawat bloke, presyo, validator at proposal ay deterministically generated sa iyong browser.",
+    "privacy": "Walang API key, private key o seed phrase na kinakailangan. Optional na mga demo account, mga kagustuhan at ang demo wallet ay naka-imbak lamang sa iyong browser.",
+    "shortcuts": "Mga shortcut sa keyboard",
+    "shortcutSearch": "Paghahanap ng pokus",
+    "shortcutClose": "Tapusin ang mga dialog at menu",
+    "languages": "Mga wika ng interface: {{shipped}} sa {{total}}. Ang mga pagsasalin ay tinulungan ng makina at hindi sinuri ng mga katutubong nagsasalita; inirerekomenda ang propesyonal na pagsusuri bago gamitin ng publiko.",
+    "pageDescription": "Ano ang ChainBeat, kung paano ito kumukuha ng data, at ang mga shortcut ng keyboard nito.",
+    "shortcutPalette": "Bukas na paghahanap (command palette)"
+  }
+}

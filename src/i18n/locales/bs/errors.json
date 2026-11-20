@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Ništa još ovde",
+    "emptyBody": "Nema podataka za ovaj pogled.",
+    "errorTitle": "Nisam mogao da učinim ove podatke",
+    "errorBody": "Nešto nije u redu dok čitaš mrežu.",
+    "crashTitle": "Nešto nije u redu",
+    "crashBody": "Ova stranica je naletjela na neočekivanu grešku.",
+    "reload": "Prenošenje stranice"
+  }
+}

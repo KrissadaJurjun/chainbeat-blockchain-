@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simulováno",
+    "close": "Zavřít",
+    "retry": "Zkusit znovu",
+    "refresh": "Obnovit",
+    "copy": "Kopírovat",
+    "copied": "Zkopírováno",
+    "clear": "Vymazat",
+    "loading": "Načítání…",
+    "options": "Možnosti",
+    "previous": "Předchozí",
+    "next": "Další",
+    "pagination": "Stránky",
+    "pageN": "Strana {{n}}",
+    "dismiss": "Skrýt",
+    "cancel": "Zrušit",
+    "viewAll": "Zobrazit vše",
+    "max": "Max",
+    "amount": "Částka",
+    "balance": "Zůstatek",
+    "fee": "Poplatek",
+    "status": "Stav",
+    "time": "Čas",
+    "height": "Výška",
+    "hash": "Hash",
+    "type": "Typ",
+    "all": "Vše",
+    "showing": "Ukazují. {{from}} Číslo {{to}} z {{total}}",
+    "noResults": "Žádný výsledek nesouhlasí s vašimi filtry.",
+    "rowsPerPage": "Řádky na stránku",
+    "actions": "Akce",
+    "exportCsv": "Vývozní CSV",
+    "details": "Podrobnosti",
+    "clearFilters": "Průhledné filtry",
+    "collapseAll": "Zhrouťte se všichni",
+    "copyJson": "Kopírovat JSON",
+    "expandAll": "Rozšiřte všechny",
+    "showMore": "Ukaž {{count}} více"
+  },
+  "language": {
+    "label": "Jazyk",
+    "search": "Hledávací jazyky"
+  },
+  "theme": {
+    "label": "Motiv",
+    "system": "Systém",
+    "dark": "Tmavý",
+    "light": "Světlý"
+  },
+  "footer": {
+    "tagline": "Prozkoumat bloky, sledovat transakce, pochopit Web3.",
+    "demo": "Demo Mód všechny údaje jsou simulovány a nejsou reálnými statistikami sítě.",
+    "share": "Sdílet",
+    "linkCopied": "Link kopírovaný na desku.",
+    "docs": "Dokumentace",
+    "links": "Odkazy podélnožek",
+    "modeDemo": "Demo Síť",
+    "repository": "Repositorium",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Stránka nenalezena",
+    "body": "Stránka, kterou hledáte, neexistuje nebo se přestěhovala.",
+    "home": "Zpět na přehled"
+  },
+  "gate": {
+    "title": "Připojte peněženku Demo k pokračování",
+    "body": "Tento pracovní tok běží na simulované peněžence. Připojte peněženku Demo a vyzkoušejte ji nic skutečného nikdy není podepsáno nebo zasláno.",
+    "realTitle": "Skutečná peněženka je připojená",
+    "realBody": "{{address}} je připojen, ale režim ChainBeat Demo nikdy nepodepisuje nebo vysílá transakce. Přepněte na peněženku Demo, abyste vyzkoušeli tento pracovní postup.",
+    "useDemo": "Použijte peněženku Demo"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Gesimuleerd",
+    "close": "Sluiten",
+    "retry": "Opnieuw proberen",
+    "refresh": "Vernieuwen",
+    "copy": "Kopiëren",
+    "copied": "Gekopieerd",
+    "clear": "Wissen",
+    "loading": "Laden…",
+    "options": "Opties",
+    "previous": "Vorige",
+    "next": "Volgende",
+    "pagination": "Pagina's",
+    "pageN": "Page {{n}}",
+    "dismiss": "Verbergen",
+    "cancel": "Annuleren",
+    "viewAll": "Alles bekijken",
+    "max": "Max",
+    "amount": "Bedrag",
+    "balance": "Saldo",
+    "fee": "Kosten",
+    "status": "Status",
+    "time": "Tijd",
+    "height": "Hoogte",
+    "hash": "Hash",
+    "type": "Type",
+    "all": "Alles",
+    "showing": "Toon. {{from}} {{to}} van {{total}}",
+    "noResults": "Geen resultaten overeenkomen met je filters.",
+    "rowsPerPage": "Rijen per pagina",
+    "actions": "Acties",
+    "exportCsv": "Uitvoer van CSV's",
+    "details": "Details",
+    "clearFilters": "Doorzichtige filters",
+    "collapseAll": "Collapse allemaal",
+    "copyJson": "Kopieer JSON",
+    "expandAll": "Uitbreiden van alle",
+    "showMore": "Toon nog meer {{count}}"
+  },
+  "language": {
+    "label": "Taal",
+    "search": "Zoektaal"
+  },
+  "theme": {
+    "label": "Thema",
+    "system": "Systeem",
+    "dark": "Donker",
+    "light": "Licht"
+  },
+  "footer": {
+    "tagline": "Blocks verkennen, transacties volgen, Web3 begrijpen.",
+    "demo": "Demo Mode alle cijfers zijn gesimuleerd en zijn geen echte netwerkstatistieken.",
+    "share": "Deel",
+    "linkCopied": "Link gekopieerd op clipboard.",
+    "docs": "Documentatie",
+    "links": "Voederverbindingen",
+    "modeDemo": "Demo Netwerk",
+    "repository": "Repositorium",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Pagina niet gevonden",
+    "body": "De pagina die je zoekt bestaat niet of is verhuisd.",
+    "home": "Terug naar dashboard"
+  },
+  "gate": {
+    "title": "Verbind de portemonnee Demo om door te gaan",
+    "body": "Deze workflow wordt uitgevoerd op een gesimuleerde portemonnee. Verbind de Demo portemonnee om het te proberen niets echts wordt ooit ondertekend of verzonden.",
+    "realTitle": "Een echte portemonnee is verbonden",
+    "realBody": "{{address}} is aangesloten, maar de ChainBeat Demo-modus ondertekent of uitzendt nooit transacties.",
+    "useDemo": "Gebruik de portemonnee Demo"
+  }
+}

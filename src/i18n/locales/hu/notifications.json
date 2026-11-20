@@ -1,0 +1,31 @@
+{
+  "notifications": {
+    "label": "Értesítések",
+    "title": "Értesítések",
+    "unread": "Nem olvasott",
+    "unreadLabel_one": "{{count}} olvashatatlan értesítés",
+    "unreadLabel_other": "{{count}} nem olvasott értesítés",
+    "markAllRead": "Jelölje meg mindent, amit olvasott",
+    "empty": "Mindannyian elkaptak.",
+    "items": {
+      "proposalVoting": "A {{id}}-es javaslat a szavazási időszakban van körülbelül {{hours}} órával.",
+      "proposalPassed": "A {{id}} számú javaslat elfogadott és alkalmazásra kerül.",
+      "validatorJailed": "A {{name}}-et bezárták.",
+      "upgradeScheduled": "A {{version}}-es hálózati frissítés {{days}} nap múlva készül.",
+      "ibcVolume": "IBC Az elmúlt 24 órán belül {{pct}}%-kal nőtt a transzfer volumen.",
+      "newBlock": "A {{height}}-es blokkot a {{chain}}-en gyártották (simulálva).",
+      "walletConnectedDemo": "Demo tárcája csatlakoztatott (simulálva).",
+      "walletConnected": "{{name}}-es kapcsolódott, nem írták alá semmit.",
+      "walletDisconnected": "A tárcája le van kapcsolva a böngészőletről.",
+      "txSuccess": "A szimulált tranzakció megerősítése: {{summary}}",
+      "txFailed": "A szimulált tranzakció nem sikerült, mert bekapcsolódott a hibás szimuláció.",
+      "proposalCreated": "Demo javaslat #{{id}} {{title}} (simuláció).",
+      "networkChanged": "{{chain}}-re váltottam.",
+      "simPaused": "A szimuláció megállt, a szimulált adatok addig nem frissülnek, amíg nem folytatják.",
+      "errorSimulation": "A hibás szimuláció be van kapcsolva, az adatok és a pénztárca megerősítése nem sikerül, amíg kikapcsolja."
+    },
+    "dismiss": "Az elutasításról szóló értesítés",
+    "clearAll": "Mindenki tisztára",
+    "simulatedNote": "A hálózati feedből származó elemek szimulálódnak."
+  }
+}

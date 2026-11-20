@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "የጎን አሞሌ አሰሳ",
+    "primary": "ዋና መርከብ",
+    "menu": "የማሰስ ምናሌ",
+    "openMenu": "የመርከብ ምናሌ ይክፈቱ",
+    "closeMenu": "የማሰስ ምናሌን ይዝጉ",
+    "collapseSidebar": "የጎን አሞሌ",
+    "expandSidebar": "የጎን አሞሌን ማስፋት",
+    "skipToContent": "ወደ ዋናው ይዘት ይሂዱ",
+    "home": "ChainBeat ቤት",
+    "pages": "ገጾች",
+    "dashboard": "ዳሽቦርድ",
+    "validators": "አረጋጋጮች",
+    "proposals": "ሐሳቦች",
+    "blocks": "ብሎኮች",
+    "transactions": "ግብይቶች",
+    "portfolio": "ፖርትፎሊዮ",
+    "swap": "መለዋወጥ",
+    "stake": "ስቴክ",
+    "liquidStaking": "ሊኩዊድ ስቴኪንግ",
+    "send": "ላክ",
+    "vote": "ድምጽ ስጥ",
+    "createProposal": "ሐሳብ ፍጠር",
+    "market": "ገበያ",
+    "network": "አውታረ መረብ",
+    "governance": "አስተዳደር",
+    "ibcNetwork": "IBC አውታረ መረብ",
+    "devActivity": "የገንቢ እንቅስቃሴ",
+    "multichain": "የብዙ ሰንሰለት አጠቃላይ እይታ",
+    "heartbeat": "የልብ ምት",
+    "dominance": "የበላይነት",
+    "validatorsViz": "አረጋጋጮች",
+    "blockExplorer": "የብሎክ አሳሽ",
+    "transactionExplorer": "የግብይት አሳሽ",
+    "tokenExplorer": "የቶከን አሳሽ",
+    "about": "ስለ",
+    "explorerHome": "አሳሽ",
+    "governanceHome": "የአስተዳደር ማዕከል",
+    "settings": "ቅንብሮች"
+  },
+  "sections": {
+    "explorer": "አሳሽ",
+    "wallet": "ቦርሳ",
+    "analytics": "ትንታኔ",
+    "visualizations": "ምስላዊ መግለጫዎች"
+  },
+  "chains": {
+    "favorite": "ወደ ተወዳጆች {{name}} ያክሉ",
+    "unfavorite": "{{name}} ከተወዳጆች ላይ አስወግድ",
+    "simulatedHealthy": "የተመሰረተ አውታረመረብ · ጤናማ"
+  },
+  "search": {
+    "label": "የፍለጋ ሰንሰለት",
+    "placeholder": "የፍለጋ ብሎክ, TX, አድራሻ...",
+    "results": "የፍለጋ ውጤቶች",
+    "noResults": "{{query}} ምንም ውጤቶች አልነበሩም",
+    "kinds": {
+      "page": "ገጽ",
+      "block": "ብሎክ",
+      "transaction": "TX",
+      "validator": "አረጋጋጭ",
+      "token": "ቶከን",
+      "address": "አድራሻ",
+      "proposal": "ሐሳብ"
+    },
+    "recent": "የቅርብ ጊዜ ፍለጋዎች",
+    "clearRecent": "ግልጽ የቅርብ ጊዜ ፍለጋዎች",
+    "removeRecent": "ከቅርብ ጊዜ ፍለጋዎች {{query}} ን ያስወግዱ",
+    "hint": "የብሎክ ቁመት, የግብይት ሃሽ, አድራሻ ይሞክሩ ( {{prefix}} 1...), አንድ ማረጋገጫ, ሀሳብ ቁጥር ወይም ምልክት ስም.",
+    "submit": "ፈልግ",
+    "searching": "ፍለጋ...",
+    "resultCount": "ውጤቶች: {{count}}",
+    "invalid": {
+      "tooLong": "ይህ የፍለጋ ቃል ለመሆን በጣም ረጅም ነው (በጣም 200 ቁምፊዎች) ።",
+      "badChecksum": "ይህ አድራሻ ይመስላል, ነገር ግን የቼክ አኃዝ አይዛመድም. የፊደል ስህተቶች ለማግኘት ይፈትሹ.",
+      "badHash": "አንድ ግብይት ወይም ብሎክ ሃሽ በትክክል 64 hexadecimal ቁምፊዎች አሉት.",
+      "badChars": "የብሎክ ቁመት፣ ሃሽ፣ አድራሻ፣ ማረጋገጫ፣ ሀሳብ ወይም ምልክት ይፈልጉ።"
+    },
+    "categories": {
+      "page": "ገጾች",
+      "block": "ብሎኮች",
+      "transaction": "ግብይቶች",
+      "address": "አድራሻዎች",
+      "validator": "አረጋጋጮች",
+      "proposal": "ሐሳቦች",
+      "token": "መለያዎች"
+    }
+  },
+  "user": {
+    "menu": "የመለያ ምናሌ",
+    "guest": "እንግዳ",
+    "notConnected": "ምንም የኪስ ቦርሳ አልተገናኘም",
+    "settings": "ቅንብሮች",
+    "about": "ስለ ChainBeat"
+  }
+}

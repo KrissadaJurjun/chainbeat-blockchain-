@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Förminska rörelsen",
+    "reduceMotionHint": "Minimera animationer och övergångar.",
+    "appearance": {
+      "compact": "Kompakta layout",
+      "compactHint": "Drager innehållsytan något mindre.",
+      "description": "Tema, rörelse och densitet.",
+      "title": "Utseende"
+    },
+    "confirm": {
+      "action": "Bekräfta",
+      "title": "- Är du säker på det? - Ja.",
+      "dataset": "Detta återställer den simulerade klockan, dess hastighet, latency och tvingade fel till sina standard.",
+      "wallet": "Detta återställer demo-plånbokens startbalans och tar bort simulerad aktivitet, röster och förslag.",
+      "all": "Detta tar bort alla ChainBeat-inställningar som lagras i den här webbläsaren (språk, tema, nätverk, Demo plånbok, senaste sökningar) och laddar om sidan."
+    },
+    "data": {
+      "datasetReset": "Demo Dataset återställd till realtid.",
+      "description": "Hur färsk data är och hur man återställer simuleringen.",
+      "refresh": "Uppdatera levande data",
+      "refreshHint": "Hur ofta listor och räknare läser om (simulerat) nätverk.",
+      "refreshOptions": {
+        "live": "Levande",
+        "slow": "Långsamt",
+        "manual": "Handbok"
+      },
+      "resetDataset": "Återställ demo-dataset",
+      "searchesCleared": "Senaste sökningar klarade.",
+      "speedHint": "Pausa den simulerade klockan eller bromsa den.",
+      "title": "Uppgifter"
+    },
+    "description": "Utseende, språk, nätverk och integritet. Allt lagras endast i den här webbläsaren.",
+    "language": {
+      "count": "{{shipped}} av {{total}} språk som finns tillgängliga",
+      "current": "Aktuellt språk",
+      "description": "Välj gränssnittsspråket.",
+      "fallback": "Texten som ännu inte har översatts visas på engelska.",
+      "title": "Språk"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Vilket nätverk att utforska och var data kommer från.",
+      "endpoint": "Live slutpunkt",
+      "live": "Levande",
+      "liveUnavailable": "Live data är inte tillgänglig i denna uppbyggnad: varje sida visar simulerade data. Om en slutpunkt är konfigurerad kan du testa anslutningen, men appen blandar aldrig live och simulerade data.",
+      "mode": "Uppgiftskällor",
+      "noEndpoint": "Ingen (simulerade uppgifter)",
+      "selected": "Nätverk",
+      "status": "Förbindelse",
+      "statusDemo": "Simulerat nät · höjd {{height}}",
+      "title": "Nätverk",
+      "unavailable": "Otillgänglig",
+      "test": "Testanslutning",
+      "testing": "Att testa...",
+      "testHint": "Sänds två GET-förfrågningar som endast läses till slutpunkten nedan och visar vad den svarar på. Inget lagras och datakällan ändras inte.",
+      "testOk": "Ansluten till {{chain}}: senaste block {{height}}, svarad på {{ms}} ms.",
+      "testPartial": "Ansluten till {{chain}}: senaste block {{height}}, svarad på {{ms}} ms.",
+      "testError": {
+        "timeout": "Slutpunkten svarade inte i tid.",
+        "network": "Endpunkten kunde inte nås. Kontrollera adressen och att den tillåter förfrågningar från denna webbplats.",
+        "http": "Slutpunkten svarade med ett misstag.",
+        "invalid": "Slutpunkten svarade, men inte i form av en Cosmos REST API, så inget användes."
+      }
+    },
+    "privacy": {
+      "clearAll": "Tvätta alla ChainBeat- data i den här webbläsaren",
+      "description": "Vad den här appen lagrar och vad den kan se.",
+      "keysCaption": "Browserlagring som används av ChainBeat",
+      "noNetwork": "ChainBeat skickar inga data någonstans: det har ingen analys och gör inga förfrågningar utom för sina egna filer. Det finns två valbara undantag: knappen Test connection, som endast visas när du konfigurerar en slutpunkt och skickar två endast läsförfrågningar till den, och Google-login-knappen, som endast visas efter att du lagt till din egen Google-klient-ID och laddas sedan från Google.",
+      "noSeed": "ChainBeat frågar aldrig efter, lagrar eller ser ett fras, privatnyckel eller wallet lösenord.",
+      "storage": "Preferenser, det valda nätverket, den simulerade klockan, plånboken Demo, senaste sökningar och eventuella demo-konto som du skapar sparas endast i den här webbläsaren lokallagring.",
+      "title": "Privatsäkerhet",
+      "wallet": "Om du ansluter en webbläsarplånboksförlängning läser ChainBeat bara din offentliga adress och kontonamn, och först efter att du godkänt det. Inget skrivs under eller skickas.",
+      "keys": {
+        "lang": "Utvalda språk",
+        "ui": "Temat, rörelse, täthet, layout och favoriter",
+        "chain": "Väljbart nätverk",
+        "sim": "Simulerad klocka, hastighet och latens",
+        "wallet": "Demo plånbok: fiktiva saldoer, verksamhet, röster, förslag",
+        "notifications": "Vilka meddelanden du har läst eller avvisat och de lokala händelserna (plånbok, simulerade transaktioner)",
+        "search": "Nyare sökningar",
+        "auth": "Demo konton: användarnamn, e-postadresser, saltade lösenordshasher och den aktuella inloggningen"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Demo Modus",
+    "chipTip": "Alla data är simulerade.",
+    "controls": "Demo kontroller",
+    "controlsIntro": "ChainBeat körs på deterministiska simulerade data. Ingenting här läses från eller skickas till en riktig blockchain.",
+    "clock": "Simulerad klocka",
+    "simulatedNow": "Simulerad tid",
+    "offset": "{{value}} timmar framåt",
+    "advanceHour": "1 timme i förväg",
+    "advanceDay": "Förskott 1 dag",
+    "resetClock": "Återställ klockan",
+    "clockNote": "När klockan avancerar produceras nya block, priser och händelser på {{chain}}.",
+    "network": "Nätverksbeteende",
+    "latency": "Simulerad latency",
+    "latencyOff": "Avstängd",
+    "simulateErrors": "Simulera nätverksfel",
+    "simulateErrorsHint": "Alla förfrågningar misslyckas så du kan inspektera felstatus.",
+    "wallet": "Demo plånbok",
+    "resetWallet": "Återställ demo plånbok",
+    "walletReset": "Demo plånbok återställd till startbalansen.",
+    "noticeTitle": "Demo-läget.",
+    "noticeBody": "Det här arbetsflödet simuleras.Ingenting undertecknas eller sänds och inga riktiga medel är inblandade.",
+    "behind": "{{value}} timmar efter realtid",
+    "speed": "Simuleringshastighet",
+    "speeds": {
+      "paused": "Pauserade",
+      "slow": "Långsamt",
+      "normal": "Normalt"
+    }
+  },
+  "about": {
+    "title": "Om ChainBeat",
+    "demo": "ChainBeat körs i Demo-läge. Varje block, pris, validator och förslag genereras deterministiskt i din webbläsare.",
+    "privacy": "Ingen API-nyckel, privatnyckel eller fraser behövs.",
+    "shortcuts": "Forkortningar för tangentbord",
+    "shortcutSearch": "Fokus sökning",
+    "shortcutClose": "Stäng in dialogen och menyn",
+    "languages": "Interfacespråk: {{shipped}} av {{total}}. Översättningar är maskinassisterade och har inte granskat av moderspråkare; professionell granskning rekommenderas före offentlig användning.",
+    "pageDescription": "Vad ChainBeat är, hur den hanterar data, och dess tangentbord snarvägar.",
+    "shortcutPalette": "Öppen sökning (kommandopalett)"
+  }
+}

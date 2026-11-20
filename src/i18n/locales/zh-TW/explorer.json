@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "國產, IBC,流動性存儲及已知{{chain}}號的外部資產 (模擬).",
+    "stats": {
+      "total": "追蹤的代碼"
+    },
+    "kinds": {
+      "native": "原住民",
+      "ibc": "國際電視台",
+      "external": "外部",
+      "stable": "穩定幣",
+      "liquid": "液體子"
+    },
+    "col": {
+      "token": "代幣",
+      "type": "類型",
+      "denom": "其他國家",
+      "price": "價格",
+      "change": "24小時",
+      "supply": "供應量",
+      "holders": "持有者",
+      "marketCap": "市值"
+    },
+    "filterPlaceholder": "按符號,名稱或名稱進行過濾",
+    "tableCaption": "在 {{chain}} 上的代幣"
+  },
+  "account": {
+    "title": "帳戶",
+    "description": "在 {{chain}} 的帳戶的余額和最近的活動 (模擬).",
+    "available": "可供使用",
+    "balances": "預算",
+    "counterparty": "其他國家",
+    "direction": "方向",
+    "in": "在",
+    "out": "在外面",
+    "history": "交易歷史",
+    "historyCaption": "{{address}} 年的交易",
+    "invalidTitle": "沒有有效地址",
+    "invalidBody": "這不是有效的. {{chain}} 這個網路上的地址始於 {{prefix}} 1,並包含一筆證金.",
+    "noBalances": "沒有平衡.",
+    "noHistory": "沒有找到交易",
+    "noHistoryBody": "這份帳號沒有在最新的{{blocks}}個區域進行模擬活動.",
+    "rewards": "獎勵: {{value}} 筆",
+    "staked": "沒有任何問題",
+    "totalValue": "總值",
+    "txCount": "交易",
+    "unknown": "這是一個有效的地址, 但它並不出現在模擬中,。",
+    "window": "在最新的{{blocks}}個街區",
+    "demoWallet": "這是您的Demo錢包. 它的平衡和交易都是模擬的,。"
+  },
+  "explorer": {
+    "description": "尋找 {{chain}} 並看看現在 (模擬) 網路上發生什麼事.",
+    "latestBlocks": "最新區塊",
+    "latestTransactions": "最新交易",
+    "searchTitle": "尋找探險家",
+    "shortcuts": "探測器部分"
+  }
+}

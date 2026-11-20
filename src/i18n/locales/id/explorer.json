@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Native, IBC, liquid-stacking dan aset eksternal yang diketahui pada {{chain}} (simulasi).",
+    "stats": {
+      "total": "Token pelacakan"
+    },
+    "kinds": {
+      "native": "Orang asli",
+      "ibc": "IBC",
+      "external": "Eksternal",
+      "stable": "Stablecoin",
+      "liquid": "Staking cair"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Jenis",
+      "denom": "Denom",
+      "price": "Harga",
+      "change": "24 jam",
+      "supply": "Pasokan",
+      "holders": "Pemegang",
+      "marketCap": "Kapitalisasi pasar"
+    },
+    "filterPlaceholder": "Filter dengan simbol, nama atau denominasi",
+    "tableCaption": "Token pada {{chain}}"
+  },
+  "account": {
+    "title": "Akun",
+    "description": "Saldo dan aktivitas baru-baru ini dari akun pada {{chain}} (simulasi).",
+    "available": "Tersedia",
+    "balances": "Saldo",
+    "counterparty": "Pihak lain",
+    "direction": "Panduan",
+    "in": "Dalam",
+    "out": "Di luar",
+    "history": "Sejarah transaksi",
+    "historyCaption": "Transaksi dari {{address}}",
+    "invalidTitle": "Tidak ada alamat yang valid",
+    "invalidBody": "Ini tidak valid {{chain}} Alamat. Alamat di jaringan ini dimulai dengan {{prefix}} 1 dan menyertakan jumlah cek.",
+    "noBalances": "Tidak ada keseimbangan.",
+    "noHistory": "Tidak ditemukan transaksi",
+    "noHistoryBody": "Akun ini tidak memiliki aktivitas simulasi di {{blocks}} blok terbaru.",
+    "rewards": "Hadiah: {{value}}",
+    "staked": "Dilengkapi",
+    "totalValue": "Nilai total",
+    "txCount": "Transaksi",
+    "unknown": "Ini adalah alamat yang valid, tapi tidak muncul dalam simulasi, jadi tidak memiliki saldo atau sejarah.",
+    "window": "di blok terbaru {{blocks}}",
+    "demoWallet": "Ini dompet Demo Anda saldo dan transaksi yang disimulasikan dan hanya ada di browser ini."
+  },
+  "explorer": {
+    "description": "Cari {{chain}} dan lihat apa yang terjadi di jaringan (simulasi) sekarang.",
+    "latestBlocks": "Blok terbaru",
+    "latestTransactions": "Transaksi terbaru",
+    "searchTitle": "Carilah penjelajah",
+    "shortcuts": "Bagian Explorer"
+  }
+}

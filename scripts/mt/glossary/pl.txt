@@ -1,0 +1,130 @@
+Pulpit
+Walidatorzy
+Propozycje
+Bloki
+Transakcje
+Portfolio
+Wymiana
+Staking
+Płynny staking
+Wyślij
+Głosuj
+Utwórz propozycję
+Rynek
+Sieć
+Zarządzanie
+Sieć IBC
+Aktywność deweloperów
+Przegląd wielu łańcuchów
+Puls
+Dominacja
+Eksplorator bloków
+Eksplorator transakcji
+Eksplorator tokenów
+O aplikacji
+Eksplorator
+Ustawienia
+Portfel
+Analityka
+Wizualizacje
+Język
+Motyw
+Systemowy
+Ciemny
+Jasny
+Demo
+Symulowane
+Zamknij
+Spróbuj ponownie
+Odśwież
+Kopiuj
+Skopiowano
+Wyczyść
+Ładowanie…
+Poprzednia
+Następna
+Odrzuć
+Anuluj
+Wstecz
+Zobacz wszystko
+Resetuj
+Eksportuj
+Maks.
+Kwota
+Saldo
+Opłata
+Status
+Razem
+Czas
+Wysokość
+Hash
+Typ
+Wszystkie
+Szukaj
+Filtruj
+Szczegóły
+Potwierdź
+Połącz portfel
+Rozłącz
+Sprawdź transakcję
+Opłata sieciowa
+Kopiuj adres
+Płacisz
+Otrzymujesz
+Adres odbiorcy
+Memo (opcjonalnie)
+Aktywa
+Alokacja
+Zdelegowano
+Cofnij staking
+Kurs wymiany
+Sukces
+Transakcja
+Blok
+Od
+Do
+Memo
+Zużyty gas
+Walidator
+Token
+Adres
+Propozycja
+Cena
+Podaż
+Kapitalizacja rynkowa
+Prowizja
+Czas działania
+Siła głosu
+Pozycja
+Aktywny
+Nieaktywny
+Uwięziony
+Delegujący
+Tak
+Nie
+Wstrzymaj się
+Nie z weto
+Przyjęta
+Odrzucona
+Nieudana
+Trwa głosowanie
+Kworum
+Frekwencja
+Depozyt
+Twój głos
+Tytuł
+Opis
+Metryki on-chain
+Wysokość bloku
+Tx na blok
+Czas bloku
+APR stakingu
+Związane tokeny
+Całkowita podaż
+Pula społeczności
+Nie znaleziono strony
+Wróć do pulpitu
+Najnowsze bloki
+Najnowsze transakcje
+Powiadomienia
+Inne

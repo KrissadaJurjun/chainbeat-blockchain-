@@ -1,0 +1,130 @@
+Dashboard
+Validators
+Proposals
+Blocks
+Transactions
+Portfolio
+Swap
+Stake
+Liquid Staking
+Send
+Vote
+Create Proposal
+Market
+Network
+Governance
+IBC Network
+Dev Activity
+Multichain Overview
+Heartbeat
+Dominance
+Block Explorer
+Transaction Explorer
+Token Explorer
+About
+Explorer
+Settings
+Wallet
+Analytics
+Visualizations
+Language
+Theme
+System
+Dark
+Light
+Demo
+Simulated
+Close
+Try again
+Refresh
+Copy
+Copied
+Clear
+Loading…
+Previous
+Next
+Dismiss
+Cancel
+Back
+View all
+Reset
+Export
+Max
+Amount
+Balance
+Fee
+Status
+Total
+Time
+Height
+Hash
+Type
+All
+Search
+Filter
+Details
+Confirm
+Connect wallet
+Disconnect
+Review transaction
+Network fee
+Copy address
+You pay
+You receive
+Recipient address
+Memo (optional)
+Assets
+Allocation
+Delegated
+Unstake
+Exchange rate
+Success
+Transaction
+Block
+From
+To
+Memo
+Gas used
+Validator
+Token
+Address
+Proposal
+Price
+Supply
+Market cap
+Commission
+Uptime
+Voting power
+Rank
+Active
+Inactive
+Jailed
+Delegators
+Yes
+No
+Abstain
+No with veto
+Passed
+Rejected
+Failed
+Voting
+Quorum
+Turnout
+Deposit
+Your vote
+Title
+Description
+On-chain Metrics
+Block Height
+Tx per Block
+Block Time
+Staking APR
+Bonded Tokens
+Total Supply
+Community Pool
+Page not found
+Back to dashboard
+Latest blocks
+Latest transactions
+Notifications
+Others

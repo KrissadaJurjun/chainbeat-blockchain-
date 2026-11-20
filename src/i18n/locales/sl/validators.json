@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Obvezane valse",
+    "viewAll": "Oglejte si vse validatorje",
+    "col": {
+      "validator": "Validator",
+      "power": "Glasovalna moč",
+      "cumulative": "Skupna količina",
+      "commission": "Provizija",
+      "uptime": "Razpoložljivost",
+      "change": "24 urna sprememba",
+      "details": "Podrobnosti",
+      "tokens": "Obvezni tokeni"
+    },
+    "stake": "Staking",
+    "stakeWith": "Vložite s tem potrdilnikom",
+    "pageDescription": "Vsak validator, ki zagotavlja {{chain}}, je razvršen po glasovalni moči (simuliran).",
+    "stats": {
+      "active": "Aktivni validatorji",
+      "nakamoto": "Koefficient Nakamoto",
+      "nakamotoHint": "Za zaustavitev verige so potrebovali preverjalce",
+      "top10": "Top-10 glasovalne moči",
+      "commission": "Povprečna provizija"
+    },
+    "filterPlaceholder": "Filter po imenu ali naslovu",
+    "statusFilter": "Status potrditelja",
+    "tableCaption": "Validatorji na številki {{chain}}",
+    "detailDescription": "Simuliran validator na {{chain}}.",
+    "detail": {
+      "delegators": "Delegatorji",
+      "bonded": "Tokeni zavezani",
+      "last30": "v zadnjih 30 dneh",
+      "last90": "zadnjih 90 dni",
+      "noBlocks": "Niti predlaganih blokov.",
+      "noWebsite": "ni na voljo (izmišljeni validator)",
+      "openPage": "Odprite celotno stran",
+      "powerHistory": "Glasovalna moč",
+      "proposed24h": "Predlagani blokovi (24 h)",
+      "rank": "Uvrstitev",
+      "recentBlocks": "Nedavno predlagani bloki",
+      "selfBonded": "Samostojno zavezan",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Razpoložljivost",
+      "valueUsd": "Vrednost vloga {{value}}",
+      "website": "Spletna stran"
+    },
+    "status": {
+      "active": "Aktiven",
+      "inactive": "Neaktiven",
+      "jailed": "Zaprt"
+    },
+    "activitiesTitle": "Dejavnosti validatorjev",
+    "commissionShort": "Poplačilo {{value}}",
+    "detailTitle": "Validator",
+    "fictionalNote": "Pripravljen validator za način Demo. To ni pravi operater in nič o njem ni preverjeno.",
+    "hoverTip": "Komisija {{commission}} · delovni čas {{uptime}} · {{delegators}} delegatov",
+    "noMatching": "Brez ustreznih validatorjev.",
+    "notFoundBody": "{{chain}} nima potrdilnika s to naslovom.",
+    "notFoundTitle": "Validator ni bil na voljo",
+    "sort": {
+      "power": "Glasovalna moč",
+      "commission": "Provizija",
+      "uptime": "Razpoložljivost"
+    },
+    "sortBy": "Razvrščanje validatorjev po"
+  },
+  "validatorsViz": {
+    "description": "Komisija v primerjavi z obratnim časom za vsak validator na {{chain}}; velikost mehurčka kaže glasovno moč.",
+    "showAll": "Vključite neaktivne in zapornike",
+    "avgUptime": "Povprečni čas delovanja",
+    "zeroFee": "Validatorji z ničelno provizijo",
+    "chartTitle": "Komisija vs. čas delovanja",
+    "chartHint": "Vsak mehurček je en validator",
+    "legend": "Legenda grafikonov",
+    "sizeHint": "Velikost mehurčka = glasovna moč"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "notifications": {
+    "label": "Bildirimler",
+    "title": "Bildirimler",
+    "unread": "Okulamamış",
+    "unreadLabel_one": "{{count}} okunmamış bildirim",
+    "unreadLabel_other": "{{count}} okunmamış bildirim",
+    "markAllRead": "Her şeyi okudukları gibi işaretle",
+    "empty": "Hepsini yakaladın.",
+    "items": {
+      "proposalVoting": "{{id}} numaralı öneri oylama döneminde yaklaşık {{hours}} saat kaldı.",
+      "proposalPassed": "{{id}} numaralı önerme kabul edildi ve uygulanacak.",
+      "validatorJailed": "{{name}} çalışma süresi nedeniyle hapse atıldı.",
+      "upgradeScheduled": "Ağ yükseltmesi {{version}} {{days}} günde planlanıyor.",
+      "ibcVolume": "IBC Transfer hacmi son 24 saatte %{{pct}} arttı.",
+      "newBlock": "Blok {{height}} {{chain}} üzerinde üretildi (simülasyon).",
+      "walletConnectedDemo": "Demo cüzdan bağlantılı (simülasyon).",
+      "walletConnected": "{{name}} bağlantılı, hiçbir şey imzalanmadı.",
+      "walletDisconnected": "Cüzdan bu tarayıcı oturumundan koptu.",
+      "txSuccess": "Simüle edilen işlem onaylandı: {{summary}}",
+      "txFailed": "Bir simülasyon işlem başarısız oldu çünkü hata simülasyonu çalıştırıldı.",
+      "proposalCreated": "Demo önerisi #{{id}} {{title}} eklendi (simülasyon yapıldı).",
+      "networkChanged": "{{chain}}'e geçtim.",
+      "simPaused": "Simülasyon durduruldu. Simülasyon verileri tekrar başlatana kadar güncellenmez.",
+      "errorSimulation": "Hata simülasyonu etkinleştirildi. Veri istekleri ve cüzdan onayları kapatana kadar başarısız olacak."
+    },
+    "dismiss": "İtiraz bildirimi",
+    "clearAll": "Hepsini temizleyin",
+    "simulatedNote": "Ağ kanalından alınan eşyalar simüle ediliyor."
+  }
+}

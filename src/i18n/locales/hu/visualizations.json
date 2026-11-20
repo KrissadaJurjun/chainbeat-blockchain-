@@ -1,0 +1,58 @@
+{
+  "ibcPage": {
+    "description": "Hogyan áramlanak a jelvények a IBC-es láncok között.",
+    "volume": "24 óra IBC térfogat",
+    "chains": "Összekapcsolt láncok",
+    "links": "Aktívan működő csatornák",
+    "busiest": "A legforgalmasabb útvonal",
+    "mapLabel": "A láncok közötti IBC összeköttetés térképe",
+    "nodeLabel": "{{name}}: {{volume}} 24 órán belül {{channels}} csatornán keresztül",
+    "hint": "Állj, fókuszálj vagy válaszd ki egy láncot, hogy kiemelje a kapcsolatait. Vágd a panra; használd a Ctrl vagy -t a gördülőkerékkel, a + és − gombokkal vagy a zoom gombokkal; nyomd meg a 0-t, hogy újraindítsd.",
+    "channelsOf": "A {{name}}-es csatornák",
+    "topChannels": "A legnagyobb csatornák hangsúly szerint",
+    "transfers_one": "{{count, number}} átruházás",
+    "transfers_other": "{{count, number}} átruházás",
+    "info": {
+      "volume": "Tömeg (24 óra)",
+      "channels": "A csatornák",
+      "share": "IBC. térfogatszázalék",
+      "partner": "A legfoglalkoztatottabb partner"
+    }
+  },
+  "multichainPage": {
+    "description": "A szélesebb Cosmos stílusú ökoszisztéma egy pillantásra szimulált számokat minden csatlakoztatott lánc.",
+    "chains": "Hálózat",
+    "tvl": "A zárolt teljes érték",
+    "validators": "Validátorok",
+    "tx24h": "Tranzakciók (24 óra)",
+    "height": "A blokkok magassága",
+    "open": "Nyissa ki a mérőlapot",
+    "switched": "{{name}}-re váltott",
+    "registryOnly": "Regisztrált a bemutató még nem lehet kiválasztani",
+    "tvlByChain": "TVL lánc szerint",
+    "tvlHint": "Szimulált teljes zárolt érték",
+    "explainTitle": "Mit jelentenek a mutatók?",
+    "explainHint": "A jelen oldalon található számok egyszerű nyelvű meghatározásai. Minden érték szimulálódik.",
+    "explain": {
+      "tvl": "A hálózati szimulált gazdaságban betöltött vagy megtartott jelvények értéke szimulált áron.",
+      "height": "Hány blokkot gyártott a lánc azóta, hogy megkezdődött.",
+      "validators": "Az operátorok, akik blokkot javasolnak és aláírnak.",
+      "apr": "Az éves jutalék a tételtől függő százalékos arányban, az inflációval és a tételtől függő tétek részesedésével mozog.",
+      "bonded": "Egy nagyobb rész azt jelenti, hogy a kínálat nagyobb része biztosítja a láncot.",
+      "tx24h": "Az elmúlt 24 órában blokkokban szereplő tranzakciók az összes felsorolt láncban."
+    }
+  },
+  "heartbeatPage": {
+    "description": "A pulzus {{chain}}: minden blokk egy ütés távolság a blokk idejét követi, a magasság a tranzakció számát követi.",
+    "rate": "Blokkulcs",
+    "perMinute": "blokkok/min",
+    "sinceLast": "Az utolsó blokk óta",
+    "txLastMinute": "Tranzakciók (utolsó perc)",
+    "monitor": "Pulzusmonitor",
+    "legend": "A verés magassága = a blokkban lévő tranzakciók",
+    "chartLabel": "A szívverés nyoma: {{rate}} blokk per perc, {{seconds}} másodperc blokkok között",
+    "stream": "A blokkáram",
+    "txCount_one": "{{count}} tx",
+    "txCount_other": "{{count}} txs"
+  }
+}

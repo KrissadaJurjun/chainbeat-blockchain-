@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Omavalitsus, IBC, likviidsed ja välised varad, mis on teada {{chain}} (simuleeritud).",
+    "stats": {
+      "total": "Jälgitud märgistused"
+    },
+    "kinds": {
+      "native": "Põhjamaad",
+      "ibc": "IBC",
+      "external": "Välised",
+      "stable": "Stablecoin",
+      "liquid": "Likviidsed kiivdused"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Tüüp",
+      "denom": "Tüüp",
+      "price": "Hind",
+      "change": "24 tundi",
+      "supply": "Pakkumine",
+      "holders": "Püüjad",
+      "marketCap": "Turukapitalisatsioon"
+    },
+    "filterPlaceholder": "Filtreerimine sümbolite, nimede või nimetuste järgi",
+    "tableCaption": "Toonid {{chain}}"
+  },
+  "account": {
+    "title": "Arvestus",
+    "description": "{{chain}} konto saldid ja hiljutine tegevus (simuleeritud).",
+    "available": "Kasutatav",
+    "balances": "Ülemkõlblikkus",
+    "counterparty": "Kaebus",
+    "direction": "Juhatus",
+    "in": "Üle",
+    "out": "Väljas",
+    "history": "Tehingute ajalugu",
+    "historyCaption": "{{address}}. aasta tehingud",
+    "invalidTitle": "Mitte kehtiv aadress",
+    "invalidBody": "See ei kehti. {{chain}} Adress. Adressid selles võrgus algavad {{prefix}} 1 ja lisada kontrollsumma.",
+    "noBalances": "Mitte tasakaalu.",
+    "noHistory": "Tehinguid ei leitud",
+    "noHistoryBody": "Selles kontos ei ole simuleeritud tegevust uusimates {{blocks}} blokis.",
+    "rewards": "Palgad: {{value}}",
+    "staked": "Kinnitatud",
+    "totalValue": "Kokkuväärtus",
+    "txCount": "Tehingud",
+    "unknown": "See on kehtiv aadress, kuid see ei ilmne simulatsioonis, nii et tal pole tasakaalu ega ajalugu.",
+    "window": "kõige uusimates {{blocks}} kvartalis",
+    "demoWallet": "See on teie rahakott Demo, mille tasakaal ja tehingud on simuleeritud ja eksisteerivad ainult selles brauseris."
+  },
+  "explorer": {
+    "description": "Otsi {{chain}} ja vaata, mis toimub (simuleeritud) võrgus praegu.",
+    "latestBlocks": "Uusimad plokid",
+    "latestTransactions": "Uusimad tehingud",
+    "searchTitle": "Otsi avastaja",
+    "shortcuts": "Eksploreerijad"
+  }
+}

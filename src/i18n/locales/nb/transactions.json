@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "De nyeste transaksjonene på {{chain}}.",
+    "stats": {
+      "recent": "Nylige transaksjoner",
+      "success": "Successivt",
+      "failed": "Mislyktes",
+      "volume": "Native volum"
+    },
+    "filterPlaceholder": "Filtering etter hash, adresse eller høyde",
+    "allTypes": "Alle typer",
+    "tableCaption": "De siste transaksjonene på {{chain}}",
+    "from": "Fra",
+    "to": "Til",
+    "memo": "Memo",
+    "noMemo": "Ingen melding",
+    "raw": "Se rådata (simulert)",
+    "detailTitle": "Transaksjon",
+    "detailDescription": "Detaljer om en simulert transaksjon på {{chain}}.",
+    "notFoundTitle": "Transaksjon ikke funnet",
+    "notFoundBody": "Ingen transaksjon med denne hash eksisterer på {{chain}} i simuleringen.",
+    "failedBecause": "Denne transaksjonen mislyktes: {{reason}}.",
+    "types": {
+      "send": "Send",
+      "delegate": "Delegert",
+      "undelegate": "Udelegert",
+      "claim": "Krav til belønninger",
+      "vote": "Stem",
+      "ibc-transfer": "IBC overføring",
+      "swap": "Bytt",
+      "other": "Andre"
+    },
+    "status": {
+      "success": "Vellykket",
+      "failed": "Mislyktes"
+    },
+    "block": "Blokk",
+    "cardsLabel": "Transaksjoner",
+    "category": "Kategori",
+    "date": "Dato",
+    "dateNote": "Visa de siste {{count}} transaksjonene til slutten av {{date}} (UTC).",
+    "emptyTitle": "Ingen transaksjoner funnet",
+    "events": "Begivenheter",
+    "failedEvents": "Denne transaksjonen mislyktes, så den utstedte bare sin gebyr hendelse.",
+    "feeSymbol": "Fee token",
+    "filtersLabel": "Transaksjonsfiltre",
+    "gasUsed": "Brukt gass",
+    "gasWanted": "Gas etterspurt",
+    "groups": {
+      "transfer": "Overførsler",
+      "staking": "Staking",
+      "governance": "Styring",
+      "ibc": "IBC",
+      "swap": "Swap",
+      "other": "Andre"
+    },
+    "latestNote": "Vis de siste {{count}} transaksjonene.",
+    "messageType": "meldingstype",
+    "network": "Nettverk",
+    "symbol": "Token",
+    "syntheticNote": "Dette er en syntetisk rekord generert for Demo Mode. hashet er ikke en ekte blockchain hash og det kan ikke verifiseres på et hvilket som helst nettverk.",
+    "token": "Token",
+    "validator": "Validator",
+    "demoWalletNote": "Denne transaksjonen ble opprettet av lommeboken Demo. Den eksisterer bare i denne nettleseren: ingen blockchain overføring fant sted, og hashen er ikke en ekte blockchain hash.",
+    "demoTag": "Demo lommebok"
+  }
+}

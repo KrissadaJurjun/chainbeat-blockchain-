@@ -1,0 +1,103 @@
+{
+  "overview": {
+    "title": "Vue d’ensemble",
+    "unit": "Indice de performance · Base 100 au début de la période",
+    "refreshFailed": "Échec de l’actualisation : affichage des dernières données chargées."
+  },
+  "chart": {
+    "keyboardHint": "Graphique. Utilisez les flèches pour passer d’un point de données à l’autre.",
+    "summary": "Indice de performance sur {{range}} : {{details}}",
+    "rangeLabel": "Période",
+    "seriesLabel": "Séries du graphique",
+    "keepOne": "Au moins une série doit rester visible",
+    "emptyTitle": "Aucune donnée pour cette période",
+    "emptyBody": "Essayez une autre période ou actualisez.",
+    "range": {
+      "24H": "24 h",
+      "7D": "7 j",
+      "30D": "30 j",
+      "90D": "90 j"
+    },
+    "rangeLong": {
+      "24H": "24 dernières heures",
+      "7D": "7 derniers jours",
+      "30D": "30 derniers jours",
+      "90D": "90 derniers jours"
+    },
+    "zoomControls": "Les commandes de zoom",
+    "zoomIn": "Zoom dans",
+    "zoomOut": "Faites du zoom",
+    "resetView": "Affichage de réinitialisation",
+    "zoomLevel": "Niveau de zoom"
+  },
+  "proposals": {
+    "title": "Propositions",
+    "filter": "Filtre des propositions",
+    "live": "En cours",
+    "total": "Total",
+    "viewAll": "Voir toutes les propositions",
+    "noneLive": "Aucune proposition en cours",
+    "noneLiveBody": "Aucun vote de gouvernance n’est actuellement ouvert.",
+    "showAll": "Afficher les propositions récentes",
+    "endsIn": "Se termine {{time}}",
+    "turnout": "Participation",
+    "vote": "Voter",
+    "status": {
+      "voting": "En vote",
+      "deposit": "Dépôt",
+      "passed": "Adoptée",
+      "rejected": "Rejetée",
+      "failed": "Échouée"
+    },
+    "passed": "Adoptée",
+    "rejected": "Rejetée",
+    "noneMatching": "Aucune proposition correspondante",
+    "noneMatchingBody": "Rien ne correspond à ce filtre en ce moment."
+  },
+  "dev": {
+    "title": "Activité de développement",
+    "summary": "{{total}} contributions",
+    "viewFull": "Ouvrir l’activité de développement",
+    "heatmapLabel": "Carte de chaleur des contributions : {{total}} contributions sur {{weeks}} semaines",
+    "less": "Moins",
+    "more": "Plus",
+    "cellTitle_one": "{{count}} contribution le {{date}}",
+    "cellTitle_many": "{{count}} de contributions le {{date}}",
+    "cellTitle_other": "{{count}} contributions le {{date}}",
+    "range": "Distances de la carte thermique",
+    "ranges": {
+      "month": "Le mois",
+      "quarter": "Quartier",
+      "year": "Année"
+    }
+  },
+  "repos": {
+    "title": "Dépôts actifs",
+    "period": "Période",
+    "periods": {
+      "week": "Semaine",
+      "month": "Mois",
+      "year": "Année",
+      "quarter": "Quartier"
+    },
+    "contributors": "Contributeurs",
+    "stars": "Étoiles",
+    "sparkline": "Activité de commits de {{name}}",
+    "vsPrevious": "{{change}} par rapport à la période précédente",
+    "up": "En hausse",
+    "down": "En baisse",
+    "caption": "Commits sur la période sélectionnée · dépôts simulés",
+    "col": {
+      "repository": "Dépôt",
+      "language": "Langage",
+      "commits": "Commits",
+      "change": "Variation",
+      "trend": "Tendance"
+    },
+    "commitsCount": "Les engagements: {{count}}",
+    "demoNote": "Demo données: ce référentiel est fictif et son activité est simulée. Il n'est pas connecté à GitHub.",
+    "emptyBody": "Il n'y a pas d'activité de référentiel pendant cette période.",
+    "emptyTitle": "Aucune activité de référentiel",
+    "history": "Activité d'engagement"
+  }
+}

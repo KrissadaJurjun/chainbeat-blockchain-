@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Deleger tokens til en validator på {{chain}} for at tjene simulerede belønninger.",
+    "validator": "Validator",
+    "pickValidator": "Vælg en validator",
+    "estimate": "Skønne afkast",
+    "netApr": "Nettopræmien (efter provision)",
+    "yearly": "Præmier pr. år",
+    "monthly": "Belønninger pr. måned",
+    "unbonding": "Uforbindelsesperiode",
+    "commission": "Valideringskommission",
+    "notice": "På et reelt netværk låses den udtagne indsats for en periode på {{days}} dage. Her er alt simuleret og øjeblikkeligt.",
+    "yourStake": "Din indsats på {{chain}}",
+    "unstake": "Ophæv staking",
+    "unstakeTitle": "Udstødning fra {{validator}}",
+    "unstakeDescription": "På et reelt netværk låser dine tokens op efter {{days}} dage.",
+    "confirmUnstake": "Udsætte (simuleret)",
+    "done": "Stakede (simulerede)",
+    "doneBody": "Det ville være en rigtig periode med løsrivelse. {{days}} I dagevis.",
+    "unstaked": "Uddannede (simuleret)",
+    "unstakedBody": "- Det ville tage et rigtigt netværk. {{days}} I dagevis.",
+    "errors": {
+      "validator": "Vælg en validator.",
+      "moreThanStaked": "Du kan ikke udspille mere, end du har udspilt."
+    },
+    "review": "Gennemgangsandele",
+    "confirmDescription": "Kontrollér delegationen, og bekræft kun lommeboken Demo i denne browser.",
+    "aprDisclaimer": "Den APR, der er vist, er et skøn baseret på den nuværende inflation, fællesskabsskat og obligationsratio.",
+    "rewardsHistory": "Belønningshistorie",
+    "noRewardsHistory": "Der er endnu ingen belønninger påkrævet.",
+    "rewardsClaimed": "Kravet {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Stake et token og modtage et væskeligt staking token, der fortsætter med at tjene belønninger, mens den forbliver omsættelig.",
+    "mode": "Indretning",
+    "stake": "Staking",
+    "unstake": "Ophæv staking",
+    "asset": "Aktiver",
+    "youStake": "Du spiller ({{symbol}})",
+    "youRedeem": "Du udløser ({{symbol}})",
+    "youReceive": "Du modtager ({{symbol}})",
+    "exchangeRate": "Vekselkurs",
+    "apr": "Den anslåede APR",
+    "protocolFee": "Protokolgebyr for belønninger",
+    "notice": "Der er ikke lavet noget på kæden.",
+    "done": "Omdannelse fuldført (simuleret)",
+    "doneBody": "Dine Demo tegnebogsaldoer er opdateret.",
+    "review": "Revision omregning",
+    "confirmDescription": "Kontroller konverteringen. bekræftelse ændrer kun lommeboken Demo i denne browser.",
+    "risksTitle": "Risikoer for at forstå",
+    "risks": {
+      "smartContract": "Smart-kontraktrisiko: Liquid-stacking-protokoller er software, og software kan have fejl.",
+      "depeg": "De-peg-risiko: den likvidte token kan handles under værdien af de token, den repræsenterer.",
+      "validator": "Valideringsrisiko: Hvis de validatorer, der ligger bag protokollen, skærer ned, deler hver indehaver tabet.",
+      "unbonding": "Udgangsafslag: Indløsningen gennem protokollen kan tage så lang tid som netværks løsningstid."
+    },
+    "rateExplain": "Vekselkursen er hvor mange indstillede tokens et likvidt token står for. Det vokser som indstillede belønninger akkumuleres, så et likvidt token langsomt bliver mere værd end et indstillet token.",
+    "noProtocol": "ChainBeat integreres ikke med nogen rigtige væske-stacking protokol. Denne side er en uddannelsesmæssig simulation."
+  }
+}

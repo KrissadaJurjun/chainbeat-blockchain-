@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Pindatud valssid",
+    "viewAll": "Vaadake kõik validatorid",
+    "col": {
+      "validator": "Valideerija",
+      "power": "Hääletusjõud",
+      "cumulative": "Kokkuvõtt",
+      "commission": "Komisjonitasu",
+      "uptime": "Käideldavus",
+      "change": "24 tunni vahetus",
+      "details": "Üksikasjad",
+      "tokens": "Sõltuvad tokendid"
+    },
+    "stake": "Staking",
+    "stakeWith": "Selle validaatoriga panustamine",
+    "pageDescription": "Iga validaator, kes on tagatud {{chain}}, häälevõime järgi (simuleeritud).",
+    "stats": {
+      "active": "Aktiivsed validatorid",
+      "nakamoto": "Nakamoto koefitsient",
+      "nakamotoHint": "Validadorid, mis on vajalikud võrgustiku peatamiseks",
+      "top10": "Top-10 hääletusvõime",
+      "commission": "Keskmine komisjonitasu"
+    },
+    "filterPlaceholder": "Filter nime või aadressi järgi",
+    "statusFilter": "Validaatori staatus",
+    "tableCaption": "Validaatorid {{chain}}",
+    "detailDescription": "Simuleeritud validator {{chain}}.",
+    "detail": {
+      "delegators": "Delegeerijad",
+      "bonded": "Tokaanid, mis on kinnitatud",
+      "last30": "viimased 30 päeva",
+      "last90": "viimased 90 päeva",
+      "noBlocks": "Ei ole hiljuti kavandatud blokeid.",
+      "noWebsite": "ei ole saadaval (tõlblik validator)",
+      "openPage": "Avatage täielik lehekülg",
+      "powerHistory": "Hääletusjõud",
+      "proposed24h": "Ettepanekud (24 tundi)",
+      "rank": "Koht",
+      "recentBlocks": "Hiljuti kavandatud blokid",
+      "selfBonded": "Omavalitsuslik",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Käideldavus",
+      "valueUsd": "Mängiväärtus {{value}}",
+      "website": "Veebileht"
+    },
+    "status": {
+      "active": "Aktiivne",
+      "inactive": "Mitteaktiivne",
+      "jailed": "Vangistatud"
+    },
+    "activitiesTitle": "Validaatorite tegevus",
+    "commissionShort": "Tasu {{value}}",
+    "detailTitle": "Valideerija",
+    "fictionalNote": "See ei ole tõeline operaator ja selle kohta ei ole midagi kinnitatud.",
+    "hoverTip": "Komisjon {{commission}} · tööaeg {{uptime}} · {{delegators}} delegaat",
+    "noMatching": "Ei sobivaid validatoreid.",
+    "notFoundBody": "{{chain}} ei ole sellel aadressil validaatorit.",
+    "notFoundTitle": "Validaator ei leitud",
+    "sort": {
+      "power": "Hääletusjõud",
+      "commission": "Komisjonitasu",
+      "uptime": "Käideldavus"
+    },
+    "sortBy": "Validaatorite sorteerimine vastavalt"
+  },
+  "validatorsViz": {
+    "description": "Komisjon vs. tööaeg iga validatori kohta {{chain}}; plahvila suurus näitab hääletamise võimu.",
+    "showAll": "Sisse kuuluvad mitteaktiivsed ja vangistatud isikud",
+    "avgUptime": "Keskmine tööaeg",
+    "zeroFee": "Nullkomisjoni validaatorid",
+    "chartTitle": "Komisjon vs tööaeg",
+    "chartHint": "Iga pahola on üks validaator",
+    "legend": "Graafilise legenda",
+    "sizeHint": "Bubble'i suurus = hääletusvõime"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "נכסים מקומיים, IBC, נכסים זמינים לקיצור נוזלים והכספים חיצוניים ידועים ב-{{chain}} (נשמלים).",
+    "stats": {
+      "total": "סימני מעקב"
+    },
+    "kinds": {
+      "native": "ילידי",
+      "ibc": "IBC",
+      "external": "חיצוני",
+      "stable": "סטבלקוין",
+      "liquid": "קישור נוזלי"
+    },
+    "col": {
+      "token": "טוקן",
+      "type": "סוג",
+      "denom": "דנום",
+      "price": "מחיר",
+      "change": "24 שעות",
+      "supply": "היצע",
+      "holders": "מחזיקים",
+      "marketCap": "שווי שוק"
+    },
+    "filterPlaceholder": "פילטר לפי סמל, שם או שם",
+    "tableCaption": "סימנים על {{chain}}"
+  },
+  "account": {
+    "title": "חשבון",
+    "description": "סולפים ופעילות אחרונה של חשבון ב-{{chain}} (נשמלים).",
+    "available": "זמין",
+    "balances": "סכומים",
+    "counterparty": "יחידה נגד",
+    "direction": "כיוון",
+    "in": "ב",
+    "out": "בחוץ",
+    "history": "היסטוריה של עסקאות",
+    "historyCaption": "עסקאות של {{address}}",
+    "invalidTitle": "לא כתובת בתוקף",
+    "invalidBody": "זה לא נכון. {{chain}} כתובת. כתובות ברשת זו מתחילות עם {{prefix}} 1 וכולל סכום בדיקה.",
+    "noBalances": "אין איזון.",
+    "noHistory": "לא נמצאו עסקאות",
+    "noHistoryBody": "החשבון הזה אין פעילות מזוינת ב-{{blocks}} הבלוקים החדשים ביותר.",
+    "rewards": "הפרסים: {{value}}",
+    "staked": "חבילה",
+    "totalValue": "הערך הכולל",
+    "txCount": "עסקאות",
+    "unknown": "זה כתובת תקפה, אבל היא לא מופיעה בסימולציה, אז אין לה איזון או היסטוריה.",
+    "window": "ב-{{blocks}} הבלוקים החדשים ביותר",
+    "demoWallet": "זה הארנק שלך Demo, המשאבים והמעשירים שלו מדמינים ונמצאים רק בדפדפן הזה."
+  },
+  "explorer": {
+    "description": "חיפש {{chain}} ותראה מה קורה ברשת (מתדמית) עכשיו.",
+    "latestBlocks": "הבלוקים האחרונים",
+    "latestTransactions": "העסקאות האחרונות",
+    "searchTitle": "חפשו את המחקרי",
+    "shortcuts": "חלקי Explorer"
+  }
+}

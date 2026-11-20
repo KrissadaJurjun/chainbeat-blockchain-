@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Navigace v vedlejším pásu",
+    "primary": "Hlavní navigace",
+    "menu": "Navigační menu",
+    "openMenu": "Otevřeno navigační menu",
+    "closeMenu": "Uzavřete navigační menu",
+    "collapseSidebar": "Stranný pruh zhroucení",
+    "expandSidebar": "Rozšiřte boční pruh",
+    "skipToContent": "Přepnout na hlavní obsah",
+    "home": "ChainBeat domů",
+    "pages": "Stránky",
+    "dashboard": "Přehled",
+    "validators": "Validátoři",
+    "proposals": "Návrhy",
+    "blocks": "Bloky",
+    "transactions": "Transakce",
+    "portfolio": "Portfolio",
+    "swap": "Výměna",
+    "stake": "Staking",
+    "liquidStaking": "Likvidní staking",
+    "send": "Odeslat",
+    "vote": "Hlasovat",
+    "createProposal": "Vytvořit návrh",
+    "market": "Trh",
+    "network": "Síť",
+    "governance": "Správa",
+    "ibcNetwork": "Síť IBC",
+    "devActivity": "Aktivita vývojářů",
+    "multichain": "Přehled více řetězců",
+    "heartbeat": "Tep",
+    "dominance": "Dominance",
+    "validatorsViz": "Validátoři",
+    "blockExplorer": "Průzkumník bloků",
+    "transactionExplorer": "Průzkumník transakcí",
+    "tokenExplorer": "Průzkumník tokenů",
+    "about": "O aplikaci",
+    "explorerHome": "Průzkumník",
+    "governanceHome": "Centrum správy",
+    "settings": "Nastavení"
+  },
+  "sections": {
+    "explorer": "Průzkumník",
+    "wallet": "Peněženka",
+    "analytics": "Analytika",
+    "visualizations": "Vizualizace"
+  },
+  "chains": {
+    "favorite": "Přidejte {{name}} k oblíbeným",
+    "unfavorite": "Odstranit {{name}} z oblíbených",
+    "simulatedHealthy": "Simulovaná síť · zdravá"
+  },
+  "search": {
+    "label": "Hledání ChainBeat",
+    "placeholder": "Vyhledávací blok, tx, adresa...",
+    "results": "Výsledky vyhledávání",
+    "noResults": "Žádné výsledky pro {{query}}",
+    "kinds": {
+      "page": "Stránka",
+      "block": "Blok",
+      "transaction": "Číslo č",
+      "validator": "Validátor",
+      "token": "Token",
+      "address": "Adresa",
+      "proposal": "Návrh"
+    },
+    "recent": "Nedávné vyhledávání",
+    "clearRecent": "Čisté nedávné vyhledávání",
+    "removeRecent": "Odstraňte {{query}} z nedávných vyhledávání",
+    "hint": "Zkuste výšku bloků, hash transakce, adresu ( {{prefix}} 1...), validátor, číslo návrhu nebo označení.",
+    "submit": "Hledat",
+    "searching": "Hledám...",
+    "resultCount": "Výsledky: {{count}}",
+    "invalid": {
+      "tooLong": "To je příliš dlouhé na vyhledávací termín (nejvíce 200 znaků).",
+      "badChecksum": "Vypadá to jako adresa, ale její šeková suma se neslučuje.",
+      "badHash": "Transakce nebo blokový hash má přesně 64 šedesátých znaků.",
+      "badChars": "Hledejte výšku bloku, hash, adresu, validátor, návrh nebo token."
+    },
+    "categories": {
+      "page": "Stránky",
+      "block": "Bloky",
+      "transaction": "Transakce",
+      "address": "Příloha",
+      "validator": "Validátoři",
+      "proposal": "Návrhy",
+      "token": "Žetony"
+    }
+  },
+  "user": {
+    "menu": "Menu účtu",
+    "guest": "Host",
+    "notConnected": "Žádná peněženka připojená",
+    "settings": "Nastavení",
+    "about": "O ChainBeatu"
+  }
+}

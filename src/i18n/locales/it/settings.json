@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Riduzione del movimento",
+    "reduceMotionHint": "Minimizzare le animazioni e le transizioni.",
+    "appearance": {
+      "compact": "Disegno compatto",
+      "compactHint": "Disegna l'area di contenuto leggermente più piccola.",
+      "description": "Tema, movimento e densità.",
+      "title": "Apparizione"
+    },
+    "confirm": {
+      "action": "Conferma",
+      "title": "- Sei sicuro? - Sì.",
+      "dataset": "Questo rimette l'orologio simulato, la sua velocità, la latenza e gli errori forzati alle loro impostazioni predefinite.",
+      "wallet": "Questo ripristina i bilanci iniziali del portafoglio Demo e elimina la sua attività simulata, i voti e le proposte.",
+      "all": "Questo rimuove tutte le impostazioni ChainBeat memorizzate in questo browser (lingua, tema, rete, Demo portafoglio, ricerche recenti) e ricarica la pagina."
+    },
+    "data": {
+      "datasetReset": "Demo Set di dati riimpostato in tempo reale.",
+      "description": "Quanto sono freschi i dati e come ripristinare la simulazione.",
+      "refresh": "Raggiornare i dati in diretta",
+      "refreshHint": "Quante volte gli elenchi e i contatori rilettono la rete (simulata).",
+      "refreshOptions": {
+        "live": "Vivi",
+        "slow": "Lento",
+        "manual": "Manuale"
+      },
+      "resetDataset": "Ripristino del set di dati demo",
+      "searchesCleared": "Ricerche recenti ripudiate.",
+      "speedHint": "In pausa l'orologio simulato o rallentalo.",
+      "title": "Dati"
+    },
+    "description": "Apparizione, linguaggio, rete e privacy. Tutto è memorizzato solo in questo browser.",
+    "language": {
+      "count": "{{shipped}} delle {{total}} lingue disponibili",
+      "current": "Lingua corrente",
+      "description": "Scegli la lingua di interfaccia. Cerca per nome nativo, nome inglese o codice.",
+      "fallback": "Il testo non ancora tradotto è mostrato in inglese.",
+      "title": "Lingua"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Quale rete esplorare e da dove provengono i dati.",
+      "endpoint": "Endpoint live",
+      "live": "Vivi",
+      "liveUnavailable": "Se un endpoint è configurato è possibile testare la connessione, ma l'app non mescola mai dati dal vivo e simulati.",
+      "mode": "Fonte di dati",
+      "noEndpoint": "Niente (dati simulati)",
+      "selected": "Rete",
+      "status": "Connessione",
+      "statusDemo": "Rete simulata · altezza {{height}}",
+      "title": "Rete",
+      "unavailable": "non disponibile",
+      "test": "Connessione di prova",
+      "testing": "Provare...",
+      "testHint": "Invia due richieste di GET solo per lettura al punto finale di seguito e mostra le risposte.Nulla viene memorizzato e la fonte dei dati non cambia.",
+      "testOk": "Connesso al {{chain}}: ultimo blocco {{height}}, risposto in {{ms}} ms.",
+      "testPartial": "Connesso a {{chain}}: ultimo blocco {{height}}, risposto in {{ms}} ms. Alcuni dettagli opzionali non erano disponibili.",
+      "testError": {
+        "timeout": "Il punto finale non ha risposto in tempo.",
+        "network": "Non è stato possibile raggiungere l'endpoint, controlla l'indirizzo e che permette le richieste da questo sito.",
+        "http": "Il punto finale ha risposto con un errore.",
+        "invalid": "L'endpoint ha risposto, ma non nel formato di un'API Cosmos REST, quindi non è stato usato nulla."
+      }
+    },
+    "privacy": {
+      "clearAll": "Elimina tutti i dati di ChainBeat in questo browser",
+      "description": "Cosa custodisce questa app e cosa può vedere.",
+      "keysCaption": "Storage del browser utilizzato da ChainBeat",
+      "noNetwork": "ChainBeat non invia dati da nessuna parte: non ha analisi e non fa richieste tranne per i propri file. Ci sono due eccezioni opzionali: il pulsante Test connection, che appare solo quando si configura un endpoint e invia due richieste solo per lettura, e il pulsante di login di Google, che appare solo dopo aver aggiunto il proprio ID client Google e viene caricato da Google.",
+      "noSeed": "ChainBeat non chiede, immagazzina o vede mai una frase seed, chiave privata o password del portafoglio.",
+      "storage": "Le preferenze, la rete selezionata, l'orologio simulato, il portafoglio Demo, le ricerche recenti e qualsiasi account demo che si crea sono salvati solo nel localStorage di questo browser.",
+      "title": "La privacy",
+      "wallet": "Se si collega un'estensione del portafoglio del browser, ChainBeat legge solo l'indirizzo pubblico e il nome dell'account, e solo dopo averlo approvato.",
+      "keys": {
+        "lang": "Lingua selezionata",
+        "ui": "Tema, movimento, densità, layout e preferiti",
+        "chain": "Rete selezionata",
+        "sim": "Orologio, velocità e latenza simulati",
+        "wallet": "Demo portafoglio: bilanci finti, attività, voti, proposte",
+        "notifications": "Quali notifiche avete letto o respinto, e gli eventi locali (monete, transazioni simulate)",
+        "search": "Ricerche recenti",
+        "auth": "Demo account: nomi utente, indirizzi e-mail, hash di password salinate e login corrente"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Modulo Demo",
+    "chipTip": "Tutti i dati sono simulati.",
+    "controls": "Demo controlli",
+    "controlsIntro": "ChainBeat funziona su dati deterministici simulati.",
+    "clock": "Orologio simulato",
+    "simulatedNow": "Tempo simulato",
+    "offset": "{{value}} ore in anticipo",
+    "advanceHour": "Un' ora in anticipo",
+    "advanceDay": "1 giorno in anticipo",
+    "resetClock": "Ripristino dell' orologio",
+    "clockNote": "L'avanzamento dell'orologio produce nuovi blocchi, prezzi ed eventi su {{chain}}.",
+    "network": "Comportamento della rete",
+    "latency": "La latenza simulata",
+    "latencyOff": "Fuori",
+    "simulateErrors": "Simulazione degli errori di rete",
+    "simulateErrorsHint": "Ogni richiesta fallisce, quindi puoi controllare gli stati di errore.",
+    "wallet": "Demo portafoglio",
+    "resetWallet": "Resettare il portafoglio demo",
+    "walletReset": "Demo portafoglio ripristinato ai suoi saldi iniziali.",
+    "noticeTitle": "Modulo Demo.",
+    "noticeBody": "Questo flusso di lavoro è simulato, nulla è firmato o trasmesso e non sono coinvolti fondi reali.",
+    "behind": "{{value}} ore in ritardo in tempo reale",
+    "speed": "Velocità di simulazione",
+    "speeds": {
+      "paused": "Pausa",
+      "slow": "Lento",
+      "normal": "Normalmente"
+    }
+  },
+  "about": {
+    "title": "A proposito di ChainBeat",
+    "demo": "ChainBeat è in modalità Demo. Ogni blocco, prezzo, validatore e proposta viene generato deterministicamente nel tuo browser.",
+    "privacy": "Nessuna chiave API, chiave privata o frase seed sono necessari. account demo opzionali, preferenze e il portafoglio demo sono memorizzati solo nel browser.",
+    "shortcuts": "Raccontazioni per tastiera",
+    "shortcutSearch": "Ricerca di focus",
+    "shortcutClose": "Chiudere dialoghi e menu",
+    "languages": "Linguaggi di interfaccia: {{shipped}} su {{total}}. Le traduzioni sono assistite da macchina e non sono state esaminate da parlanti nativi; si raccomanda una revisione professionale prima dell'uso pubblico.",
+    "pageDescription": "Cos'è ChainBeat, come gestisce i dati e le scorciatoie della tastiera.",
+    "shortcutPalette": "Ricerca aperta (palette di comando)"
+  }
+}

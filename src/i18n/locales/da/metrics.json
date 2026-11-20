@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "On-chain-nøgletal",
+    "exportCsv": "Eksport som CSV",
+    "exported": "Metrikker, der eksporteres som CSV.",
+    "openAnalytics": "Åbennetværksanalyse",
+    "last24h": "Sidste 24 timer",
+    "sparklineLabel": "Trend i de sidste 24 timer",
+    "change24h": "24 timers ændring",
+    "blocks": "blokke",
+    "exact": "Eksakt værdi",
+    "bondedRatio": "Forbindelsesforhold",
+    "poolShare": "Andel af udbuddet",
+    "tokenPrice": "Tokenkurs",
+    "inputInflation": "Inflation",
+    "inputTax": "EF-skat",
+    "inputBonded": "Forbindelsesforhold",
+    "csvMetric": "Metrik",
+    "csvValue": "Værdi",
+    "csvUnit": "Enhed",
+    "csvChange24h": "24 timers skift",
+    "blockHeight": {
+      "label": "Blokhøjde",
+      "description": "Antallet af blokker, der er produceret siden skabelsen, vokser med hver ny blok."
+    },
+    "totalTransactions": {
+      "label": "Transaktioner",
+      "description": "Samlet antal transaktioner, der er behandlet af netværket siden skabelsen."
+    },
+    "txPerBlock": {
+      "label": "Tx pr. blok",
+      "description": "Gennemsnitligt antal transaktioner pr. blok, målt over de seneste 100 blokke."
+    },
+    "blockTime": {
+      "label": "Bloktid",
+      "description": "Gennemsnitlig tid mellem på hinanden følgende blokke, målt over de seneste 100 blokke."
+    },
+    "inflation": {
+      "label": "Inflation",
+      "description": "Den årlige sats, hvormed nye tokens bliver myntet for at belønne interessenter og finansiere samfundets pool."
+    },
+    "stakingApr": {
+      "label": "Staking-APR",
+      "description": "Den forventede årlige afkast på indstillede tokens, forud for validererkommissionen.",
+      "formula": "APR = inflation × (1 − fællesskabsskat) ÷ obligationsratio"
+    },
+    "bondedTokens": {
+      "label": "Bundne tokens",
+      "description": "Tokens, der er sat med aktive validatorer.",
+      "formula": "forbundne = samlede forsyning × forbundne forhold"
+    },
+    "totalSupply": {
+      "label": "Samlet udbud",
+      "description": "Alle symboler, der findes, også dem, der er sat på spil, vokser med inflationen."
+    },
+    "communityPool": {
+      "label": "Fællesskabspulje",
+      "description": "En del af inflationen strømmer ind, og succesfulde forslag bruger den.",
+      "formula": "Pool vokser efter udbud × inflation × fællesskabsskat"
+    },
+    "poolValue": {
+      "label": "Poolværdi",
+      "description": "Den anslåede værdi i amerikanske dollars af den samlede pool til den simulerede tokenpris.",
+      "formula": "værdi = pool × tokenpris"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "साइडबार नेव्हिगेशन",
+    "primary": "मुख्य नेव्हिगेशन",
+    "menu": "नेव्हिगेशन मेनू",
+    "openMenu": "नेव्हिगेशन मेनू उघडा",
+    "closeMenu": "नेव्हिगेशन मेनू बंद करा",
+    "collapseSidebar": "क्रॅप साइडबार",
+    "expandSidebar": "साइडबार वाढवा",
+    "skipToContent": "मुख्य सामग्रीवर स्किप करा",
+    "home": "चेनबीट होम",
+    "pages": "पृष्ठे",
+    "dashboard": "डॅशबोर्ड",
+    "validators": "व्हॅलिडेटर",
+    "proposals": "प्रस्ताव",
+    "blocks": "ब्लॉक",
+    "transactions": "व्यवहार",
+    "portfolio": "पोर्टफोलिओ",
+    "swap": "स्वॅप",
+    "stake": "स्टेक",
+    "liquidStaking": "लिक्विड स्टेकिंग",
+    "send": "पाठवा",
+    "vote": "मत द्या",
+    "createProposal": "प्रस्ताव तयार करा",
+    "market": "बाजार",
+    "network": "नेटवर्क",
+    "governance": "गव्हर्नन्स",
+    "ibcNetwork": "IBC नेटवर्क",
+    "devActivity": "डेव्हलपर क्रियाकलाप",
+    "multichain": "मल्टीचेन आढावा",
+    "heartbeat": "हार्टबीट",
+    "dominance": "वर्चस्व",
+    "validatorsViz": "व्हॅलिडेटर",
+    "blockExplorer": "ब्लॉक एक्सप्लोरर",
+    "transactionExplorer": "व्यवहार एक्सप्लोरर",
+    "tokenExplorer": "टोकन एक्सप्लोरर",
+    "about": "माहिती",
+    "explorerHome": "एक्सप्लोरर",
+    "governanceHome": "शासन केंद्र",
+    "settings": "सेटिंग्ज"
+  },
+  "sections": {
+    "explorer": "एक्सप्लोरर",
+    "wallet": "वॉलेट",
+    "analytics": "विश्लेषण",
+    "visualizations": "व्हिज्युअलायझेशन"
+  },
+  "chains": {
+    "favorite": "{{name}} ला आवडीमध्ये जोडा",
+    "unfavorite": "{{name}} आवडीमधून काढा",
+    "simulatedHealthy": "सिम्युलेटेड नेटवर्क · निरोगी"
+  },
+  "search": {
+    "label": "चेनबीट शोधा",
+    "placeholder": "शोध ब्लॉक, टॅक्स, पत्ता.",
+    "results": "शोध परिणाम",
+    "noResults": "{{query}} साठी कोणतेही परिणाम नाहीत",
+    "kinds": {
+      "page": "पृष्ठ",
+      "block": "ब्लॉक",
+      "transaction": "टॅक्स",
+      "validator": "व्हॅलिडेटर",
+      "token": "टोकन",
+      "address": "पत्ता",
+      "proposal": "प्रस्ताव"
+    },
+    "recent": "अलीकडील शोध",
+    "clearRecent": "अलीकडील शोध स्पष्ट",
+    "removeRecent": "अलीकडील शोधातून {{query}} काढा",
+    "hint": "ब्लॉक उंची, व्यवहार हॅश, पत्ता ( {{prefix}} 1...), प्रमाणीकरणकर्ता, प्रस्ताव क्रमांक किंवा टोकन नाव.",
+    "submit": "शोधा",
+    "searching": "शोधत आहे.",
+    "resultCount": "परिणाम: {{count}}",
+    "invalid": {
+      "tooLong": "ते शोध शब्द म्हणून खूप लांब आहे (जास्तीत जास्त 200 वर्ण).",
+      "badChecksum": "हे पत्त्यासारखं दिसते, पण त्याची संख्या जुळत नाही. टाइपिंग त्रुटी शोधून काढा.",
+      "badHash": "एक व्यवहार किंवा ब्लॉक हॅशमध्ये नक्की 64 हेक्साडेसिमल वर्ण असतात.",
+      "badChars": "ब्लॉकची उंची, हॅश, पत्ता, वैधकर्ता, प्रस्ताव किंवा टोकन शोधा."
+    },
+    "categories": {
+      "page": "पृष्ठे",
+      "block": "ब्लॉक",
+      "transaction": "व्यवहार",
+      "address": "पत्ते",
+      "validator": "व्हॅलिडेटर",
+      "proposal": "प्रस्ताव",
+      "token": "टोकन"
+    }
+  },
+  "user": {
+    "menu": "खाते मेनू",
+    "guest": "अतिथी",
+    "notConnected": "कोणतीही पर्स जोडलेली नाही",
+    "settings": "सेटिंग्ज",
+    "about": "चेनबीट बद्दल"
+  }
+}

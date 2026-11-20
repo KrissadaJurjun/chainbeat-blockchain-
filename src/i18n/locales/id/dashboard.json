@@ -1,0 +1,101 @@
+{
+  "overview": {
+    "title": "Tinjauan",
+    "unit": "Indeks kinerja · Base = 100 pada awal kisaran",
+    "refreshFailed": "Tidak bisa memperbarui menunjukkan data yang dimuat terakhir."
+  },
+  "chart": {
+    "keyboardHint": "Gunakan tombol panah untuk bergerak antara titik data.",
+    "summary": "Indeks kinerja di atas {{range}}: {{details}}",
+    "rangeLabel": "Jangka waktu",
+    "seriesLabel": "Serial grafik",
+    "keepOne": "Setidaknya satu seri harus tetap terlihat",
+    "emptyTitle": "Tidak ada data untuk kisaran ini",
+    "emptyBody": "Coba kisaran waktu lain atau menyegarkan.",
+    "range": {
+      "24H": "24 JAM",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "24 jam terakhir",
+      "7D": "7 hari terakhir",
+      "30D": "30 hari terakhir",
+      "90D": "90 hari terakhir"
+    },
+    "zoomControls": "Kontrol Zoom",
+    "zoomIn": "Zoom dalam",
+    "zoomOut": "Zoom out",
+    "resetView": "Pemandangan Reset",
+    "zoomLevel": "Tingkat zoom"
+  },
+  "proposals": {
+    "title": "Proposal",
+    "filter": "Filter proposal",
+    "live": "Hidup",
+    "total": "Total",
+    "viewAll": "Lihat semua proposal",
+    "noneLive": "Tidak ada proposal langsung",
+    "noneLiveBody": "Saat ini tidak ada pemerintahan yang sedang berlangsung.",
+    "showAll": "Tampilkan proposal terbaru",
+    "endsIn": "Akhir {{time}}",
+    "turnout": "Partisipasi",
+    "vote": "Voting",
+    "status": {
+      "voting": "Pemungutan suara berlangsung",
+      "deposit": "Deposit",
+      "passed": "Disetujui",
+      "rejected": "Ditolak",
+      "failed": "Gagal"
+    },
+    "passed": "Disetujui",
+    "rejected": "Ditolak",
+    "noneMatching": "Tidak ada proposal yang cocok",
+    "noneMatchingBody": "Tidak ada yang cocok dengan filter ini sekarang."
+  },
+  "dev": {
+    "title": "Aktivitas pengembang",
+    "summary": "{{total}} kontribusi",
+    "viewFull": "Aktivitas pengembang terbuka",
+    "heatmapLabel": "Peta pemanasan kontribusi: {{total}} kontribusi selama {{weeks}} minggu",
+    "less": "Kurang",
+    "more": "Lebih banyak",
+    "cellTitle_other": "{{count}} kontribusi pada {{date}}",
+    "range": "Jarak peta panas",
+    "ranges": {
+      "month": "Bulan",
+      "quarter": "Perempat",
+      "year": "Tahun"
+    }
+  },
+  "repos": {
+    "title": "Repository Aktif",
+    "period": "Periode",
+    "periods": {
+      "week": "Minggu",
+      "month": "Bulan",
+      "year": "Tahun",
+      "quarter": "Perempat"
+    },
+    "contributors": "Kontributor",
+    "stars": "Bintang",
+    "sparkline": "Aktivitas Komitmen untuk {{name}}",
+    "vsPrevious": "{{change}} vs periode sebelumnya",
+    "up": "Di atas",
+    "down": "Di bawah",
+    "caption": "Komitmen dalam periode yang dipilih · repositori simulasi",
+    "col": {
+      "repository": "Repository",
+      "language": "Bahasa",
+      "commits": "Komitmen",
+      "change": "Perubahan",
+      "trend": "Tren"
+    },
+    "commitsCount": "Komitmen: {{count}}",
+    "demoNote": "Demo data: repositori ini fiksi dan aktivitasnya disimulasikan.",
+    "emptyBody": "Tidak ada aktivitas repositori dalam periode ini.",
+    "emptyTitle": "Tidak ada aktivitas repositori",
+    "history": "Aktivitas berkomitmen"
+  }
+}

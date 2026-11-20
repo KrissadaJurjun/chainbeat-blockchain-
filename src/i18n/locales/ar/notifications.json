@@ -1,0 +1,35 @@
+{
+  "notifications": {
+    "label": "الإشعارات",
+    "title": "الإشعارات",
+    "unread": "غير مقروء",
+    "unreadLabel_zero": "لا توجد إشعارات غير مقروءة",
+    "unreadLabel_one": "إشعار واحد غير مقروء",
+    "unreadLabel_two": "إشعاران غير مقروءين",
+    "unreadLabel_few": "{{count}} إشعارات غير مقروءة",
+    "unreadLabel_many": "{{count}} إشعارًا غير مقروء",
+    "unreadLabel_other": "{{count}} إشعار غير مقروء",
+    "markAllRead": "تحديد الكل كمقروء",
+    "empty": "لقد اطلعت على كل شيء.",
+    "items": {
+      "proposalVoting": "المقترح #{{id}} في فترة التصويت — تبقّى نحو {{hours}} ساعة.",
+      "proposalPassed": "تم تمرير المقترح #{{id}} وسيتم تطبيقه.",
+      "validatorJailed": "تم سجن {{name}} بسبب التوقف عن العمل.",
+      "upgradeScheduled": "تحديث الشبكة {{version}} مجدول بعد {{days}} أيام.",
+      "ibcVolume": "ارتفع حجم تحويلات IBC بنسبة {{pct}}٪ خلال آخر 24 ساعة.",
+      "newBlock": "تم إنتاج القطعة {{height}} على {{chain}} (المحاكاة).",
+      "walletConnectedDemo": "Demo محفظة متصلة (تم محاكاة).",
+      "walletConnected": "{{name}} متصل، لم يتم توقيع أي شيء.",
+      "walletDisconnected": "محفظة منفصلة من هذه جلسة المتصفح.",
+      "txSuccess": "تم تأكيد المعاملة المحاكاة: {{summary}}",
+      "txFailed": "لقد فشلت عملية محاكاة لأن محاكاة الخطأ تعمل.",
+      "proposalCreated": "تم إضافة Demo اقتراح #{{id}} {{title}} (تم محاكاة).",
+      "networkChanged": "لقد انتقلت إلى {{chain}} أظهر بيانات محاكاة.",
+      "simPaused": "تم تعليق المحاكاة لن يتم تحديث البيانات المحاكاة حتى تستأنفها.",
+      "errorSimulation": "محاكاة الخطأ تعمل طلبات البيانات و تأكيدات المحفظة ستفشل حتى تطفئها."
+    },
+    "dismiss": "إشعار الرفض",
+    "clearAll": "أزيلوا كل شيء",
+    "simulatedNote": "المواد من تغذية الشبكة محاكاة لا يوجد شيء هنا هو تنبيه حاسوبي."
+  }
+}

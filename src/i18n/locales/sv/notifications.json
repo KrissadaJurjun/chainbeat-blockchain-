@@ -1,0 +1,31 @@
+{
+  "notifications": {
+    "label": "Aviseringar",
+    "title": "Aviseringar",
+    "unread": "Oläsning",
+    "unreadLabel_one": "{{count}} oläst meddelande",
+    "unreadLabel_other": "{{count}} oförlästa meddelanden",
+    "markAllRead": "Markera allt som läst",
+    "empty": "Ni är helt upptäckta.",
+    "items": {
+      "proposalVoting": "Förslaget nr {{id}} är i omröstningsperioden ca {{hours}} timmar kvar.",
+      "proposalPassed": "Förslag nr {{id}} har godkänts och kommer att tillämpas.",
+      "validatorJailed": "{{name}} fängslades för uppehåll.",
+      "upgradeScheduled": "Nätverksuppgraderingen {{version}} är planerad om {{days}} dagar.",
+      "ibcVolume": "IBC Överföringsvolymen ökade med {{pct}}% under de senaste 24 timmarna.",
+      "newBlock": "Block {{height}} tillverkades på {{chain}} (simuleras).",
+      "walletConnectedDemo": "Demo plånbok ansluten (simulerad).",
+      "walletConnected": "{{name}}, inget undertecknat.",
+      "walletDisconnected": "Portföljen avstängd från den här webbläsarsessionen.",
+      "txSuccess": "Simulerad transaktion bekräftad: {{summary}}",
+      "txFailed": "En simulerad transaktion misslyckades eftersom felsimulering är på.",
+      "proposalCreated": "Demo Förslag nr {{id}} {{title}} läggs till (simuleras).",
+      "networkChanged": "Omställd till {{chain}} - Visar simulerade data.",
+      "simPaused": "Simuleringens data uppdateras inte förrän du har påbörjat den.",
+      "errorSimulation": "Falsimulering är aktiverad och datafrågor och plånboksbekräftelser misslyckas tills du stänger av den."
+    },
+    "dismiss": "Anmälan om avslag",
+    "clearAll": "Rengör allt",
+    "simulatedNote": "Inget här är en blockchain-varning."
+  }
+}

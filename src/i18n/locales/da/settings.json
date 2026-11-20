@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Sænk bevægelsen",
+    "reduceMotionHint": "Minimer animationer og overgange.",
+    "appearance": {
+      "compact": "Compact layout",
+      "compactHint": "Tegner indholdsområdet lidt mindre.",
+      "description": "Tema, bevægelse og tæthed.",
+      "title": "Udseende"
+    },
+    "confirm": {
+      "action": "Bekræft",
+      "title": "- Er du sikker på det? - Ja.",
+      "dataset": "Dette indstiller det simulerede ur, dets hastighed, latency og tvungne fejl til deres standard.",
+      "wallet": "På denne måde genoprettes Demo-mandskabet og fjernes simuleret aktivitet, stemmer og forslag.",
+      "all": "Dette fjerner alle ChainBeat-indstillinger, der er gemt i denne browser (sprog, tema, netværk, Demo tegnebog, seneste søgninger) og overlader siden."
+    },
+    "data": {
+      "datasetReset": "Demo Datamasset indstillet til realtid.",
+      "description": "Hvor friske dataene er og hvordan man indstiller simulationen.",
+      "refresh": "Opdatere live data",
+      "refreshHint": "Hvor ofte lister og tæller læser (simuleret) netværk igen.",
+      "refreshOptions": {
+        "live": "Livet",
+        "slow": "Langsomt",
+        "manual": "Manual"
+      },
+      "resetDataset": "Reset demo- datamasset",
+      "searchesCleared": "Nylige søgninger ryddet.",
+      "speedHint": "Pause det simulerede ur eller bremse det.",
+      "title": "Data"
+    },
+    "description": "Udseende, sprog, netværk og privatliv. Alt er kun gemt i denne browser.",
+    "language": {
+      "count": "{{shipped}} af de {{total}} sprog, der er tilgængelige",
+      "current": "Det aktuelle sprog",
+      "description": "Vælg grænsefladesproget. Søg efter moders navn, engelsk navn eller kode.",
+      "fallback": "Teksten, der endnu ikke er oversat, vises på engelsk.",
+      "title": "Sprog"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Hvilket netværk skal udforskes, og hvor dataene kommer fra.",
+      "endpoint": "Endpunkt i live",
+      "live": "Livet",
+      "liveUnavailable": "Hvis et slutpunkt er konfigureret, kan du teste forbindelsen, men appen blander aldrig live og simulerede data.",
+      "mode": "Datakilde",
+      "noEndpoint": "Ingen (simulerede data)",
+      "selected": "Netværk",
+      "status": "Forbindelse",
+      "statusDemo": "Simuleret net · højde {{height}}",
+      "title": "Netværk",
+      "unavailable": "ikke tilgængelig",
+      "test": "Testforbindelse",
+      "testing": "Testen...",
+      "testHint": "Sender to GET-anmodninger til kun at læse til slutpunktet nedenfor og viser, hvad det svarer på.",
+      "testOk": "Jeg har kontaktet {{chain}}: sidste blok {{height}}, svaret på {{ms}} ms.",
+      "testPartial": "Jeg har kontaktet {{chain}}: sidste blok {{height}}, svaret på {{ms}} ms.",
+      "testError": {
+        "timeout": "Slutpunktet svarede ikke i tide.",
+        "network": "Endpunktet kunne ikke nås. Kontroller adressen og, at det tillader anmodninger fra dette websted.",
+        "http": "Endpunktet svarede med en fejl.",
+        "invalid": "Endpunktet svarede, men ikke i et Cosmos REST API-format, så intet blev brugt."
+      }
+    },
+    "privacy": {
+      "clearAll": "Fjern alle ChainBeat- data i denne browser",
+      "description": "Hvad denne app gemmer og hvad den kan se.",
+      "keysCaption": "Browseroplagring anvendt af ChainBeat",
+      "noNetwork": "ChainBeat sender ingen data nogen steder: det har ingen analyser og gør ingen anmodninger bortset fra sine egne filer. Der er to valgfrie undtagelser: knappen Test connection, som kun vises, når du konfigurerer et slutpunkt og sender to forespørgsler til det, og Google-login-knappen, som kun vises, når du tilføjer din egen Google-klient-ID og derefter lastes fra Google.",
+      "noSeed": "ChainBeat spørger aldrig efter, lagrer eller ser en fras, privat nøgle eller tegnebog adgangskode.",
+      "storage": "Preferencer, det valgte netværk, det simulerede ur, lommeboken Demo, de seneste søgninger og enhver demo-konto, du opretter, gemmes kun i denne browsers localStorage.",
+      "title": "Privatlivets fred",
+      "wallet": "Hvis du tilslutter en browsere-wallet udvidelse, læser ChainBeat kun din offentlige adresse og konto navn, og først efter du godkender det.",
+      "keys": {
+        "lang": "Udvalgt sprog",
+        "ui": "Tema, bevægelse, tæthed, layout og favoritter",
+        "chain": "Udvalgt netværk",
+        "sim": "Simuleret ur, hastighed og latens",
+        "wallet": "Demo tegnebog: fiktive salder, aktivitet, stemmer, forslag",
+        "notifications": "Hvilke meddelelser du har læst eller afvist, og de lokale begivenheder (plånbok, simulerede transaktioner)",
+        "search": "Nylige søgninger",
+        "auth": "Demo konti: brugernavne, e-mail-adresser, saltede adgangskode-hasher og den aktuelle login"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Demo Modus",
+    "chipTip": "Alle data er simuleret.",
+    "controls": "Demo kontrol",
+    "controlsIntro": "ChainBeat kører på deterministiske simulerede data.",
+    "clock": "Simuleret ur",
+    "simulatedNow": "Simuleret tid",
+    "offset": "{{value}} timer fremad",
+    "advanceHour": "1 time i forvejen",
+    "advanceDay": "1 dag i forvejen",
+    "resetClock": "Omstilling af uret",
+    "clockNote": "Når klokken avancerer, produceres der nye blokke, priser og begivenheder på {{chain}}.",
+    "network": "Netværksadfærd",
+    "latency": "Simuleret latency",
+    "latencyOff": "Af",
+    "simulateErrors": "Simulere netfejl",
+    "simulateErrorsHint": "Alle anmodninger mislykkes, så du kan inspicere fejltilstande.",
+    "wallet": "Demo tegnebog",
+    "resetWallet": "Reset demo tegnebog",
+    "walletReset": "Demo tegnebog genindsat til startbalancen.",
+    "noticeTitle": "Demo Modus.",
+    "noticeBody": "Denne arbejdsproces simuleres, intet signeres eller udsendes, og der er ingen reelle midler involveret.",
+    "behind": "{{value}} timer efter i realtid",
+    "speed": "Simuleringshastighed",
+    "speeds": {
+      "paused": "Pauser",
+      "slow": "Langsomt",
+      "normal": "Normalt"
+    }
+  },
+  "about": {
+    "title": "Om ChainBeat",
+    "demo": "ChainBeat kører i Demo Mode. Hver blok, pris, validator og forslag genereres deterministisk i din browser.",
+    "privacy": "Ingen API-nøgle, privatnøgle eller fraser er nødvendige. valgfrie demo-konti, præferencer og demo-mandskabet gemmes kun i din browser.",
+    "shortcuts": "Tastaturforskæringer",
+    "shortcutSearch": "Fokus søgning",
+    "shortcutClose": "Luk dialogs og menuer",
+    "languages": "Interfacesprog: {{shipped}} ud af {{total}}. Oversættelserne er maskinassisterede og er ikke blevet gennemgået af modersmålssprogere; professionel gennemgang anbefales før offentlig brug.",
+    "pageDescription": "Hvad ChainBeat er, hvordan det håndterer data, og dets tastaturmuligheder.",
+    "shortcutPalette": "Åben søgning (kommandopalette)"
+  }
+}

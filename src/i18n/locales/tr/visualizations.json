@@ -1,0 +1,58 @@
+{
+  "ibcPage": {
+    "description": "İşaretler IBC üzerinden zincirler arasında nasıl akıyor daha kalın bağlantılar 24 saatlik daha fazla volume anlamına gelir.",
+    "volume": "24 saat IBC hacmi",
+    "chains": "Bağlı zincirler",
+    "links": "Etkin kanallar",
+    "busiest": "En yoğun yol",
+    "mapLabel": "IBC zincir arasındaki bağlantı haritası",
+    "nodeLabel": "{{name}}: {{channels}} kanal boyunca 24 saatte {{volume}}",
+    "hint": "Bağlantılarını vurgulamak için bir zinciri kaldırın, odaklayın veya seçin. Pan'a sürükleyin; kaydırma tekerleği, + ve − tuşları veya büyütme düğmeleri ile Ctrl veya kullanın; sıfırdan sıfırlayın.",
+    "channelsOf": "{{name}} kanalları",
+    "topChannels": "Top kanallar hacmi",
+    "transfers_one": "{{count, number}} transfer",
+    "transfers_other": "{{count, number}} transfer",
+    "info": {
+      "volume": "Hacim (24 saat)",
+      "channels": "Kanallar",
+      "share": "IBC hacminin payı",
+      "partner": "En meşgul ortağım"
+    }
+  },
+  "multichainPage": {
+    "description": "Kozmos tarzındaki geniş ekosistem bir bakışta her bağlantılı zincir için simüle edilmiş rakamlar.",
+    "chains": "Zincirler",
+    "tvl": "Kilitlenmiş toplam değer",
+    "validators": "Doğrulayıcılar",
+    "tx24h": "İşlemler (24 saat)",
+    "height": "Blok yüksekliği",
+    "open": "Araç tablosunu aç",
+    "switched": "{{name}}'e geçiyor",
+    "registryOnly": "Demo için kayıtlı henüz seçilemez",
+    "tvlByChain": "Zincirlere göre TVL",
+    "tvlHint": "Simüle edilen total değer kilitlenmiş",
+    "explainTitle": "Metrikler ne anlama geliyor?",
+    "explainHint": "Bu sayfadaki rakamların basit dilde tanımları. Tüm değerler simüle edilir.",
+    "explain": {
+      "tvl": "Şebekenin simülasyonlu ekonomisinde satılan veya tutulan tokenlerin simülasyonlu fiyatlar karşılığında değeri. Gerçek \"toplam değer kilitlenmiş\" rakamları farklı tanımlar kullanır ve burada kullanılmaz.",
+      "height": "Zincir başladığından beri kaç blok üretti.",
+      "validators": "Blokları öneren ve imzalayan operatörler.",
+      "apr": "Tahmin edilen yıllık ödül, komisyon öncesi yüzde olarak.",
+      "bonded": "Toplam token tedarikinin payı risk altındadır. Daha yüksek bir pay, zinciri daha fazla tedarik sağlayacağı anlamına gelir.",
+      "tx24h": "Son 24 saatte tüm listelenen zincirlerde bloklarda yapılan işlemler."
+    }
+  },
+  "heartbeatPage": {
+    "description": "{{chain}}'in nabzı: her blok bir çarpma aralığı blok zamanını takip eder, yüksekliği işlem sayısını takip eder.",
+    "rate": "Blok oranı",
+    "perMinute": "bloklar/min",
+    "sinceLast": "Son bloktan beri",
+    "txLastMinute": "İşlemler (son dakika)",
+    "monitor": "Nabız monitörü",
+    "legend": "Dönüş yüksekliği = bloktaki işlemler",
+    "chartLabel": "Kalp atış izleri: Dakikada {{rate}} blok, bloklar arasında {{seconds}} saniye",
+    "stream": "Blok akışı",
+    "txCount_one": "{{count}} tx",
+    "txCount_other": "{{count}} txs"
+  }
+}

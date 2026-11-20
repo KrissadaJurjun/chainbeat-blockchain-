@@ -1,0 +1,31 @@
+{
+  "notifications": {
+    "label": "Arifa",
+    "title": "Arifa",
+    "unread": "Haijasomwa",
+    "unreadLabel_one": "{{count}} tangazo lisiloweza kusomwa",
+    "unreadLabel_other": "{{count}} taarifa zisizosomwa",
+    "markAllRead": "Ishara yote kama ilivyosomwa",
+    "empty": "Wewe wote ni gotten juu.",
+    "items": {
+      "proposalVoting": "Pendekezo #{{id}} ni katika kipindi chake cha kupiga kura takriban {{hours}} h kushoto.",
+      "proposalPassed": "Pendekezo #{{id}} lilipitishwa na litatumika.",
+      "validatorJailed": "{{name}} alifungwa gerezani kwa kukosa kazi.",
+      "upgradeScheduled": "Kuboresha mtandao {{version}} imepangwa katika siku {{days}}.",
+      "ibcVolume": "IBC kiasi cha uhamisho iliongezeka {{pct}}% katika saa 24 zilizopita.",
+      "newBlock": "Block {{height}} ilitengenezwa juu ya {{chain}} (simulated).",
+      "walletConnectedDemo": "Demo wallet kushikamana (kugeuza).",
+      "walletConnected": "{{name}} imeunganishwa, hakuna kitu kilichosainiwa.",
+      "walletDisconnected": "Wallet imejitenga na kikao cha kivinjari hiki.",
+      "txSuccess": "Usimamizi wa biashara uliothibitishwa: {{summary}}",
+      "txFailed": "Shughuli ya simulation ilishindwa kwa sababu simulation ya makosa imeanzishwa. Hakuna kilichobadilishwa.",
+      "proposalCreated": "Demo pendekezo #{{id}} {{title}} iliongezwa (simulated).",
+      "networkChanged": "Ilibadilishwa kuwa {{chain}}. Kuonyesha data simulated.",
+      "simPaused": "Simulation ni kusimamishwa. Simulated data si update mpaka wewe kuanza tena.",
+      "errorSimulation": "Hitilafu simulation ni juu, maombi ya data na uthibitisho mkoba kushindwa mpaka wewe kuizima."
+    },
+    "dismiss": "Tangazo la kukataa",
+    "clearAll": "Futa kila kitu",
+    "simulatedNote": "Vitu kutoka mtandao feed ni simulated. Hakuna hapa ni moja kwa moja blockchain tahadhari."
+  }
+}

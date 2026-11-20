@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Navigering i sidebar",
+    "primary": "Huvudnavigering",
+    "menu": "Navigationsmenyn",
+    "openMenu": "Öppna navigationsmenyn",
+    "closeMenu": "Stäng navigationsmenyn",
+    "collapseSidebar": "Kollaps sidebar",
+    "expandSidebar": "Utöka sidebar",
+    "skipToContent": "Hoppa över till huvudinnehåll",
+    "home": "ChainBeat hem",
+    "pages": "Sidor",
+    "dashboard": "Instrumentpanel",
+    "validators": "Validerare",
+    "proposals": "Förslag",
+    "blocks": "Block",
+    "transactions": "Transaktioner",
+    "portfolio": "Portfölj",
+    "swap": "Byt",
+    "stake": "Staka",
+    "liquidStaking": "Likvid staking",
+    "send": "Skicka",
+    "vote": "Rösta",
+    "createProposal": "Skapa förslag",
+    "market": "Marknad",
+    "network": "Nätverk",
+    "governance": "Styrning",
+    "ibcNetwork": "IBC-nätverk",
+    "devActivity": "Utvecklaraktivitet",
+    "multichain": "Multichain-översikt",
+    "heartbeat": "Hjärtslag",
+    "dominance": "Dominans",
+    "validatorsViz": "Validerare",
+    "blockExplorer": "Blockutforskare",
+    "transactionExplorer": "Transaktionsutforskare",
+    "tokenExplorer": "Tokenutforskare",
+    "about": "Om",
+    "explorerHome": "Utforskare",
+    "governanceHome": "Styrningskärm",
+    "settings": "Inställningar"
+  },
+  "sections": {
+    "explorer": "Utforskare",
+    "wallet": "Plånbok",
+    "analytics": "Analys",
+    "visualizations": "Visualiseringar"
+  },
+  "chains": {
+    "favorite": "Lägg till {{name}} till favoriter",
+    "unfavorite": "Ta bort {{name}} från favoriter",
+    "simulatedHealthy": "Simulerat nätverk · hälsosamt"
+  },
+  "search": {
+    "label": "Sök ChainBeat",
+    "placeholder": "Sökblock, TX, adress...",
+    "results": "Sökresultat",
+    "noResults": "Inga resultat för {{query}}",
+    "kinds": {
+      "page": "Sidan",
+      "block": "Block",
+      "transaction": "TX",
+      "validator": "Validerare",
+      "token": "Token",
+      "address": "Adress",
+      "proposal": "Förslag"
+    },
+    "recent": "Nyare sökningar",
+    "clearRecent": "Tydliga nyligen genomförda sökningar",
+    "removeRecent": "Ta bort {{query}} från senaste sökningar",
+    "hint": "Försök en blockhöjd, en transaktionshash, en adress ( {{prefix}} 1...), en validator, ett förslagnummer eller en symbol.",
+    "submit": "Sök",
+    "searching": "Jag letar efter...",
+    "resultCount": "Resultaten: {{count}}",
+    "invalid": {
+      "tooLong": "Det är för långt för att vara ett sökterm (200 tecken högst).",
+      "badChecksum": "Det här ser ut som en adress, men det stämmer inte.",
+      "badHash": "En transaktion eller block hash har exakt 64 hexadecimal tecken.",
+      "badChars": "Sök efter en blockhöjd, ett hash, en adress, en validator, ett förslag eller en token."
+    },
+    "categories": {
+      "page": "Sidor",
+      "block": "Block",
+      "transaction": "Transaktioner",
+      "address": "Adresser",
+      "validator": "Validerare",
+      "proposal": "Förslag",
+      "token": "Token"
+    }
+  },
+  "user": {
+    "menu": "Konto menyn",
+    "guest": "Gäst",
+    "notConnected": "Ingen plånbok ansluten",
+    "settings": "Inställningar",
+    "about": "Om ChainBeat"
+  }
+}

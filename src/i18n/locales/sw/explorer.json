@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Native, IBC, liquidity staking na mali ya nje inayojulikana kwenye {{chain}} (simulated).",
+    "stats": {
+      "total": "Tokeni zilizofuatwa"
+    },
+    "kinds": {
+      "native": "Wenyeji",
+      "ibc": "IBC",
+      "external": "Vipande vya nje",
+      "stable": "Stablecoin",
+      "liquid": "Kujifunga kwa Kioevu"
+    },
+    "col": {
+      "token": "Tokeni",
+      "type": "Aina",
+      "denom": "Denom",
+      "price": "Bei",
+      "change": "Saa 24",
+      "supply": "Usambazaji",
+      "holders": "Wamiliki",
+      "marketCap": "Thamani ya soko"
+    },
+    "filterPlaceholder": "Kichujio kwa alama, jina au jina",
+    "tableCaption": "Tokens juu ya {{chain}}"
+  },
+  "account": {
+    "title": "Akaunti",
+    "description": "Malipo na shughuli za hivi karibuni za akaunti kwenye {{chain}} (iliyosimuliwa).",
+    "available": "Inapatikana",
+    "balances": "Migawanyo",
+    "counterparty": "Msaada",
+    "direction": "Mwelekeo",
+    "in": "Katika",
+    "out": "Kutoka nje",
+    "history": "Historia ya shughuli",
+    "historyCaption": "shughuli za {{address}}",
+    "invalidTitle": "Si anwani halali",
+    "invalidBody": "Hii si halali {{chain}} Anwani. Anwani kwenye mtandao huu kuanza na {{prefix}} 1 na ujumuishe kiasi cha malipo.",
+    "noBalances": "Hakuna usawaziko.",
+    "noHistory": "Hakuna shughuli zilizopatikana",
+    "noHistoryBody": "Akaunti hii haina shughuli simulated katika vitalu {{blocks}} karibuni.",
+    "rewards": "Tuzo: {{value}}",
+    "staked": "Kuweka",
+    "totalValue": "Thamani ya jumla",
+    "txCount": "Miamala",
+    "unknown": "Hii ni anwani halali, lakini haina kuonekana katika simulation, hivyo haina usawa au historia.",
+    "window": "katika vyumba vipya {{blocks}}",
+    "demoWallet": "Hii ni mfuko wako Demo. Malipo yake na shughuli ni simulated na kuwepo tu katika browser hii."
+  },
+  "explorer": {
+    "description": "Tafuta {{chain}} na kuona nini kinachotokea kwenye mtandao (simulated) sasa hivi.",
+    "latestBlocks": "Vitalu vya karibuni",
+    "latestTransactions": "Miamala ya karibuni",
+    "searchTitle": "Tafuta mtafiti",
+    "shortcuts": "Sehemu za Explorer"
+  }
+}

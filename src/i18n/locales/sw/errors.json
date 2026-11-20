@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Hakuna kitu hapa bado",
+    "emptyBody": "Hakuna data ya kuonyesha kwa ajili ya mtazamo huu.",
+    "errorTitle": "Haikuweza kupakia data hii",
+    "errorBody": "Kitu kilienda vibaya wakati kusoma mtandao. Angalia uhusiano wako na jaribu tena.",
+    "crashTitle": "Kitu kilikwenda vibaya",
+    "crashBody": "Ukurasa huu ulipatwa na kosa lisilotazamiwa.",
+    "reload": "Reload ukurasa"
+  }
+}

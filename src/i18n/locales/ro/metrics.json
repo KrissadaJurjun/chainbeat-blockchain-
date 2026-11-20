@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Metrici on-chain",
+    "exportCsv": "Exportul în calitate de CSV",
+    "exported": "Metrice exportate sub formă de CSV.",
+    "openAnalytics": "Analiza rețelei deschise",
+    "last24h": "Ultimele 24 de ore",
+    "sparklineLabel": "Tendința în ultimele 24 de ore",
+    "change24h": "Schimbare de 24 de ore",
+    "blocks": "blocuri",
+    "exact": "Valoarea exactă",
+    "bondedRatio": "Raportul obligatoriu",
+    "poolShare": "Cota de aprovizionare",
+    "tokenPrice": "Prețul tokenului",
+    "inputInflation": "Inflație",
+    "inputTax": "Impozitul comunitar",
+    "inputBonded": "Raportul obligatoriu",
+    "csvMetric": "Metrică",
+    "csvValue": "Valoarea",
+    "csvUnit": "Unitate",
+    "csvChange24h": "Schimbare de 24 de ore",
+    "blockHeight": {
+      "label": "Înălțimea blocului",
+      "description": "Numărul de blocuri produse de la genesis, creşte cu fiecare bloc nou."
+    },
+    "totalTransactions": {
+      "label": "Tranzacții",
+      "description": "Totalul tranzacțiilor prelucrate de rețea de la naștere."
+    },
+    "txPerBlock": {
+      "label": "Tx pe bloc",
+      "description": "Numărul mediu de tranzacții incluse pe bloc, măsurat în ultimele 100 de blocuri."
+    },
+    "blockTime": {
+      "label": "Timp de bloc",
+      "description": "Timpul mediu între blocuri consecutive, măsurat în ultimele 100 de blocuri."
+    },
+    "inflation": {
+      "label": "Inflație",
+      "description": "Rata anuală la care se fac monede noi pentru a recompensa participanții și a finanța fondul comunitar."
+    },
+    "stakingApr": {
+      "label": "APR staking",
+      "description": "Rentabilitatea anuala estimata a token-urilor investite, inainte de comisionul validatorului.",
+      "formula": "APR = inflație × (1 − impozit comunitar) ÷ raportul obligatoriu"
+    },
+    "bondedTokens": {
+      "label": "Token-uri legate",
+      "description": "Token-urile sunt înregistrate cu validatori activi.",
+      "formula": "obligaționat = sumă totală de aprovizionare × raportul obligaționat"
+    },
+    "totalSupply": {
+      "label": "Ofertă totală",
+      "description": "Fiecare token existent, inclusiv cele care sunt în joc, creşte cu inflaţia."
+    },
+    "communityPool": {
+      "label": "Fondul comunității",
+      "description": "O parte din inflaţie intră, propunerile de succes o cheltuiesc.",
+      "formula": "Fondul creşte în funcţie de ofertă × inflaţie × impozitul comunitar"
+    },
+    "poolValue": {
+      "label": "Valoarea rezervelor",
+      "description": "Valoarea estimată în dolari americani a fondului comunitar la prețul simulat al token-ului.",
+      "formula": "valoarea = fond × prețul tokenului"
+    }
+  }
+}

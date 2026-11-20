@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "On-chain rādītāji",
+    "exportCsv": "Eksports kā CSV",
+    "exported": "Metriku eksportē kā CSV.",
+    "openAnalytics": "Atvērtā tīkla analīze",
+    "last24h": "Pēdējās 24 stundas",
+    "sparklineLabel": "Pēdējo 24 stundu tendence",
+    "change24h": "24 stundu mainība",
+    "blocks": "bloki",
+    "exact": "Precīzs vērtība",
+    "bondedRatio": "Saistības koeficients",
+    "poolShare": "Apdrošināšanas daļa",
+    "tokenPrice": "Tokenu cena",
+    "inputInflation": "Inflacija",
+    "inputTax": "Kopienas nodoklis",
+    "inputBonded": "Saistības koeficients",
+    "csvMetric": "Metriks",
+    "csvValue": "Valūta",
+    "csvUnit": "Vienība",
+    "csvChange24h": "24 stundu pārmaiņas",
+    "blockHeight": {
+      "label": "Bloka augstums",
+      "description": "Blokšu skaits, kas ražots kopš ģenēzes, pieaug par vienu ar katru jaunu bloku."
+    },
+    "totalTransactions": {
+      "label": "Darījumi",
+      "description": "Kopējais darījums, ko darījis tīkls kopš sākuma."
+    },
+    "txPerBlock": {
+      "label": "Darījumi uz bloku",
+      "description": "Vidējais darījumu skaits, kas ietverts par bloku, mērīts pēdējos 100 blokiem."
+    },
+    "blockTime": {
+      "label": "Bloka laiks",
+      "description": "Vidējais laiks starp sekāmām blokām, mērīts pēdējos 100 blokos."
+    },
+    "inflation": {
+      "label": "Inflacija",
+      "description": "Ikgadējā likme, ar kuru novieto jaunus tokenus, lai atalgotu akcionārus un finansētu kopīgo fondu."
+    },
+    "stakingApr": {
+      "label": "Staking APR",
+      "description": "Izskatāma gada peļņa no ieguldītajiem tokeniem pirms validatora komisijas.",
+      "formula": "APR = inflācija × (1 − Kopienas nodoklis) ÷ obligācijas koeficients"
+    },
+    "bondedTokens": {
+      "label": "Saistītie tokeni",
+      "description": "Tokeni, kas šobrīd ir veikti ar aktīviem validatoriem.",
+      "formula": "obligāti = kopējais piegāde × obligāti attiecība"
+    },
+    "totalSupply": {
+      "label": "Kopējais piedāvājums",
+      "description": "Katrs eksistents, ieskaitot tos, kas ir apdraudēti, pieaug ar inflāciju."
+    },
+    "communityPool": {
+      "label": "Kopienas fonds",
+      "description": "Tokeni, ko kontrolē ķēdes pārvaldība.",
+      "formula": "ar piedāvājumu × inflāciju × Kopienas nodokli"
+    },
+    "poolValue": {
+      "label": "Zemes vērtība",
+      "description": "Komunitātes rezerves novērtēta vērtība ASV dolāros simulētā token cenas vērtībā.",
+      "formula": "vērtība = pulks × token cena"
+    }
+  }
+}

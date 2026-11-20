@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "A {{chain}}-es számú validátorhoz küldjük a jelvényeket, hogy simulált jutalmat szerezzünk.",
+    "validator": "Validátor",
+    "pickValidator": "Válassza ki a validátort",
+    "estimate": "A becsült megtérülések",
+    "netApr": "A nettó APR (komiszió után)",
+    "yearly": "Évi juttatások",
+    "monthly": "Hónaponkénti jutalmak",
+    "unbonding": "A kötelezettségei megszüntetésének ideje",
+    "commission": "Validaciós bizottság",
+    "notice": "Egy valós hálózaton a visszavonott tét a {{days}}-napos feloldási időszakra zárva van. Itt minden simulálva és azonnal történik.",
+    "yourStake": "A te téted a {{chain}}-en",
+    "unstake": "Staking visszavonása",
+    "unstakeTitle": "A {{validator}}-es felvonás",
+    "unstakeDescription": "Egy igazi hálózaton a csontjaid a {{days}} napos feloldási időszak után nyílnak ki.",
+    "confirmUnstake": "Szállás (simuláció)",
+    "done": "Szállított (simulált)",
+    "doneBody": "A Demo-es pénztárcában küldöttek, és egy igazi kötésmentes időszak {{days}} nap lenne.",
+    "unstaked": "Számítatlan (simulált)",
+    "unstakedBody": "Azonnal visszajöttem a demo pénztárcába. {{days}} Napok.",
+    "errors": {
+      "validator": "Válassza ki egy validátort.",
+      "moreThanStaked": "Többet nem lehet kiállítani, mint amit kiállítottál."
+    },
+    "review": "A felülvizsgálati tétel",
+    "confirmDescription": "Ellenőrizze a küldöttséget. A megerősítés csak a Demo pénztárcát változtatja meg ebben a böngészőben.",
+    "aprDisclaimer": "A mutatott APR az aktuális infláció, a közösségi adó és a kötvények arányán alapuló becslés, amely nem garantált megtérülést jelent, és idővel változik.",
+    "rewardsHistory": "A jutalmazás története",
+    "noRewardsHistory": "Még nincs jutalom.",
+    "rewardsClaimed": "Kölcsönkérés {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Képzelj egy jelzőt, és kapj egy folyékony jelzőt, ami továbbra is jutalmat keres, miközben kereskedhető.",
+    "mode": "irány",
+    "stake": "Staking",
+    "unstake": "Staking visszavonása",
+    "asset": "Az eszközök",
+    "youStake": "A tét ({{symbol}})",
+    "youRedeem": "Megváltja ({{symbol}})",
+    "youReceive": "Ön megkapja ({{symbol}})",
+    "exchangeRate": "Árfolyam",
+    "apr": "A becsült APR",
+    "protocolFee": "A juttatásokról szóló jegyzőkönyvdíj",
+    "notice": "A folyékony fogadási jelvényeket és az árakat szimuláljuk.",
+    "done": "Az átváltás teljes (simulált)",
+    "doneBody": "A Demo-es pénztárcád mérlegét frissítették.",
+    "review": "A felülvizsgálati átalakítás",
+    "confirmDescription": "Ellenőrizze a konverziót. A megerősítés csak megváltoztatja a Demo pénztárcát ebben a böngészőben.",
+    "risksTitle": "Felfogható kockázatok",
+    "risks": {
+      "smartContract": "Okos szerződések kockázata: a folyadék-takarítási protokollok szoftverek, és a szoftver hibákat tartalmazhat.",
+      "depeg": "De-peg kockázata: a likvid jelvény az általa képviselt jelvények értékénél alacsonyabb értékben kereskedhet.",
+      "validator": "A hitelesítő kockázata: ha a protokoll mögött lévő hitelesítőket levágják, minden tulajdonos osztozik a veszteségben.",
+      "unbonding": "A kijárati késedelmeskedés: a protokollon keresztül történő visszaváltás olyan hosszú ideig tarthat, mint a hálózati felszerelési időszak."
+    },
+    "rateExplain": "Az árfolyam az, hogy hány betételt jelöl egy folyékony jelölés. Ez növekszik, ahogy a betét jutalmak felhalmozódnak, így egy folyékony jelölés lassan többet ér, mint egy betételt jelölés.",
+    "noProtocol": "A ChainBeat nem integrálódik semmilyen valódi folyadék-tömegelő protokollhoz. Ez a oldal egy oktatási szimuláció."
+  }
+}

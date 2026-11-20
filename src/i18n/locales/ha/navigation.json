@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Kewayawa a cikin labarun gefe",
+    "primary": "Babban kewayawa",
+    "menu": "Menu na kewayawa",
+    "openMenu": "Buɗe menu na kewayawa",
+    "closeMenu": "Rufe menu na kewayawa",
+    "collapseSidebar": "Rashin sassauci",
+    "expandSidebar": "Ƙara sashin gefe",
+    "skipToContent": "Skip zuwa babban abun ciki",
+    "home": "Gida na ChainBeat",
+    "pages": "Shafuka",
+    "dashboard": "Dashboard",
+    "validators": "Masu tabbatarwa",
+    "proposals": "Shawarwari",
+    "blocks": "Tubalan",
+    "transactions": "Mu'amaloli",
+    "portfolio": "Fayil na saka jari",
+    "swap": "Musaya",
+    "stake": "Stake",
+    "liquidStaking": "Staking mai ruwa",
+    "send": "Aika",
+    "vote": "Kada kuri'a",
+    "createProposal": "Ƙirƙiri shawara",
+    "market": "Kasuwa",
+    "network": "Hanyar sadarwa",
+    "governance": "Mulki",
+    "ibcNetwork": "Hanyar sadarwa ta IBC",
+    "devActivity": "Ayyukan masu haɓakawa",
+    "multichain": "Bayani kan sarƙoƙi da yawa",
+    "heartbeat": "Bugun zuciya",
+    "dominance": "Rinjaye",
+    "validatorsViz": "Masu tabbatarwa",
+    "blockExplorer": "Mai binciken block",
+    "transactionExplorer": "Mai binciken mu'amala",
+    "tokenExplorer": "Mai binciken token",
+    "about": "Game da",
+    "explorerHome": "Mai bincike",
+    "governanceHome": "Cibiyar gudanarwa",
+    "settings": "Saituna"
+  },
+  "sections": {
+    "explorer": "Mai bincike",
+    "wallet": "Walat",
+    "analytics": "Nazari",
+    "visualizations": "Hotunan bayanai"
+  },
+  "chains": {
+    "favorite": "Ƙara {{name}} zuwa favorites",
+    "unfavorite": "Ka cire {{name}} daga cikin abubuwan da aka fi so",
+    "simulatedHealthy": "Ƙararrawa na cibiyar sadarwa · lafiya"
+  },
+  "search": {
+    "label": "Bincike na ChainBeat",
+    "placeholder": "Gidan bincike, TX, adireshin...",
+    "results": "Sakamakon bincike",
+    "noResults": "Babu sakamako ga {{query}}",
+    "kinds": {
+      "page": "Shafi",
+      "block": "Block",
+      "transaction": "Ƙarƙashin Ƙarƙashin Ƙarƙashin Ƙarƙ",
+      "validator": "Mai tabbatarwa",
+      "token": "Token",
+      "address": "Adireshi",
+      "proposal": "Shawara"
+    },
+    "recent": "Binciken da aka yi kwanan nan",
+    "clearRecent": "Binciken da aka yi kwanan nan",
+    "removeRecent": "Ka cire {{query}} daga binciken da aka yi kwanan nan",
+    "hint": "Gwada wani block tsawo, wani ma'amala hash, wani address ( {{prefix}} 1 ...), mai tabbatarwa, lambar ƙira ko alamar alama.",
+    "submit": "Bincika",
+    "searching": "Ina neman...",
+    "resultCount": "Sakamakon: {{count}}",
+    "invalid": {
+      "tooLong": "Wannan lokaci ne mai tsawo don ya zama kalmar bincike (mafi yawan haruffa 200).",
+      "badChecksum": "Wannan yana kama da adireshin, amma adadin da aka duba bai dace ba. Duba shi don kuskuren rubutu.",
+      "badHash": "A ma'amala ko block hash yana daidai 64 hexadecimal haruffa.",
+      "badChars": "Bincika tsayin block, hash, adireshi, mai tabbatarwa, tayin ko alama."
+    },
+    "categories": {
+      "page": "Shafuka",
+      "block": "Tubalan",
+      "transaction": "Mu'amaloli",
+      "address": "Adireshin",
+      "validator": "Masu tabbatarwa",
+      "proposal": "Shawarwari",
+      "token": "Alamomi"
+    }
+  },
+  "user": {
+    "menu": "Menu na asusun",
+    "guest": "Baƙi",
+    "notConnected": "Babu walat da aka haɗa",
+    "settings": "Saituna",
+    "about": "Game da ChainBeat"
+  }
+}

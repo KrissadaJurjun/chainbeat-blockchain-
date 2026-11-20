@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Kupunguza mwendo",
+    "reduceMotionHint": "Punguza uhuishaji na mabadiliko.",
+    "appearance": {
+      "compact": "Mpango wa compact",
+      "compactHint": "Inavuta eneo maudhui kidogo ndogo.",
+      "description": "Mandhari, harakati na wiani.",
+      "title": "Kuonekana"
+    },
+    "confirm": {
+      "action": "Thibitisha",
+      "title": "Je, una uhakika?",
+      "dataset": "Hii resets simulated saa, kasi yake, latency na makosa kulazimishwa kwa default yao.",
+      "wallet": "Hii kurejesha fedha ya awali ya Demo mkoba na kuondoa shughuli zake simulated, kura na mapendekezo.",
+      "all": "Hii huondoa kila chaguo ChainBeat kuhifadhiwa katika browser hii (lugha, mandhari, mtandao, Demo mkoba, utafutaji wa hivi karibuni) na kupakia upya ukurasa."
+    },
+    "data": {
+      "datasetReset": "Demo seti ya data kuweka upya kwa muda halisi.",
+      "description": "Jinsi mpya data ni na jinsi ya kuweka upya simulation.",
+      "refresh": "Sasisha data ya moja kwa moja",
+      "refreshHint": "Ni mara ngapi orodha na counters kusoma tena (simulated) mtandao.",
+      "refreshOptions": {
+        "live": "Kuishi",
+        "slow": "Polepole",
+        "manual": "Mwongozo"
+      },
+      "resetDataset": "Reset demo seti ya data",
+      "searchesCleared": "Utafutaji wa hivi karibuni umeondolewa.",
+      "speedHint": "Acha kufanya kazi kwa muda fulani au polepole.",
+      "title": "Takwimu"
+    },
+    "description": "Kuonekana, lugha, mtandao na faragha. Kila kitu ni kuhifadhiwa tu katika browser hii.",
+    "language": {
+      "count": "{{shipped}} kati ya lugha {{total}} zinazopatikana",
+      "current": "Lugha ya sasa",
+      "description": "Chagua lugha ya interface. Tafuta kwa jina la asili, jina la Kiingereza au nambari.",
+      "fallback": "Maandishi ambayo hayajatafsiriwa yanaonyeshwa katika Kiingereza.",
+      "title": "Lugha"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Ni mtandao gani wa kuchunguza na wapi data zinatoka.",
+      "endpoint": "Kituo cha mwisho cha moja kwa moja",
+      "live": "Kuishi",
+      "liveUnavailable": "Live data haipatikani katika kujenga hii: kila ukurasa inaonyesha simulated data. Kama mwisho uhakika ni configured unaweza mtihani uhusiano, lakini programu kamwe kuchanganya live na simulated data.",
+      "mode": "Chanzo cha data",
+      "noEndpoint": "Hakuna (data simulated)",
+      "selected": "Mtandao",
+      "status": "Uunganisho",
+      "statusDemo": "Simulated mtandao · urefu {{height}}",
+      "title": "Mtandao",
+      "unavailable": "Haipatikani",
+      "test": "Uunganisho wa mtihani",
+      "testing": "Kujaribu...",
+      "testHint": "Kutuma mbili read-only GET maombi kwa alama ya mwisho hapa chini na inaonyesha nini majibu yake.",
+      "testOk": "Kuunganishwa na {{chain}}: mwisho block {{height}}, alijibu katika {{ms}} ms.",
+      "testPartial": "Kuunganishwa na {{chain}}: mwisho block {{height}}, alijibu katika {{ms}} ms. Baadhi ya maelezo ya hiari hawakuwa inapatikana.",
+      "testError": {
+        "timeout": "Hatua ya mwisho haikujibu kwa wakati unaofaa.",
+        "network": "Hatua ya mwisho haikuweza kupatikana. Angalia anwani na kwamba inaruhusu maombi kutoka tovuti hii.",
+        "http": "Hatua ya mwisho ilijibu kwa kosa.",
+        "invalid": "Endpoint akajibu, lakini si katika umbizo la Cosmos REST API, hivyo hakuna kitu ilitumiwa."
+      }
+    },
+    "privacy": {
+      "clearAll": "Ondoa data zote ChainBeat katika browser hii",
+      "description": "Nini hii programu kuhifadhi na nini inaweza kuona.",
+      "keysCaption": "Hifadhi browser kutumika na ChainBeat",
+      "noNetwork": "ChainBeat hatumii data popote: haina uchambuzi na haitoi maombi isipokuwa kwa faili zake mwenyewe. Kuna tofauti mbili za lazima: kitufe cha Test connection, ambacho kinaonekana tu wakati unapoweka alama ya mwisho na kutuma maombi mawili ya kusoma tu kwa hiyo, na kitufe cha kuingia kwa Google, ambacho kinaonekana tu baada ya kuongeza kitambulisho chako cha mteja wa Google na kisha huja kutoka kwa Google.",
+      "noSeed": "ChainBeat kamwe kuuliza kwa, kuhifadhi au kuona maneno mbegu, ufunguo binafsi au mkoba password.",
+      "storage": "Mapendeleo, mtandao waliochaguliwa, simulated saa, Demo mkoba, utafutaji wa hivi karibuni na akaunti yoyote ya maonyesho wewe kujenga ni kuhifadhiwa katika localStorage browser hii tu.",
+      "title": "Faragha",
+      "wallet": "Ukiunganisha kiendelezi cha mkoba wa kivinjari, ChainBeat inasoma tu anwani yako ya umma na jina la akaunti, na tu baada ya kuidhinisha. Hakuna saini au kutumwa.",
+      "keys": {
+        "lang": "Lugha iliyochaguliwa",
+        "ui": "Mandhari, harakati, wiani, mpangilio na favorites",
+        "chain": "Mtandao uliochaguliwa",
+        "sim": "Simulated saa, kasi na latency",
+        "wallet": "Demo mfuko wa fedha: pesa za uwongo, shughuli, kura, mapendekezo",
+        "notifications": "Ambayo taarifa umesoma au kukataliwa, na matukio ya ndani (mkoba, simulated shughuli)",
+        "search": "Utafutaji wa hivi karibuni",
+        "auth": "Akaunti Demo: majina ya mtumiaji, anwani za barua pepe, hashes za nywila zilizotiwa chumvi na kuingia kwa sasa"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Demo Njia",
+    "chipTip": "All data ni simulated. kufungua udhibiti demo.",
+    "controls": "Demo udhibiti",
+    "controlsIntro": "ChainBeat inaendesha juu ya data ya kimantiki simulated. Hakuna chochote hapa ni kusoma kutoka, au kutumwa kwa, blockchain halisi.",
+    "clock": "Saa simulated",
+    "simulatedNow": "Simulated wakati",
+    "offset": "{{value}} saa mbele",
+    "advanceHour": "Saa moja mapema",
+    "advanceDay": "Siku moja mapema",
+    "resetClock": "Kuanzisha upya saa",
+    "clockNote": "Kuendelea kwa saa huzalisha vitalu vipya, bei na matukio kwenye {{chain}}. Takwimu kwa wakati wowote ni daima sawa.",
+    "network": "Mwenendo wa Mtandao",
+    "latency": "Simulated latency",
+    "latencyOff": "Ondoka",
+    "simulateErrors": "Simula makosa ya mtandao",
+    "simulateErrorsHint": "Kila ombi kushindwa hivyo unaweza kuangalia hali ya makosa.",
+    "wallet": "Demo mkoba",
+    "resetWallet": "Reset demo mkoba",
+    "walletReset": "Demo wallet kuweka upya kwa kiasi yake ya kuanzia.",
+    "noticeTitle": "Njia ya Demo.",
+    "noticeBody": "Mtiririko huu wa kazi ni simulated. Hakuna saini au matangazo na hakuna fedha halisi zinazohusika.",
+    "behind": "{{value}} saa nyuma ya wakati halisi",
+    "speed": "kasi ya simulation",
+    "speeds": {
+      "paused": "Kupumzika",
+      "slow": "Polepole",
+      "normal": "Kawaida"
+    }
+  },
+  "about": {
+    "title": "Kuhusu ChainBeat",
+    "demo": "ChainBeat ni kuendesha katika hali Demo. kila block, bei, uthibitishaji na pendekezo ni kuzalishwa deterministically katika browser yako.",
+    "privacy": "Hakuna API ufunguo, ufunguo binafsi au maneno mbegu inahitajika. akaunti ya optional demo, upendeleo na demo mkoba ni kuhifadhiwa tu katika browser yako.",
+    "shortcuts": "Njia za mkato za kibodi",
+    "shortcutSearch": "Kutafuta kwa lengo",
+    "shortcutClose": "Funga mazungumzo na menyu",
+    "languages": "Lugha za kiolesura: {{shipped}} ya {{total}}. Tafsiri ni misaada ya mashine na haijachunguzwa na wasemaji wa asili; ukaguzi wa kitaalamu unapendekezwa kabla ya matumizi ya umma.",
+    "pageDescription": "ChainBeat ni nini, jinsi inavyoshughulikia data, na njia za mkato za kibodi.",
+    "shortcutPalette": "Utafutaji wazi (mapangilio ya amri)"
+  }
+}

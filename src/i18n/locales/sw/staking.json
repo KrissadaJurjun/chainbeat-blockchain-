@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delete tokens kwa validator juu ya {{chain}} kwa kupata tuzo simulated.",
+    "validator": "Mthibitishaji",
+    "pickValidator": "Chagua uthibitishaji",
+    "estimate": "Malipo yaliyokadiriwa",
+    "netApr": "APR safi (baada ya tume)",
+    "yearly": "Tuzo kwa mwaka",
+    "monthly": "Tuzo za kila mwezi",
+    "unbonding": "Kipindi cha kutoweka",
+    "commission": "Tume ya uthibitishaji",
+    "notice": "Kwenye mtandao halisi, pigo lililochukuliwa limefungwa kwa kipindi cha siku {{days}} cha kutounganisha. Hapa kila kitu kinaonyeshwa na kufanywa papo hapo.",
+    "yourStake": "Bahati yako juu ya {{chain}}",
+    "unstake": "Ondoa stake",
+    "unstakeTitle": "Kutengwa kutoka {{validator}}",
+    "unstakeDescription": "Kwenye mtandao halisi tokens yako kufunguliwa baada ya siku {{days}} unbonding kipindi.",
+    "confirmUnstake": "Kukomesha (kugeuza)",
+    "done": "Kuweka (kugeuza)",
+    "doneBody": "Ujumbe katika mfuko wa pesa Demo kipindi halisi cha kutounganisha kitakuwa siku {{days}}.",
+    "unstaked": "Unstaked (simulated)",
+    "unstakedBody": "Kurudi kwenye mkoba Demo papo hapo. Mtandao halisi utachukua siku {{days}}.",
+    "errors": {
+      "validator": "Chagua mthibitishaji.",
+      "moreThanStaked": "Huwezi kuondoa zaidi kuliko ulivyoweka."
+    },
+    "review": "Msimamo wa marekebisho",
+    "confirmDescription": "Angalia ujumbe. uthibitisho tu kubadilisha Demo mkoba katika browser hii.",
+    "aprDisclaimer": "APR iliyoonyeshwa ni makadirio kulingana na inflation ya sasa, kodi ya jamii na uwiano bonded.",
+    "rewardsHistory": "Historia ya tuzo",
+    "noRewardsHistory": "Bado hakuna tuzo zilizodaiwa.",
+    "rewardsClaimed": "Iliyotakiwa {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Weka ishara na kupokea ishara ya fedha ya fedha ambayo huendelea kupata thawabu wakati bado biashara.",
+    "mode": "Mwelekeo",
+    "stake": "Staking",
+    "unstake": "Ondoa stake",
+    "asset": "Mali",
+    "youStake": "Wewe bet ({{symbol}})",
+    "youRedeem": "Wewe fidia ({{symbol}})",
+    "youReceive": "Unapokea ({{symbol}})",
+    "exchangeRate": "Kiwango cha ubadilishaji",
+    "apr": "APR iliyokadiriwa",
+    "protocolFee": "Malipo ya kifedha ya malipo",
+    "notice": "Tokeni za kuweka fedha na viwango vyao ni simulated. Hakuna ni minted juu ya mnyororo.",
+    "done": "Kubadilisha kamili (kugeuzwa)",
+    "doneBody": "Malipo yako Demo wallet walikuwa updated.",
+    "review": "Marekebisho ya marekebisho",
+    "confirmDescription": "Angalia uongofu. uthibitisho tu mabadiliko Demo mkoba katika browser hii.",
+    "risksTitle": "Hatari za kuelewa",
+    "risks": {
+      "smartContract": "Hatari ya mikataba smart: mikataba liquid-staking ni programu, na programu inaweza kuwa bugs.",
+      "depeg": "Hatari ya De-peg: ishara ya chuma inaweza biashara chini ya thamani ya ishara hiyo inawakilisha.",
+      "validator": "Hatari ya uthibitishaji: ikiwa uthibitishaji nyuma ya itifaki hupunguzwa, kila mmiliki hushiriki hasara.",
+      "unbonding": "Kuchelewesha kutoka: kukomboa kupitia itifaki inaweza kuchukua muda mrefu kama muda wa kufuta mtandao."
+    },
+    "rateExplain": "Kiwango cha kubadilishana ni kiasi gani cha tokeni zilizowekwa na ishara moja ya kioevu inasimama. Inaongezeka kama malipo ya kuweka huongezeka, kwa hivyo ishara moja ya kioevu polepole inakuwa yenye thamani zaidi ya ishara moja iliyowekwa.",
+    "noProtocol": "ChainBeat haina kujumuisha na yoyote halisi kioevu stacking itifaki. Ukurasa huu ni elimu simulation."
+  }
+}

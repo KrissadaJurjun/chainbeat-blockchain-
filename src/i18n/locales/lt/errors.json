@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Nieko čia dar nėra",
+    "emptyBody": "Nėra duomenų apie šį vaizdą.",
+    "errorTitle": "Negaliu įkrauti šių duomenų",
+    "errorBody": "Kažkas nukrito skaitydamas tinklą, patikrinkite savo ryšį ir pabandykite dar kartą.",
+    "crashTitle": "Kažkas nutiko blogai",
+    "crashBody": "Ši puslapis susidūrė su netikėtą klaidą.",
+    "reload": "Perkrauti puslapį"
+  }
+}

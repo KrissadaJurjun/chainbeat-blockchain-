@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Deleguj żetony do walidacji na numer {{chain}} w celu uzyskania symulowanych nagród.",
+    "validator": "Walidator",
+    "pickValidator": "Wybierz weryfikator",
+    "estimate": "Szacunkowe zwroty",
+    "netApr": "RAP netto (po otrzymaniu prowizji)",
+    "yearly": "Nagrody roczne",
+    "monthly": "Nagrody miesięczne",
+    "unbonding": "Okres odłączenia zobowiązań",
+    "commission": "Komisja weryfikująca",
+    "notice": "Na prawdziwej sieci, wycofany staw jest zamknięty na {{days}} dni. Tutaj wszystko jest symulowane i natychmiastowe.",
+    "yourStake": "Twoja stawka na {{chain}}",
+    "unstake": "Cofnij staking",
+    "unstakeTitle": "Rozstaw z {{validator}}",
+    "unstakeDescription": "Na prawdziwej sieci Twoje tokeny odblokowałyby się po {{days}} dniach.",
+    "confirmUnstake": "Wykrycie (symulowane)",
+    "done": "Wykonane (symulowane)",
+    "doneBody": "/Delegowany w portfelu demo. {{days}} Przez kilka dni.",
+    "unstaked": "Niezawodne (symulowane)",
+    "unstakedBody": "Wracając do portfela Demo natychmiast, prawdziwa sieć zajęłaby {{days}} dni.",
+    "errors": {
+      "validator": "Wybierz weryfikatora.",
+      "moreThanStaked": "Nie możesz odbić więcej niż postawiłeś."
+    },
+    "review": "Wzór przeglądowy",
+    "confirmDescription": "Sprawdź delegację, potwierdzenie zmienia tylko portfel Demo w tej przeglądarce.",
+    "aprDisclaimer": "Wyświetlony APR jest szacunkiem opartym na bieżącej inflacji, opodatkowaniu wspólnotowym i współczynniku obligacji.",
+    "rewardsHistory": "Historia nagród",
+    "noRewardsHistory": "Jeszcze nie zgłoszono nagród.",
+    "rewardsClaimed": "Wniosek {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Postaw token i otrzymaj płynny token stawkowy, który utrzymuje zarabianie nagród, a jednocześnie pozostaje przedmiotem obrotu.",
+    "mode": "Kierownictwo",
+    "stake": "Staking",
+    "unstake": "Cofnij staking",
+    "asset": "Aktywa",
+    "youStake": "Ty stawiasz ({{symbol}})",
+    "youRedeem": "Odkupiłeś ({{symbol}})",
+    "youReceive": "Otrzymasz ({{symbol}})",
+    "exchangeRate": "Kurs wymiany",
+    "apr": "Szacunkowy APR",
+    "protocolFee": "Opłata protokołowa na nagrody",
+    "notice": "Tokeny stawki płynne i ich stawki są symulowane.",
+    "done": "Konwersja zakończona (simulowana)",
+    "doneBody": "Twoje saldy portfela Demo zostały zaktualizowane.",
+    "review": "Przegląd przekształcenia",
+    "confirmDescription": "Sprawdź konwersję. Potwierdzenie zmienia tylko portfel Demo w tej przeglądarce.",
+    "risksTitle": "Ryzyko zrozumienia",
+    "risks": {
+      "smartContract": "Ryzyko związane z inteligentnymi kontraktami: protokoły składowania płynów są oprogramowaniem, a oprogramowanie może zawierać błędy.",
+      "depeg": "Ryzyko de-peg: płynny token może handlować poniżej wartości tokenów, które reprezentuje.",
+      "validator": "Ryzyko zwalczania: jeżeli zwalczacze stojące za protokołem zostaną usunięte, każdy posiadacz uczestniczy w stratie.",
+      "unbonding": "Opóźnienie wyjścia: odzyskanie przez protokół może potrwać tak długo, jak okres rozłączenia sieci."
+    },
+    "rateExplain": "Kurs wymiany to ilość tokenów stawianych na stawkę przez jeden token płynny. Wzrasta wraz z nagrodami stawianych, więc jeden token płynny powoli staje się warta więcej niż jeden token stawiany.",
+    "noProtocol": "ChainBeat nie integruje się z żadnym prawdziwym protokołem składowania płynów."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "{{height}}-es blokk",
+    "invalid": "Nem érvényes blokkmag",
+    "description": "A {{chain}}-es simulált blokk részletei.",
+    "previous": "Előző blokk",
+    "next": "A következő blokk",
+    "notFoundTitle": "A blokk nem talált",
+    "notFoundBody": "A {{chain}}-nek még nincs blokka ebben a magasságban.",
+    "transactions_one": "{{count}} tranzakció",
+    "transactions_other": "{{count}} tranzakció",
+    "txCaption": "A {{height}}-es blokkban folytatott ügyletek",
+    "noTxs": "Ez a blokk nem tartalmaz tranzakciókat",
+    "genesis": "A Genesis blokk",
+    "parentHash": "A szülői hajsz",
+    "demoTxs": "Demo pénztárca-tranzakciók ebben a szintben",
+    "demoTxsNote": "Ezeket a Demo-es pénztárca hozta létre, nem a szimulált blokk saját tranzakciós számának része."
+  },
+  "blocksPage": {
+    "description": "A legújabb blokkok a {{chain}}-en.",
+    "live": "Életben",
+    "avgGas": "A felhasznált AVg. gáz",
+    "tableCaption": "Az utolsó blokkok a {{chain}}-es útvonalon",
+    "proposer": "A javaslattevő",
+    "txs": "Txs",
+    "gas": "Felhasznált gas",
+    "size": "A méret",
+    "emptyTitle": "Nem találtak blokkokat",
+    "filterPlaceholder": "Magasság szerinti szűrő, hash vagy hitelesítő",
+    "filtersLabel": "Blokkoló szűrők",
+    "finality": "Végleges",
+    "finalityNote": "Az ilyen típusú hálózatok blokkolásai véglegesek, amint elkövetkeznek.",
+    "finalized": "Véglegesített",
+    "withTxsOnly": "Csak tranzakciókkal rendelkező blokkok"
+  }
+}

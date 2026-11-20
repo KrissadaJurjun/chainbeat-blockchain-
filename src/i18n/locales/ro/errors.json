@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Nimic aici încă",
+    "emptyBody": "Nu există date care să demonstreze această viziune.",
+    "errorTitle": "Nu am putut încărca aceste date",
+    "errorBody": "Ceva a mers prost în timp ce citesc reţeaua, verifică conexiunea şi încearcă din nou.",
+    "crashTitle": "S-a întâmplat ceva",
+    "crashBody": "Această pagină a intrat într-o eroare neașteptată.",
+    "reload": "Pagina de încărcare"
+  }
+}

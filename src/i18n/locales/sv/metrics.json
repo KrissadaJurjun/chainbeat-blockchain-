@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "On-chain-mått",
+    "exportCsv": "Export som CSV",
+    "exported": "Metriker som exporteras som CSV.",
+    "openAnalytics": "Öppet nätverksanalys",
+    "last24h": "De senaste 24 timmarna",
+    "sparklineLabel": "Trend under de senaste 24 timmarna",
+    "change24h": "24 timmars förändring",
+    "blocks": "Blokar",
+    "exact": "Exakt värde",
+    "bondedRatio": "Obligerat förhållande",
+    "poolShare": "Andel av försörjningen",
+    "tokenPrice": "Tokens pris",
+    "inputInflation": "Inflation",
+    "inputTax": "Gemenskapsskatt",
+    "inputBonded": "Obligerat förhållande",
+    "csvMetric": "Metrik",
+    "csvValue": "Värde",
+    "csvUnit": "Enheten",
+    "csvChange24h": "24 timmars byte",
+    "blockHeight": {
+      "label": "Blockhöjd",
+      "description": "Antalet block som produceras sedan uppkomsten ökar med ett med varje ny block."
+    },
+    "totalTransactions": {
+      "label": "Transaktioner",
+      "description": "Totalt antal transaktioner som har behandlats av nätverket sedan uppkomsten."
+    },
+    "txPerBlock": {
+      "label": "Tx per block",
+      "description": "Gemensamt antal transaktioner som ingår per block, mätt över de senaste 100 blockarna."
+    },
+    "blockTime": {
+      "label": "Blocktid",
+      "description": "Genomsnittlig tid mellan varandra följande block, mätt över de senaste 100 blockarna."
+    },
+    "inflation": {
+      "label": "Inflation",
+      "description": "Den årliga satsning vid vilken nya tokens myntas för att belöna intressenter och finansiera den gemensamma poolen."
+    },
+    "stakingApr": {
+      "label": "Staking-APR",
+      "description": "Uppskattad årlig avkastning på satsade tokens före validatorkommission.",
+      "formula": "APR = inflation × (1 − gemenskapskatt) ÷ obligationsförhållandet"
+    },
+    "bondedTokens": {
+      "label": "Bundna tokens",
+      "description": "Token som för närvarande är satsa med aktiva validatorer.",
+      "formula": "Obligerat = totalförsörjning × obligerat förhållande"
+    },
+    "totalSupply": {
+      "label": "Totalt utbud",
+      "description": "Alla existerande symboler, inklusive de som satsas, växer med inflationen."
+    },
+    "communityPool": {
+      "label": "Gemenskapspool",
+      "description": "En del av inflationen flödar in, framgångsrika förslag spenderar den.",
+      "formula": "Pool växer efter utbud × inflation × gemenskapskatt"
+    },
+    "poolValue": {
+      "label": "Poolvärde",
+      "description": "Gemenskapspoolens uppskattade värde i amerikanska dollar till simulerad tokenkurs.",
+      "formula": "värde = pool × tokenkurs"
+    }
+  }
+}

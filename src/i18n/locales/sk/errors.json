@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Ešte nič tu nie je",
+    "emptyBody": "Neexistujú žiadne údaje na tento pohľad.",
+    "errorTitle": "Nemohol si načítať tieto údaje",
+    "errorBody": "Niečo sa pokazilo pri čítaní siete, skontrolujte spojenie a skúste znova.",
+    "crashTitle": "Niečo sa pokazilo",
+    "crashBody": "Táto stránka narazila na neočakávanú chybu.",
+    "reload": "Stránka prelodať"
+  }
+}

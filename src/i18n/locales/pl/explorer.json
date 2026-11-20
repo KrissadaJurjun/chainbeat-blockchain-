@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Władze krajowe, IBC, aktywa płynne i aktywa zewnętrzne znane na numer {{chain}} (simulowane).",
+    "stats": {
+      "total": "Tokeny śledzone"
+    },
+    "kinds": {
+      "native": "Rodzina",
+      "ibc": "IBC",
+      "external": "Zewnętrzne",
+      "stable": "Stablecoin",
+      "liquid": "Staking płynny"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Typ",
+      "denom": "Wydział",
+      "price": "Cena",
+      "change": "24h",
+      "supply": "Podaż",
+      "holders": "Właściciele",
+      "marketCap": "Kapitalizacja rynkowa"
+    },
+    "filterPlaceholder": "Filtracja według symbolu, nazwy lub nazwy",
+    "tableCaption": "Tokeny na {{chain}}"
+  },
+  "account": {
+    "title": "Konta",
+    "description": "Saldy i ostatnia aktywność rachunku na poziomie {{chain}} (simulowane).",
+    "available": "Dostępne",
+    "balances": "Równowagi",
+    "counterparty": "Strona kontrahentów",
+    "direction": "Kierownictwo",
+    "in": "W",
+    "out": "Wyjdź",
+    "history": "Historia transakcji",
+    "historyCaption": "Transakcje w wysokości {{address}}",
+    "invalidTitle": "Nie ma ważnego adresu",
+    "invalidBody": "To nie jest ważne. {{chain}} adres. adresy w tej sieci zaczynają się od {{prefix}} 1 i włączyć sumę czekową.",
+    "noBalances": "Bez równowagi.",
+    "noHistory": "Nie znaleziono transakcji",
+    "noHistoryBody": "Ten konto nie ma symulowanej aktywności w najnowszych {{blocks}} blokach.",
+    "rewards": "Nagrody: {{value}}",
+    "staked": "Wykręty",
+    "totalValue": "Całkowita wartość",
+    "txCount": "Transakcje",
+    "unknown": "Jest to ważny adres, ale nie pojawia się w symulacji, więc nie ma równowagi ani historii.",
+    "window": "w najnowszych {{blocks}} blokach",
+    "demoWallet": "To jest twój portfel Demo, jego saldo i transakcje są symulowane i istnieją tylko w tej przeglądarce."
+  },
+  "explorer": {
+    "description": "Poszukaj {{chain}} i zobacz, co dzieje się w (simulowanej) sieci.",
+    "latestBlocks": "Najnowsze bloki",
+    "latestTransactions": "Najnowsze transakcje",
+    "searchTitle": "Szukaj badacza",
+    "shortcuts": "Sekcje Explorer"
+  }
+}

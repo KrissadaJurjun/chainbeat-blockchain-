@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delegate tokens to a validator on {{chain}} to earn simulated rewards.",
+    "validator": "Validator",
+    "pickValidator": "Choose a validator",
+    "estimate": "Estimated returns",
+    "netApr": "Net APR (after commission)",
+    "yearly": "Rewards per year",
+    "monthly": "Rewards per month",
+    "unbonding": "Unbonding period",
+    "commission": "Validator commission",
+    "notice": "On a real network, withdrawn stake is locked for the {{days}}-day unbonding period. Here everything is simulated and instant.",
+    "yourStake": "Your stake on {{chain}}",
+    "unstake": "Unstake",
+    "unstakeTitle": "Unstake from {{validator}}",
+    "unstakeDescription": "On a real network your tokens would unlock after the {{days}}-day unbonding period.",
+    "confirmUnstake": "Unstake (simulated)",
+    "done": "Staked (simulated)",
+    "doneBody": "Delegated in the Demo wallet. A real unbonding period would be {{days}} days.",
+    "unstaked": "Unstaked (simulated)",
+    "unstakedBody": "Returned to the Demo wallet instantly. A real network would take {{days}} days.",
+    "errors": {
+      "validator": "Choose a validator.",
+      "moreThanStaked": "You can't unstake more than you have staked."
+    },
+    "review": "Review stake",
+    "confirmDescription": "Check the delegation. Confirming only changes the Demo wallet in this browser.",
+    "aprDisclaimer": "The APR shown is an estimate based on the current inflation, community tax and bonded ratio. It is not a guaranteed return and it changes over time.",
+    "rewardsHistory": "Rewards history",
+    "noRewardsHistory": "No rewards claimed yet.",
+    "rewardsClaimed": "Claimed {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Stake a token and receive a liquid staking token that keeps earning rewards while staying tradable.",
+    "mode": "Direction",
+    "stake": "Stake",
+    "unstake": "Unstake",
+    "asset": "Asset",
+    "youStake": "You stake ({{symbol}})",
+    "youRedeem": "You redeem ({{symbol}})",
+    "youReceive": "You receive ({{symbol}})",
+    "exchangeRate": "Exchange rate",
+    "apr": "Estimated APR",
+    "protocolFee": "Protocol fee on rewards",
+    "notice": "Liquid staking tokens and their rates are simulated. Nothing is minted on-chain.",
+    "done": "Conversion complete (simulated)",
+    "doneBody": "Your Demo wallet balances were updated.",
+    "review": "Review conversion",
+    "confirmDescription": "Check the conversion. Confirming only changes the Demo wallet in this browser.",
+    "risksTitle": "Risks to understand",
+    "risks": {
+      "smartContract": "Smart-contract risk: liquid-staking protocols are software, and software can have bugs.",
+      "depeg": "De-peg risk: the liquid token can trade below the value of the tokens it represents.",
+      "validator": "Validator risk: if the validators behind the protocol are slashed, every holder shares the loss.",
+      "unbonding": "Exit delay: redeeming through the protocol can take as long as the network's unbonding period."
+    },
+    "rateExplain": "The exchange rate is how many staked tokens one liquid token stands for. It grows as staking rewards accrue, so one liquid token slowly becomes worth more than one staked token.",
+    "noProtocol": "ChainBeat does not integrate with any real liquid-staking protocol. This page is an educational simulation."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Zincir üstü metrikler",
+    "exportCsv": "CSV olarak ihracat",
+    "exported": "CSV olarak ihraç edilen metrikler.",
+    "openAnalytics": "Açık ağ analitiği",
+    "last24h": "Son 24 saat",
+    "sparklineLabel": "Son 24 saatlik eğilim",
+    "change24h": "24 saatlik değişim",
+    "blocks": "bloklar",
+    "exact": "Tam değeri",
+    "bondedRatio": "Bağlantı oranı",
+    "poolShare": "Tedarik payı",
+    "tokenPrice": "Token fiyatı",
+    "inputInflation": "Inflasyon",
+    "inputTax": "Topluluk vergisi",
+    "inputBonded": "Bağlantı oranı",
+    "csvMetric": "Metrik",
+    "csvValue": "Değer",
+    "csvUnit": "Birim",
+    "csvChange24h": "24 saatlik değişim",
+    "blockHeight": {
+      "label": "Blok yüksekliği",
+      "description": "Başlangıçtan beri üretilen blokların sayısı her yeni blokla bir artar."
+    },
+    "totalTransactions": {
+      "label": "İşlemler",
+      "description": "Gelişmeden bu yana ağ tarafından işlenen toplam işlemler."
+    },
+    "txPerBlock": {
+      "label": "Blok başına işlem",
+      "description": "Son 100 blok üzerinde ölçülen blok başına dahil edilen işlemlerin ortalama sayısı."
+    },
+    "blockTime": {
+      "label": "Blok süresi",
+      "description": "Son 100 blok üzerinde ölçülen ardıcıl bloklar arasındaki ortalama zaman."
+    },
+    "inflation": {
+      "label": "Inflasyon",
+      "description": "Yıllık oran, yatırımcıları ödüllendirmek ve topluluk havuzunu finanse etmek için yeni jetonlar hazırlanır."
+    },
+    "stakingApr": {
+      "label": "Staking APR",
+      "description": "Değerlendirilmiş tokenlerin tahmini yıllık geri dönüşü, onaylayıcı komisyonundan önce.",
+      "formula": "APR = enflasyon × (1 − topluluk vergisi) ÷ obligasyon oranı"
+    },
+    "bondedTokens": {
+      "label": "Bağlı tokenlar",
+      "description": "Şu anda aktif doğrulayıcılarla bahsedilen tokenler.",
+      "formula": "Bağlanmış = toplam tedarik × bağlanmış oran"
+    },
+    "totalSupply": {
+      "label": "Toplam arz",
+      "description": "Var olan her simge, bahse girenler de dahil olmak üzere, enflasyonla birlikte büyüyor."
+    },
+    "communityPool": {
+      "label": "Topluluk havuzu",
+      "description": "Zincir yönetimi tarafından kontrol edilen tokenlar.",
+      "formula": "Havuz, tedarik × enflasyon × topluluk vergisi ile büyüyor"
+    },
+    "poolValue": {
+      "label": "Havuz Değeri",
+      "description": "Topluluk havuzunun simüle edilen simülasyon simülasyonu karşılığında tahmin edilen ABD doları değerinde.",
+      "formula": "değer = havuz × simge fiyatı"
+    }
+  }
+}

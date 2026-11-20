@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Acțiuni native, IBC, de depozitare a lichidității și active externe cunoscute pe {{chain}} (simulat).",
+    "stats": {
+      "total": "Tokene urmărite"
+    },
+    "kinds": {
+      "native": "Native",
+      "ibc": "IBC",
+      "external": "Externe",
+      "stable": "Stablecoin",
+      "liquid": "Staking în lichid"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Tip",
+      "denom": "Denom",
+      "price": "Preț",
+      "change": "24 de ore",
+      "supply": "Ofertă",
+      "holders": "Deținători",
+      "marketCap": "Capitalizare de piață"
+    },
+    "filterPlaceholder": "Filtruare prin simbol, nume sau denominație",
+    "tableCaption": "Tokeni pe {{chain}}"
+  },
+  "account": {
+    "title": "Contul",
+    "description": "Salduri și activitatea recentă a contului pe {{chain}} (simulat).",
+    "available": "Disponibil",
+    "balances": "Balanțe",
+    "counterparty": "Contraparte",
+    "direction": "Direcție",
+    "in": "În",
+    "out": "În afara",
+    "history": "Istoricul tranzacțiilor",
+    "historyCaption": "Tranzacții de {{address}}",
+    "invalidTitle": "Nu este o adresă valabilă",
+    "invalidBody": "Acest lucru nu este valabil {{chain}} Adresa. Adresele de pe această rețea încep cu {{prefix}} 1 și include o sumă de verificare.",
+    "noBalances": "Fără echilibruri.",
+    "noHistory": "Nu s-au găsit tranzacții",
+    "noHistoryBody": "Acest cont nu are nicio activitate simulată în cele mai recente {{blocks}} blocuri.",
+    "rewards": "Premii: {{value}}",
+    "staked": "Împuşcat",
+    "totalValue": "Valoarea totală",
+    "txCount": "Tranzacții",
+    "unknown": "Aceasta este o adresă valabilă, dar nu apare în simulare, deci nu are echilibr sau istoric.",
+    "window": "în cele mai noi {{blocks}} de blocuri",
+    "demoWallet": "Aceasta este portofelul dvs. Demo, soldurile şi tranzacţiile sale sunt simulate şi există doar în acest browser."
+  },
+  "explorer": {
+    "description": "Căutați {{chain}} și vedeți ce se întâmplă pe rețeaua (simulată) chiar acum.",
+    "latestBlocks": "Cele mai noi blocuri",
+    "latestTransactions": "Cele mai noi tranzacții",
+    "searchTitle": "Căutaţi-l pe explorator",
+    "shortcuts": "Secțiuni de explorare"
+  }
+}

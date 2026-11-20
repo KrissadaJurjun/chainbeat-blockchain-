@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Deleģēt žetonus validatoru {{chain}}. numurā, lai iegūtu simulētu atlīdzību.",
+    "validator": "Validators",
+    "pickValidator": "Izvēlējiet validatoru",
+    "estimate": "Atbilstoši ienākumi",
+    "netApr": "Neto APR ( pēc komisijas)",
+    "yearly": "Atbalsts gadā",
+    "monthly": "Atbalsts mēnesī",
+    "unbonding": "Atbalsta periods",
+    "commission": "Validācijas komisija",
+    "notice": "Reālajā tīklā atņemta akcija ir slēgta {{days}} dienu laikā, un šeit viss ir simulēts un instinktīvs.",
+    "yourStake": "Tavs ieguldījums {{chain}}",
+    "unstake": "Atcelt stakingu",
+    "unstakeTitle": "Atpūsšana no {{validator}}",
+    "unstakeDescription": "Reālajā tīklā jūsu tokeni atkluotu pēc {{days}}. dienu atslēgšanas perioda.",
+    "confirmUnstake": "Izņemšana (simulācija)",
+    "done": "Saldēta (simulēta)",
+    "doneBody": "Demokrātiskās naudas portfelī. {{days}} dienas.",
+    "unstaked": "Neatkarīgi no riska (simulēta)",
+    "unstakedBody": "Reāls tīkls aizvedās uz demo naudas plāksni. {{days}} dienas.",
+    "errors": {
+      "validator": "Izvēli validatoru.",
+      "moreThanStaked": "Jūs nevarat atpūsties vairāk, nekā esat apspēlēts."
+    },
+    "review": "Pārbaudēšanas statuss",
+    "confirmDescription": "Pārbaudi delegāciju, apstiprinājums tikai mainās Demo. portfelī šajā pārlūkojumā.",
+    "aprDisclaimer": "APR ir novērtējums, kas balstīts uz pašreizējo inflāciju, Kopienas nodokli un obligāciju koeficientu; tas nav garantēts ienākums un tas laika gaitā mainās.",
+    "rewardsHistory": "Atbalsta vēsture",
+    "noRewardsHistory": "Vēl nav saņemts atlīdzības.",
+    "rewardsClaimed": "Pretendents {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Pieliksim token un saņemsim likvides pielikšanas token, kas saglabā peļņu, kamēr saglabāsies pārdotu.",
+    "mode": "Norāde",
+    "stake": "Stakings",
+    "unstake": "Atcelt stakingu",
+    "asset": "Aktivizācija",
+    "youStake": "Jūs nododat ({{symbol}})",
+    "youRedeem": "Jūs atmaksāt ({{symbol}})",
+    "youReceive": "Jūs saņemat ({{symbol}})",
+    "exchangeRate": "Maiņas kurss",
+    "apr": "Apslēptā APR",
+    "protocolFee": "Protokola nodeva par atlīdzību",
+    "notice": "Liquid staking tokeni un to tarifi ir simulēti.",
+    "done": "Pārveidošana pabeigta (simulēta)",
+    "doneBody": "Jūsu Demo. portfelī ir atjaunināti.",
+    "review": "Pārskata pārveidošana",
+    "confirmDescription": "Pārbaudi pārvēršanu. apstiprinājums tikai mainās Demo. portfelis šajā pārlūkojumā.",
+    "risksTitle": "Reizis, ko var saprast",
+    "risks": {
+      "smartContract": "Smart-contracts risks: šķidruma uzkrāšanas protokols ir programmatūra, un programmatūrā var būt kļūdas.",
+      "depeg": "De-peg risks: likvids tokens var tikt apmainīts mazāk par to pārstāvēto tokenu vērtību.",
+      "validator": "Validatoru risks: ja protokola aizlietojumi tiek samazināti, tad katrs turētājs līdzina zaudējumu.",
+      "unbonding": "Izstādes aizkavēšana: atmaksāšana ar protokolu var veikt tik ilgi kā tīkla atņemšanas periods."
+    },
+    "rateExplain": "Valūtas kurss ir tas, cik daudz ieguldīto tokenus nozīmē viens likvids tokens. Tas aug, ja uzkrājas ieguldījuma ieguvumi, tāpēc viens likvids tokens pakāpeniski kļūst vērtīgāks par vienu ieguldīto token.",
+    "noProtocol": "ChainBeat nav integrēts ar jebkuru reālu šķidruma uzglabāšanas protokolu."
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Vähendada liikumist",
+    "reduceMotionHint": "Minimeerige animatsioonid ja üleminekud.",
+    "appearance": {
+      "compact": "Kompaktne paigaldus",
+      "compactHint": "Piirab sisupiirkonna veidi väiksemaks.",
+      "description": "Tema, liikumine ja tihedus.",
+      "title": "Nähtus"
+    },
+    "confirm": {
+      "action": "Kinnita",
+      "title": "Kas sa oled kindel? - Jah.",
+      "dataset": "See paneb simuleeritud kella, selle kiiruse, hilinemise ja sunnitud vigu tagasi nende seadmetele.",
+      "wallet": "See taastab Demo rahakoti algsaldo ning eemaldab selle simuleeritud tegevus, hääled ja ettepanekud.",
+      "all": "See eemaldab selle brauseri salvestatud kõik ChainBeati seaded (keel, teema, võrk, Demo rahakott, hiljutised otsingud) ja laadib lehekülge uuesti."
+    },
+    "data": {
+      "datasetReset": "Demo andmebaasi real-time'i seadmine.",
+      "description": "Kui värsked andmed on ja kuidas simulatsiooni uuesti seadida.",
+      "refresh": "Täiendage elusandmeid",
+      "refreshHint": "Kui tihti nimekirjad ja tellimused (simuleeritud) võrgustiku uuesti loevad.",
+      "refreshOptions": {
+        "live": "Elavad",
+        "slow": "Väga aeglaselt",
+        "manual": "Käsikirja"
+      },
+      "resetDataset": "Deemo andmekogumite uuesti seadmine",
+      "searchesCleared": "Hiljutised otsingud on läbi viidud.",
+      "speedHint": "Pane simuleeritud kella pausi või aeglusta.",
+      "title": "Andmed"
+    },
+    "description": "Nähtus, keel, võrk ja privaatsus. Kõik salvestatakse ainult selles brauseris.",
+    "language": {
+      "count": "{{shipped}} {{total}} keelest, mis on kättesaadavad",
+      "current": "Praegune keel",
+      "description": "Vali kasutajaliidese keel, otsige oma nime, inglise nime või koodi järgi.",
+      "fallback": "Tekst, mis ei ole veel tõlkinud, on näidatud inglise keeles.",
+      "title": "Keel"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Millist võrgustiku uurida ja kust andmed tulevad.",
+      "endpoint": "Elukestv lõpppunkt",
+      "live": "Elavad",
+      "liveUnavailable": "Iga leheküljel on simulatsioonilised andmed. Kui lõpppunkt on konfigureeritud, saate ühendust testida, kuid rakendus ei segata kunagi live- ja simulatsiooniandmeid.",
+      "mode": "Andmeallikas",
+      "noEndpoint": "Ükski (simuleeritud andmed)",
+      "selected": "Võrk",
+      "status": "Seos",
+      "statusDemo": "Simuleeritud võrk · kõrgus {{height}}",
+      "title": "Võrk",
+      "unavailable": "ei ole saadaval",
+      "test": "Katseühendus",
+      "testing": "Testimine...",
+      "testHint": "Küsib allapool olevale lõpppunktile kaks ainult loetavat GET-nõuet ja näitab, mida see vastab.",
+      "testOk": "Sisse ühendatud {{chain}}: viimane blokk {{height}}, vastatud {{ms}} ms.",
+      "testPartial": "ühendatud {{chain}}: viimane blokk {{height}}, vastatud {{ms}} ms. Mõned valikulised andmed ei olnud kättesaadavad.",
+      "testError": {
+        "timeout": "Lõpppunkt ei vastanud õigeaegselt.",
+        "network": "Lõpppunkti ei saa jõuda. Kontrollige aadressi ja seda, et see võimaldab taotlusi sellest veebisaidist.",
+        "http": "Lõpppunkt vastas eksimusega.",
+        "invalid": "Lõpppunkt vastas, kuid mitte Cosmos REST API vormis, seega ei kasutatud midagi."
+      }
+    },
+    "privacy": {
+      "clearAll": "Puhastage kõik ChainBeati andmed selles brauseris",
+      "description": "Mida see rakendus ladustab ja mida see näeb.",
+      "keysCaption": "ChainBeati kasutav brauseri salvestus",
+      "noNetwork": "ChainBeat ei saada andmeid kuhugi: tal pole analüüsi ja ta ei esita taotlusi, välja arvatud oma failid. On kaks valikulist erandit: Test connection nuppu, mis ilmub ainult siis, kui sa konfigureerid lõpppunkti ja saadad talle kaks ainult lugemise taotlust, ja Google'i sisselogimis nuppu, mis ilmub ainult pärast oma Google'i kliendi ID lisamist ja seejärel Google'ist laaditakse.",
+      "noSeed": "ChainBeat ei küsi, ladesta ega näe kunagi seemnevoolu, privaatset võtmet või rahakirja salasõna.",
+      "storage": "eelistused, valitud võrgustik, simulatsioonikella, Demo rahakott, hiljutised otsingud ja kõik loodud demo kontod salvestatakse ainult selle brauseri localStorage'is.",
+      "title": "Privaatsus",
+      "wallet": "Kui ühendate brauseri rahakotti pikend, loeb ChainBeat ainult teie avalikku aadressi ja konto nime ja ainult pärast teie heakskiitmist. Mitte midagi ei ole allkirjastatud ega saadetud.",
+      "keys": {
+        "lang": "Valitud keel",
+        "ui": "Tema, liikumine, tihedus, paigutus ja lemmikud",
+        "chain": "Valitud võrk",
+        "sim": "Simuleeritud kella, kiiruse ja hilinemise aeg",
+        "wallet": "Demo rahakott: fiktiivsed tasakaalused, tegevus, hääled, ettepanekud",
+        "notifications": "Milliseid teateid olete lugenud või tagasi lükanud ning kohalikud sündmused (pälikonna, simulatsiooni tehingud)",
+        "search": "Hiljutised otsingud",
+        "auth": "Demo konto: kasutajanimed, e-posti aadressid, soolatud salasõna hashid ja praegune sisselogimine"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Demo Režiim",
+    "chipTip": "Kõik andmed on simuleeritud.",
+    "controls": "Demo kontrollid",
+    "controlsIntro": "ChainBeat töötab deterministliku simulatsiooniga.",
+    "clock": "Simuleeritud kella",
+    "simulatedNow": "Simuleeritud aeg",
+    "offset": "{{value}} tundi ees",
+    "advanceHour": "1 tunni eelmine",
+    "advanceDay": "1 päeva varasemaks",
+    "resetClock": "Kella uuesti seadmine",
+    "clockNote": "Kella edasi liikumine toob kaasa uusi bloke, hindu ja sündmusi {{chain}} kohta.",
+    "network": "Võrgustiku käitumine",
+    "latency": "Simuleeritud hilinemine",
+    "latencyOff": "Lase käia",
+    "simulateErrors": "Simuleerige võrgustiku vigu",
+    "simulateErrorsHint": "Iga taotlus ebaõnnestub, nii et saate kontrollida vigade staatusi.",
+    "wallet": "Demo rahakoti",
+    "resetWallet": "Deemo portfelli ümberseadmine",
+    "walletReset": "Demo rahakott taastatakse algse tasakaalule.",
+    "noticeTitle": "Demo Režiim.",
+    "noticeBody": "See töövoog on simulatsiooniline, mitte midagi ei allkirjastata ega edastata ning tegelikult ei ole tegemist rahaliste vahenditega.",
+    "behind": "{{value}} tundi eemale reaalajas",
+    "speed": "Simulatsiooni kiirus",
+    "speeds": {
+      "paused": "Pauseeritud",
+      "slow": "Väga aeglaselt",
+      "normal": "Tavaline"
+    }
+  },
+  "about": {
+    "title": "ChainBeati kohta",
+    "demo": "ChainBeat töötab Demo moodis. Iga bloki, hind, validator ja ettepanek on genereeritud deterministiliselt teie brauseris. Need ei ole praegused majinneti statistikad.",
+    "privacy": "Ei ole vaja API-lühi, privaatlühi ega seemne fraasi. valikulised demo kontod, eelistused ja demo rahakoti salvestatakse ainult teie brauseris.",
+    "shortcuts": "Klaviatuuride lühendad",
+    "shortcutSearch": "Keskendumine otsimine",
+    "shortcutClose": "Sulge dialoogid ja menüüd",
+    "languages": "Interface keeled: {{shipped}} {{total}}.Ühendused on masinatööstusega ja neid ei ole vaadanud esialgsed kõnelejad; enne avalikku kasutamist soovitatakse professionaalset läbivaatamist.",
+    "pageDescription": "Mis ChainBeat on, kuidas see andmetega tegeleb ja tema klaviatuuride lühendid.",
+    "shortcutPalette": "Avatud otsing (komandpakett)"
+  }
+}

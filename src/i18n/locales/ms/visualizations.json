@@ -1,0 +1,56 @@
+{
+  "ibcPage": {
+    "description": "Bagaimana token mengalir di antara rantaian di IBC. Tautan yang lebih tebal bermakna lebih banyak jumlah 24 jam.",
+    "volume": "24h IBC volume",
+    "chains": "Rantai yang disambungkan",
+    "links": "Saluran aktif",
+    "busiest": "Laluan paling sibuk",
+    "mapLabel": "Peta IBC sambungan antara rantaian",
+    "nodeLabel": "{{name}}: {{volume}} dalam 24 jam di {{channels}} saluran",
+    "hint": "Hover, fokus atau pilih rantaian untuk menyoroti sambungannya. Seret ke pan; gunakan Ctrl atau dengan roda gulung, butang + dan −, atau butang untuk memperbesar; tekan 0 untuk menetapkan semula.",
+    "channelsOf": "Saluran {{name}}",
+    "topChannels": "Saluran teratas mengikut jumlah",
+    "transfers_other": "{{count, number}} pemindahan",
+    "info": {
+      "volume": "Jadual (24 jam)",
+      "channels": "Saluran",
+      "share": "Perbahagian dalam jumlah IBC",
+      "partner": "Rakan tersibuk"
+    }
+  },
+  "multichainPage": {
+    "description": "Ekosistem gaya Cosmos yang lebih luas dalam sekelip mata simulasi angka untuk setiap rantaian yang disambungkan.",
+    "chains": "Rantai",
+    "tvl": "Nilai keseluruhan yang dikunci",
+    "validators": "Pengesah",
+    "tx24h": "Transaksi (24 jam)",
+    "height": "Ketinggian blok",
+    "open": "Buka papan pemandu",
+    "switched": "Bertukar ke {{name}}",
+    "registryOnly": "Daftar untuk demo belum boleh dipilih",
+    "tvlByChain": "TVL mengikut rantaian",
+    "tvlHint": "Nilai keseluruhan terkunci yang disimulasikan",
+    "explainTitle": "Apa yang dimaksudkan dengan metrik",
+    "explainHint": "Pengertian angka dalam bahasa mudah di halaman ini. Semua nilai disimulasikan.",
+    "explain": {
+      "tvl": "Nilai token yang dipertaruhkan atau disimpan dalam ekonomi simulasi rangkaian, pada harga simulasi. Angka \"total nilai terkunci\" sebenar menggunakan definisi yang berbeza dan tidak digunakan di sini.",
+      "height": "Berapa banyak blok yang dihasilkan rantaian sejak ia bermula. Ia tumbuh dengan satu dengan setiap blok.",
+      "validators": "Operator yang mencadangkan dan menandatangani blok. Bilangan adalah saiz set aktif.",
+      "apr": "Hadiah tahunan yang dianggarkan untuk taruhan, sebagai peratusan sebelum komisen. Ia bergerak dengan inflasi dan dengan bahagian token yang dipertaruhkan.",
+      "bonded": "Bahagian daripada jumlah bekalan token yang dipertaruhkan. Bahagian yang lebih tinggi bermakna lebih banyak bekalan yang mengamankan rantaian.",
+      "tx24h": "Transaksi yang termasuk dalam blok dalam 24 jam terakhir di semua rantaian yang disenaraikan."
+    }
+  },
+  "heartbeatPage": {
+    "description": "denyutan {{chain}}: setiap blok adalah pukulan jarak mengikut masa blok, ketinggian mengikut jumlah transaksi.",
+    "rate": "Kadar blok",
+    "perMinute": "blok/minit",
+    "sinceLast": "Sejak blok terakhir",
+    "txLastMinute": "Transaksi (menit terakhir)",
+    "monitor": "Monitor denyut nadi",
+    "legend": "Ketinggian pukulan = transaksi dalam blok",
+    "chartLabel": "Rangkaian denyutan jantung: {{rate}} blok dalam satu minit, {{seconds}} saat antara blok",
+    "stream": "Aliran blok",
+    "txCount_other": "{{count}} txs"
+  }
+}

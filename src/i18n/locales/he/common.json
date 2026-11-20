@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "דמו",
+    "simulated": "מדומה",
+    "close": "סגירה",
+    "retry": "נסו שוב",
+    "refresh": "רענון",
+    "copy": "העתקה",
+    "copied": "הועתק",
+    "clear": "ניקוי",
+    "loading": "טוען…",
+    "options": "אפשרויות",
+    "previous": "הקודם",
+    "next": "הבא",
+    "pagination": "דף",
+    "pageN": "דף {{n}}",
+    "dismiss": "התעלמות",
+    "cancel": "ביטול",
+    "viewAll": "הצג הכול",
+    "max": "מקס׳",
+    "amount": "סכום",
+    "balance": "יתרה",
+    "fee": "עמלה",
+    "status": "סטטוס",
+    "time": "זמן",
+    "height": "גובה",
+    "hash": "האש",
+    "type": "סוג",
+    "all": "הכול",
+    "showing": "מראה {{from}} {{to}} של {{total}}",
+    "noResults": "שום תוצאות לא מתאימות לפילטרים שלך.",
+    "rowsPerPage": "שורות לדף",
+    "actions": "פעולות",
+    "exportCsv": "ה-CSV לשוק",
+    "details": "פרטים",
+    "clearFilters": "פילטרים ברורים",
+    "collapseAll": "התמוטטות הכל",
+    "copyJson": "עותק JSON",
+    "expandAll": "להרחיב את הכל",
+    "showMore": "הראה {{count}} עוד"
+  },
+  "language": {
+    "label": "שפה",
+    "search": "שפות החיפוש"
+  },
+  "theme": {
+    "label": "ערכת נושא",
+    "system": "מערכת",
+    "dark": "כהה",
+    "light": "בהירה"
+  },
+  "footer": {
+    "tagline": "לחקור בלוקים, לעקוב אחר עסקאות, להבין את ה-Web3.",
+    "demo": "Demo מצב כל המספרים משקפים ולא הם סטטיסטיקה ברשת אמיתית.",
+    "share": "לחלוק",
+    "linkCopied": "קישור עותק על לוח הקליפ.",
+    "docs": "תיעוד",
+    "links": "קישורים בעמודי רגל",
+    "modeDemo": "Demo רשת",
+    "repository": "מאגר",
+    "version": "v{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "הדף לא נמצא",
+    "body": "הדף שאתה מחפש לא קיים או עבר.",
+    "home": "חזרה ללוח הבקרה"
+  },
+  "gate": {
+    "title": "חיבר את הארנק Demo כדי להמשיך",
+    "body": "זרימת העבודה הזאת פועלת על ארנק מזוינת. לחבר את הארנק Demo כדי לנסות אותו.",
+    "realTitle": "ארנק אמיתי מחובר",
+    "realBody": "{{address}} מחובר, אבל מצב ChainBeat Demo אף פעם לא חותם או משדר עסקאות. לעבור לארנק Demo כדי לנסות את זרימת העבודה זו.",
+    "useDemo": "השתמש בארנק Demo"
+  }
+}

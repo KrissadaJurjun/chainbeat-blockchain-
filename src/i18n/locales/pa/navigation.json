@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "ਸਾਈਡਬਾਰ ਨੇਵੀਗੇਸ਼ਨ",
+    "primary": "ਮੁੱਖ ਨੇਵੀਗੇਸ਼ਨ",
+    "menu": "ਨੈਵੀਗੇਸ਼ਨ ਮੀਨੂ",
+    "openMenu": "ਨੈਵੀਗੇਸ਼ਨ ਮੇਨੂ ਖੋਲ੍ਹੋ",
+    "closeMenu": "ਨੈਵੀਗੇਸ਼ਨ ਮੀਨੂ ਬੰਦ ਕਰੋ",
+    "collapseSidebar": "Collapse ਸਾਈਡਬਾਰ",
+    "expandSidebar": "ਸਾਈਡਬਾਰ ਵਧਾਓ",
+    "skipToContent": "ਮੁੱਖ ਸਮੱਗਰੀ ' ਤੇ ਜਾਓ",
+    "home": "ChainBeat ਘਰ",
+    "pages": "ਸਫ਼ੇ",
+    "dashboard": "ਡੈਸ਼ਬੋਰਡ",
+    "validators": "ਵੈਲੀਡੇਟਰ",
+    "proposals": "ਪ੍ਰਸਤਾਵ",
+    "blocks": "ਬਲਾਕ",
+    "transactions": "ਲੈਣ-ਦੇਣ",
+    "portfolio": "ਪੋਰਟਫੋਲੀਓ",
+    "swap": "ਸਵੈਪ",
+    "stake": "ਸਟੇਕ",
+    "liquidStaking": "ਲਿਕਵਿਡ ਸਟੇਕਿੰਗ",
+    "send": "ਭੇਜੋ",
+    "vote": "ਵੋਟ ਕਰੋ",
+    "createProposal": "ਪ੍ਰਸਤਾਵ ਬਣਾਓ",
+    "market": "ਬਾਜ਼ਾਰ",
+    "network": "ਨੈੱਟਵਰਕ",
+    "governance": "ਗਵਰਨੈਂਸ",
+    "ibcNetwork": "IBC ਨੈੱਟਵਰਕ",
+    "devActivity": "ਡਿਵੈਲਪਰ ਸਰਗਰਮੀ",
+    "multichain": "ਮਲਟੀਚੇਨ ਸੰਖੇਪ",
+    "heartbeat": "ਹਾਰਟਬੀਟ",
+    "dominance": "ਦਬਦਬਾ",
+    "validatorsViz": "ਵੈਲੀਡੇਟਰ",
+    "blockExplorer": "ਬਲਾਕ ਐਕਸਪਲੋਰਰ",
+    "transactionExplorer": "ਲੈਣ-ਦੇਣ ਐਕਸਪਲੋਰਰ",
+    "tokenExplorer": "ਟੋਕਨ ਐਕਸਪਲੋਰਰ",
+    "about": "ਬਾਰੇ",
+    "explorerHome": "ਐਕਸਪਲੋਰਰ",
+    "governanceHome": "ਪ੍ਰਸ਼ਾਸਨ ਕੇਂਦਰ",
+    "settings": "ਸੈਟਿੰਗਾਂ"
+  },
+  "sections": {
+    "explorer": "ਐਕਸਪਲੋਰਰ",
+    "wallet": "ਵਾਲਿਟ",
+    "analytics": "ਵਿਸ਼ਲੇਸ਼ਣ",
+    "visualizations": "ਵਿਜ਼ੁਅਲਾਈਜ਼ੇਸ਼ਨ"
+  },
+  "chains": {
+    "favorite": "ਮਨਪਸੰਦਾਂ ਵਿੱਚ {{name}} ਜੋੜੋ",
+    "unfavorite": "{{name}} ਨੂੰ ਪਸੰਦੀਦਾ ਵਿੱਚੋਂ ਹਟਾਓ",
+    "simulatedHealthy": "ਨਕਲੀ ਨੈੱਟਵਰਕ · ਸਿਹਤਮੰਦ"
+  },
+  "search": {
+    "label": "ਖੋਜ ਚੇਨਬੀਟ",
+    "placeholder": "ਖੋਜ ਬਲਾਕ, ਟੀਐਚ, ਪਤਾ...",
+    "results": "ਖੋਜ ਨਤੀਜੇ",
+    "noResults": "{{query}} ਲਈ ਕੋਈ ਨਤੀਜਾ ਨਹੀਂ",
+    "kinds": {
+      "page": "ਸਫ਼ਾ",
+      "block": "ਬਲਾਕ",
+      "transaction": "ਟੀਐਕਸ",
+      "validator": "ਵੈਲੀਡੇਟਰ",
+      "token": "ਟੋਕਨ",
+      "address": "ਪਤਾ",
+      "proposal": "ਪ੍ਰਸਤਾਵ"
+    },
+    "recent": "ਹਾਲੀਆ ਖੋਜਾਂ",
+    "clearRecent": "ਸਾਫ਼ ਤਾਜ਼ਾ ਖੋਜਾਂ",
+    "removeRecent": "ਹਾਲੀਆ ਖੋਜਾਂ ਤੋਂ {{query}} ਨੂੰ ਹਟਾਓ",
+    "hint": "ਇੱਕ ਬਲਾਕ ਦੀ ਉਚਾਈ, ਇੱਕ ਲੈਣ-ਦੇਣ ਹੈਸ਼, ਇੱਕ ਪਤਾ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ ( {{prefix}} 1...), ਇੱਕ ਪ੍ਰਮਾਣਕ, ਇੱਕ ਪ੍ਰਸਤਾਵ ਨੰਬਰ ਜਾਂ ਇੱਕ ਟੋਕਨ ਨਾਮ.",
+    "submit": "ਖੋਜੋ",
+    "searching": "ਖੋਜ ਕਰ ਰਿਹਾ ਹੈ...",
+    "resultCount": "ਨਤੀਜੇਃ {{count}}",
+    "invalid": {
+      "tooLong": "ਇਹ ਇੱਕ ਖੋਜ ਸ਼ਬਦ ਹੋਣ ਲਈ ਬਹੁਤ ਲੰਮਾ ਹੈ (200 ਅੱਖਰ ਵੱਧ ਤੋਂ ਵੱਧ).",
+      "badChecksum": "ਇਹ ਇੱਕ ਪਤੇ ਵਰਗਾ ਦਿਸਦਾ ਹੈ, ਪਰ ਇਸ ਦੇ ਚੈੱਕਸਮ ਨਾਲ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ. ਟਾਈਪ ਗਲਤੀਆਂ ਲਈ ਜਾਂਚ ਕਰੋ.",
+      "badHash": "ਇੱਕ ਟ੍ਰਾਂਜੈਕਸ਼ਨ ਜਾਂ ਬਲਾਕ ਹੈਸ਼ ਵਿੱਚ ਬਿਲਕੁਲ 64 ਹੈਕਸਾਡੇਸੀਮਲ ਅੱਖਰ ਹੁੰਦੇ ਹਨ।",
+      "badChars": "ਇੱਕ ਬਲਾਕ ਦੀ ਉਚਾਈ, ਇੱਕ ਹੈਸ਼, ਇੱਕ ਪਤਾ, ਇੱਕ ਪ੍ਰਮਾਣਕ, ਇੱਕ ਪ੍ਰਸਤਾਵ ਜਾਂ ਇੱਕ ਟੋਕਨ ਦੀ ਖੋਜ ਕਰੋ."
+    },
+    "categories": {
+      "page": "ਸਫ਼ੇ",
+      "block": "ਬਲਾਕ",
+      "transaction": "ਲੈਣ-ਦੇਣ",
+      "address": "ਪਤੇ",
+      "validator": "ਵੈਲੀਡੇਟਰ",
+      "proposal": "ਪ੍ਰਸਤਾਵ",
+      "token": "ਟੋਕਨ"
+    }
+  },
+  "user": {
+    "menu": "ਖਾਤਾ ਮੇਨੂ",
+    "guest": "ਮਹਿਮਾਨ",
+    "notConnected": "ਕੋਈ ਵਾਲਿਟ ਨਹੀਂ ਜੁੜਿਆ",
+    "settings": "ਸੈਟਿੰਗਾਂ",
+    "about": "ਚੇਨਬੀਟ ਬਾਰੇ"
+  }
+}

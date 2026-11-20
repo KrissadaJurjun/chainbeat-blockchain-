@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Spojena valsa",
+    "viewAll": "Prikaži sve validatore",
+    "col": {
+      "validator": "Validator",
+      "power": "Snaga glasa",
+      "cumulative": "Komulativni",
+      "commission": "Provizija",
+      "uptime": "Dostupnost",
+      "change": "24h zamjena",
+      "details": "Detalji",
+      "tokens": "Obvezni tokeni"
+    },
+    "stake": "Staking",
+    "stakeWith": "Utakmičenje sa ovom validatorom",
+    "pageDescription": "Svaki validator koji osigurava {{chain}}, rangiran po glasovačkoj moći (simuliran).",
+    "stats": {
+      "active": "Aktivni validatori",
+      "nakamoto": "Nakamoto koeficijent",
+      "nakamotoHint": "Validatori potrebni za zaustavljanje lanca",
+      "top10": "Top 10 glasačke moći",
+      "commission": "Prosječna provizija"
+    },
+    "filterPlaceholder": "Filter po imenu ili adresi",
+    "statusFilter": "Status validatora",
+    "tableCaption": "Validatori na {{chain}}",
+    "detailDescription": "Simulirani validator na {{chain}}.",
+    "detail": {
+      "delegators": "Delegatori",
+      "bonded": "Tokeni vezani",
+      "last30": "poslednjih 30 dana",
+      "last90": "poslednjih 90 dana",
+      "noBlocks": "Nema nedavno predloženih blokova.",
+      "noWebsite": "nije dostupan (fantastični validator)",
+      "openPage": "Otvorite punu stranicu",
+      "powerHistory": "Snaga glasa",
+      "proposed24h": "Predloženi blokovi (24 h)",
+      "rank": "Rang",
+      "recentBlocks": "Nedavno predloženi bloki",
+      "selfBonded": "Samopouvezni",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Dostupnost",
+      "valueUsd": "Vrednost uloge {{value}}",
+      "website": "Web stranica"
+    },
+    "status": {
+      "active": "Aktivan",
+      "inactive": "Neaktivan",
+      "jailed": "Zatvoren"
+    },
+    "activitiesTitle": "Aktivnosti validatora",
+    "commissionShort": "Poplaca {{value}}",
+    "detailTitle": "Validator",
+    "fictionalNote": "Fiktivni validator za režim Demo. Nije pravi operater i ništa o njemu nije potvrđeno.",
+    "hoverTip": "Komisija {{commission}} · radno vrijeme {{uptime}} · {{delegators}} delegata",
+    "noMatching": "Nema odgovarajućih validatora.",
+    "notFoundBody": "{{chain}} nema validatora sa ovom adresom.",
+    "notFoundTitle": "Validator nije pronađen",
+    "sort": {
+      "power": "Snaga glasa",
+      "commission": "Provizija",
+      "uptime": "Dostupnost"
+    },
+    "sortBy": "Sortiranje validatora po"
+  },
+  "validatorsViz": {
+    "description": "Komisija u odnosu na radno vreme za svaki validator na {{chain}}; veličina bublina pokazuje vojnu moć.",
+    "showAll": "uključuju neaktivne i zatvorene",
+    "avgUptime": "Prosječan vremenski period",
+    "zeroFee": "Validatori sa nulom provizijom",
+    "chartTitle": "Komisija protiv radnog vremena",
+    "chartHint": "Svaki mehur je jedan validator",
+    "legend": "Legenda grafikona",
+    "sizeHint": "Veličina bublina = glasovna moć"
+  }
+}

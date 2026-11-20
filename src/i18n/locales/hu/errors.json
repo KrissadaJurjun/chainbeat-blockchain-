@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Még nincs itt semmi",
+    "emptyBody": "Nincs adat erre a nézetre.",
+    "errorTitle": "Nem tudtam betölteni ezeket az adatokat",
+    "errorBody": "Valami nem stimmel a hálózat olvasásakor, ellenőrizze a kapcsolatot, és próbáld meg újra.",
+    "crashTitle": "Valami rosszul ment",
+    "crashBody": "Ez a oldal váratlan hibával találkozott.",
+    "reload": "Újra feltöltő oldal"
+  }
+}

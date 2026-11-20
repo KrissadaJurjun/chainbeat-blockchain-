@@ -1,0 +1,130 @@
+Dashboard
+Validators
+Voorstellen
+Blokken
+Transacties
+Portfolio
+Swappen
+Staken
+Liquid staking
+Verzenden
+Stemmen
+Voorstel maken
+Markt
+Netwerk
+Governance
+IBC-netwerk
+Ontwikkelaarsactiviteit
+Multichain-overzicht
+Hartslag
+Dominantie
+Blokverkenner
+Transactieverkenner
+Tokenverkenner
+Over
+Verkenner
+Instellingen
+Wallet
+Analyses
+Visualisaties
+Taal
+Thema
+Systeem
+Donker
+Licht
+Demo
+Gesimuleerd
+Sluiten
+Opnieuw proberen
+Vernieuwen
+Kopiëren
+Gekopieerd
+Wissen
+Laden…
+Vorige
+Volgende
+Verbergen
+Annuleren
+Terug
+Alles bekijken
+Resetten
+Exporteren
+Max
+Bedrag
+Saldo
+Kosten
+Status
+Totaal
+Tijd
+Hoogte
+Hash
+Type
+Alles
+Zoeken
+Filteren
+Details
+Bevestigen
+Wallet verbinden
+Verbinding verbreken
+Transactie controleren
+Netwerkkosten
+Adres kopiëren
+Jij betaalt
+Jij ontvangt
+Ontvangeradres
+Memo (optioneel)
+Activa
+Verdeling
+Gedelegeerd
+Unstaken
+Wisselkoers
+Geslaagd
+Transactie
+Blok
+Van
+Naar
+Memo
+Gebruikte gas
+Validator
+Token
+Adres
+Voorstel
+Prijs
+Aanbod
+Marktkapitalisatie
+Commissie
+Uptime
+Stemkracht
+Positie
+Actief
+Inactief
+Geblokkeerd
+Delegators
+Ja
+Nee
+Onthouden
+Nee met veto
+Aangenomen
+Verworpen
+Mislukt
+Stemming loopt
+Quorum
+Opkomst
+Storting
+Jouw stem
+Titel
+Beschrijving
+On-chain-statistieken
+Blokhoogte
+Tx per blok
+Bloktijd
+Staking-APR
+Gebonden tokens
+Totaal aanbod
+Communitypool
+Pagina niet gevonden
+Terug naar dashboard
+Nieuwste blokken
+Nieuwste transacties
+Meldingen
+Overige

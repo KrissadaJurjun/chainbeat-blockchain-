@@ -1,0 +1,102 @@
+{
+  "overview": {
+    "title": "አጠቃላይ እይታ",
+    "unit": "የአፈፃፀም መረጃ ጠቋሚ · መነሻ = 100 በደረጃ ጅምር ላይ",
+    "refreshFailed": "የመጨረሻው የተጫነ ውሂብ በማሳየት ማዘመን አልቻለም."
+  },
+  "chart": {
+    "keyboardHint": "በመረጃ ነጥቦች መካከል ለመንቀሳቀስ ፍላጻ ቁልፎችን ይጠቀሙ.",
+    "summary": "የአፈፃፀም ኢንዴክስ ከ {{range}} በላይ: {{details}}",
+    "rangeLabel": "የጊዜ ክልል",
+    "seriesLabel": "የግራፍ ተከታታይ",
+    "keepOne": "ቢያንስ አንድ ተከታታይ መገለጥ አለበት",
+    "emptyTitle": "ለዚህ ክልል ምንም መረጃ የለም",
+    "emptyBody": "ሌላ የጊዜ ክልል ወይም ማደስ ሞክር።",
+    "range": {
+      "24H": "24 ሰዓት",
+      "7D": "7 ዲ",
+      "30D": "30 ዲ",
+      "90D": "90 ዲ"
+    },
+    "rangeLong": {
+      "24H": "ባለፉት 24 ሰዓታት",
+      "7D": "ባለፉት 7 ቀናት",
+      "30D": "ባለፉት 30 ቀናት",
+      "90D": "ባለፉት 90 ቀናት"
+    },
+    "zoomControls": "የማጉላት መቆጣጠሪያዎች",
+    "zoomIn": "ማጉላት",
+    "zoomOut": "ማጉላት",
+    "resetView": "ዳግም ማስጀመር እይታ",
+    "zoomLevel": "የማጉላት ደረጃ"
+  },
+  "proposals": {
+    "title": "ሐሳቦች",
+    "filter": "የቀረበው ማጣሪያ",
+    "live": "በቀጥታ",
+    "total": "ጠቅላላ",
+    "viewAll": "ሁሉንም ጥረቶች ይመልከቱ",
+    "noneLive": "ምንም የቀጥታ ጥቆማዎች የሉም",
+    "noneLiveBody": "በአሁኑ ጊዜ ቀጣይነት ያለው አስተዳደር የለም።",
+    "showAll": "የቅርብ ጊዜ ፕሮፖዛሎችን ማሳየት",
+    "endsIn": "መጨረሻዎች {{time}}",
+    "turnout": "ተሳትፎ",
+    "vote": "ድምጽ ስጥ",
+    "status": {
+      "voting": "ድምጽ በመሰጠት ላይ",
+      "deposit": "ተቀማጭ",
+      "passed": "ጸድቋል",
+      "rejected": "ውድቅ ተደርጓል",
+      "failed": "አልተሳካም"
+    },
+    "passed": "ጸድቋል",
+    "rejected": "ውድቅ ተደርጓል",
+    "noneMatching": "ምንም ተዛማጅ ፕሮፖዛሎች የሉም",
+    "noneMatchingBody": "በአሁኑ ጊዜ ከዚህ ማጣሪያ ጋር የሚመሳሰል ነገር የለም።"
+  },
+  "dev": {
+    "title": "የገንቢ እንቅስቃሴ",
+    "summary": "{{total}} አስተዋጽኦዎች",
+    "viewFull": "ክፍት የገንቢ እንቅስቃሴ",
+    "heatmapLabel": "አስተዋጽኦ ሙቀት ካርታ: {{total}} አስተዋጽኦዎች በ {{weeks}} ሳምንታት ውስጥ",
+    "less": "ያነሰ",
+    "more": "ተጨማሪ",
+    "cellTitle_one": "{{date}} ላይ {{count}} አስተዋጽኦ",
+    "cellTitle_other": "በ{{date}} ላይ {{count}} መዋጮዎች",
+    "range": "የሙቀት ካርታ ክልል",
+    "ranges": {
+      "month": "ወር",
+      "quarter": "አራተኛ",
+      "year": "ዓመት"
+    }
+  },
+  "repos": {
+    "title": "ንቁ ማከማቻ",
+    "period": "የጊዜ ሰሌዳ",
+    "periods": {
+      "week": "ሳምንት",
+      "month": "ወር",
+      "year": "ዓመት",
+      "quarter": "አራተኛ"
+    },
+    "contributors": "አስተዋጽኦ የሚያደርጉ",
+    "stars": "ኮከቦች",
+    "sparkline": "ለ {{name}} የተዋጣለት እንቅስቃሴ",
+    "vsPrevious": "{{change}} ከቀዳሚው ወቅት ጋር",
+    "up": "ወደ ላይ",
+    "down": "ወደ ታች",
+    "caption": "በተመረጠው ጊዜ ውስጥ የተደረጉ ግዴታዎች · የተመሰረቱ ማከማቻዎች",
+    "col": {
+      "repository": "የመረጃ ቋት",
+      "language": "ቋንቋ",
+      "commits": "ግዴታዎች",
+      "change": "ለውጥ",
+      "trend": "አዝማሚያ"
+    },
+    "commitsCount": "ግዴታዎች: {{count}}",
+    "demoNote": "Demo ውሂብ: ይህ ማከማቻ ልብ ወለድ ነው እና እንቅስቃሴው ተንቀሳቃሽ ነው. ይህ GitHub ጋር አልተገናኘም.",
+    "emptyBody": "በዚህ ጊዜ ውስጥ የመረጃ ቋት እንቅስቃሴ የለም።",
+    "emptyTitle": "የመረጃ ቋት እንቅስቃሴ የለም",
+    "history": "ተሳትፎ እንቅስቃሴ"
+  }
+}

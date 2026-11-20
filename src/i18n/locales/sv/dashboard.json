@@ -1,0 +1,102 @@
+{
+  "overview": {
+    "title": "Översikt",
+    "unit": "Prestationsindex · Bas = 100 vid start av räckvidden",
+    "refreshFailed": "Kan inte uppdatera visar de senaste laddade uppgifterna."
+  },
+  "chart": {
+    "keyboardHint": "Använd pilnnycklarna för att flytta mellan datapunkterna.",
+    "summary": "Prestationsindex över {{range}}: {{details}}",
+    "rangeLabel": "Tidsfält",
+    "seriesLabel": "Serial av diagram",
+    "keepOne": "Minst en serie ska vara synlig",
+    "emptyTitle": "Inga uppgifter för detta område",
+    "emptyBody": "Försök en annan tid eller uppdatera.",
+    "range": {
+      "24H": "24 TIMMAR",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "De senaste 24 timmarna",
+      "7D": "De senaste sju dagarna",
+      "30D": "De senaste 30 dagarna",
+      "90D": "De senaste 90 dagarna"
+    },
+    "zoomControls": "Zoomstyrning",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom ut",
+    "resetView": "Återställning",
+    "zoomLevel": "Zoomnivå"
+  },
+  "proposals": {
+    "title": "Förslag",
+    "filter": "Filter för förslag",
+    "live": "Levande",
+    "total": "Totalt",
+    "viewAll": "Se alla förslag",
+    "noneLive": "Inga liveförslag",
+    "noneLiveBody": "Det finns för närvarande ingen pågående styrning.",
+    "showAll": "Visa senaste förslag",
+    "endsIn": "Endar {{time}}",
+    "turnout": "Valdeltagande",
+    "vote": "Rösta",
+    "status": {
+      "voting": "Röstning pågår",
+      "deposit": "Insättning",
+      "passed": "Godkänd",
+      "rejected": "Avslagen",
+      "failed": "Misslyckades"
+    },
+    "passed": "Godkänd",
+    "rejected": "Avslagen",
+    "noneMatching": "Inga motsvarande förslag",
+    "noneMatchingBody": "Ingenting matchar det här filtret just nu."
+  },
+  "dev": {
+    "title": "Utvecklaraktivitet",
+    "summary": "{{total}} bidrag",
+    "viewFull": "Öppen utvecklareaktivitet",
+    "heatmapLabel": "Bidragsvärme kartan: {{total}} bidrag under {{weeks}} veckor",
+    "less": "Mindre",
+    "more": "Mer",
+    "cellTitle_one": "{{count}} bidrag på {{date}}",
+    "cellTitle_other": "{{count}} bidrag till {{date}}",
+    "range": "Värmkartans räckvidd",
+    "ranges": {
+      "month": "Månad",
+      "quarter": "Tredje kvartal",
+      "year": "Året"
+    }
+  },
+  "repos": {
+    "title": "Aktivt arkiv",
+    "period": "Period",
+    "periods": {
+      "week": "vecka",
+      "month": "Månad",
+      "year": "Året",
+      "quarter": "Tredje kvartal"
+    },
+    "contributors": "Bidragsgivare",
+    "stars": "Stjärnorna",
+    "sparkline": "Åtagandeaktivitet för {{name}}",
+    "vsPrevious": "{{change}} jämfört med föregående period",
+    "up": "Uppåt",
+    "down": "Nedåt",
+    "caption": "Åtaganden under den valda perioden · simulerade lagr",
+    "col": {
+      "repository": "Repository",
+      "language": "Språk",
+      "commits": "Förpliktelser",
+      "change": "Förändring",
+      "trend": "Trenden"
+    },
+    "commitsCount": "Förpliktelser: {{count}}",
+    "demoNote": "Demo data: detta arkiv är fiktivt och dess aktivitet simuleras. Det är inte anslutet till GitHub.",
+    "emptyBody": "Det finns ingen lagringsaktivitet under denna period.",
+    "emptyTitle": "Ingen lagringsaktivitet",
+    "history": "Åtagandeverksamhet"
+  }
+}

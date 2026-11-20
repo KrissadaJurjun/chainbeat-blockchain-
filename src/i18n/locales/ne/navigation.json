@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "साइडबार नेभिगेसन",
+    "primary": "मुख्य नेभिगेसन",
+    "menu": "नेभिगेसन मेनु",
+    "openMenu": "खुला नेभिगेसन मेनु",
+    "closeMenu": "नेभिगेसन मेनु बन्द गर्नुहोस्",
+    "collapseSidebar": "Collapse साइडबार",
+    "expandSidebar": "साइडबार विस्तार गर्नुहोस्",
+    "skipToContent": "मुख्य सामग्रीमा स्किप गर्नुहोस्",
+    "home": "ChainBeat घर",
+    "pages": "पृष्ठहरू",
+    "dashboard": "ड्यासबोर्ड",
+    "validators": "भ्यालिडेटरहरू",
+    "proposals": "प्रस्तावहरू",
+    "blocks": "ब्लकहरू",
+    "transactions": "कारोबारहरू",
+    "portfolio": "पोर्टफोलियो",
+    "swap": "स्वाप",
+    "stake": "स्टेक",
+    "liquidStaking": "लिक्विड स्टेकिङ",
+    "send": "पठाउनुहोस्",
+    "vote": "मतदान गर्नुहोस्",
+    "createProposal": "प्रस्ताव बनाउनुहोस्",
+    "market": "बजार",
+    "network": "नेटवर्क",
+    "governance": "शासन",
+    "ibcNetwork": "IBC नेटवर्क",
+    "devActivity": "विकासकर्ता गतिविधि",
+    "multichain": "मल्टिचेन अवलोकन",
+    "heartbeat": "मुटुको धड्कन",
+    "dominance": "प्रभुत्व",
+    "validatorsViz": "भ्यालिडेटरहरू",
+    "blockExplorer": "ब्लक एक्सप्लोरर",
+    "transactionExplorer": "कारोबार एक्सप्लोरर",
+    "tokenExplorer": "टोकन एक्सप्लोरर",
+    "about": "बारेमा",
+    "explorerHome": "एक्सप्लोरर",
+    "governanceHome": "शासन केन्द्र",
+    "settings": "सेटिङहरू"
+  },
+  "sections": {
+    "explorer": "एक्सप्लोरर",
+    "wallet": "वालेट",
+    "analytics": "विश्लेषण",
+    "visualizations": "दृश्यीकरण"
+  },
+  "chains": {
+    "favorite": "मनपर्नेमा {{name}} थप्नुहोस्",
+    "unfavorite": "{{name}} लाई Favorites बाट हटाउनुहोस्",
+    "simulatedHealthy": "सिम्युलेटेड नेटवर्क · स्वस्थ"
+  },
+  "search": {
+    "label": "खोज ChainBeat",
+    "placeholder": "खोज ब्लक, TX, ठेगाना...",
+    "results": "खोज परिणामहरू",
+    "noResults": "{{query}} को लागि कुनै परिणामहरू छैनन्",
+    "kinds": {
+      "page": "पृष्ठ",
+      "block": "ब्लक",
+      "transaction": "TX",
+      "validator": "भ्यालिडेटर",
+      "token": "टोकन",
+      "address": "ठेगाना",
+      "proposal": "प्रस्ताव"
+    },
+    "recent": "हालसालै गरिएका खोजहरू",
+    "clearRecent": "हालसालैको खोज स्पष्ट",
+    "removeRecent": "हालैको खोजबाट {{query}} हटाउनुहोस्",
+    "hint": "ब्लक उचाइ, लेनदेन ह्यास, ठेगाना ( {{prefix}} १...), मान्यकर्ता, प्रस्ताव नम्बर वा टोकन नाम।",
+    "submit": "खोज्नुहोस्",
+    "searching": "खोज्दै...",
+    "resultCount": "नतिजा: {{count}}",
+    "invalid": {
+      "tooLong": "यो खोज शब्दको लागि धेरै लामो छ (अधिकतम 200 वर्ण) ।",
+      "badChecksum": "यो ठेगाना जस्तो देखिन्छ, तर यसको चेक रकम मेल खाँदैन। टाइप त्रुटिहरूको लागि जाँच गर्नुहोस्।",
+      "badHash": "एउटा लेनदेन वा ब्लक ह्याशमा 64 वटा हेक्साडेसिमल अक्षर हुन्छन् ।",
+      "badChars": "ब्लकको उचाइ, ह्यास, ठेगाना, मान्यकर्ता, प्रस्ताव वा टोकन खोज्नुहोस्।"
+    },
+    "categories": {
+      "page": "पृष्ठहरू",
+      "block": "ब्लकहरू",
+      "transaction": "कारोबारहरू",
+      "address": "ठेगानाहरू",
+      "validator": "भ्यालिडेटरहरू",
+      "proposal": "प्रस्तावहरू",
+      "token": "टोकनहरू"
+    }
+  },
+  "user": {
+    "menu": "खाता मेनु",
+    "guest": "अतिथि",
+    "notConnected": "कुनै पर्स जोडिएको छैन",
+    "settings": "सेटिङहरू",
+    "about": "चेनबीटको बारेमा"
+  }
+}

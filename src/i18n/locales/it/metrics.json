@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Metriche on-chain",
+    "exportCsv": "Esportazione sotto forma di CSV",
+    "exported": "Metriche esportate come CSV.",
+    "openAnalytics": "Analisi di rete aperta",
+    "last24h": "Le ultime 24 ore",
+    "sparklineLabel": "Trend delle ultime 24 ore",
+    "change24h": "Cambio di 24 ore",
+    "blocks": "blocchi",
+    "exact": "Valore esatto",
+    "bondedRatio": "Relazione obbligazionata",
+    "poolShare": "Parte dell'approvvigionamento",
+    "tokenPrice": "Prezzo del token",
+    "inputInflation": "L'inflazione",
+    "inputTax": "Importo comunitario",
+    "inputBonded": "Relazione obbligazionata",
+    "csvMetric": "Metrica",
+    "csvValue": "Valore",
+    "csvUnit": "Unità",
+    "csvChange24h": "Cambio di 24 ore",
+    "blockHeight": {
+      "label": "Altezza del blocco",
+      "description": "Il numero di blocchi prodotti dalla genesi aumenta di uno con ogni nuovo blocco."
+    },
+    "totalTransactions": {
+      "label": "Transazioni",
+      "description": "Total delle transazioni elaborate dalla rete dal momento della genesi."
+    },
+    "txPerBlock": {
+      "label": "Tx per blocco",
+      "description": "Numero medio delle transazioni incluse per blocco, misurato negli ultimi 100 blocchi."
+    },
+    "blockTime": {
+      "label": "Tempo di blocco",
+      "description": "Tempo medio tra blocchi consecutivi, misurato negli ultimi 100 blocchi."
+    },
+    "inflation": {
+      "label": "L'inflazione",
+      "description": "Il tasso annuale al quale vengono coniati nuovi token per premiare gli stakers e finanziare il pool della comunità."
+    },
+    "stakingApr": {
+      "label": "APR dello staking",
+      "description": "Ritorno annuale stimato dei token coinvolti, prima della commissione del validatore.",
+      "formula": "APR = inflazione × (1 − imposta comunitaria) ÷ rapporto obbligazionario"
+    },
+    "bondedTokens": {
+      "label": "Token vincolati",
+      "description": "I token sono attualmente coinvolti con validatori attivi.",
+      "formula": "obbligazionato = fornitura totale × rapporto obbligazionato"
+    },
+    "totalSupply": {
+      "label": "Offerta totale",
+      "description": "Ogni token esistente, inclusi quelli che sono in gioco, cresce con l'inflazione."
+    },
+    "communityPool": {
+      "label": "Pool della community",
+      "description": "I token sono controllati dalla governance on-chain, una parte dell'inflazione arriva, le proposte di successo la spendono.",
+      "formula": "Il pool cresce a seconda dell'offerta × dell'inflazione × dell'imposta comunitaria"
+    },
+    "poolValue": {
+      "label": "Valore del bacino",
+      "description": "Valore stimato in dollari statunitensi del pool comunitario al prezzo dei token simulato.",
+      "formula": "Valore = pool × prezzo del token"
+    }
+  }
+}

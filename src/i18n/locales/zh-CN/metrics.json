@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "链上指标",
+    "exportCsv": "导出为 CSV",
+    "exported": "指标已导出为 CSV。",
+    "openAnalytics": "打开网络分析",
+    "last24h": "过去 24 小时",
+    "sparklineLabel": "过去 24 小时趋势",
+    "change24h": "24 小时变化",
+    "blocks": "个区块",
+    "exact": "精确值",
+    "bondedRatio": "质押率",
+    "poolShare": "占总供应量比例",
+    "tokenPrice": "代币价格",
+    "inputInflation": "通胀率",
+    "inputTax": "社区税",
+    "inputBonded": "质押率",
+    "csvMetric": "指标",
+    "csvValue": "数值",
+    "csvUnit": "单位",
+    "csvChange24h": "24 小时变化",
+    "blockHeight": {
+      "label": "区块高度",
+      "description": "自创世区块以来已产出的区块数量。每产出一个新区块就增加 1。"
+    },
+    "totalTransactions": {
+      "label": "交易总数",
+      "description": "自创世区块以来网络处理的全部交易数量。"
+    },
+    "txPerBlock": {
+      "label": "每区块交易数",
+      "description": "每个区块平均包含的交易数量，基于最近 100 个区块统计。"
+    },
+    "blockTime": {
+      "label": "出块时间",
+      "description": "相邻区块之间的平均间隔，基于最近 100 个区块统计。"
+    },
+    "inflation": {
+      "label": "通胀率",
+      "description": "网络每年增发新代币的速率，用于奖励质押者并充实社区资金池。"
+    },
+    "stakingApr": {
+      "label": "质押年化收益率",
+      "description": "质押代币的预估年化收益，未扣除验证者佣金。",
+      "formula": "年化收益率 = 通胀率 × (1 − 社区税) ÷ 质押率"
+    },
+    "bondedTokens": {
+      "label": "已质押代币",
+      "description": "当前质押给活跃验证者的代币数量。质押的代币为网络提供安全保障。",
+      "formula": "已质押 = 总供应量 × 质押率"
+    },
+    "totalSupply": {
+      "label": "总供应量",
+      "description": "现存的全部代币，包括已质押的部分。会随通胀增长。"
+    },
+    "communityPool": {
+      "label": "社区资金池",
+      "description": "由链上治理控制的代币。资金池获得一部分通胀收入，并由通过的提案支出。",
+      "formula": "资金池增量 ≈ 供应量 × 通胀率 × 社区税"
+    },
+    "poolValue": {
+      "label": "资金池价值",
+      "description": "按模拟代币价格估算的社区资金池美元价值。",
+      "formula": "价值 = 资金池 × 代币价格"
+    }
+  }
+}

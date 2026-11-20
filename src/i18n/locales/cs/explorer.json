@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Nativní, IBC, likvidní a externí aktiva známá na čísle {{chain}} (simulované).",
+    "stats": {
+      "total": "Sledované tokeny"
+    },
+    "kinds": {
+      "native": "Domorodý",
+      "ibc": "ČÍSLO IBC",
+      "external": "Vnější",
+      "stable": "Stablecoin",
+      "liquid": "Vlékové stěhování"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Typ",
+      "denom": "Dénom",
+      "price": "Cena",
+      "change": "24 hodin",
+      "supply": "Nabídka",
+      "holders": "Držitelé",
+      "marketCap": "Tržní kapitalizace"
+    },
+    "filterPlaceholder": "Filtrování podle symbolu, názvu nebo denominace",
+    "tableCaption": "Tokeny na {{chain}}"
+  },
+  "account": {
+    "title": "Účet",
+    "description": "Zostatky a nedávná aktivita účtu na {{chain}} (simulované).",
+    "available": "K dispozici",
+    "balances": "Zostatky",
+    "counterparty": "Smluvní strana",
+    "direction": "Směr",
+    "in": "V",
+    "out": "Venku",
+    "history": "Historie transakcí",
+    "historyCaption": "Transakce ve výši {{address}}",
+    "invalidTitle": "Žádná platná adresa",
+    "invalidBody": "To není platné. {{chain}} Adresa. Adresy v této síti začínají {{prefix}} 1 a zahrnujte šekovou sumu.",
+    "noBalances": "Žádná rovnováha.",
+    "noHistory": "Žádné transakce nebyly nalezeny",
+    "noHistoryBody": "Tento účet nemá simulovanou aktivitu v nejnovějších {{blocks}} bloků.",
+    "rewards": "Odměny: {{value}}",
+    "staked": "Uloženo",
+    "totalValue": "Celková hodnota",
+    "txCount": "Transakce",
+    "unknown": "Toto je platná adresa, ale v simulaci se neobjevuje, takže nemá žádné rovnováhy nebo historii.",
+    "window": "v nejnovějších {{blocks}} bloků",
+    "demoWallet": "To je vaše peněženka Demo, její zůstatky a transakce jsou simulovány a existují pouze v tomto prohlížeči."
+  },
+  "explorer": {
+    "description": "Vyhledat {{chain}} a vidět, co se děje na (simulované) síti právě teď.",
+    "latestBlocks": "Nejnovější bloky",
+    "latestTransactions": "Nejnovější transakce",
+    "searchTitle": "Prohledejte průzkumníka",
+    "shortcuts": "Oddíly pro průzkumníky"
+  }
+}

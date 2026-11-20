@@ -1,0 +1,103 @@
+{
+  "overview": {
+    "title": "Visão geral",
+    "unit": "Índice de desempenho · Base = 100 no início do intervalo",
+    "refreshFailed": "Não conseguiu atualizar mostrando os últimos dados carregados."
+  },
+  "chart": {
+    "keyboardHint": "Use as teclas das setas para se mover entre os pontos de dados.",
+    "summary": "Indice de desempenho superior a {{range}}: {{details}}",
+    "rangeLabel": "Intervalo de tempo",
+    "seriesLabel": "Série de gráficos",
+    "keepOne": "Pelo menos uma série deve permanecer visível",
+    "emptyTitle": "Não existem dados para esta faixa",
+    "emptyBody": "Tente outra faixa de tempo ou refresque.",
+    "range": {
+      "24H": "24 HORAS",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "Últimas 24 horas",
+      "7D": "Últimos 7 dias",
+      "30D": "Últimos 30 dias",
+      "90D": "Últimos 90 dias"
+    },
+    "zoomControls": "Controle de zoom",
+    "zoomIn": "Zoom em",
+    "zoomOut": "Zoom out",
+    "resetView": "Vista de redefinição",
+    "zoomLevel": "Nível de zoom"
+  },
+  "proposals": {
+    "title": "Propostas",
+    "filter": "Filtro de proposta",
+    "live": "Vivo",
+    "total": "Total",
+    "viewAll": "Visualizar todas as propostas",
+    "noneLive": "Não há propostas ao vivo",
+    "noneLiveBody": "Não existe atualmente uma governação em curso.",
+    "showAll": "Mostrar propostas recentes",
+    "endsIn": "Fim {{time}}",
+    "turnout": "Participação",
+    "vote": "Votar",
+    "status": {
+      "voting": "Em votação",
+      "deposit": "Depósito",
+      "passed": "Aprovada",
+      "rejected": "Rejeitada",
+      "failed": "Falhou"
+    },
+    "passed": "Aprovada",
+    "rejected": "Rejeitada",
+    "noneMatching": "Não existem propostas correspondentes",
+    "noneMatchingBody": "Nada corresponde a este filtro neste momento."
+  },
+  "dev": {
+    "title": "Atividade de desenvolvimento",
+    "summary": "{{total}} contribuições",
+    "viewFull": "Actividade aberta de desenvolvedores",
+    "heatmapLabel": "Mapa de contribuições: {{total}} contribuições ao longo de {{weeks}} semanas",
+    "less": "Menos",
+    "more": "Mais",
+    "cellTitle_one": "{{count}} contribuição para {{date}}",
+    "cellTitle_many": "{{count}} contribuições para {{date}}",
+    "cellTitle_other": "{{count}} contribuições para {{date}}",
+    "range": "Intervalo de mapas de calor",
+    "ranges": {
+      "month": "Mês",
+      "quarter": "Quarta-feira",
+      "year": "Ano"
+    }
+  },
+  "repos": {
+    "title": "Repositório ativo",
+    "period": "Período",
+    "periods": {
+      "week": "Semana",
+      "month": "Mês",
+      "year": "Ano",
+      "quarter": "Quarta-feira"
+    },
+    "contributors": "Contributores",
+    "stars": "Estrelas",
+    "sparkline": "Actividade de compromisso para {{name}}",
+    "vsPrevious": "{{change}} versus período anterior",
+    "up": "Para cima",
+    "down": "Para baixo",
+    "caption": "Compromissos no período selecionado · repositórios simulados",
+    "col": {
+      "repository": "Repositório",
+      "language": "Idioma",
+      "commits": "Compromissos",
+      "change": "Mudança",
+      "trend": "Tendência"
+    },
+    "commitsCount": "Compromissos: {{count}}",
+    "demoNote": "Demo dados: este repositório é fictício e a sua atividade é simulada.",
+    "emptyBody": "Não há atividade de repositório neste período.",
+    "emptyTitle": "Nenhuma atividade de repositório",
+    "history": "Atividade de compromisso"
+  }
+}

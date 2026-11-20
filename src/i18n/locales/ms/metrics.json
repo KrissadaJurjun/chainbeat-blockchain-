@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Metrik on-chain",
+    "exportCsv": "Eksport sebagai CSV",
+    "exported": "Metrik yang dieksport sebagai CSV.",
+    "openAnalytics": "Analisis rangkaian terbuka",
+    "last24h": "24 jam terakhir",
+    "sparklineLabel": "Trend dalam 24 jam terakhir",
+    "change24h": "Perubahan 24 jam",
+    "blocks": "blok",
+    "exact": "Nilai sebenar",
+    "bondedRatio": "Nisbah ikatan",
+    "poolShare": "Bahagian bekalan",
+    "tokenPrice": "Harga token",
+    "inputInflation": "Inflasi",
+    "inputTax": "Pajak Komuniti",
+    "inputBonded": "Nisbah ikatan",
+    "csvMetric": "Metrik",
+    "csvValue": "Nilai",
+    "csvUnit": "Unit",
+    "csvChange24h": "Pertukaran 24 jam",
+    "blockHeight": {
+      "label": "Ketinggian blok",
+      "description": "Jumlah blok yang dihasilkan sejak genesis. Ia bertambah satu dengan setiap blok baru."
+    },
+    "totalTransactions": {
+      "label": "Transaksi",
+      "description": "Jumlah transaksi yang diproses oleh rangkaian sejak genesis."
+    },
+    "txPerBlock": {
+      "label": "Transaksi setiap blok",
+      "description": "Jumlah purata urus niaga yang termasuk setiap blok, diukur dalam 100 blok terakhir."
+    },
+    "blockTime": {
+      "label": "Masa blok",
+      "description": "Tempoh purata antara blok berturut-turut, diukur dalam 100 blok terakhir."
+    },
+    "inflation": {
+      "label": "Inflasi",
+      "description": "Kadar tahunan di mana token baru ditanam untuk memberi ganjaran kepada stakers dan membiayai kolam komuniti."
+    },
+    "stakingApr": {
+      "label": "APR staking",
+      "description": "Hasil tahunan yang dianggarkan pada token yang dipertaruhkan, sebelum komisen pengesahan.",
+      "formula": "APR = inflasi × (1 − cukai komuniti) ÷ nisbah obligasi"
+    },
+    "bondedTokens": {
+      "label": "Token terikat",
+      "description": "Token yang kini dipertaruhkan dengan pengesahan aktif.",
+      "formula": "terikat = jumlah bekalan × nisbah terikat"
+    },
+    "totalSupply": {
+      "label": "Jumlah bekalan",
+      "description": "Setiap token yang ada, termasuk yang dipertaruhkan."
+    },
+    "communityPool": {
+      "label": "Kolam komuniti",
+      "description": "Token yang dikawal oleh pentadbiran rantai. Sebahagian inflasi mengalir masuk; cadangan yang berjaya membelanjakannya.",
+      "formula": "kumpulan tumbuh mengikut bekalan × inflasi × cukai komuniti"
+    },
+    "poolValue": {
+      "label": "Nilai kolam",
+      "description": "Nilai dolar AS yang dianggarkan dari kumpulan komuniti pada harga token simulasi.",
+      "formula": "nilai = kumpulan × harga token"
+    }
+  }
+}

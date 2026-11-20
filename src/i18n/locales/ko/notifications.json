@@ -1,0 +1,30 @@
+{
+  "notifications": {
+    "label": "알림",
+    "title": "알림",
+    "unread": "읽지 않음",
+    "unreadLabel_other": "읽지 않은 알림 {{count}}개",
+    "markAllRead": "모두 읽음으로 표시",
+    "empty": "모든 알림을 확인했습니다.",
+    "items": {
+      "proposalVoting": "제안 #{{id}}번이 투표 중입니다. 약 {{hours}}시간 남았습니다.",
+      "proposalPassed": "제안 #{{id}}번이 통과되어 시행될 예정입니다.",
+      "validatorJailed": "{{name}} 검증인이 비활동으로 투옥되었습니다.",
+      "upgradeScheduled": "네트워크 업그레이드 {{version}}이(가) {{days}}일 후로 예정되어 있습니다.",
+      "ibcVolume": "지난 24시간 동안 IBC 전송량이 {{pct}}% 증가했습니다.",
+      "newBlock": "블록 {{height}}은 {{chain}} (시뮬레이션) 에서 생산되었습니다.",
+      "walletConnectedDemo": "Demo 지갑 연결 (시뮬레이션).",
+      "walletConnected": "{{name}} 연결됐어 서명된 게 없어요.",
+      "walletDisconnected": "지갑이 이 브라우저 세션에서 분리되었습니다.",
+      "txSuccess": "시뮬레이션 거래 확인: {{summary}}",
+      "txFailed": "시뮬레이션 트랜잭션은 오류 시뮬레이션이 활성화되었기 때문에 실패했습니다. 아무것도 변경되지 않았습니다.",
+      "proposalCreated": "Demo 제안 #{{id}} {{title}}이 추가되었다 (시뮬레이션).",
+      "networkChanged": "{{chain}}로 전환했습니다. 시뮬레이션 데이터를 보여줍니다.",
+      "simPaused": "시뮬레이션이 중단되고 시뮬레이션 데이터가 다시 시작될 때까지 업데이트되지 않습니다.",
+      "errorSimulation": "오류 시뮬레이션이 활성화되어 있습니다. 데이터 요청과 지갑 확인은 종료될 때까지 실패합니다."
+    },
+    "dismiss": "거절 통지",
+    "clearAll": "모든 것을 정리해",
+    "simulatedNote": "네트워크 피드에서 나온 아이템들이 시뮬레이션되어 있습니다. 여기 있는 것은 실시간 블록체인 알림이 아닙니다."
+  }
+}

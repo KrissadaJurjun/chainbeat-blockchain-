@@ -1,0 +1,31 @@
+{
+  "notifications": {
+    "label": "Meldingen",
+    "title": "Meldingen",
+    "unread": "Niet gelezen",
+    "unreadLabel_one": "{{count}} ongelezen kennisgeving",
+    "unreadLabel_other": "{{count}} ongelezen berichten",
+    "markAllRead": "Markeer alles zoals gelezen",
+    "empty": "Je bent helemaal op de hoogte.",
+    "items": {
+      "proposalVoting": "Voorstel nr. {{id}} is in de stemmingsperiode ongeveer {{hours}} uur over.",
+      "proposalPassed": "Voorstel nr. {{id}} is goedgekeurd en zal worden toegepast.",
+      "validatorJailed": "{{name}} werd gearresteerd voor stilstand.",
+      "upgradeScheduled": "Het netwerk upgrade {{version}} is gepland in {{days}} dagen.",
+      "ibcVolume": "IBC Het overdrachtvolume is in de afgelopen 24 uur met {{pct}}% gestegen.",
+      "newBlock": "Block {{height}} is op {{chain}} geproduceerd (gesimulateerd).",
+      "walletConnectedDemo": "Demo portemonnee verbonden (simuleren).",
+      "walletConnected": "{{name}} Er was niets ondertekend.",
+      "walletDisconnected": "De portemonnee is afgesloten van deze browser sessie.",
+      "txSuccess": "Geconfirmeerde gesimuleerde transactie: {{summary}}",
+      "txFailed": "Een simuleringstransactie is mislukt omdat de foutsimulatie is ingeschakeld.",
+      "proposalCreated": "Demo voorstel #{{id}} {{title}} werd toegevoegd (simuleren).",
+      "networkChanged": "Ik heb naar {{chain}} geschakeld.",
+      "simPaused": "De simulatie is gestopt. De simulatie wordt pas bijgewerkt.",
+      "errorSimulation": "De foutsimulatie is ingeschakeld, gegevensverzoeken en portemonneebevestigingen mislukken totdat u deze uitschakelt."
+    },
+    "dismiss": "Kennisgeving van afwijzing",
+    "clearAll": "Maak alles schoon",
+    "simulatedNote": "Er is geen live blockchain-waarschuwing."
+  }
+}

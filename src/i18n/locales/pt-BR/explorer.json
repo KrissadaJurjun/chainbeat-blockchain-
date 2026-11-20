@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Native, IBC, liquid-stacking e activos externos conhecidos em {{chain}} (simulado).",
+    "stats": {
+      "total": "Tokens de rastreamento"
+    },
+    "kinds": {
+      "native": "Indivíduos nativos",
+      "ibc": "IBC",
+      "external": "Externo",
+      "stable": "Stablecoin",
+      "liquid": "Estaqueamento líquido"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Tipo",
+      "denom": "Denom",
+      "price": "Preço",
+      "change": "24h",
+      "supply": "Oferta",
+      "holders": "Titulares",
+      "marketCap": "Valor de mercado"
+    },
+    "filterPlaceholder": "Filtro por símbolo, nome ou denominação",
+    "tableCaption": "Tokens em {{chain}}"
+  },
+  "account": {
+    "title": "Conta",
+    "description": "Saldos e atividade recente de uma conta em {{chain}} (simulada).",
+    "available": "Disponível",
+    "balances": "Saldos",
+    "counterparty": "Contraparte",
+    "direction": "Direcção",
+    "in": "No",
+    "out": "Fora",
+    "history": "Histórico de transações",
+    "historyCaption": "Transações de {{address}}",
+    "invalidTitle": "Não é um endereço válido",
+    "invalidBody": "Isto não é válido. {{chain}} Endereço. Os endereços desta rede começam com {{prefix}} 1 e incluir uma soma de verificação.",
+    "noBalances": "Sem equilíbrio.",
+    "noHistory": "Não foram encontradas transacções",
+    "noHistoryBody": "Esta conta não tem atividade simulada nos {{blocks}} blocos mais recentes.",
+    "rewards": "Recompensas: {{value}}",
+    "staked": "Empilhados",
+    "totalValue": "Valor total",
+    "txCount": "Transações",
+    "unknown": "Este é um endereço válido, mas não aparece na simulação, por isso não tem equilíbrios ou histórico.",
+    "window": "nos mais recentes {{blocks}} blocos",
+    "demoWallet": "Esta é a sua carteira Demo, os seus saldos e transações são simulados e existem apenas neste navegador."
+  },
+  "explorer": {
+    "description": "Procure {{chain}} e veja o que está acontecendo na rede (simulada) agora.",
+    "latestBlocks": "Últimos blocos",
+    "latestTransactions": "Últimas transações",
+    "searchTitle": "Procura o explorador",
+    "shortcuts": "Seções exploradoras"
+  }
+}

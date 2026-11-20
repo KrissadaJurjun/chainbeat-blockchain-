@@ -1,0 +1,32 @@
+{
+  "notifications": {
+    "label": "Notificări",
+    "title": "Notificări",
+    "unread": "Necitit",
+    "unreadLabel_one": "{{count}} notificare necitită",
+    "unreadLabel_few": "{{count}} notificări necitite",
+    "unreadLabel_other": "{{count}} de notificări necitite",
+    "markAllRead": "Marcaţi totul aşa cum a fost citit",
+    "empty": "Sunteți toate prins.",
+    "items": {
+      "proposalVoting": "Propunerea nr. {{id}} se află în perioada de votare mai rămân {{hours}} de ore.",
+      "proposalPassed": "Propunerea nr. {{id}} a fost adoptată şi va fi aplicată.",
+      "validatorJailed": "{{name}} a fost condamnat la închisoare.",
+      "upgradeScheduled": "Actualizarea reţelei {{version}} este programată în {{days}} de zile.",
+      "ibcVolume": "IBC Volumul transferurilor a crescut cu {{pct}}% în ultimele 24 de ore.",
+      "newBlock": "Blocul {{height}} a fost produs pe {{chain}} (simulat).",
+      "walletConnectedDemo": "Demo portofel conectat (simulat).",
+      "walletConnected": "{{name}} conectat, nimic nu a fost semnat.",
+      "walletDisconnected": "Portofelul a fost deconectat de la sesiunea browserului.",
+      "txSuccess": "Confirmată tranzacția simulată: {{summary}}",
+      "txFailed": "O tranzacţie simulată a eşuat pentru că simularea de eroare este activată.",
+      "proposalCreated": "Demo propunere #{{id}} {{title}} a fost adăugată (simulată).",
+      "networkChanged": "Am schimbat la {{chain}}.",
+      "simPaused": "Simularea este oprită. Datele simulate nu vor fi actualizate până când o reîncepi.",
+      "errorSimulation": "Simularea de eroare este activată, cererile de date şi confirmările de portofel nu vor reuşi până când îl dezactivaţi."
+    },
+    "dismiss": "Notificarea de respingere",
+    "clearAll": "Curăţaţi totul",
+    "simulatedNote": "Obiectele din fluxul de reţea sunt simulate."
+  }
+}

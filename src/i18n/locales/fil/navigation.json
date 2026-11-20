@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Paglalakbay sa sidebar",
+    "primary": "Pangunahing navigasyon",
+    "menu": "Menu ng pag-navigate",
+    "openMenu": "Buksan ang menu ng pag-navigate",
+    "closeMenu": "Tapusin ang menu ng pag-navigate",
+    "collapseSidebar": "Collapse sidebar",
+    "expandSidebar": "Paglawak ng sidebar",
+    "skipToContent": "I-skip sa pangunahing nilalaman",
+    "home": "ChainBeat sa bahay",
+    "pages": "Mga pahina",
+    "dashboard": "Dashboard",
+    "validators": "Mga Validator",
+    "proposals": "Mga Panukala",
+    "blocks": "Mga Block",
+    "transactions": "Mga Transaksyon",
+    "portfolio": "Portfolio",
+    "swap": "Palitan",
+    "stake": "Stake",
+    "liquidStaking": "Liquid Staking",
+    "send": "Ipadala",
+    "vote": "Bumoto",
+    "createProposal": "Gumawa ng panukala",
+    "market": "Merkado",
+    "network": "Network",
+    "governance": "Pamamahala",
+    "ibcNetwork": "IBC Network",
+    "devActivity": "Aktibidad ng developer",
+    "multichain": "Pangkalahatang-ideya ng multichain",
+    "heartbeat": "Tibok ng puso",
+    "dominance": "Dominasyon",
+    "validatorsViz": "Mga Validator",
+    "blockExplorer": "Block Explorer",
+    "transactionExplorer": "Transaction Explorer",
+    "tokenExplorer": "Token Explorer",
+    "about": "Tungkol",
+    "explorerHome": "Explorer",
+    "governanceHome": "Hub ng pamamahala",
+    "settings": "Mga Setting"
+  },
+  "sections": {
+    "explorer": "Explorer",
+    "wallet": "Wallet",
+    "analytics": "Analytics",
+    "visualizations": "Mga Visualization"
+  },
+  "chains": {
+    "favorite": "Magdagdag ng {{name}} sa mga paborito",
+    "unfavorite": "Alisin ang {{name}} mula sa mga paborito",
+    "simulatedHealthy": "Simulating network · malusog"
+  },
+  "search": {
+    "label": "Maghanap ng ChainBeat",
+    "placeholder": "Paghahanap block, tx, address...",
+    "results": "Mga resulta ng paghahanap",
+    "noResults": "Walang resulta para sa {{query}}",
+    "kinds": {
+      "page": "pahina",
+      "block": "Block",
+      "transaction": "Tx",
+      "validator": "Validator",
+      "token": "Token",
+      "address": "Address",
+      "proposal": "Panukala"
+    },
+    "recent": "Mga kamakailang paghahanap",
+    "clearRecent": "Malinaw na kamakailang paghahanap",
+    "removeRecent": "Alisin ang {{query}} mula sa mga kamakailang paghahanap",
+    "hint": "Subukan ang isang height ng bloke, isang transaksyon hash, isang address ( {{prefix}} 1...), isang validator, isang numero ng proposal o isang token denominator.",
+    "submit": "Maghanap",
+    "searching": "Naghahanap...",
+    "resultCount": "Resulta: {{count}}",
+    "invalid": {
+      "tooLong": "Ito'y masyadong mahaba upang maging isang salitang paghahanap (200 characters maximum).",
+      "badChecksum": "Mukhang alamat ito, ngunit ang checksum nito ay hindi tumutugma. Suriin ito para sa mga typo.",
+      "badHash": "Ang isang transaksyon o block hash ay may eksakto na 64 hexadecimal characters.",
+      "badChars": "Maghanap ng isang height ng bloke, isang hash, isang address, isang validator, isang proposal o isang token."
+    },
+    "categories": {
+      "page": "Mga pahina",
+      "block": "Mga Block",
+      "transaction": "Mga Transaksyon",
+      "address": "Mga address",
+      "validator": "Mga Validator",
+      "proposal": "Mga Panukala",
+      "token": "Mga token"
+    }
+  },
+  "user": {
+    "menu": "Menu ng account",
+    "guest": "Mga bisita",
+    "notConnected": "Walang wallet na konektado",
+    "settings": "Mga Setting",
+    "about": "Tungkol sa ChainBeat"
+  }
+}

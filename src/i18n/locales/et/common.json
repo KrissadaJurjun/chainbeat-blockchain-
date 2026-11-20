@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simuleeritud",
+    "close": "Sulge",
+    "retry": "Proovi uuesti",
+    "refresh": "Värskenda",
+    "copy": "Kopeeri",
+    "copied": "Kopeeritud",
+    "clear": "Tühjenda",
+    "loading": "Laadimine…",
+    "options": "Võimalused",
+    "previous": "Eelmine",
+    "next": "Järgmine",
+    "pagination": "Leheküljed",
+    "pageN": "Lehekülg {{n}}",
+    "dismiss": "Peida",
+    "cancel": "Tühista",
+    "viewAll": "Vaata kõiki",
+    "max": "Maks",
+    "amount": "Summa",
+    "balance": "Saldo",
+    "fee": "Tasu",
+    "status": "Olek",
+    "time": "Aeg",
+    "height": "Kõrgus",
+    "hash": "Räsi",
+    "type": "Tüüp",
+    "all": "Kõik",
+    "showing": "Näita {{from}} {{to}} {{total}}",
+    "noResults": "Teie filtreid ei vasta tulemustele.",
+    "rowsPerPage": "Reedid lehekülje kohta",
+    "actions": "Tegevused",
+    "exportCsv": "Ekspordi CSV",
+    "details": "Üksikasjad",
+    "clearFilters": "Puhtad filtreerid",
+    "collapseAll": "Kõik kokku kukkuvad",
+    "copyJson": "Koopia JSON",
+    "expandAll": "Laienda kõik",
+    "showMore": "Näita veel {{count}}"
+  },
+  "language": {
+    "label": "Keel",
+    "search": "Otsingu keeled"
+  },
+  "theme": {
+    "label": "Teema",
+    "system": "Süsteem",
+    "dark": "Tume",
+    "light": "Hele"
+  },
+  "footer": {
+    "tagline": "Uuri blokke, jälgi tehinguid, mõista Web3.",
+    "demo": "Demo Režiim kõik andmed on simuleeritud ja ei ole reaalsed võrgustatistika.",
+    "share": "Osalemine",
+    "linkCopied": "Link kopeeritud kliimapordisse.",
+    "docs": "Dokumentatsioon",
+    "links": "Linnajäljed",
+    "modeDemo": "Demo Võrgu",
+    "repository": "Repository",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Lehte ei leitud",
+    "body": "Lehekülge, mida otsid, ei eksisteeri või on liikunud.",
+    "home": "Tagasi armatuurlauale"
+  },
+  "gate": {
+    "title": "Lülita Demo rahakott edasi",
+    "body": "See töövool töötab simulatsioonilises rahakirjas. Liigu rahakirja Demo proovida midagi tõelist ei ole kunagi allkirjastatud või saadetud.",
+    "realTitle": "Tõeline rahakott on ühendatud",
+    "realBody": "{{address}} See on ühendatud, kuid ChainBeat Demo Mode ei allkirja ega edastata tehinguid.",
+    "useDemo": "Kasuta Demo rahakoti"
+  }
+}

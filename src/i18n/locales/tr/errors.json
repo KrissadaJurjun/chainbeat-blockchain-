@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Henüz bir şey yok",
+    "emptyBody": "Bu görüş için gösterilecek bir veri yok.",
+    "errorTitle": "Bu verileri yükleyemedim",
+    "errorBody": "Ağı okurken bir şey ters gitti, bağlantını kontrol et ve tekrar dene.",
+    "crashTitle": "Bir şey ters gitti",
+    "crashBody": "Bu sayfa beklenmedik bir hata ile karşılaştı.",
+    "reload": "Yeniden yükleme sayfası"
+  }
+}

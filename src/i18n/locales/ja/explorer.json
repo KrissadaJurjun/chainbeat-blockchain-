@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "{{chain}} で知られているネイティブ、IBC、リキッドステーキング、外部資産です（シミュレーション）。",
+    "stats": {
+      "total": "追跡中のトークン"
+    },
+    "kinds": {
+      "native": "ネイティブ",
+      "ibc": "IBC",
+      "external": "外部",
+      "stable": "ステーブルコイン",
+      "liquid": "リキッドステーキング"
+    },
+    "col": {
+      "token": "トークン",
+      "type": "種類",
+      "denom": "Denom",
+      "price": "価格",
+      "change": "24時間",
+      "supply": "供給量",
+      "holders": "保有者",
+      "marketCap": "時価総額"
+    },
+    "filterPlaceholder": "シンボル、名前、denom で絞り込み",
+    "tableCaption": "{{chain}} のトークン"
+  },
+  "account": {
+    "title": "口座",
+    "description": "{{chain}}の口座の余分と最近の活動 (シミュレーション)。",
+    "available": "入手可能",
+    "balances": "バランス",
+    "counterparty": "契約相手",
+    "direction": "方向",
+    "in": "中",
+    "out": "外へ",
+    "history": "取引履歴",
+    "historyCaption": "{{address}}の取引",
+    "invalidTitle": "有効なアドレスではない",
+    "invalidBody": "これは有効ではありません {{chain}} このネットワーク上のアドレスは で始まる. {{prefix}} 1とチェック金額を記入する.",
+    "noBalances": "バランスのない。",
+    "noHistory": "取引が見つかりませんでした",
+    "noHistoryBody": "このアカウントには最新{{blocks}}ブロックのシミュレーション活動がない.",
+    "rewards": "賞与: {{value}}",
+    "staked": "ステーキ",
+    "totalValue": "総額",
+    "txCount": "トランザクション",
+    "unknown": "これは有効なアドレスですが,シミュレーションには表示されませんので,バランスや履歴はありません.",
+    "window": "最新の{{blocks}}ブロック",
+    "demoWallet": "これはあなたの Demo 財布です. その余分と取引はシミュレーションされ,このブラウザでのみ存在します."
+  },
+  "explorer": {
+    "description": "{{chain}}を検索して (シミュレーション) ネットワークで今何が起きているか確認してください.",
+    "latestBlocks": "最新ブロック",
+    "latestTransactions": "最新取引",
+    "searchTitle": "探偵を捜す",
+    "shortcuts": "エクスプローラーセクション"
+  }
+}

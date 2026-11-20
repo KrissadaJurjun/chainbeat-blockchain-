@@ -1,0 +1,37 @@
+{
+  "blockDetail": {
+    "title": "בלוק {{height}}",
+    "invalid": "גובה כביש לא חוקי",
+    "description": "פרטים על בלוק מודפס על {{chain}}.",
+    "previous": "בלוק הקודם",
+    "next": "בלוק הבא",
+    "notFoundTitle": "בלוק לא נמצא",
+    "notFoundBody": "ל-{{chain}} עדיין אין בלוק בגובה זה.",
+    "transactions_one": "{{count}} עסקאות",
+    "transactions_two": "{{count}} עסקאות",
+    "transactions_other": "{{count}} עסקאות",
+    "txCaption": "עסקאות בבלוק {{height}}",
+    "noTxs": "בלוק הזה אין עסקאות",
+    "genesis": "בלוק בראשית",
+    "parentHash": "חשיש הורים",
+    "demoTxs": "Demo עסקאות ארנקות בגובה זה",
+    "demoTxsNote": "אלה נוצרו על ידי הארנק Demo. הם אינם חלק מהספר של העסקאות של הבלוק המזויג עצמו."
+  },
+  "blocksPage": {
+    "description": "הבלוקים החדשים ביותר ב-{{chain}}. הרשימה מתחדשת בערך פעם בכל בלוק.",
+    "live": "חיה",
+    "avgGas": "גז Avg. משמש",
+    "tableCaption": "בלוקים האחרונים ב-{{chain}}",
+    "proposer": "המציע",
+    "txs": "Txs",
+    "gas": "גז שנוצל",
+    "size": "גודל",
+    "emptyTitle": "לא נמצאו בלוקים",
+    "filterPlaceholder": "פילטר לפי גובה, האש או מעודד",
+    "filtersLabel": "פילטר בלוק",
+    "finality": "סיום",
+    "finalityNote": "בלוקים ברשת מסוג זה הם סופיים ברגע שהם מתחייבים.",
+    "finalized": "סופית",
+    "withTxsOnly": "רק בלוקים עם עסקאות"
+  }
+}

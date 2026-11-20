@@ -1,0 +1,6 @@
+{
+  "accessibility": {
+    "navigatedTo": "{{title}}へ移動",
+    "loadingPage": "読み込みページ"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "העסקים האחרונים ב-{{chain}}. פתח אחד לפרטים המלאים.",
+    "stats": {
+      "recent": "עסקאות קרובות",
+      "success": "הצלחה",
+      "failed": "נכשלה",
+      "volume": "כמות מקומית"
+    },
+    "filterPlaceholder": "מסנן לפי האש, כתובת או גובה",
+    "allTypes": "כל הסוגים",
+    "tableCaption": "העסקים האחרונים ב-{{chain}}",
+    "from": "מאת",
+    "to": "אל",
+    "memo": "הערה",
+    "noMemo": "אין תזכורת",
+    "raw": "צפו בנתונים גולשים (סימולציה)",
+    "detailTitle": "עסקה",
+    "detailDescription": "פרטים על עסקה מדומה ב-{{chain}}.",
+    "notFoundTitle": "העסקה לא נמצאה",
+    "notFoundBody": "אין עסקאות עם האש הזה קיימות על {{chain}} בסימולציה.",
+    "failedBecause": "העסקה הזאת נכשלה: {{reason}}.",
+    "types": {
+      "send": "שליחה",
+      "delegate": "המשלח",
+      "undelegate": "לא מחויבים",
+      "claim": "דרישות פרס",
+      "vote": "הצבעה",
+      "ibc-transfer": "IBC העברה",
+      "swap": "החלפה",
+      "other": "אחרים"
+    },
+    "status": {
+      "success": "הצלחה",
+      "failed": "נכשלה"
+    },
+    "block": "בלוק",
+    "cardsLabel": "עסקאות",
+    "category": "קטגוריה",
+    "date": "תאריך",
+    "dateNote": "מראה את {{count}} העסקים האחרונים עד סוף {{date}} (UTC).",
+    "emptyTitle": "לא נמצאו עסקאות",
+    "events": "אירועים",
+    "failedEvents": "העסקה הזאת נכשלה, אז היא שחררה רק את אירוע הוצאותיה.",
+    "feeSymbol": "סימן תשלום",
+    "filtersLabel": "פילטר העסקה",
+    "gasUsed": "גז שנוצל",
+    "gasWanted": "גז מבוקש",
+    "groups": {
+      "transfer": "העברות",
+      "staking": "תקיפה",
+      "governance": "ממשל",
+      "ibc": "IBC",
+      "swap": "סוופים",
+      "other": "אחרים"
+    },
+    "latestNote": "מראה את העסקים האחרונים {{count}} בחר תאריך כדי להסתכל אחורה יותר.",
+    "messageType": "סוג הודעה",
+    "network": "רשת",
+    "symbol": "טוקן",
+    "syntheticNote": "זה רשום סינטטי שנוצר עבור Demo מצב. ההש שלו הוא לא ממש blockchain ההש והוא לא ניתן לאמת על כל רשת.",
+    "token": "טוקן",
+    "validator": "מאמת",
+    "demoWalletNote": "העסקה הזו נוצרה על ידי הארנק Demo. היא קיימת רק בדפדפן הזה: לא התקיימה העברה של בלוקצ'יין, וההש שלה אינו בלוקצ'יין אמיתי.",
+    "demoTag": "Demo הארנק"
+  }
+}

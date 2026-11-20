@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "Plokk {{height}}",
+    "invalid": "Invaliidsed bloki kõrgus",
+    "description": "Detailid simuleeritud bloki kohta {{chain}}.",
+    "previous": "Eelmine kvartal",
+    "next": "Järgmine kvartal",
+    "notFoundTitle": "Blokk ei leitud",
+    "notFoundBody": "{{chain}} ei ole veel sellel kõrgusel bloki.",
+    "transactions_one": "{{count}} tehing",
+    "transactions_other": "{{count}} tehingud",
+    "txCaption": "Tehingud blokis {{height}}",
+    "noTxs": "Selle blokiga ei ole tehinguid",
+    "genesis": "Genesis'i blokk",
+    "parentHash": "Vanemate haš",
+    "demoTxs": "Demo Kannapesu tehingud selles kõrguses",
+    "demoTxsNote": "Need loodi Demo. rahakoti poolt. Nad ei ole osa simuleeritud bloki enda tehingute arvust."
+  },
+  "blocksPage": {
+    "description": "Uusimad blokid. {{chain}} Loetelu uuendatakse umbes kord kvartalis.",
+    "live": "Elavad",
+    "avgGas": "Kasutatud avg. gaas",
+    "tableCaption": "Viimased blokkid {{chain}}",
+    "proposer": "Eelnõu esitaja",
+    "txs": "Txs",
+    "gas": "Kasutatud gaas",
+    "size": "Suurus",
+    "emptyTitle": "Ei leitud blokeid",
+    "filterPlaceholder": "Filter kõrgusest, hashist või validatorist",
+    "filtersLabel": "Blokifilterid",
+    "finality": "Lõplikus",
+    "finalityNote": "Sellise võrgustiku blokeerimine on lõplik, kui see on sõlmitud.",
+    "finalized": "Täidetud",
+    "withTxsOnly": "Ainult tehingutega seotud blokid"
+  }
+}

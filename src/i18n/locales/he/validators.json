@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "וולס מחוברים",
+    "viewAll": "ראו את כל המאושרים",
+    "col": {
+      "validator": "מאמת",
+      "power": "כוח הצבעה",
+      "cumulative": "סך הכל",
+      "commission": "עמלת מאמת",
+      "uptime": "זמינות",
+      "change": "שינוי 24 שעות ביממה",
+      "details": "פרטים",
+      "tokens": "סימני חיסכון"
+    },
+    "stake": "סטייקינג",
+    "stakeWith": "תערוך את זה",
+    "pageDescription": "כל מבקש מבטיח {{chain}}, ממוקם לפי כוח ההצבעה (נדמיקציה).",
+    "stats": {
+      "active": "מדווחים פעילים",
+      "nakamoto": "קואפייצ'ינט נקאמוטו",
+      "nakamotoHint": "מתוארים נדרשים כדי לעצור את שרשרת",
+      "top10": "עשרה הכוחות הצביעים הטובים ביותר",
+      "commission": "עמלה ממוצעת"
+    },
+    "filterPlaceholder": "פילטר לפי שם או כתובת",
+    "statusFilter": "מעמד המוודא",
+    "tableCaption": "מתוארים ב-{{chain}}",
+    "detailDescription": "מדריך אישור סימולתי ב-{{chain}}.",
+    "detail": {
+      "delegators": "מאצילים",
+      "bonded": "סימנים מחוברים",
+      "last30": "30 ימים האחרונים",
+      "last90": "90 ימים האחרונים",
+      "noBlocks": "אין בלוקים שנציעו לאחרונה.",
+      "noWebsite": "לא זמין (מתוקן בדיוני)",
+      "openPage": "פתח דף מלא",
+      "powerHistory": "כוח הצבעה",
+      "proposed24h": "חבילות מוצעות (24 שעות)",
+      "rank": "דירוג",
+      "recentBlocks": "חבילות הוצעו לאחרונה",
+      "selfBonded": "מחויבות עצמית",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "זמינות",
+      "valueUsd": "ערך ההימור {{value}}",
+      "website": "אתר אינטרנט"
+    },
+    "status": {
+      "active": "פעיל",
+      "inactive": "לא פעיל",
+      "jailed": "נעול"
+    },
+    "activitiesTitle": "פעילויות מבטיחות",
+    "commissionShort": "דמי {{value}}",
+    "detailTitle": "מאמת",
+    "fictionalNote": "זה לא מפעיל אמיתי ושום דבר עליו לא מוודא.",
+    "hoverTip": "הוועדה {{commission}} · זמן פעילות {{uptime}} · {{delegators}} נציגים",
+    "noMatching": "אין מתאימים בדיקות.",
+    "notFoundBody": "{{chain}} אין אישור עם כתובת זו.",
+    "notFoundTitle": "לא מצאו את המוודא",
+    "sort": {
+      "power": "כוח הצבעה",
+      "commission": "עמלת מאמת",
+      "uptime": "זמינות"
+    },
+    "sortBy": "לסדר את המאושרים לפי"
+  },
+  "validatorsViz": {
+    "description": "הוועדה לעומת זמן הפעלה לכל מבקש ב-{{chain}}; גודל הבועה מראה כוח הצבעה.",
+    "showAll": "לכלול לא פעיל או מאסר",
+    "avgUptime": "תקופת הפעלה הממוצעת",
+    "zeroFee": "מדווחים עם תקציב אפס",
+    "chartTitle": "הוועדה לעומת זמן הפעלה",
+    "chartHint": "כל בועה היא מבטיחה אחת",
+    "legend": "אגדה של צ'רטים",
+    "sizeHint": "גודל הבועה = כוח ההצבעה"
+  }
+}

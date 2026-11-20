@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Zmanjšajte gibanje",
+    "reduceMotionHint": "Minimizirajte animacije in prehode.",
+    "appearance": {
+      "compact": "Kompakten razpored",
+      "compactHint": "Vmesna površina vsebine je nekoliko manjša.",
+      "description": "Tema, gibanje in gostota.",
+      "title": "Izgled"
+    },
+    "confirm": {
+      "action": "Potrdi",
+      "title": "Si prepričan? -Ja.",
+      "dataset": "S tem se simulirani ura, njegova hitrost, zamuda in prisiljene napake nastavijo na predpostavke. Demo denarnica se ne dotakne.",
+      "wallet": "S tem se obnovijo začetni bilanci denarnice Demo in se odstrani simulirana dejavnost, glasovi in predlogi.",
+      "all": "To odstrani vse nastavitve ChainBeat, shranjene v tem brskalniku (jezik, tema, omrežje, denarnica Demo, nedavna iskanja) in ponovno naloži stran."
+    },
+    "data": {
+      "datasetReset": "Demo Nastavitev datoteka v realnem času.",
+      "description": "Kako sveže so podatki in kako nastaviti simulacijo.",
+      "refresh": "Osvežite žive podatke",
+      "refreshHint": "Kako pogosto seznami in števiči ponovno preberejo (simulirano) omrežje.",
+      "refreshOptions": {
+        "live": "Živeti",
+        "slow": "Počasi",
+        "manual": "Priročnik"
+      },
+      "resetDataset": "Ponovno nastavitev demo podatkovne zbirke",
+      "searchesCleared": "Zadnje preiskave so bile odpravljene.",
+      "speedHint": "Ustavite simulacijsko uro ali jo upočasnite.",
+      "title": "Podatki"
+    },
+    "description": "Izgled, jezik, omrežje in zasebnost. Vse je shranjeno samo v tem brskalniku.",
+    "language": {
+      "count": "{{shipped}} od {{total}} jezikov, ki so na voljo",
+      "current": "Trenutni jezik",
+      "description": "Izberite jezik vmesnika. Poiščite po domačem imenu, angleškem imenu ali šifri.",
+      "fallback": "Tekst, ki še ni bil prevajen, je prikazan v angleščini.",
+      "title": "Jezik"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Katero omrežje naj raziskujem in od kod prihajajo podatki.",
+      "endpoint": "Živ končni točki",
+      "live": "Živeti",
+      "liveUnavailable": "Če je končna točka konfigurirana, lahko testirate povezavo, vendar aplikacija nikoli ne meša živih in simuliranih podatkov.",
+      "mode": "Vir podatkov",
+      "noEndpoint": "Nič (simulirani podatki)",
+      "selected": "Omrežje",
+      "status": "Povezava",
+      "statusDemo": "Simulirani omrežje · višina {{height}}",
+      "title": "Omrežje",
+      "unavailable": "ni na voljo",
+      "test": "Preskusna povezava",
+      "testing": "Testiranje...",
+      "testHint": "Na spodnjo končno točko pošlje dve zahtevi GET za samo branje in prikazuje odgovor. Nič se ne shrani in vir podatkov se ne spremeni.",
+      "testOk": "Povezan na {{chain}}: zadnji blok {{height}}, odgovor v {{ms}} ms.",
+      "testPartial": "Povezan na {{chain}}: najnovejši blok {{height}}, odgovor v {{ms}} ms. Nekatere opcijske podrobnosti niso bile na voljo.",
+      "testError": {
+        "timeout": "Končna točka ni odgovorila pravočasno.",
+        "network": "Končna točka ni bila dosegljiva.",
+        "http": "Končna točka je odgovorila z napako.",
+        "invalid": "Končna točka je odgovorila, vendar ne v obliki Cosmos REST API, zato ni bilo uporabljeno ničesar."
+      }
+    },
+    "privacy": {
+      "clearAll": "Izbrišite vse podatke ChainBeat v tem brskalniku",
+      "description": "Kaj ta aplikacija shranjuje in kaj lahko vidi.",
+      "keysCaption": "Storjenje v brskalniku, ki ga uporablja ChainBeat",
+      "noNetwork": "ChainBeat nikamor ne pošlje podatkov: nima analitike in ne zahteva razen lastnih datotek. Obstajata dve opcionalni izjemo: gumb Test connection, ki se prikaže le, ko konfigurirate končno točko in ji pošljete dve samo-prebrani zahtevi, in gumb Google sign-in, ki se prikaže šele, ko dodate svoj Google klient ID in se nato naloži iz Googla.",
+      "noSeed": "ChainBeat nikoli ne prosi, ne shranjuje ali ne vidi črke, zasebnega ključa ali gesla denarnice.",
+      "storage": "Prednosti, izbrano omrežje, simulirane ure, denarnico Demo, nedavne iskanje in vsak demonstracijski račun, ki ga ustvarite, se shranijo samo v lokalnem shranitvi brskalnika.",
+      "title": "Zasebnost",
+      "wallet": "Če povežete razširitev brskalnika denarnice, ChainBeat prebere samo vaš javni naslov in ime računa in šele po odobritvi. Nič ni podpisano ali poslano.",
+      "keys": {
+        "lang": "Izbran jezik",
+        "ui": "Tema, gibanje, gostota, razporeditev in priljubljeni",
+        "chain": "Izbrano omrežje",
+        "sim": "Simulirani ura, hitrost in zamuda",
+        "wallet": "Demo denarnica: izmišljeni bilanci, dejavnost, glasovi, predlogi",
+        "notifications": "Katera obvestila ste prebrali ali zavrnili in lokalni dogodki ( denarnica, simulirane transakcije)",
+        "search": "Nedavne iskanje",
+        "auth": "Demo računov: uporabniška imena, e-poštni naslovi, slanih hashov za geslo in tekoče prijave"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Demo Režim",
+    "chipTip": "Vsi podatki so simulirani.",
+    "controls": "Demo nadzorni sistemi",
+    "controlsIntro": "ChainBeat deluje na determinističnih simuliranih podatkih.",
+    "clock": "Simulirani ura",
+    "simulatedNow": "Simulirani čas",
+    "offset": "{{value}} h naprej",
+    "advanceHour": "Vnaprej eno uro",
+    "advanceDay": "Vnaprej 1 dan",
+    "resetClock": "Nastavitev ur",
+    "clockNote": "Z napredovanjem urja nastanejo novi blokovi, cene in dogodki na {{chain}}.",
+    "network": "Obnašanje omrežja",
+    "latency": "Simulirani zamudi",
+    "latencyOff": "Odklonite",
+    "simulateErrors": "Simulirajte napake omrežja",
+    "simulateErrorsHint": "Vsaka zahteva ne uspe, zato lahko preverite stanje napake.",
+    "wallet": "Demo denarnica",
+    "resetWallet": "Ponovno nastaviti demo denarnico",
+    "walletReset": "Demo denarnica je nastavljena na začetno stanje.",
+    "noticeTitle": "Demo način.",
+    "noticeBody": "Ta delni tok je simuliran, nič ni podpisano ali oddajeno in ne gre za resnične sredstva.",
+    "behind": "{{value}} ur pozneje kot v realnem času",
+    "speed": "Hitrost simulacije",
+    "speeds": {
+      "paused": "Zastavljena",
+      "slow": "Počasi",
+      "normal": "Normalna"
+    }
+  },
+  "about": {
+    "title": "O ChainBeatu",
+    "demo": "ChainBeat deluje v načinu Demo. Vsak blok, cena, validator in predlog se deterministično ustvari v vašem brskalniku.",
+    "privacy": "Ne potrebujejo API ključa, zasebnega ključa ali žetvene fraze. Opcionalni demo računi, preference in demo denarnica so shranjeni samo v brskalniku.",
+    "shortcuts": "Skratke na tipko",
+    "shortcutSearch": "Iskanje osredotočenosti",
+    "shortcutClose": "Zaprite pogovorne naloge in menije",
+    "languages": "Interfejsni jeziki: {{shipped}} od {{total}}. Prevodovi so strojno podprti in niso bili pregledani s strani matičnih govorcev; pred javno uporabo priporočamo strokovni pregled.",
+    "pageDescription": "Kaj je ChainBeat, kako se ukvarja z podatki in bližnjicami tipkovnice.",
+    "shortcutPalette": "Odprta iskanje (navodna paleta)"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "overview": {
+    "title": "Yleiskatsaus",
+    "unit": "Toimivuusindeksi · Perus = 100 starttialueella",
+    "refreshFailed": "En pystynyt päivittämään näyttää viimeiset latautuneet tiedot."
+  },
+  "chart": {
+    "keyboardHint": "Käytä nuolien avaimia liikkumiseen tietopisteiden välillä.",
+    "summary": "Työskentelyindeksi yli {{range}}: {{details}}",
+    "rangeLabel": "Aika-aika",
+    "seriesLabel": "Kaartien sarja",
+    "keepOne": "Ainakin yhden sarjan on pysyttävä näkyvänä",
+    "emptyTitle": "Näitä tietoja ei ole",
+    "emptyBody": "Kokeile toista aika-aikaa.",
+    "range": {
+      "24H": "KAKSI VUOROKAUTTA",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "Viimeiset 24 tuntia",
+      "7D": "Viimeiset 7 päivää",
+      "30D": "Viimeiset 30 päivää",
+      "90D": "Viimeiset 90 päivää"
+    },
+    "zoomControls": "Zoom-ohjaus",
+    "zoomIn": "Suurennetaan",
+    "zoomOut": "Suurennetaan",
+    "resetView": "Käsitteleminen uudelleen",
+    "zoomLevel": "Zoomin taso"
+  },
+  "proposals": {
+    "title": "Ehdotukset",
+    "filter": "Ehdotuksen suodatin",
+    "live": "Elä",
+    "total": "Yhteensä",
+    "viewAll": "Katso kaikki ehdotukset",
+    "noneLive": "Eikä ole ehdotuksia",
+    "noneLiveBody": "Tällä hetkellä ei ole käynnissä olevaa hallintoa.",
+    "showAll": "Näytä viimeaikaiset ehdotukset",
+    "endsIn": "Lopputulos {{time}}",
+    "turnout": "Osallistumisaste",
+    "vote": "Äänestä",
+    "status": {
+      "voting": "Äänestys käynnissä",
+      "deposit": "Talletus",
+      "passed": "Hyväksytty",
+      "rejected": "Hylätty",
+      "failed": "Epäonnistui"
+    },
+    "passed": "Hyväksytty",
+    "rejected": "Hylätty",
+    "noneMatching": "Ei yhtäläisiä ehdotuksia",
+    "noneMatchingBody": "Mikään ei vastaa tätä suodetta juuri nyt."
+  },
+  "dev": {
+    "title": "Kehittäjäaktiivisuus",
+    "summary": "{{total}} rahoitusosuuksia",
+    "viewFull": "Avoin kehittäjätoimi",
+    "heatmapLabel": "Tuotantojen lämpökartta: {{total}} osuutta {{weeks}} viikon aikana",
+    "less": "Vähemmän",
+    "more": "Lisää",
+    "cellTitle_one": "{{count}} osuutta {{date}}",
+    "cellTitle_other": "{{count}} rahoitusosuuksia {{date}}",
+    "range": "Kuumuuskartan laajuus",
+    "ranges": {
+      "month": "Kuukausi",
+      "quarter": "Neljänneksi",
+      "year": "Vuosi"
+    }
+  },
+  "repos": {
+    "title": "Aktiivinen tallennus",
+    "period": "Vuosi",
+    "periods": {
+      "week": "Viikko",
+      "month": "Kuukausi",
+      "year": "Vuosi",
+      "quarter": "Neljänneksi"
+    },
+    "contributors": "Toimittajat",
+    "stars": "Tähdet",
+    "sparkline": "Toiminta {{name}}",
+    "vsPrevious": "{{change}} verrattuna aiempaan tutkimusajanjaksolle",
+    "up": "Ylös",
+    "down": "Pysähdy alas",
+    "caption": "Valitun ajanjakson sitoumukset · simuloituja tallennuslaitoksia",
+    "col": {
+      "repository": "Varastointi",
+      "language": "Kieli",
+      "commits": "sitoumukset",
+      "change": "Muutos",
+      "trend": "Trendi"
+    },
+    "commitsCount": "Velvollisuudet: {{count}}",
+    "demoNote": "Demo data: tämä varasto on kuvitteellinen ja sen toiminta on simuloitu. Se ei ole yhteydessä GitHubin.",
+    "emptyBody": "Tähän aikaan ei ole säilytysalan toimintaa.",
+    "emptyTitle": "Ei säilytystoiminta",
+    "history": "sitoutumisen toiminta"
+  }
+}

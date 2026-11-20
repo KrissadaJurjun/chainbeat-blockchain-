@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Reduce motion",
+    "reduceMotionHint": "Minimise animations and transitions.",
+    "appearance": {
+      "compact": "Compact layout",
+      "compactHint": "Draws the content area slightly smaller.",
+      "description": "Theme, motion and density.",
+      "title": "Appearance"
+    },
+    "confirm": {
+      "action": "Confirm",
+      "title": "Are you sure?",
+      "dataset": "This resets the simulated clock, its speed, the latency and forced errors to their defaults. The Demo wallet is not touched.",
+      "wallet": "This restores the Demo wallet's starting balances and removes its simulated activity, votes and proposals.",
+      "all": "This removes every ChainBeat setting stored in this browser (language, theme, network, Demo wallet, recent searches) and reloads the page."
+    },
+    "data": {
+      "datasetReset": "Demo dataset reset to real time.",
+      "description": "How fresh the data is and how to reset the simulation.",
+      "refresh": "Refresh live data",
+      "refreshHint": "How often lists and counters re-read the (simulated) network.",
+      "refreshOptions": {
+        "live": "Live",
+        "slow": "Slow",
+        "manual": "Manual"
+      },
+      "resetDataset": "Reset demo dataset",
+      "searchesCleared": "Recent searches cleared.",
+      "speedHint": "Pause the simulated clock or slow it down.",
+      "title": "Data"
+    },
+    "description": "Appearance, language, network and privacy. Everything is stored only in this browser.",
+    "language": {
+      "count": "{{shipped}} of {{total}} languages available",
+      "current": "Current language",
+      "description": "Choose the interface language. Search by native name, English name or code.",
+      "fallback": "Text that is not translated yet is shown in English.",
+      "title": "Language"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Which network to explore and where the data comes from.",
+      "endpoint": "Live endpoint",
+      "live": "Live",
+      "liveUnavailable": "Live data is not available in this build: every page shows simulated data. If an endpoint is configured you can test the connection, but the app never mixes live and simulated data.",
+      "mode": "Data source",
+      "noEndpoint": "None (simulated data)",
+      "selected": "Network",
+      "status": "Connection",
+      "statusDemo": "Simulated network · height {{height}}",
+      "title": "Network",
+      "unavailable": "unavailable",
+      "test": "Test connection",
+      "testing": "Testing…",
+      "testHint": "Sends two read-only GET requests to the endpoint below and shows what it answers. Nothing is stored and the data source does not change.",
+      "testOk": "Connected to {{chain}}: latest block {{height}}, answered in {{ms}} ms.",
+      "testPartial": "Connected to {{chain}}: latest block {{height}}, answered in {{ms}} ms. Some optional details were unavailable.",
+      "testError": {
+        "timeout": "The endpoint did not answer in time.",
+        "network": "The endpoint could not be reached. Check the address and that it allows requests from this site.",
+        "http": "The endpoint answered with an error.",
+        "invalid": "The endpoint answered, but not in the format of a Cosmos REST API, so nothing was used."
+      }
+    },
+    "privacy": {
+      "clearAll": "Clear all ChainBeat data in this browser",
+      "description": "What this app stores and what it can see.",
+      "keysCaption": "Browser storage used by ChainBeat",
+      "noNetwork": "ChainBeat sends no data anywhere: it has no analytics and makes no requests except for its own files. There are two optional exceptions: the “Test connection” button, which only appears when you configure an endpoint and sends two read-only requests to it, and the Google sign-in button, which only appears after you add your own Google client ID and is then loaded from Google.",
+      "noSeed": "ChainBeat never asks for, stores or sees a seed phrase, private key or wallet password.",
+      "storage": "Preferences, the selected network, the simulated clock, the Demo wallet, recent searches and any demo account you create are saved in this browser's localStorage only.",
+      "title": "Privacy",
+      "wallet": "If you connect a browser wallet extension, ChainBeat reads only your public address and account name, and only after you approve it. Nothing is signed or sent.",
+      "keys": {
+        "lang": "Selected language",
+        "ui": "Theme, motion, density, layout and favourites",
+        "chain": "Selected network",
+        "sim": "Simulated clock, speed and latency",
+        "wallet": "Demo wallet: fictional balances, activity, votes, proposals",
+        "notifications": "Which notifications you have read or dismissed, and the local events (wallet, simulated transactions)",
+        "search": "Recent searches",
+        "auth": "Demo accounts: usernames, email addresses, salted password hashes and the current sign-in"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Demo Mode",
+    "chipTip": "All data is simulated. Open the demo controls.",
+    "controls": "Demo controls",
+    "controlsIntro": "ChainBeat runs on deterministic simulated data. Nothing here is read from, or sent to, a real blockchain.",
+    "clock": "Simulated clock",
+    "simulatedNow": "Simulated time",
+    "offset": "{{value}} h ahead",
+    "advanceHour": "Advance 1 hour",
+    "advanceDay": "Advance 1 day",
+    "resetClock": "Reset clock",
+    "clockNote": "Advancing the clock produces new blocks, prices and events on {{chain}}. Data for any given moment is always identical.",
+    "network": "Network behaviour",
+    "latency": "Simulated latency",
+    "latencyOff": "Off",
+    "simulateErrors": "Simulate network errors",
+    "simulateErrorsHint": "Every request fails so you can inspect error states.",
+    "wallet": "Demo wallet",
+    "resetWallet": "Reset demo wallet",
+    "walletReset": "Demo wallet reset to its starting balances.",
+    "noticeTitle": "Demo Mode.",
+    "noticeBody": "This workflow is simulated. Nothing is signed or broadcast and no real funds are involved.",
+    "behind": "{{value}} h behind real time",
+    "speed": "Simulation speed",
+    "speeds": {
+      "paused": "Paused",
+      "slow": "Slow",
+      "normal": "Normal"
+    }
+  },
+  "about": {
+    "title": "About ChainBeat",
+    "demo": "ChainBeat is running in Demo Mode. Every block, price, validator and proposal is generated deterministically in your browser. These are not current mainnet statistics.",
+    "privacy": "No API key, private key or seed phrase is needed. Optional demo accounts, preferences and the demo wallet are stored only in your browser.",
+    "shortcuts": "Keyboard shortcuts",
+    "shortcutSearch": "Focus search",
+    "shortcutClose": "Close dialogs and menus",
+    "languages": "Interface languages: {{shipped}} of {{total}}. Translations are machine-assisted and have not been reviewed by native speakers; professional review is recommended before public use.",
+    "pageDescription": "What ChainBeat is, how it handles data, and its keyboard shortcuts.",
+    "shortcutPalette": "Open search (command palette)"
+  }
+}

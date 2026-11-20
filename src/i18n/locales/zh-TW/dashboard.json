@@ -1,0 +1,101 @@
+{
+  "overview": {
+    "title": "概述",
+    "unit": "性能指數 · 範圍開始時的基數 = 100",
+    "refreshFailed": "顯示上次加載的數據無法更新."
+  },
+  "chart": {
+    "keyboardHint": "使用箭頭鍵在數據點之間移動.",
+    "summary": "性能指數超過 {{range}}: {{details}}",
+    "rangeLabel": "時間範圍",
+    "seriesLabel": "圖表系列",
+    "keepOne": "至少一個系列必須保持可視性",
+    "emptyTitle": "沒有這個範圍的數據",
+    "emptyBody": "試試另一種時間範圍或刷新.",
+    "range": {
+      "24H": "超過 24 小時",
+      "7D": "7D",
+      "30D": "30D 的情況",
+      "90D": "沒有任何問題"
+    },
+    "rangeLong": {
+      "24H": "在過去的24小時裡",
+      "7D": "在過去的7天",
+      "30D": "在過去的30天",
+      "90D": "在過去的90天"
+    },
+    "zoomControls": "變焦控制器",
+    "zoomIn": "放大速度",
+    "zoomOut": "放大速度",
+    "resetView": "預覽 預覽",
+    "zoomLevel": "放大速度"
+  },
+  "proposals": {
+    "title": "提案",
+    "filter": "提議過濾器",
+    "live": "活下去",
+    "total": "總計",
+    "viewAll": "查看所有提案",
+    "noneLive": "沒有實際提案",
+    "noneLiveBody": "目前沒有持續的治理.",
+    "showAll": "顯示最近的提案",
+    "endsIn": "結束 {{time}}",
+    "turnout": "投票率",
+    "vote": "投票",
+    "status": {
+      "voting": "投票中",
+      "deposit": "押金",
+      "passed": "已通過",
+      "rejected": "未通過",
+      "failed": "失敗"
+    },
+    "passed": "已通過",
+    "rejected": "未通過",
+    "noneMatching": "沒有相應的提案",
+    "noneMatchingBody": "沒有任何相匹配的光器."
+  },
+  "dev": {
+    "title": "開發活動",
+    "summary": "{{total}} 貢獻",
+    "viewFull": "公開開發活動",
+    "heatmapLabel": "在 {{weeks}} 週內有 {{total}} 個貢獻",
+    "less": "更多",
+    "more": "更多",
+    "cellTitle_other": "{{count}} 筆的貢獻 {{date}}",
+    "range": "熱地圖範圍",
+    "ranges": {
+      "month": "年 月 日",
+      "quarter": "五分之一",
+      "year": "年 月 日"
+    }
+  },
+  "repos": {
+    "title": "活動資料庫",
+    "period": "年 月 日",
+    "periods": {
+      "week": "年 月 日",
+      "month": "年 月 日",
+      "year": "年 月 日",
+      "quarter": "五分之一"
+    },
+    "contributors": "參與者",
+    "stars": "這些星星",
+    "sparkline": "{{name}} 年的承諾活動",
+    "vsPrevious": "{{change}}與前期相比",
+    "up": "這裡有很多人",
+    "down": "在下面",
+    "caption": "選擇期內的承諾 ·模擬資料庫",
+    "col": {
+      "repository": "資料庫",
+      "language": "語言",
+      "commits": "承諾",
+      "change": "改變",
+      "trend": "趨勢"
+    },
+    "commitsCount": "承諾: {{count}} 項",
+    "demoNote": "Demo 數據:此資料庫是虛構的,且其活動是模擬的. 它沒有與 GitHub 聯繫.",
+    "emptyBody": "這段時間沒有儲存活動.",
+    "emptyTitle": "沒有儲存活動",
+    "history": "承諾活動"
+  }
+}

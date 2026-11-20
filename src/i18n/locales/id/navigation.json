@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Navigasi sidebar",
+    "primary": "Navigasi utama",
+    "menu": "Menu navigasi",
+    "openMenu": "Menu navigasi terbuka",
+    "closeMenu": "Tutup menu navigasi",
+    "collapseSidebar": "Collapse sidebar",
+    "expandSidebar": "Perluas sidebar",
+    "skipToContent": "Skip ke konten utama",
+    "home": "ChainBeat rumah",
+    "pages": "Halaman",
+    "dashboard": "Dasbor",
+    "validators": "Validator",
+    "proposals": "Proposal",
+    "blocks": "Blok",
+    "transactions": "Transaksi",
+    "portfolio": "Portofolio",
+    "swap": "Tukar",
+    "stake": "Staking",
+    "liquidStaking": "Staking likuid",
+    "send": "Kirim",
+    "vote": "Voting",
+    "createProposal": "Buat proposal",
+    "market": "Pasar",
+    "network": "Jaringan",
+    "governance": "Tata kelola",
+    "ibcNetwork": "Jaringan IBC",
+    "devActivity": "Aktivitas pengembang",
+    "multichain": "Ikhtisar multichain",
+    "heartbeat": "Detak jantung",
+    "dominance": "Dominasi",
+    "validatorsViz": "Validator",
+    "blockExplorer": "Penjelajah blok",
+    "transactionExplorer": "Penjelajah transaksi",
+    "tokenExplorer": "Penjelajah token",
+    "about": "Tentang",
+    "explorerHome": "Penjelajah",
+    "governanceHome": "Hub Pemerintahan",
+    "settings": "Pengaturan"
+  },
+  "sections": {
+    "explorer": "Penjelajah",
+    "wallet": "Dompet",
+    "analytics": "Analitik",
+    "visualizations": "Visualisasi"
+  },
+  "chains": {
+    "favorite": "Tambahkan {{name}} ke Favorit",
+    "unfavorite": "Hapus {{name}} dari Favorit",
+    "simulatedHealthy": "Jaringan simulasi · sehat"
+  },
+  "search": {
+    "label": "Pencarian ChainBeat",
+    "placeholder": "Pencarian blok, tx, alamat...",
+    "results": "Hasil pencarian",
+    "noResults": "Tidak ada hasil untuk {{query}}",
+    "kinds": {
+      "page": "Halaman",
+      "block": "Blok",
+      "transaction": "Tks",
+      "validator": "Validator",
+      "token": "Token",
+      "address": "Alamat",
+      "proposal": "Proposal"
+    },
+    "recent": "Pencarian terbaru",
+    "clearRecent": "Pencarian terbaru yang jelas",
+    "removeRecent": "Hapus {{query}} dari pencarian terbaru",
+    "hint": "Cobalah ketinggian blok, hash transaksi, alamat ( {{prefix}} 1...), validator, nomor proposal atau denominasi token.",
+    "submit": "Cari",
+    "searching": "Mencari...",
+    "resultCount": "Hasil: {{count}}",
+    "invalid": {
+      "tooLong": "Itu terlalu panjang untuk menjadi istilah pencarian (200 karakter maksimum).",
+      "badChecksum": "Ini terlihat seperti alamat, tapi jumlah ceknya tidak sesuai. Periksa untuk kesalahan ketik.",
+      "badHash": "Sebuah transaksi atau blok hash memiliki tepat 64 karakter heksadesimal.",
+      "badChars": "Carilah ketinggian blok, hash, alamat, validator, proposal atau token."
+    },
+    "categories": {
+      "page": "Halaman",
+      "block": "Blok",
+      "transaction": "Transaksi",
+      "address": "Alamat",
+      "validator": "Validator",
+      "proposal": "Proposal",
+      "token": "Token"
+    }
+  },
+  "user": {
+    "menu": "Menu akun",
+    "guest": "Tamu",
+    "notConnected": "Tidak ada dompet yang terhubung",
+    "settings": "Pengaturan",
+    "about": "Tentang ChainBeat"
+  }
+}

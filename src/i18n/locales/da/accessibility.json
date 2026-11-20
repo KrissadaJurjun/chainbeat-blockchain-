@@ -1,0 +1,6 @@
+{
+  "accessibility": {
+    "navigatedTo": "Navigeret til {{title}}",
+    "loadingPage": "Opladningsside"
+  }
+}

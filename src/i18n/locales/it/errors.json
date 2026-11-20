@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Non c'è ancora niente",
+    "emptyBody": "Non ci sono dati da mostrare per questa visione.",
+    "errorTitle": "Non sono riuscito a caricare questi dati",
+    "errorBody": "Qualcosa e' andato storto mentre leggevi la rete, controlla la tua connessione e prova di nuovo.",
+    "crashTitle": "Qualcosa è andato storto",
+    "crashBody": "Questa pagina ha incontrato un errore inaspettato.",
+    "reload": "Pagina di ricarico"
+  }
+}

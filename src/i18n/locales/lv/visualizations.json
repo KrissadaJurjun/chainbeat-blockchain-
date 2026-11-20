@@ -1,0 +1,60 @@
+{
+  "ibcPage": {
+    "description": "Kā tokeni plūsmas starp ķēdes vairāk nekā IBC. dziļākas saites nozīmē vairāk 24 stundu apjomus.",
+    "volume": "24h IBC slāpeklis",
+    "chains": "Pievienotie ķēdes",
+    "links": "Aktivi kanāli",
+    "busiest": "Lielākais maršruts",
+    "mapLabel": "Karte no IBC savienojumu starp ķēdēm",
+    "nodeLabel": "{{name}}: {{volume}} 24 stundu laikā uz {{channels}} kanāliem",
+    "hint": "Atgriež, koncentrējies vai izvēlieties ķēdi, lai uzsvērtu tās savienojumus.",
+    "channelsOf": "Kanāli no {{name}}",
+    "topChannels": "Augstākie kanāli pēc slīpuma",
+    "transfers_zero": "{{count, number}} pārvedumi",
+    "transfers_one": "{{count, number}} nodošana",
+    "transfers_other": "{{count, number}} pārvedumi",
+    "info": {
+      "volume": "Volūts (24 h)",
+      "channels": "Kanāli",
+      "share": "IBC apjoma daļa",
+      "partner": "Uzņemts partneris"
+    }
+  },
+  "multichainPage": {
+    "description": "Visplašāka Kosmos stilā ekosistēma ar vienu skati simulēja skaitļus par katru saistīto ķēdi.",
+    "chains": "Liedzenes",
+    "tvl": "Kopējā lukturēta vērtība",
+    "validators": "Validatori",
+    "tx24h": "Transakcijas (24 stundas)",
+    "height": "Bloka augstums",
+    "open": "Atvērtā vadības ploča",
+    "switched": "Paslēgts uz {{name}}",
+    "registryOnly": "Reģistrēts demo vēl nav iespējams izvēlēties",
+    "tvlByChain": "TVL pēc ķēdes",
+    "tvlHint": "Simulēta kopējā lukturēta vērtība",
+    "explainTitle": "Ko nozīmē metrika",
+    "explainHint": "Šajā lapā atrodami skaitļi, kas ir skaidri definēti, un visas vērtības ir simulētas.",
+    "explain": {
+      "tvl": "Tokenu vērtība, kas ir ieguldīta vai turēta tīkla simulētajā ekonomikā, simulētās cenās.",
+      "height": "Cik blokiem ķēde ir izgājusi kopš tās sākuma.",
+      "validators": "Operatori, kas ierosina un paraksta blokus.",
+      "apr": "Apslēgtā gada atlīdzība par ieguldījumiem, kā procents pirms komisijas, pārvietojas ar inflāciju un ar ieguldīto tokenu daļu.",
+      "bonded": "Kopējā token piegādes daļa, kas ir ieslēgtā.",
+      "tx24h": "Transakcijas, kas iekļautas blokos pēdējo 24 stundu laikā visā sarakstā iekļautajos ķēdes garumā."
+    }
+  },
+  "heartbeatPage": {
+    "description": "{{chain}}. pulss: katrs bloks ir ritms attālums sekmē blokas laiku, augstums sekmē darījumu skaitli.",
+    "rate": "Bloka likme",
+    "perMinute": "bloki/min",
+    "sinceLast": "No pēdējā bloka",
+    "txLastMinute": "Transakcijas (pieču stundu)",
+    "monitor": "Pulsa monitoris",
+    "legend": "Strāvas augstums = darījumi blokā",
+    "chartLabel": "Svēto sirdsdarbības rādītājs: {{rate}} bloki minūtē, {{seconds}} sekundes starp blokiem",
+    "stream": "Bloka plūsma",
+    "txCount_zero": "{{count}} txs",
+    "txCount_one": "{{count}} tx",
+    "txCount_other": "{{count}} txs"
+  }
+}

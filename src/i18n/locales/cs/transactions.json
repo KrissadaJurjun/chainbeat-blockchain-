@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "Nejnovější transakce na {{chain}}.",
+    "stats": {
+      "recent": "Nedávné transakce",
+      "success": "Úspěšný",
+      "failed": "Selhalo",
+      "volume": "Nativní objem"
+    },
+    "filterPlaceholder": "Filtrování podle hashu, adresy nebo výšky",
+    "allTypes": "Všechny typy",
+    "tableCaption": "Nejnovější transakce na {{chain}}",
+    "from": "Od",
+    "to": "Komu",
+    "memo": "Memo",
+    "noMemo": "Žádná poznámka",
+    "raw": "Zobrazit surové údaje (simulované)",
+    "detailTitle": "Transakce",
+    "detailDescription": "Podrobnosti simulované transakce na {{chain}}.",
+    "notFoundTitle": "Transakce nenalezena",
+    "notFoundBody": "Žádná transakce s tímto hashem neexistuje na {{chain}} v simulaci.",
+    "failedBecause": "Tato transakce selhala: {{reason}}.",
+    "types": {
+      "send": "Odeslat",
+      "delegate": "Delegaci",
+      "undelegate": "Neodvolané",
+      "claim": "Požadavky na odměny",
+      "vote": "Hlasovat",
+      "ibc-transfer": "IBC převod",
+      "swap": "Výměna",
+      "other": "Ostatní"
+    },
+    "status": {
+      "success": "Úspěch",
+      "failed": "Selhalo"
+    },
+    "block": "Blok",
+    "cardsLabel": "Transakce",
+    "category": "Kategorie",
+    "date": "Dátum",
+    "dateNote": "Zobrazuje nejnovější {{count}} transakcí do konce roku {{date}} (UTC).",
+    "emptyTitle": "Žádné transakce nebyly nalezeny",
+    "events": "Události",
+    "failedEvents": "Tato transakce selhala, takže vydala pouze svůj poplatek.",
+    "feeSymbol": "Číslo poplatku",
+    "filtersLabel": "Transakční filtry",
+    "gasUsed": "Spotřebovaný gas",
+    "gasWanted": "Hledáme plyn",
+    "groups": {
+      "transfer": "Převody",
+      "staking": "Staking",
+      "governance": "Správa",
+      "ibc": "ČÍSLO IBC",
+      "swap": "Swap",
+      "other": "Ostatní"
+    },
+    "latestNote": "Ukazujeme poslední {{count}} transakcí, vyberte datum, abyste se podívali dále.",
+    "messageType": "Typ zprávy",
+    "network": "Síť",
+    "symbol": "Token",
+    "syntheticNote": "Jedná se o syntetický záznam generovaný pro Demo Mode. Jeho hash není skutečný blockchain hash a nelze ho ověřit na žádné síti.",
+    "token": "Token",
+    "validator": "Validátor",
+    "demoWalletNote": "Tato transakce byla vytvořena peněženkou Demo. Existuje pouze v tomto prohlížeči: žádný přenos blockchain nedošlo, a jeho hash není skutečný hash blockchain.",
+    "demoTag": "Demo peněženka"
+  }
+}

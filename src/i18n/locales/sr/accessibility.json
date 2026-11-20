@@ -1,0 +1,6 @@
+{
+  "accessibility": {
+    "navigatedTo": "Направили су се на {{title}}",
+    "loadingPage": "Страница за нагруђивање"
+  }
+}

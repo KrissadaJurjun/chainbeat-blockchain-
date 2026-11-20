@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Vals terikat",
+    "viewAll": "Lihat semua validator",
+    "col": {
+      "validator": "Validator",
+      "power": "Kekuatan suara",
+      "cumulative": "Komulatif",
+      "commission": "Komisi",
+      "uptime": "Waktu aktif",
+      "change": "Pergantian 24 jam",
+      "details": "Detail",
+      "tokens": "Token obligasi"
+    },
+    "stake": "Staking",
+    "stakeWith": "Taruhan dengan validator ini",
+    "pageDescription": "Setiap validator mengamankan {{chain}}, diurutkan berdasarkan suara (simulasi).",
+    "stats": {
+      "active": "Validator aktif",
+      "nakamoto": "Koefisien Nakamoto",
+      "nakamotoHint": "Validator yang dibutuhkan untuk menghentikan rantai",
+      "top10": "Top 10 kekuatan pemilih",
+      "commission": "Rata-rata komisi"
+    },
+    "filterPlaceholder": "Filter dengan nama atau alamat",
+    "statusFilter": "Status validator",
+    "tableCaption": "Validator pada {{chain}}",
+    "detailDescription": "Sebuah validator simulasi di {{chain}}.",
+    "detail": {
+      "delegators": "Delegator",
+      "bonded": "Token terikat",
+      "last30": "30 hari terakhir",
+      "last90": "90 hari terakhir",
+      "noBlocks": "Tidak ada blok baru-baru ini diusulkan.",
+      "noWebsite": "tidak tersedia (validator fiksi)",
+      "openPage": "Buka halaman penuh",
+      "powerHistory": "Kekuatan suara",
+      "proposed24h": "Blok yang diusulkan (24 jam)",
+      "rank": "Peringkat",
+      "recentBlocks": "Blok yang baru-baru ini diusulkan",
+      "selfBonded": "Terikat pada diri sendiri",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Waktu aktif",
+      "valueUsd": "Nilai saham {{value}}",
+      "website": "Situs web"
+    },
+    "status": {
+      "active": "Aktif",
+      "inactive": "Tidak aktif",
+      "jailed": "Dipenjara"
+    },
+    "activitiesTitle": "Kegiatan Validator",
+    "commissionShort": "Biaya {{value}}",
+    "detailTitle": "Validator",
+    "fictionalNote": "Fiksi validator untuk Demo Mode. Ini bukan operator nyata dan tidak ada yang diverifikasi tentang itu.",
+    "hoverTip": "Komisi {{commission}} · waktu aktif {{uptime}} · {{delegators}} delegasi",
+    "noMatching": "Tidak ada validator yang cocok.",
+    "notFoundBody": "{{chain}} tidak memiliki validator dengan alamat ini.",
+    "notFoundTitle": "Validator tidak ditemukan",
+    "sort": {
+      "power": "Kekuatan suara",
+      "commission": "Komisi",
+      "uptime": "Waktu aktif"
+    },
+    "sortBy": "Mengurutkan validator berdasarkan"
+  },
+  "validatorsViz": {
+    "description": "Komisi versus uptime untuk setiap validator pada {{chain}}; ukuran gelembung menunjukkan kekuatan voting.",
+    "showAll": "Termasuk tidak aktif dan dipenjara",
+    "avgUptime": "Rata-rata waktu aktif",
+    "zeroFee": "Validator nol komisi",
+    "chartTitle": "Komisi vs uptime",
+    "chartHint": "Setiap gelembung adalah satu validator",
+    "legend": "Legenda grafik",
+    "sizeHint": "Ukuran gelembung = kekuatan suara"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Ketjun mittarit",
+    "exportCsv": "Vienti CSV:n muodossa",
+    "exported": "Merkinat vietiin CSV:n muodossa.",
+    "openAnalytics": "Avoin verkko-analytiikka",
+    "last24h": "Viimeiset 24 tuntia",
+    "sparklineLabel": "Viimeisen vuorokauden kehitys",
+    "change24h": "24 tunnin vaihto",
+    "blocks": "polkumyynteet",
+    "exact": "Täsmällinen arvo",
+    "bondedRatio": "Pankkiosuus",
+    "poolShare": "Tarjonnan osuus",
+    "tokenPrice": "Tunnisteiden hinta",
+    "inputInflation": "Inflaatio",
+    "inputTax": "Yhteisön vero",
+    "inputBonded": "Pankkiosuus",
+    "csvMetric": "Metrikka",
+    "csvValue": "Arvoprosentti",
+    "csvUnit": "Yksikkö",
+    "csvChange24h": "24 tunnin vaihto",
+    "blockHeight": {
+      "label": "Lohkokorkeus",
+      "description": "Luomisesta lähtien tuotettujen blokkien määrä kasvaa yhdellä jokaisella uudella blokilla."
+    },
+    "totalTransactions": {
+      "label": "Transaktiot",
+      "description": "Verkon käsittelyn kokonaismäärä syntystä lähtien."
+    },
+    "txPerBlock": {
+      "label": "Tx / lohko",
+      "description": "Keskimääräiset tapahtumat, jotka sisältyvät jaksoon, mitataan viimeisten 100 jakson aikana."
+    },
+    "blockTime": {
+      "label": "Lohkoaika",
+      "description": "Keskimääräinen aika peräkkäisten blokkien välillä viimeisten 100 blokin aikana mitattu."
+    },
+    "inflation": {
+      "label": "Inflaatio",
+      "description": "Vuosittainen korko, jolla uusia tunnisteita lasketaan palkitaan sidosryhmiä ja rahoittaakseen yhteisövaraston."
+    },
+    "stakingApr": {
+      "label": "Panostuksen APR",
+      "description": "Arvioitu vuotuinen tulos panostetuista tokeneista ennen validointipalkkiota.",
+      "formula": "APR = inflaatio × (1 − yhteisön vero) ÷ velkakirjoitusosuus"
+    },
+    "bondedTokens": {
+      "label": "Sidotut tokenit",
+      "description": "Tokenit, joissa on aktiivisia validoittajia.",
+      "formula": "velvoitettu = kokonaistuotanto × velvoitettu suhde"
+    },
+    "totalSupply": {
+      "label": "Kokonaistarjonta",
+      "description": "Jokainen olemassa oleva tunnus, mukaan lukien ne, jotka ovat panoksissa, kasvaa inflaation mukaan."
+    },
+    "communityPool": {
+      "label": "Yhteisön pooli",
+      "description": "Kiinnostuksen osuus tulee sisään, ja onnistuneet ehdotukset kuluttavat sen.",
+      "formula": "Kasvaa tarjonnan × inflaation × yhteisön veron mukaan"
+    },
+    "poolValue": {
+      "label": "Kylmäarvoa",
+      "description": "Yhteisön poolin arvioitu arvo simuloidulla tunnistehintaan.",
+      "formula": "arvo = pool × tunnistehinto"
+    }
+  }
+}

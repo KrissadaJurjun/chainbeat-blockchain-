@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Native, IBC, liquidity-stacking en externe activa bekend op {{chain}} (simulatie).",
+    "stats": {
+      "total": "Gecontroleerde tokens"
+    },
+    "kinds": {
+      "native": "Inheemse",
+      "ibc": "IBC",
+      "external": "Externe",
+      "stable": "Stablecoin",
+      "liquid": "Liquid staking"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Type",
+      "denom": "Denom",
+      "price": "Prijs",
+      "change": "24 uur",
+      "supply": "Aanbod",
+      "holders": "Houders",
+      "marketCap": "Marktkapitalisatie"
+    },
+    "filterPlaceholder": "Filter per symbool, naam of denominatie",
+    "tableCaption": "Tokens op {{chain}}"
+  },
+  "account": {
+    "title": "Rekening",
+    "description": "Saldo's en recente activiteit van een rekening op {{chain}} (simulatie).",
+    "available": "Beschikbaar",
+    "balances": "Bilances",
+    "counterparty": "De tegenpartij",
+    "direction": "Richting",
+    "in": "In",
+    "out": "Uit",
+    "history": "Transactiegeschiedenis",
+    "historyCaption": "Transacties van {{address}}",
+    "invalidTitle": "Niet geldig adres",
+    "invalidBody": "Dit is niet geldig. {{chain}} Adressen op dit netwerk beginnen met {{prefix}} 1 en een checksum bevatten.",
+    "noBalances": "Geen balans.",
+    "noHistory": "Geen transacties gevonden",
+    "noHistoryBody": "Deze rekening heeft geen gesimuleerde activiteit in de nieuwste {{blocks}} blokken.",
+    "rewards": "Beloningen: {{value}}",
+    "staked": "Gestopt",
+    "totalValue": "Totale waarde",
+    "txCount": "Transacties",
+    "unknown": "Dit is een geldig adres, maar het verschijnt niet in de simulatie, dus het heeft geen balans of geschiedenis.",
+    "window": "in de nieuwste {{blocks}} blokken",
+    "demoWallet": "Dit is je portemonnee Demo, de saldo's en transacties zijn gesimuleerd en bestaan alleen in deze browser."
+  },
+  "explorer": {
+    "description": "Zoek naar {{chain}} en zie wat er nu gebeurt op het (simulateerde) netwerk.",
+    "latestBlocks": "Nieuwste blokken",
+    "latestTransactions": "Nieuwste transacties",
+    "searchTitle": "Zoek de ontdekkingsreiziger",
+    "shortcuts": "Explorer-afdelingen"
+  }
+}

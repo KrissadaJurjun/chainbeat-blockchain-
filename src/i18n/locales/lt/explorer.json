@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Native, IBC, likvidavimo ir išorės turtas, žinomas {{chain}} (simuluojamas).",
+    "stats": {
+      "total": "Skelbiami žetoniai"
+    },
+    "kinds": {
+      "native": "Native",
+      "ibc": "IBC",
+      "external": "Išoriniai",
+      "stable": "Stablecoin",
+      "liquid": "Skysčių statymas"
+    },
+    "col": {
+      "token": "Žetonas",
+      "type": "Tipas",
+      "denom": "Deniumas",
+      "price": "Kaina",
+      "change": "24 valandas",
+      "supply": "Pasiūla",
+      "holders": "Įrankių turėtojai",
+      "marketCap": "Rinkos kapitalizacija"
+    },
+    "filterPlaceholder": "Filtras pagal simbolį, pavadinimą ar pavadinimą",
+    "tableCaption": "Ženklai {{chain}}"
+  },
+  "account": {
+    "title": "Sąskaita",
+    "description": "Saldos ir paskutinė sąskaitos veikla {{chain}} (simuliuojama).",
+    "available": "Įmanomas",
+    "balances": "Saldos",
+    "counterparty": "Šalys",
+    "direction": "Veiksmas",
+    "in": "Į",
+    "out": "Išvažiuokite",
+    "history": "Transakcijų istorija",
+    "historyCaption": "{{address}} sandoriai",
+    "invalidTitle": "Negalimas adresas",
+    "invalidBody": "Tai nėra galiojimas. {{chain}} adresas. Šio tinklo adresai prasideda nuo {{prefix}} 1 ir įtrauktos patikros sumos.",
+    "noBalances": "Nėra pusiausvyros.",
+    "noHistory": "Negalėjo sandorių",
+    "noHistoryBody": "Šioje sąskaitoje nėra simuliuojamos veiklos naujausiuose {{blocks}} blokuose.",
+    "rewards": "Užmokestis: {{value}}",
+    "staked": "Skaičiuotas",
+    "totalValue": "Bendra vertė",
+    "txCount": "Sandoriai",
+    "unknown": "Tai galiojantis adresas, tačiau jis neatrodo simuliacijoje, todėl jis neturi balansų ar istorijos.",
+    "window": "naujausiuose {{blocks}} blokuose",
+    "demoWallet": "Tai jūsų piniginė Demo, jos balansas ir sandoriai simuliuojami ir egzistuoja tik šiame naršyklėje."
+  },
+  "explorer": {
+    "description": "Ieškokite {{chain}} ir pamatykite, kas vyksta šiuo metu (simuluotoje) tinkle.",
+    "latestBlocks": "Naujausi blokai",
+    "latestTransactions": "Naujausi sandoriai",
+    "searchTitle": "Ieškokite tyrinėtoją",
+    "shortcuts": "Eksploratorių sekcijos"
+  }
+}

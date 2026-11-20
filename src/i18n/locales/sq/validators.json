@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Vals të lidhura",
+    "viewAll": "Shikoni të gjitha validatorët",
+    "col": {
+      "validator": "Validator",
+      "power": "Fuqia e votës",
+      "cumulative": "Të kumuluara",
+      "commission": "Komisioni",
+      "uptime": "Disponueshmëria",
+      "change": "Ndryshimi 24 orë",
+      "details": "Detajet",
+      "tokens": "Tokenet e lidhura"
+    },
+    "stake": "Staking",
+    "stakeWith": "Lidhja me këtë validator",
+    "pageDescription": "Çdo validator që siguron {{chain}}, renditur sipas fuqisë së votimit (simuluar).",
+    "stats": {
+      "active": "Validatorët aktivë",
+      "nakamoto": "Koefficient i Nakamoto",
+      "nakamotoHint": "Validatorët nevojiten për të ndaluar zinxhirin",
+      "top10": "Top 10 e fuqisë së votimit",
+      "commission": "Komisioni mesatar"
+    },
+    "filterPlaceholder": "Filtrimi me emër ose adresë",
+    "statusFilter": "Status i validatorit",
+    "tableCaption": "Validatorët në {{chain}}",
+    "detailDescription": "Një validator simuluar në {{chain}}.",
+    "detail": {
+      "delegators": "Delegatorët",
+      "bonded": "Tokenë të lidhura",
+      "last30": "30 ditët e fundit",
+      "last90": "90 ditët e fundit",
+      "noBlocks": "Nuk ka blloqe të propozuara kohët e fundit.",
+      "noWebsite": "nuk është e disponueshme (validator fiktiv)",
+      "openPage": "Hapje faqe të plotë",
+      "powerHistory": "Fuqia e votës",
+      "proposed24h": "Bloqet e propozuara (24 orë)",
+      "rank": "Renditja",
+      "recentBlocks": "Blloqet e propozuara kohët e fundit",
+      "selfBonded": "Të detyruar vetë",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Disponueshmëria",
+      "valueUsd": "Vlera e stafit {{value}}",
+      "website": "Faqja e internetit"
+    },
+    "status": {
+      "active": "Aktiv",
+      "inactive": "Joaktiv",
+      "jailed": "I burgosur"
+    },
+    "activitiesTitle": "Aktivitetet e validatorit",
+    "commissionShort": "Tarif {{value}}",
+    "detailTitle": "Validator",
+    "fictionalNote": "Validator fiktiv për Mode Demo. Nuk është një operator i vërtetë dhe asgjë për të nuk është verifikuar.",
+    "hoverTip": "Komision {{commission}} · kohë pune {{uptime}} · {{delegators}} delegatorë",
+    "noMatching": "Nuk ka validatorë të përshtatshëm.",
+    "notFoundBody": "{{chain}} nuk ka validator me këtë adresë.",
+    "notFoundTitle": "Validator nuk gjendet",
+    "sort": {
+      "power": "Fuqia e votës",
+      "commission": "Komisioni",
+      "uptime": "Disponueshmëria"
+    },
+    "sortBy": "Sortoni validatorët sipas"
+  },
+  "validatorsViz": {
+    "description": "Komisioni në krahasim me kohën e punës për çdo validator në {{chain}}; madhësia e bubullave tregon fuqinë e votimit.",
+    "showAll": "Përfshini të papërgatitur dhe të burgosur",
+    "avgUptime": "Koha mesatare e punës",
+    "zeroFee": "Validatorët me zero komision",
+    "chartTitle": "Komision vs kohë pune",
+    "chartHint": "Çdo bulë është një validator",
+    "legend": "Legjenda e grafit",
+    "sizeHint": "Madhësia e bollës = fuqia e votimit"
+  }
+}

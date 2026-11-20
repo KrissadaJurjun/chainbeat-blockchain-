@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "Bloku {{height}}",
+    "invalid": "Lartësia e bllokut e papërshtatshëm",
+    "description": "Detajet e një blloku simuluar në {{chain}}.",
+    "previous": "Bloku i mëparshëm",
+    "next": "Bloku tjetër",
+    "notFoundTitle": "Bloku nuk gjendet",
+    "notFoundBody": "{{chain}} ende nuk ka bllok në këtë lartësi.",
+    "transactions_one": "{{count}} transaksion",
+    "transactions_other": "{{count}} transaksione",
+    "txCaption": "Transaksionet në bllokun {{height}}",
+    "noTxs": "Ky bllok nuk ka transaksione",
+    "genesis": "Bloku i Genezitës",
+    "parentHash": "Haxhi i prindërve",
+    "demoTxs": "Demo Transaksionet e portofolit në këtë lartësi",
+    "demoTxsNote": "Këto janë krijuar nga portofoli Demo, por nuk janë pjesë e numrit të transaksionit të bllokut."
+  },
+  "blocksPage": {
+    "description": "Blokat më të reja në {{chain}}. Lista u refreshon rreth një herë në çdo bllok.",
+    "live": "Të jetosh",
+    "avgGas": "Gazi i përdorur",
+    "tableCaption": "Bloke të fundit në {{chain}}",
+    "proposer": "Propozues",
+    "txs": "Txs",
+    "gas": "Gas i përdorur",
+    "size": "Madhësia",
+    "emptyTitle": "Asnjë bllok nuk është gjetur",
+    "filterPlaceholder": "Filtrimi sipas lartësisë, hashit ose validatorit",
+    "filtersLabel": "Filtrat e bllokuara",
+    "finality": "Përfundimi",
+    "finalityNote": "Blloqet në këtë lloj rrjeti janë përfundimtare sapo të angazhohen.",
+    "finalized": "Finalizuar",
+    "withTxsOnly": "Vetëm blloqet me transaksione"
+  }
+}

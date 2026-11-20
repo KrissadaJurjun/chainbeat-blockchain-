@@ -1,0 +1,6 @@
+{
+  "accessibility": {
+    "navigatedTo": "Навигиран до {{title}}",
+    "loadingPage": "Страница за товар"
+  }
+}

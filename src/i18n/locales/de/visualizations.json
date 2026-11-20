@@ -1,0 +1,58 @@
+{
+  "ibcPage": {
+    "description": "Wie Token über IBC zwischen Chains fließen. Dickere Linien bedeuten mehr Volumen in 24 Stunden.",
+    "volume": "IBC-Volumen 24 Std.",
+    "chains": "Verbundene Chains",
+    "links": "Aktive Kanäle",
+    "busiest": "Aktivste Route",
+    "mapLabel": "Karte der IBC-Verbindungen zwischen Chains",
+    "nodeLabel": "{{name}}: {{volume}} in 24 Stunden über {{channels}} Kanäle",
+    "hint": "Hover, fokussieren oder wählen Sie eine Kette aus, um ihre Verbindungen hervorzuheben. Ziehen Sie auf Pan; verwenden Sie Ctrl oder mit dem Scrollrad, den + und − Tasten oder den Tasten zum Zoomen; drücken Sie 0, um zurückzusetzen.",
+    "channelsOf": "Kanäle von {{name}}",
+    "topChannels": "Top-Kanäle nach Volumen",
+    "transfers_one": "{{count, number}} Transfer",
+    "transfers_other": "{{count, number}} Transfers",
+    "info": {
+      "volume": "Volumen (24 h)",
+      "channels": "Kanäle",
+      "share": "Anteil des Volumens IBC",
+      "partner": "Am beschäftigtesten Partner"
+    }
+  },
+  "multichainPage": {
+    "description": "Das weitere Ökosystem im Cosmos-Stil auf einen Blick: simulierte Zahlen für jede verbundene Chain.",
+    "chains": "Chains",
+    "tvl": "Gesamter gesperrter Wert",
+    "validators": "Validatoren",
+    "tx24h": "Transaktionen (24 Std.)",
+    "height": "Blockhöhe",
+    "open": "Dashboard öffnen",
+    "switched": "Zu {{name}} gewechselt",
+    "registryOnly": "Für die Demo registriert – noch nicht auswählbar",
+    "tvlByChain": "TVL je Chain",
+    "tvlHint": "Simulierter gesamter gesperrter Wert",
+    "explainTitle": "Was die Metriken bedeuten",
+    "explainHint": "Alle Werte werden simuliert.",
+    "explain": {
+      "tvl": "Der Wert von Token, die in der simulierten Wirtschaft des Netzwerks eingesetzt oder gehalten werden, zu simulierten Preisen.",
+      "height": "Wie viele Blöcke hat die Kette seit ihrer Gründung produziert?",
+      "validators": "Die Betreiber, die Blöcke vorschlagen und unterschreiben.",
+      "apr": "Die geschätzte jährliche Belohnung für Einsätze, als Prozentsatz vor der Provision.",
+      "bonded": "Ein höherer Anteil bedeutet, dass mehr Angebot die Kette sichert.",
+      "tx24h": "Transaktionen, die in den vergangenen 24 Stunden über alle gelisteten Ketten in Blöcken eingeschlossen wurden."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Der Puls von {{chain}}: Jeder Block ist ein Herzschlag; der Abstand folgt der Blockzeit, die Höhe der Zahl der Transaktionen.",
+    "rate": "Blockrate",
+    "perMinute": "Blöcke/Min.",
+    "sinceLast": "Seit dem letzten Block",
+    "txLastMinute": "Transaktionen (letzte Minute)",
+    "monitor": "Pulsmonitor",
+    "legend": "Höhe des Herzschlags = Transaktionen im Block",
+    "chartLabel": "Herzschlag-Kurve: {{rate}} Blöcke pro Minute, {{seconds}} Sekunden zwischen den Blöcken",
+    "stream": "Block-Stream",
+    "txCount_one": "{{count}} Tx",
+    "txCount_other": "{{count}} Tx"
+  }
+}

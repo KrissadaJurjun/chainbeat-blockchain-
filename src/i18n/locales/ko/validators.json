@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "활성 검증인",
+    "viewAll": "모든 검증인 보기",
+    "col": {
+      "validator": "검증인",
+      "power": "투표권",
+      "cumulative": "누적",
+      "commission": "수수료율",
+      "uptime": "가동률",
+      "change": "24시간 변동",
+      "details": "상세 정보",
+      "tokens": "채권 토큰"
+    },
+    "stake": "스테이킹",
+    "stakeWith": "이 검증인에게 스테이킹",
+    "pageDescription": "{{chain}}을(를) 보호하는 모든 검증인을 투표권 순으로 보여줍니다(시뮬레이션).",
+    "stats": {
+      "active": "활성 검증인",
+      "nakamoto": "나카모토 계수",
+      "nakamotoHint": "체인을 멈추는 데 필요한 검증인 수",
+      "top10": "상위 10개 투표권",
+      "commission": "평균 수수료율"
+    },
+    "filterPlaceholder": "이름 또는 주소로 필터",
+    "statusFilter": "검증인 상태",
+    "tableCaption": "{{chain}}의 검증인",
+    "detailDescription": "{{chain}}의 시뮬레이션 검증인입니다.",
+    "detail": {
+      "delegators": "위임자",
+      "bonded": "채권된 토큰",
+      "last30": "지난 30일",
+      "last90": "지난 90일",
+      "noBlocks": "최근에 제안된 블록은 없습니다.",
+      "noWebsite": "사용할 수 없습니다 (이상의 검증기)",
+      "openPage": "전체 페이지를 열",
+      "powerHistory": "투표권",
+      "proposed24h": "제안된 블록 (24시간)",
+      "rank": "순위",
+      "recentBlocks": "최근 제안된 블록",
+      "selfBonded": "자기결정",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "가동률",
+      "valueUsd": "점유율 {{value}}",
+      "website": "웹사이트"
+    },
+    "status": {
+      "active": "활성",
+      "inactive": "비활성",
+      "jailed": "투옥됨"
+    },
+    "activitiesTitle": "검증자 활동",
+    "commissionShort": "수수료 {{value}}",
+    "detailTitle": "검증인",
+    "fictionalNote": "Demo 모드에 대한 허구 검증기. 그것은 실제 운영체제가 아니며 그것에 관한 것은 확인되지 않습니다.",
+    "hoverTip": "위원회 {{commission}} · 운영 시간 {{uptime}} · {{delegators}} 위원",
+    "noMatching": "일치하는 검증자가 없습니다.",
+    "notFoundBody": "{{chain}}에는 이 주소가 있는 검증기가 없습니다.",
+    "notFoundTitle": "검증기 발견되지 않았다",
+    "sort": {
+      "power": "투표권",
+      "commission": "수수료율",
+      "uptime": "가동률"
+    },
+    "sortBy": "검증자를 분류하여"
+  },
+  "validatorsViz": {
+    "description": "{{chain}} 각 검증인의 수수료율과 가동률 비교입니다. 버블 크기는 투표권을 나타냅니다.",
+    "showAll": "비활성 및 투옥된 검증인 포함",
+    "avgUptime": "평균 가동률",
+    "zeroFee": "수수료 0% 검증인",
+    "chartTitle": "수수료율과 가동률",
+    "chartHint": "버블 하나가 검증인 한 명입니다",
+    "legend": "차트 범례",
+    "sizeHint": "버블 크기 = 투표권"
+  }
+}

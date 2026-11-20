@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Démo",
+    "simulated": "Simulé",
+    "close": "Fermer",
+    "retry": "Réessayer",
+    "refresh": "Actualiser",
+    "copy": "Copier",
+    "copied": "Copié",
+    "clear": "Effacer",
+    "loading": "Chargement…",
+    "options": "Options",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "pagination": "Pagination",
+    "pageN": "Page {{n}}",
+    "dismiss": "Ignorer",
+    "cancel": "Annuler",
+    "viewAll": "Tout afficher",
+    "max": "Max",
+    "amount": "Montant",
+    "balance": "Solde",
+    "fee": "Frais",
+    "status": "Statut",
+    "time": "Heure",
+    "height": "Hauteur",
+    "hash": "Hash",
+    "type": "Type",
+    "all": "Tous",
+    "showing": "{{from}}–{{to}} sur {{total}}",
+    "noResults": "Aucun résultat ne correspond à vos filtres.",
+    "rowsPerPage": "Lignes par page",
+    "actions": "Actions",
+    "exportCsv": "Exporter en CSV",
+    "details": "Détails",
+    "clearFilters": "Filtres transparents",
+    "collapseAll": "Ils s'effondrent tous",
+    "copyJson": "Copier le JSON",
+    "expandAll": "Élargir tout",
+    "showMore": "Afficher plus de {{count}}"
+  },
+  "language": {
+    "label": "Langue",
+    "search": "Rechercher une langue"
+  },
+  "theme": {
+    "label": "Thème",
+    "system": "Système",
+    "dark": "Sombre",
+    "light": "Clair"
+  },
+  "footer": {
+    "tagline": "Explorez les blocs. Suivez les transactions. Comprenez le Web3.",
+    "demo": "Mode démo : tous les chiffres sont simulés et ne sont pas de vraies statistiques du réseau.",
+    "share": "Partager",
+    "linkCopied": "Lien copié dans le presse-papiers.",
+    "docs": "Documentation",
+    "links": "Liens de bas de page",
+    "modeDemo": "Demo Réseau",
+    "repository": "Référentiel",
+    "version": "v{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "body": "La page que vous cherchez n’existe pas ou a été déplacée.",
+    "home": "Retour au tableau de bord"
+  },
+  "gate": {
+    "title": "Connectez le portefeuille de démonstration pour continuer",
+    "body": "Ce parcours s’exécute sur un portefeuille simulé. Connectez le portefeuille de démonstration pour l’essayer : rien de réel n’est jamais signé ni envoyé.",
+    "realTitle": "Un vrai portefeuille est connecté",
+    "realBody": "{{address}} est connecté, mais le mode démo de ChainBeat ne signe ni ne diffuse jamais de transactions. Passez au portefeuille de démonstration pour essayer ce parcours.",
+    "useDemo": "Utiliser le portefeuille de démonstration"
+  }
+}

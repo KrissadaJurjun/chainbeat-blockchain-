@@ -1,0 +1,101 @@
+{
+  "overview": {
+    "title": "概览",
+    "unit": "表现指数 · 区间起点 = 100",
+    "refreshFailed": "刷新失败，正在显示最近一次加载的数据。"
+  },
+  "chart": {
+    "keyboardHint": "图表。使用方向键在数据点之间移动。",
+    "summary": "{{range}}内的表现指数：{{details}}",
+    "rangeLabel": "时间范围",
+    "seriesLabel": "图表数据系列",
+    "keepOne": "至少要保留一个数据系列",
+    "emptyTitle": "此范围内没有数据",
+    "emptyBody": "请尝试其他时间范围，或刷新。",
+    "range": {
+      "24H": "24 小时",
+      "7D": "7 天",
+      "30D": "30 天",
+      "90D": "90 天"
+    },
+    "rangeLong": {
+      "24H": "过去 24 小时",
+      "7D": "过去 7 天",
+      "30D": "过去 30 天",
+      "90D": "过去 90 天"
+    },
+    "zoomControls": "放大控制",
+    "zoomIn": "放大",
+    "zoomOut": "放大",
+    "resetView": "重新设置视图",
+    "zoomLevel": "缩放水平"
+  },
+  "proposals": {
+    "title": "提案",
+    "filter": "提案筛选",
+    "live": "进行中",
+    "total": "全部",
+    "viewAll": "查看全部提案",
+    "noneLive": "没有进行中的提案",
+    "noneLiveBody": "目前没有正在进行的治理投票。",
+    "showAll": "显示近期提案",
+    "endsIn": "{{time}}结束",
+    "turnout": "投票率",
+    "vote": "投票",
+    "status": {
+      "voting": "投票中",
+      "deposit": "押金阶段",
+      "passed": "已通过",
+      "rejected": "已否决",
+      "failed": "未通过"
+    },
+    "passed": "已通过",
+    "rejected": "已否决",
+    "noneMatching": "没有相应的建议",
+    "noneMatchingBody": "现在没有什么能匹配这个过器."
+  },
+  "dev": {
+    "title": "开发活跃度",
+    "summary": "{{total}} 次贡献",
+    "viewFull": "打开开发活跃度",
+    "heatmapLabel": "贡献热力图：{{weeks}} 周内共 {{total}} 次贡献",
+    "less": "少",
+    "more": "多",
+    "cellTitle_other": "{{date}}有 {{count}} 次贡献",
+    "range": "热图范围",
+    "ranges": {
+      "month": "个月",
+      "quarter": "四分之一",
+      "year": "年份"
+    }
+  },
+  "repos": {
+    "title": "活跃代码库",
+    "period": "周期",
+    "periods": {
+      "week": "周",
+      "month": "月",
+      "year": "年",
+      "quarter": "四分之一"
+    },
+    "contributors": "贡献者",
+    "stars": "星标",
+    "sparkline": "{{name}} 的提交活跃度",
+    "vsPrevious": "较上一周期 {{change}}",
+    "up": "上升",
+    "down": "下降",
+    "caption": "所选周期内的提交数 · 代码库为模拟数据",
+    "col": {
+      "repository": "代码库",
+      "language": "语言",
+      "commits": "提交数",
+      "change": "变化",
+      "trend": "趋势"
+    },
+    "commitsCount": "承诺: {{count}}",
+    "demoNote": "Demo数据:本存储库是虚构的,其活动是模拟的.它不连接到GitHub.",
+    "emptyBody": "在此期间没有存储活动.",
+    "emptyTitle": "没有存储器活动",
+    "history": "承诺活动"
+  }
+}

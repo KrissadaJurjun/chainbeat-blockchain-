@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "เมนูด้านข้าง",
+    "primary": "เมนูหลัก",
+    "menu": "เมนูนำทาง",
+    "openMenu": "เปิดเมนูนำทาง",
+    "closeMenu": "ปิดเมนูนำทาง",
+    "collapseSidebar": "ย่อแถบด้านข้าง",
+    "expandSidebar": "ขยายแถบด้านข้าง",
+    "skipToContent": "ข้ามไปยังเนื้อหาหลัก",
+    "home": "หน้าแรก ChainBeat",
+    "pages": "หน้า",
+    "dashboard": "แดชบอร์ด",
+    "validators": "วาลิเดเตอร์",
+    "proposals": "ข้อเสนอ",
+    "blocks": "บล็อก",
+    "transactions": "ธุรกรรม",
+    "portfolio": "พอร์ตโฟลิโอ",
+    "swap": "สวอป",
+    "stake": "สเตก",
+    "liquidStaking": "ลิควิดสเตกกิ้ง",
+    "send": "ส่ง",
+    "vote": "โหวต",
+    "createProposal": "สร้างข้อเสนอ",
+    "market": "ตลาด",
+    "network": "เครือข่าย",
+    "governance": "การกำกับดูแล",
+    "ibcNetwork": "เครือข่าย IBC",
+    "devActivity": "กิจกรรมนักพัฒนา",
+    "multichain": "ภาพรวมมัลติเชน",
+    "heartbeat": "ชีพจร",
+    "dominance": "ดอมิแนนซ์",
+    "validatorsViz": "วาลิเดเตอร์",
+    "blockExplorer": "ตัวสำรวจบล็อก",
+    "transactionExplorer": "ตัวสำรวจธุรกรรม",
+    "tokenExplorer": "ตัวสำรวจโทเคน",
+    "about": "เกี่ยวกับ",
+    "explorerHome": "เอ็กซ์พลอเรอร์",
+    "governanceHome": "ศูนย์กลางการกำกับดูแล",
+    "settings": "การตั้งค่า"
+  },
+  "sections": {
+    "explorer": "เอ็กซ์พลอเรอร์",
+    "wallet": "กระเป๋าเงิน",
+    "analytics": "การวิเคราะห์",
+    "visualizations": "ภาพข้อมูล"
+  },
+  "chains": {
+    "favorite": "เพิ่ม {{name}} ในรายการโปรด",
+    "unfavorite": "นำ {{name}} ออกจากรายการโปรด",
+    "simulatedHealthy": "เครือข่ายจำลอง · ปกติดี"
+  },
+  "search": {
+    "label": "ค้นหาใน ChainBeat",
+    "placeholder": "ค้นหาบล็อก ธุรกรรม ที่อยู่…",
+    "results": "ผลการค้นหา",
+    "noResults": "ไม่พบผลลัพธ์สำหรับ “{{query}}”",
+    "kinds": {
+      "page": "หน้า",
+      "block": "บล็อก",
+      "transaction": "ธุรกรรม",
+      "validator": "วาลิเดเตอร์",
+      "token": "โทเคน",
+      "address": "ที่อยู่",
+      "proposal": "ข้อเสนอ"
+    },
+    "recent": "การค้นหาล่าสุด",
+    "clearRecent": "ล้างการค้นหาล่าสุด",
+    "removeRecent": "ลบ “{{query}}” ออกจากการค้นหาล่าสุด",
+    "hint": "ลองค้นหาด้วยความสูงบล็อก แฮชธุรกรรม ที่อยู่ ({{prefix}}1…) วาลิเดเตอร์ หมายเลขข้อเสนอ หรือ denom ของโทเคน",
+    "submit": "ค้นหา",
+    "searching": "กำลังค้นหา…",
+    "resultCount": "ผลลัพธ์: {{count}}",
+    "invalid": {
+      "tooLong": "ข้อความยาวเกินกว่าจะใช้ค้นหาได้ (ไม่เกิน 200 ตัวอักษร)",
+      "badChecksum": "ดูเหมือนที่อยู่ แต่ค่าตรวจสอบ (checksum) ไม่ตรงกัน โปรดตรวจดูว่าพิมพ์ผิดหรือไม่",
+      "badHash": "แฮชของธุรกรรมหรือบล็อกต้องมีอักขระเลขฐานสิบหก 64 ตัวพอดี",
+      "badChars": "ค้นหาด้วยความสูงบล็อก แฮช ที่อยู่ วาลิเดเตอร์ ข้อเสนอ หรือโทเคน"
+    },
+    "categories": {
+      "page": "หน้า",
+      "block": "บล็อก",
+      "transaction": "ธุรกรรม",
+      "address": "ที่อยู่",
+      "validator": "วาลิเดเตอร์",
+      "proposal": "ข้อเสนอ",
+      "token": "โทเคน"
+    }
+  },
+  "user": {
+    "menu": "เมนูบัญชี",
+    "guest": "ผู้เยี่ยมชม",
+    "notConnected": "ยังไม่ได้เชื่อมต่อกระเป๋า",
+    "settings": "การตั้งค่า",
+    "about": "เกี่ยวกับ ChainBeat"
+  }
+}

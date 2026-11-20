@@ -1,0 +1,30 @@
+{
+  "notifications": {
+    "label": "通知",
+    "title": "通知",
+    "unread": "未读",
+    "unreadLabel_other": "{{count}} 条未读通知",
+    "markAllRead": "全部标为已读",
+    "empty": "你已查看全部通知。",
+    "items": {
+      "proposalVoting": "提案 #{{id}} 正在投票，约剩 {{hours}} 小时。",
+      "proposalPassed": "提案 #{{id}} 已通过，即将执行。",
+      "validatorJailed": "{{name}} 因离线被关押。",
+      "upgradeScheduled": "网络升级 {{version}} 计划在 {{days}} 天后进行。",
+      "ibcVolume": "过去 24 小时 IBC 转账量增长了 {{pct}}%。",
+      "newBlock": "在{{chain}}号 (模拟) 上生产了{{height}}块.",
+      "walletConnectedDemo": "Demo 钱包连接 (模拟).",
+      "walletConnected": "{{name}} 连接,没有任何签名.",
+      "walletDisconnected": "钱包从这个浏览器会话中断开.",
+      "txSuccess": "模拟交易确认: {{summary}}",
+      "txFailed": "一个模拟交易失败,因为错误模拟启动了.",
+      "proposalCreated": "Demo 提案#{{id}} {{title}}被添加 (模拟).",
+      "networkChanged": "切换到{{chain}},显示模拟数据.",
+      "simPaused": "模拟暂停,直到您恢复模拟的数据不会更新.",
+      "errorSimulation": "错误模拟启动. 数据请求和钱包确认将失败,直到你关闭它."
+    },
+    "dismiss": "拒绝通知",
+    "clearAll": "清除一切",
+    "simulatedNote": "网络传输中的项目是模拟的. 这里没有任何现场区块链警报."
+  }
+}

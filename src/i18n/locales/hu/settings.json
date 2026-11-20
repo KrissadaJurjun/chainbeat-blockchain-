@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Csökkentse a mozgást",
+    "reduceMotionHint": "Minimizáld az animációkat és az átmeneteket.",
+    "appearance": {
+      "compact": "Kompakta elrendezés",
+      "compactHint": "A tartalom területét kissé kisebbíti.",
+      "description": "Téma, mozgás és sűrűség.",
+      "title": "A megjelenés"
+    },
+    "confirm": {
+      "action": "Megerősítés",
+      "title": "- Biztos vagy benne? - Igen.",
+      "dataset": "Ez visszaállítja a szimulált órát, sebességét, késleltetését és kényszerített hibákat az alapértelmezett szintre.",
+      "wallet": "Ez helyreállítja a Demo pénztárca kezdő mérlegét, és eltávolítja a simulált tevékenységét, szavazatait és javaslatait.",
+      "all": "Ez eltávolítja a böngészőben tárolt ChainBeat beállításokat (nyelvet, témát, hálózatot, Demo pénztárcát, közelmúltbeli kereséseket) és újratölti a oldalt."
+    },
+    "data": {
+      "datasetReset": "Demo Adatállítás valós idejű.",
+      "description": "Milyen friss az adat és hogyan állítsuk vissza a szimulációt.",
+      "refresh": "Az élő adatok frissítése",
+      "refreshHint": "Milyen gyakran olvassák újra a (simulált) hálózatot a listák és számolók.",
+      "refreshOptions": {
+        "live": "Életben",
+        "slow": "Lassan",
+        "manual": "Kézikönyv"
+      },
+      "resetDataset": "A bemutató adatkészlet újraállítása",
+      "searchesCleared": "A legutóbbi keresések tisztázódtak.",
+      "speedHint": "Szüntesd le a szimulált órát, vagy lassítsd le.",
+      "title": "Adatok"
+    },
+    "description": "A megjelenés, a nyelv, a hálózat és a magánélet. Minden csak ebben a böngészőben tárolódik.",
+    "language": {
+      "count": "A rendelkezésre álló {{total}} nyelvből {{shipped}}",
+      "current": "A jelenlegi nyelv",
+      "description": "Válassza ki az interfész nyelvet. Keresse az anyanynevet, az angol nevet vagy a kódot.",
+      "fallback": "A szöveg, amelyet még nem fordítottak le, angol nyelven jelenik meg.",
+      "title": "Nyelv"
+    },
+    "network": {
+      "demo": "Demó",
+      "description": "Melyik hálózatot kell feltárni, és honnan származnak az adatok.",
+      "endpoint": "Az élő végpont",
+      "live": "Életben",
+      "liveUnavailable": "Az élő adatok nem állnak rendelkezésre ebben a felépítésben: minden oldalon szimulált adatok jelenik meg. Ha egy végpontot beállítanak, tesztelheti a kapcsolatot, de az alkalmazás soha nem keverik össze élő és szimulált adatokat.",
+      "mode": "Adatforrás",
+      "noEndpoint": "Nem (simulált adatok)",
+      "selected": "Hálózat",
+      "status": "Kapcsolat",
+      "statusDemo": "Szimulált hálózat · magasság {{height}}",
+      "title": "Hálózat",
+      "unavailable": "Nem elérhető",
+      "test": "Kísérleti csatlakozás",
+      "testing": "A tesztelés...",
+      "testHint": "Két csak olvasható GET kérelmet küld az alábbi végpontba, és megmutatja, hogy mit válaszol.",
+      "testOk": "Kapcsolat {{chain}}-hez: legújabb blokk {{height}}, {{ms}} ms-ben válaszolt.",
+      "testPartial": "Kapcsolat {{chain}}-hez: legújabb blokk {{height}}-hez, válaszolt {{ms}} ms-ben.",
+      "testError": {
+        "timeout": "A végpont nem válaszolt időben.",
+        "network": "Nem sikerült elérni a végpontot, ellenőrizze a címet, és hogy engedélyezi a weboldal kéréseit.",
+        "http": "A végpont hibával válaszolt.",
+        "invalid": "A végpont válaszolt, de nem a Cosmos REST API formátumban, így semmit sem használtak."
+      }
+    },
+    "privacy": {
+      "clearAll": "Törölje ki a ChainBeat adatokat ebben a böngészőben",
+      "description": "Amit az alkalmazás tárol és mit láthat.",
+      "keysCaption": "A ChainBeat által használt böngésző tárolás",
+      "noNetwork": "A ChainBeat semmilyen adatot nem küld sehova: nincs elemzése és nem tesz kéréseket a saját fájljai kivételével. Két választható kivétel van: a Test connection gomb, amely csak akkor jelenik meg, ha egy végpontot beállít és két csak olvasható kérelmet küld oda, és a Google bejelentkezési gomb, amely csak akkor jelenik meg, ha hozzáadja a saját Google ügyfél azonosítóját, majd a Google-tól töltődik.",
+      "noSeed": "A ChainBeat soha nem kérdezi, nem tárolja vagy nem látja a \"seed\" kifejezést, a privát kulcsot vagy a pénztárca jelszóját.",
+      "storage": "A preferenciák, a kiválasztott hálózat, a szimulált óra, a Demo-es pénztárca, a legutóbbi keresések és a létrehozott demo fiók csak a böngésző localStorage-jában kerülnek tárolásra.",
+      "title": "Titoktartás",
+      "wallet": "Ha csatlakoztatja a böngésző pénztárca bővítését, a ChainBeat csak a nyilvános címét és a fiók nevét olvasja, és csak miután jóváhagyta. Semmit sem írnak alá vagy küldnek.",
+      "keys": {
+        "lang": "Választott nyelv",
+        "ui": "Téma, mozgás, sűrűség, elrendezés és kedvencek",
+        "chain": "Kiválasztott hálózat",
+        "sim": "Szimulált óra, sebesség és késedelem",
+        "wallet": "Demo pénztárca: kitalált mérlegek, tevékenység, szavazatok, javaslatok",
+        "notifications": "Milyen értesítéseket olvasta vagy elutasított, és a helyi események (pénztársa, szimulált tranzakciók)",
+        "search": "A legutóbbi keresések",
+        "auth": "Demo számlák: felhasználónevek, e-mail címek, sózott jelszóhashek és a jelenlegi bejelentkezés"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Demo Állásmód",
+    "chipTip": "Minden adat szimulálva van.",
+    "controls": "Demo ellenőrzések",
+    "controlsIntro": "A ChainBeat a determinisztikus szimulált adatokon fut.",
+    "clock": "Szimulált óra",
+    "simulatedNow": "Szimulált idő",
+    "offset": "{{value}} óra előre",
+    "advanceHour": "Egy órával előre",
+    "advanceDay": "1 nap előleg",
+    "resetClock": "Újraállítani az órát",
+    "clockNote": "Az óra előrehaladása új blokkok, árak és események keletkeznek a {{chain}}-en.",
+    "network": "Hálózati viselkedés",
+    "latency": "Simulált késleltetés",
+    "latencyOff": "Kussolj!",
+    "simulateErrors": "Hálózati hibák szimulálása",
+    "simulateErrorsHint": "Minden kérelem kudarcot vall, így ellenőrizheti a hibás állapotokat.",
+    "wallet": "Demo pénztárca",
+    "resetWallet": "Újraállítsa a demo pénztárcát",
+    "walletReset": "Demo pénztárca visszaállítása a kezdeti egyenlegekre.",
+    "noticeTitle": "Demo-es mód.",
+    "noticeBody": "Ez a munkafolyamat szimulálódik, semmi sem ír alá vagy közvetít, és nincsenek valódi pénzeszközök.",
+    "behind": "{{value}} óra késõ valós idejű",
+    "speed": "Szimulációs sebesség",
+    "speeds": {
+      "paused": "Szünet",
+      "slow": "Lassan",
+      "normal": "Normális"
+    }
+  },
+  "about": {
+    "title": "A ChainBeatról",
+    "demo": "A ChainBeat Demo-es módban fut. Minden blokk, ár, validátor és javaslat determinisztikusan generálódik a böngészőben. Ezek nem aktuális főhálózati statisztikák.",
+    "privacy": "Nincs szükség API-kulcsra, magánkulcsra vagy magzati kifejezésre. A választható demo fiókok, preferenciák és a demo pénztárca csak a böngészőjében kerül tárolásra.",
+    "shortcuts": "A billentyűzet rövidítései",
+    "shortcutSearch": "Központkeresés",
+    "shortcutClose": "Zárja a párbeszédeket és a menüket",
+    "languages": "Szövetségi nyelvek: {{shipped}} a {{total}} közül. A fordítások gépi segítségnyújtáson alapulnak, és nem vizsgálták meg bennszülöttek; a nyilvános használat előtt ajánlott szakmai felülvizsgálatot végezni.",
+    "pageDescription": "Mi a ChainBeat, hogyan kezel az adatokat, és a billentyűzet rövidebb útjai.",
+    "shortcutPalette": "Nyitott keresés (parancslap)"
+  }
+}

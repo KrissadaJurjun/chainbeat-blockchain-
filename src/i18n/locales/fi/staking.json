@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delegoida tunnisteet validatorille {{chain}}:llä saadaksesi simuloituja palkintoja.",
+    "validator": "Validaattori",
+    "pickValidator": "Valitse validoija",
+    "estimate": "Arvioitu tuotto",
+    "netApr": "Neto-arvonlisäverot (komission jälkeen)",
+    "yearly": "Palkkiot vuodessa",
+    "monthly": "Palkkiot kuukausittain",
+    "unbonding": "Vapautuskausi",
+    "commission": "Validaattorikomissio",
+    "notice": "Todellisessa verkossa vetäytynyt panos on lukittu {{days}}-päiväiseen sitoutumisvaiheeseen.",
+    "yourStake": "Panoksesi {{chain}}",
+    "unstake": "Peru panostus",
+    "unstakeTitle": "Vähennäminen {{validator}}",
+    "unstakeDescription": "Todellisessa verkossa tunnisteesi avautuisivat {{days}} päivän purkamisen jälkeen.",
+    "confirmUnstake": "Vähennetty (simuloitu)",
+    "done": "Vähennetty (simuloitu)",
+    "doneBody": "Demo-lompakossa olisi todellinen vapautumisjakso. {{days}} Päiviä.",
+    "unstaked": "Kiinnostamaton (simuloitu)",
+    "unstakedBody": "Todellinen verkko vie sen heti. {{days}} Päiviä.",
+    "errors": {
+      "validator": "Valitse validoija.",
+      "moreThanStaked": "Et voi vetää enemmän kuin olet vetänyt."
+    },
+    "review": "Tarkastuksen panos",
+    "confirmDescription": "Tarkista valtuuskunta. Vahvistaminen muuttaa vain Demo-lompakkoa tässä selaimessa.",
+    "aprDisclaimer": "Nähtävä APR on arvio, joka perustuu nykyiseen inflaatiota, yhteisön veroa ja velkakirjoitusosuuteen.",
+    "rewardsHistory": "Palkintojen historia",
+    "noRewardsHistory": "Palkintoja ei ole vielä kerätty.",
+    "rewardsClaimed": "Väitteet {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Pankaa merkki ja vastaanottakaa nestemäinen merkki, joka ansaitsee palkkioita, kun se pysyy kaupallisena.",
+    "mode": "Suuntaus",
+    "stake": "Panostus",
+    "unstake": "Peru panostus",
+    "asset": "Aset",
+    "youStake": "Sinä panostat ({{symbol}})",
+    "youRedeem": "Sinä lunastat ({{symbol}})",
+    "youReceive": "Olette vastaanottaneet ({{symbol}})",
+    "exchangeRate": "Vaihtokurssi",
+    "apr": "Arvioitu APR",
+    "protocolFee": "Palkintoja koskeva pöytäkirja",
+    "notice": "Liquid staking tokenien ja niiden hintojen simuloidaan.",
+    "done": "Muunnittelu on täydellinen (simuloitu)",
+    "doneBody": "Demo lompakkoasi on päivitetty.",
+    "review": "Tarkastusmuutos",
+    "confirmDescription": "Tarkista muuntaminen. Vahvistaminen muuttaa vain Demo lompakkoa tässä selaimessa.",
+    "risksTitle": "Ymmärrettävien riskit",
+    "risks": {
+      "smartContract": "Älykäs sopimusriski: nestemäisten sitoumuksen protokollit ovat ohjelmistoja, ja ohjelmisto voi sisältää virheitä.",
+      "depeg": "De-peg-riski: nestemäinen tunnus voi käydä kauppaa sen edustamien tunnusten arvon alapuolella.",
+      "validator": "Vahvistusriski: jos pöytäkirjan takana olevat vahvistijat leikataan, jokainen haltija jakaa menetyksen.",
+      "unbonding": "Lähdön viivästystä: protokollan avulla lunastaminen voi kestää yhtä kauan kuin verkon liittämättömyysjakso."
+    },
+    "rateExplain": "valuuttakurssi on sitä, kuinka monta panostettuja tunnuksia yksi nestemäinen tunnus merkitsee. Se kasvaa, kun panostettujen palkkiot kerääntyvät, joten yksi nestemäinen tunnus merkitsee hitaasti enemmän kuin yksi panostettu tunnus.",
+    "noProtocol": "ChainBeat ei yhdistä mitään oikeaa nestemääräämisprotokollaa."
+  }
+}

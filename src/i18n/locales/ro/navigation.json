@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Navigare în bară laterală",
+    "primary": "Navigare principală",
+    "menu": "Menu de navigare",
+    "openMenu": "Menu de navigare deschisă",
+    "closeMenu": "Închide meniul de navigare",
+    "collapseSidebar": "Bară laterală de prăbușire",
+    "expandSidebar": "Expandă bară laterală",
+    "skipToContent": "Skip la conținutul principal",
+    "home": "ChainBeat acasă",
+    "pages": "Paginile",
+    "dashboard": "Tablou de bord",
+    "validators": "Validatori",
+    "proposals": "Propuneri",
+    "blocks": "Blocuri",
+    "transactions": "Tranzacții",
+    "portfolio": "Portofoliu",
+    "swap": "Schimb",
+    "stake": "Staking",
+    "liquidStaking": "Staking lichid",
+    "send": "Trimite",
+    "vote": "Votează",
+    "createProposal": "Creează propunere",
+    "market": "Piață",
+    "network": "Rețea",
+    "governance": "Guvernanță",
+    "ibcNetwork": "Rețea IBC",
+    "devActivity": "Activitate dezvoltatori",
+    "multichain": "Prezentare multichain",
+    "heartbeat": "Puls",
+    "dominance": "Dominanță",
+    "validatorsViz": "Validatori",
+    "blockExplorer": "Explorator de blocuri",
+    "transactionExplorer": "Explorator de tranzacții",
+    "tokenExplorer": "Explorator de token-uri",
+    "about": "Despre",
+    "explorerHome": "Explorator",
+    "governanceHome": "Centrul de guvernanță",
+    "settings": "Setări"
+  },
+  "sections": {
+    "explorer": "Explorator",
+    "wallet": "Portofel",
+    "analytics": "Analize",
+    "visualizations": "Vizualizări"
+  },
+  "chains": {
+    "favorite": "Adăugați {{name}} la preferințe",
+    "unfavorite": "Scoate {{name}} din preferatele",
+    "simulatedHealthy": "Reţea simulată · sănătoasă"
+  },
+  "search": {
+    "label": "Căutare ChainBeat",
+    "placeholder": "Blocul de căutare, TX, adresa...",
+    "results": "Rezultate de căutare",
+    "noResults": "Niciun rezultat pentru {{query}}",
+    "kinds": {
+      "page": "Pagină",
+      "block": "Bloc",
+      "transaction": "TX",
+      "validator": "Validator",
+      "token": "Token",
+      "address": "Adresă",
+      "proposal": "Propunere"
+    },
+    "recent": "Căutări recente",
+    "clearRecent": "Căutări recente clare",
+    "removeRecent": "Îndepărtați {{query}} din căutările recente",
+    "hint": "Încearcă o înălțime a blocurilor, un hash de tranzacție, o adresă ( {{prefix}} 1...), un validator, un număr de propunere sau un simbol.",
+    "submit": "Caută",
+    "searching": "Căutarea...",
+    "resultCount": "Rezultatele: {{count}}",
+    "invalid": {
+      "tooLong": "Acesta este prea lung pentru a fi un termen de căutare (200 caractere cel mult).",
+      "badChecksum": "Asta arată ca o adresă, dar suma de verificare nu se potriveşte.",
+      "badHash": "O tranzacție sau un bloc hash are exact 64 de caractere hexadecimale.",
+      "badChars": "Caută o înălţime a blocurilor, un hash, o adresă, un validator, o propunere sau un token."
+    },
+    "categories": {
+      "page": "Paginile",
+      "block": "Blocuri",
+      "transaction": "Tranzacții",
+      "address": "Adresuri",
+      "validator": "Validatori",
+      "proposal": "Propuneri",
+      "token": "Tokeni"
+    }
+  },
+  "user": {
+    "menu": "Menu de conturi",
+    "guest": "Oaspete",
+    "notConnected": "Fără portofel conectat",
+    "settings": "Setări",
+    "about": "Despre ChainBeat"
+  }
+}

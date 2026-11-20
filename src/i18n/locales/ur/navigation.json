@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "سائیڈ بار نیویگیشن",
+    "primary": "اہم نیویگیشن",
+    "menu": "نیویگیشن مینو",
+    "openMenu": "نیویگیشن مینو کھولیں",
+    "closeMenu": "نیویگیشن مینو بند کریں",
+    "collapseSidebar": "Collapse سائیڈ بار",
+    "expandSidebar": "سائڈبار میں توسیع کریں",
+    "skipToContent": "مرکزی مواد پر جائیں",
+    "home": "ChainBeat گھر",
+    "pages": "صفحات",
+    "dashboard": "ڈیش بورڈ",
+    "validators": "ویلیڈیٹرز",
+    "proposals": "تجاویز",
+    "blocks": "بلاکس",
+    "transactions": "ٹرانزیکشنز",
+    "portfolio": "پورٹ فولیو",
+    "swap": "تبادلہ",
+    "stake": "اسٹیکنگ",
+    "liquidStaking": "لیکویڈ اسٹیکنگ",
+    "send": "بھیجیں",
+    "vote": "ووٹ دیں",
+    "createProposal": "تجویز بنائیں",
+    "market": "مارکیٹ",
+    "network": "نیٹ ورک",
+    "governance": "گورننس",
+    "ibcNetwork": "IBC نیٹ ورک",
+    "devActivity": "ڈویلپر سرگرمی",
+    "multichain": "ملٹی چین جائزہ",
+    "heartbeat": "دھڑکن",
+    "dominance": "غلبہ",
+    "validatorsViz": "ویلیڈیٹرز",
+    "blockExplorer": "بلاک ایکسپلورر",
+    "transactionExplorer": "ٹرانزیکشن ایکسپلورر",
+    "tokenExplorer": "ٹوکن ایکسپلورر",
+    "about": "تعارف",
+    "explorerHome": "ایکسپلورر",
+    "governanceHome": "گورننس کا مرکز",
+    "settings": "ترتیبات"
+  },
+  "sections": {
+    "explorer": "ایکسپلورر",
+    "wallet": "والیٹ",
+    "analytics": "تجزیات",
+    "visualizations": "ویژولائزیشنز"
+  },
+  "chains": {
+    "favorite": "پسندیدہ میں {{name}} شامل کریں",
+    "unfavorite": "{{name}} کو پسندیدہ سے ہٹا دیں",
+    "simulatedHealthy": "مشق شدہ نیٹ ورک · صحت مند"
+  },
+  "search": {
+    "label": "سرچ چین بیٹ",
+    "placeholder": "تلاش بلاک، TX، ایڈریس...",
+    "results": "تلاش کے نتائج",
+    "noResults": "{{query}} کے لئے کوئی نتائج نہیں",
+    "kinds": {
+      "page": "صفحہ",
+      "block": "بلاک",
+      "transaction": "ٹیکس",
+      "validator": "ویلیڈیٹر",
+      "token": "ٹوکن",
+      "address": "پتہ",
+      "proposal": "تجویز"
+    },
+    "recent": "حالیہ تلاشیں",
+    "clearRecent": "واضح حالیہ تلاشیں",
+    "removeRecent": "حالیہ تلاشوں سے {{query}} کو ہٹا دیں",
+    "hint": "ایک بلاک اونچائی، ایک ٹرانزیکشن ہیش، ایک ایڈریس کی کوشش کریں ( {{prefix}} 1...) ایک توثیق کنندہ، ایک تجویز نمبر یا ایک ٹوکن ڈومین.",
+    "submit": "تلاش",
+    "searching": "تلاش...",
+    "resultCount": "نتائج: {{count}}",
+    "invalid": {
+      "tooLong": "یہ ایک تلاش کا اصطلاح ہونے کے لئے بہت لمبا ہے (زیادہ سے زیادہ 200 حروف) ۔",
+      "badChecksum": "یہ ایک ایڈریس کی طرح لگتا ہے، لیکن اس کے چیک کی رقم نہیں ملتی ہے. ٹائپنگ کی غلطیوں کے لئے اس کی جانچ پڑتال کریں.",
+      "badHash": "ٹرانزیکشن یا بلاک ہیش میں بالکل 64 ہیکساڈیسیمل حروف ہوتے ہیں۔",
+      "badChars": "بلاک کی اونچائی کے لئے تلاش کریں، ایک ہیش، ایک ایڈریس، ایک تصدیق، ایک تجویز یا ایک ٹوکن."
+    },
+    "categories": {
+      "page": "صفحات",
+      "block": "بلاکس",
+      "transaction": "ٹرانزیکشنز",
+      "address": "پتے",
+      "validator": "ویلیڈیٹرز",
+      "proposal": "تجاویز",
+      "token": "ٹوکن"
+    }
+  },
+  "user": {
+    "menu": "اکاؤنٹ مینو",
+    "guest": "مہمان",
+    "notConnected": "کوئی بٹوے منسلک نہیں",
+    "settings": "ترتیبات",
+    "about": "ChainBeat کے بارے میں"
+  }
+}

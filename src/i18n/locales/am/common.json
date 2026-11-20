@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "ዴሞ",
+    "simulated": "የተመሰለ",
+    "close": "ዝጋ",
+    "retry": "እንደገና ሞክር",
+    "refresh": "አድስ",
+    "copy": "ቅዳ",
+    "copied": "ተቀድቷል",
+    "clear": "አጽዳ",
+    "loading": "በመጫን ላይ…",
+    "options": "አማራጮች",
+    "previous": "ቀዳሚ",
+    "next": "ቀጣይ",
+    "pagination": "ገጾች",
+    "pageN": "ገጽ {{n}}",
+    "dismiss": "አስወግድ",
+    "cancel": "ሰርዝ",
+    "viewAll": "ሁሉንም እይ",
+    "max": "ከፍተኛ",
+    "amount": "መጠን",
+    "balance": "ቀሪ ሂሳብ",
+    "fee": "ክፍያ",
+    "status": "ሁኔታ",
+    "time": "ጊዜ",
+    "height": "ቁመት",
+    "hash": "ሃሽ",
+    "type": "ዓይነት",
+    "all": "ሁሉም",
+    "showing": "ማሳየት {{from}} {{to}} የ {{total}}",
+    "noResults": "ምንም ውጤቶች የእርስዎን ማጣሪያዎች ጋር ይዛመዳሉ.",
+    "rowsPerPage": "በአንድ ገጽ ላይ ያሉት ረድፎች",
+    "actions": "እርምጃዎች",
+    "exportCsv": "የኤክስፖርት CSV",
+    "details": "ዝርዝሮች",
+    "clearFilters": "ግልጽ ማጣሪያዎች",
+    "collapseAll": "ሁሉም ይወድቃሉ",
+    "copyJson": "የ JSON ቅጂ",
+    "expandAll": "ሁሉንም ያስፋፉ",
+    "showMore": "ተጨማሪ {{count}} ያሳዩ"
+  },
+  "language": {
+    "label": "ቋንቋ",
+    "search": "የፍለጋ ቋንቋዎች"
+  },
+  "theme": {
+    "label": "ገጽታ",
+    "system": "ሲስተም",
+    "dark": "ጨለማ",
+    "light": "ብሩህ"
+  },
+  "footer": {
+    "tagline": "ብሎኮችን ይፈልጉ፣ ግብይቶችን ይከታተሉ፣ ዌብ 3ን ይረዱ።",
+    "demo": "Demo ሁነታ ሁሉም ቁጥሮች የተመሰሉ እና እውነተኛ የአውታረ መረብ ስታቲስቲክስ አይደሉም።",
+    "share": "ማጋራት",
+    "linkCopied": "አገናኝ ወደ ክሊፕቦርድ ተገልጿል.",
+    "docs": "ሰነድ",
+    "links": "የግርጌ አገናኞች",
+    "modeDemo": "Demo አውታረመረብ",
+    "repository": "የመረጃ ቋት",
+    "version": "v{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "ገጹ አልተገኘም",
+    "body": "የምትፈልጉት ገጽ የለም ወይም ተንቀሳቅሷል።",
+    "home": "ወደ ዳሽቦርድ ተመለስ"
+  },
+  "gate": {
+    "title": "ለመቀጠል የ Demo ቦርሳውን ያገናኙ",
+    "body": "ይህ የስራ ፍሰት በማስመሰል የኪስ ቦርሳ ላይ ይሰራል. ለመሞከር የ Demo ቦርሳ ያገናኙ እውነተኛ ምንም ነገር በጭራሽ አልተፈረመም ወይም አልተላከም.",
+    "realTitle": "እውነተኛ የኪስ ቦርሳ ተገናኝቷል",
+    "realBody": "{{address}} የተገናኘ ነው, ነገር ግን ChainBeat Demo ሁነታ መቼም አይፈርምም ወይም ግብይቶች አያሰራጭም. ይህን የስራ ፍሰት ለመሞከር ወደ Demo ቦርሳ ይቀይሩ.",
+    "useDemo": "የ Demo የኪስ ቦርሳ ይጠቀሙ"
+  }
+}

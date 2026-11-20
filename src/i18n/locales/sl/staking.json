@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delegirate žetonov validatorju na {{chain}} in zaslužite simulirane nagrade.",
+    "validator": "Validator",
+    "pickValidator": "Izberite potrdilnik",
+    "estimate": "Ocenjeni prihodki",
+    "netApr": "Neto APR (po proviziji)",
+    "yearly": "Nagrade na leto",
+    "monthly": "Nagrade na mesec",
+    "unbonding": "Obdobje odpiranja obveznosti",
+    "commission": "Odbor za potrjevanje",
+    "notice": "Na resnični mreži je izvedeni delež zaključen za {{days}}-dnevni razvezni čas. Tukaj je vse simulirano in takojšnje.",
+    "yourStake": "Vaš delež na {{chain}}",
+    "unstake": "Prekliči staking",
+    "unstakeTitle": "Odstajanje iz {{validator}}",
+    "unstakeDescription": "Na resničnem omrežju se bodo vaši žetonovi odklonili po {{days}} dnevnem obdobju odvezanja.",
+    "confirmUnstake": "Izključitev (simuliracija)",
+    "done": "Vložena (simulirana)",
+    "doneBody": "V denarnico Demo bi bilo {{days}} dni.",
+    "unstaked": "Neobvezno (simulirano)",
+    "unstakedBody": "Takoj se vrne v demo denarnico. {{days}} Več dni.",
+    "errors": {
+      "validator": "Izberite validator.",
+      "moreThanStaked": "Ne moreš razbiti več, kot si postavil."
+    },
+    "review": "Vloga revizije",
+    "confirmDescription": "Preverite delegacijo, potrditev spremeni samo denarnico Demo v tem brskalniku.",
+    "aprDisclaimer": "Navedena APR je ocena, ki temelji na trenutni inflaciji, davku Skupnosti in razmerju obveznic, ni zagotovljena donosnost in se spreminja sčasoma.",
+    "rewardsHistory": "Zgodovina nagrad",
+    "noRewardsHistory": "-Nihče nagrade še ni zahtevalo.",
+    "rewardsClaimed": "Zahtevek {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Vložite žeton in prejmete tekoče žeton, ki še naprej zasluži nagrade, medtem ko ostane trgovalna.",
+    "mode": "Smeri",
+    "stake": "Staking",
+    "unstake": "Prekliči staking",
+    "asset": "Pridobna sredstva",
+    "youStake": "Ti stavim ({{symbol}})",
+    "youRedeem": "Odkupite se ({{symbol}})",
+    "youReceive": "Prejeli ste ({{symbol}})",
+    "exchangeRate": "Menjalni tečaj",
+    "apr": "Ocenjena APR",
+    "protocolFee": "Protokolna pristojbina za nagrade",
+    "notice": "Tokeni za tekoče stave in njihove stopnje so simulirani.",
+    "done": "Konverzija je bila popolna (simulirana)",
+    "doneBody": "Vaša denarnica je bila posodobljena.",
+    "review": "Pregled preobrazbe",
+    "confirmDescription": "Preverite pretvorbo. potrditev spremeni samo denarnico Demo v tem brskalniku.",
+    "risksTitle": "Rizici za razumevanje",
+    "risks": {
+      "smartContract": "Rizik pametnih pogodb: protokoli za shranjevanje tekočine so programska oprema, programska oprema pa lahko vsebuje napake.",
+      "depeg": "V skladu z Uredbo (EU) št. 575/2013 se v skladu z odstavkom 1 nadomesti z naslednjim:.",
+      "validator": "tveganje za validatorje: če se validatorje, ki stojijo za protokolom, zmanjšajo, se vsak imetnik deleže z izgubo.",
+      "unbonding": "Odlog izhoda: odkup preko protokola lahko traja toliko časa, kot je čas odveza omrežja."
+    },
+    "rateExplain": "Vmesni tečaj je število tokensov, za katere je vlagani en tekoči token. Zraste, ko se pridobijo nagrade za vlog, tako da je eden tekoči token počasi vreden več kot eden vlagani token.",
+    "noProtocol": "ChainBeat se ne povezuje z pravi protokolom za shranjevanje tekočine."
+  }
+}

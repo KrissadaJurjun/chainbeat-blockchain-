@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "De senaste transaktionerna på {{chain}}.",
+    "stats": {
+      "recent": "Nyligen genomförda transaktioner",
+      "success": "Framgångsrika",
+      "failed": "Misslyckades",
+      "volume": "Den inhemska volymen"
+    },
+    "filterPlaceholder": "Filtrera efter hash, adress eller höjd",
+    "allTypes": "Alla typer",
+    "tableCaption": "De senaste transaktionerna på {{chain}}",
+    "from": "Från",
+    "to": "Till",
+    "memo": "Memo",
+    "noMemo": "Inga meddelanden",
+    "raw": "Visa rådata (simuleras)",
+    "detailTitle": "Transaktion",
+    "detailDescription": "Detaljer om en simulerad transaktion på {{chain}}.",
+    "notFoundTitle": "Transaktioner som inte hittats",
+    "notFoundBody": "Ingen transaktion med denna hash finns på {{chain}} i simulationen.",
+    "failedBecause": "Denna transaktion misslyckades: {{reason}}.",
+    "types": {
+      "send": "Skicka",
+      "delegate": "Delegerad",
+      "undelegate": "Odelegerade",
+      "claim": "Krav på belöningar",
+      "vote": "Rösta",
+      "ibc-transfer": "IBC Överföring",
+      "swap": "Byt",
+      "other": "Övriga"
+    },
+    "status": {
+      "success": "Lyckades",
+      "failed": "Misslyckades"
+    },
+    "block": "Block",
+    "cardsLabel": "Transaktioner",
+    "category": "Kategori",
+    "date": "Datum",
+    "dateNote": "Visa de senaste {{count}} transaktionerna fram till slutet av {{date}} (UTC).",
+    "emptyTitle": "Inga transaktioner hittades",
+    "events": "Händelser",
+    "failedEvents": "Denna transaktion misslyckades, så den utfärdade endast sin avgift händelse.",
+    "feeSymbol": "Fee token",
+    "filtersLabel": "Transaktionsfilter",
+    "gasUsed": "Använd gas",
+    "gasWanted": "Gas eftersökt",
+    "groups": {
+      "transfer": "Överföringar",
+      "staking": "Staking",
+      "governance": "Styrning",
+      "ibc": "IBC",
+      "swap": "Swap",
+      "other": "Övriga"
+    },
+    "latestNote": "Visa de senaste {{count}} transaktionerna.",
+    "messageType": "Meddelandetyp",
+    "network": "Nätverk",
+    "symbol": "Token",
+    "syntheticNote": "Det här är en syntetisk rekord som genererats för Demo Mode.",
+    "token": "Token",
+    "validator": "Validerare",
+    "demoWalletNote": "Den här transaktionen skapades av plånboken Demo. Den finns bara i den här webbläsaren: ingen blockchain-överföring ägde rum, och dess hash är inte en riktig blockchain hash.",
+    "demoTag": "Demo plånbok"
+  }
+}

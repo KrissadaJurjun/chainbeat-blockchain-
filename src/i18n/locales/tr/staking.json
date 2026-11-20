@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Simülasyonlu ödüller elde etmek için {{chain}}'de bir onaylayıcıya token gönderin.",
+    "validator": "Doğrulayıcı",
+    "pickValidator": "Değerlendirici seçin",
+    "estimate": "Tahmin edilen getiri",
+    "netApr": "Net APR (komisyon sonrası)",
+    "yearly": "Yıllık ödüller",
+    "monthly": "Aylık ödüller",
+    "unbonding": "Bağlantı dışı süresi",
+    "commission": "Validatör komisyonu",
+    "notice": "Gerçek bir ağda, çekilen bahis {{days}} gün boyunca kilitlenir. Burada her şey simüle edilir ve anlık.",
+    "yourStake": "{{chain}}'in bahisinde",
+    "unstake": "Stake'i çöz",
+    "unstakeTitle": "{{validator}}'den çıkartılmış",
+    "unstakeDescription": "Gerçek bir ağda simgeleriniz {{days}} günlük çözme süresinden sonra kilitlenebilir.",
+    "confirmUnstake": "Çekilme (simülasyon)",
+    "done": "Yüklenmiş (simülasyon)",
+    "doneBody": "Demo cüzdanında görevlendirilmiş, gerçek bir çözülme süresi {{days}} gündür.",
+    "unstaked": "Sıkıntısız (simülasyon)",
+    "unstakedBody": "Demo cüzdanına hemen geri döndüm. {{days}} Günlerdir.",
+    "errors": {
+      "validator": "Bir onaylayıcı seçin.",
+      "moreThanStaked": "Bahis ettiğinden daha fazlasını çıkaramazsın."
+    },
+    "review": "Değerlendirme payı",
+    "confirmDescription": "Delegasyonu kontrol edin, doğrulama sadece Demo cüzdanını değiştirir.",
+    "aprDisclaimer": "Gösterilen APR, mevcut enflasyon, topluluk vergisi ve borsa oranına dayalı bir tahmindir.",
+    "rewardsHistory": "Ödül Tarihi",
+    "noRewardsHistory": "Henüz ödül talep edilmedi.",
+    "rewardsClaimed": "İddia edilen {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Bir token yatır ve ticaret yapılırken ödül kazanmaya devam eden sıvı bir token al.",
+    "mode": "Yön",
+    "stake": "Stake",
+    "unstake": "Stake'i çöz",
+    "asset": "Varlık",
+    "youStake": "Sen bahis ({{symbol}})",
+    "youRedeem": "Öldürmek ({{symbol}})",
+    "youReceive": "Alıyorsunuz ({{symbol}})",
+    "exchangeRate": "Döviz kuru",
+    "apr": "Tahmini APR",
+    "protocolFee": "Ödüller hakkındaki protokol ücreti",
+    "notice": "Sıvı bahis tokenleri ve oranları simüle edilir.",
+    "done": "Değişim tamamlandı (simülasyon)",
+    "doneBody": "Demo cüzdan bakiyeleriniz güncellenmiş.",
+    "review": "Tekrarlama dönüşümü",
+    "confirmDescription": "Bu tarayıcıda sadece Demo cüzdanı değiştirir.",
+    "risksTitle": "Anlamanın riskleri",
+    "risks": {
+      "smartContract": "Akıllı sözleşme riski: sıvı depolama protokolleri yazılımdır ve yazılım hatalara sahip olabilir.",
+      "depeg": "De-peg riski: sıvı token, temsil ettiği tokenlerin değerinin altında işlem yapabilir.",
+      "validator": "Validatör riski: Protokolün arkasındaki validatörler kesildiğinde, her sahibin kaybı paylaşıyor.",
+      "unbonding": "Çıkış gecikmesi: Protokol aracılığıyla kurtarma, ağın bağlanma süresi kadar sürebilir."
+    },
+    "rateExplain": "Değişiklik oranı, bir sıvı token'in kaç parayı temsil ettiğini gösterir. Paralı ödüller biriktikçe büyür, bu nedenle bir sıvı token yavaş yavaş bir paraya değerinden daha fazla olur.",
+    "noProtocol": "ChainBeat gerçek bir sıvı yığma protokolü ile birleştirilmez. Bu sayfa bir eğitim simülasyonudur."
+  }
+}

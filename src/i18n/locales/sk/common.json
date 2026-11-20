@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simulované",
+    "close": "Zavrieť",
+    "retry": "Skúsiť znova",
+    "refresh": "Obnoviť",
+    "copy": "Kopírovať",
+    "copied": "Skopírované",
+    "clear": "Vymazať",
+    "loading": "Načítava sa…",
+    "options": "Možnosti",
+    "previous": "Predchádzajúce",
+    "next": "Ďalšie",
+    "pagination": "Stránky",
+    "pageN": "Strana {{n}}",
+    "dismiss": "Skryť",
+    "cancel": "Zrušiť",
+    "viewAll": "Zobraziť všetko",
+    "max": "Max",
+    "amount": "Suma",
+    "balance": "Zostatok",
+    "fee": "Poplatok",
+    "status": "Stav",
+    "time": "Čas",
+    "height": "Výška",
+    "hash": "Hash",
+    "type": "Typ",
+    "all": "Všetko",
+    "showing": "Ukázať {{from}} {{to}} z {{total}}",
+    "noResults": "Výsledky sa nezhodujú s vašimi filtrmi.",
+    "rowsPerPage": "riadky na stránku",
+    "actions": "Akcie",
+    "exportCsv": "Vývozné CSV",
+    "details": "Podrobnosti",
+    "clearFilters": "Čisté filtre",
+    "collapseAll": "Zrúti sa všetko",
+    "copyJson": "Kopírovanie JSON",
+    "expandAll": "Rozšírte všetko",
+    "showMore": "Ukáž {{count}} viac"
+  },
+  "language": {
+    "label": "Jazyk",
+    "search": "Vyhľadávacie jazyky"
+  },
+  "theme": {
+    "label": "Motív",
+    "system": "Systém",
+    "dark": "Tmavý",
+    "light": "Svetlý"
+  },
+  "footer": {
+    "tagline": "Vyhľadajte bloky, sledujte transakcie, pochopte Web3.",
+    "demo": "Demo Režim všetky údaje sú simulované a nie sú skutočnou sieťovou štatistikou.",
+    "share": "Podieľanie",
+    "linkCopied": "Odkaz kopírovaný na štítku.",
+    "docs": "Dokumentácia",
+    "links": "Odkazy v podstate",
+    "modeDemo": "Demo Sieť",
+    "repository": "Repositorium",
+    "version": "v{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Stránka sa nenašla",
+    "body": "Stránka, ktorú hľadáte, neexistuje alebo sa presunula.",
+    "home": "Späť na prehľad"
+  },
+  "gate": {
+    "title": "Pripojte peňaženku Demo na pokračovanie",
+    "body": "Tento pracovný postup prebieha na simulovanej peňaženke. Pripojte peňaženku Demo na vyskúšanie nič skutočné nikdy nie je podpísané alebo odoslané.",
+    "realTitle": "Je pripojená skutočná peňaženka",
+    "realBody": "{{address}} je pripojený, ale režim ChainBeat Demo nikdy nepodepíše ani neposiela transakcie. Prejdite na peňaženku Demo, aby ste vyskúšali tento pracovný postup.",
+    "useDemo": "Použite peňaženku Demo"
+  }
+}

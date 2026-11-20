@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "පැති තීරුවේ සැරිසැරීම",
+    "primary": "ප් රධාන නාවික යාත් රාව",
+    "menu": "සැරිසැරීමේ මෙනුව",
+    "openMenu": "විවෘත නැව්ගත කිරීමේ මෙනුව",
+    "closeMenu": "සැරිසැරීමේ මෙනුව වසා දමන්න",
+    "collapseSidebar": "බිඳවැටීමේ පැති තීරුව",
+    "expandSidebar": "පැති තීරුව පුළුල් කරන්න",
+    "skipToContent": "ප් රධාන අන්තර්ගතයට පනින්න",
+    "home": "ChainBeat ගෙදර",
+    "pages": "පිටු",
+    "dashboard": "උපකරණ පුවරුව",
+    "validators": "වැලිඩේටර්",
+    "proposals": "යෝජනා",
+    "blocks": "බ්ලොක්",
+    "transactions": "ගනුදෙනු",
+    "portfolio": "පෝට්ෆෝලියෝ",
+    "swap": "හුවමාරුව",
+    "stake": "ස්ටේක්",
+    "liquidStaking": "ද්‍රවශීල ස්ටේකින්",
+    "send": "යවන්න",
+    "vote": "ඡන්දය දෙන්න",
+    "createProposal": "යෝජනාවක් සාදන්න",
+    "market": "වෙළඳපොළ",
+    "network": "ජාලය",
+    "governance": "පාලනය",
+    "ibcNetwork": "IBC ජාලය",
+    "devActivity": "සංවර්ධක ක්‍රියාකාරකම්",
+    "multichain": "බහුදාම දළ විශ්ලේෂණය",
+    "heartbeat": "හෘද ස්පන්දනය",
+    "dominance": "ආධිපත්‍යය",
+    "validatorsViz": "වැලිඩේටර්",
+    "blockExplorer": "බ්ලොක් ගවේෂකය",
+    "transactionExplorer": "ගනුදෙනු ගවේෂකය",
+    "tokenExplorer": "ටෝකන් ගවේෂකය",
+    "about": "පිළිබඳව",
+    "explorerHome": "ගවේෂකය",
+    "governanceHome": "පාලන මධ් යස්ථානය",
+    "settings": "සැකසුම්"
+  },
+  "sections": {
+    "explorer": "ගවේෂකය",
+    "wallet": "පසුම්බිය",
+    "analytics": "විශ්ලේෂණ",
+    "visualizations": "දෘශ්‍යකරණ"
+  },
+  "chains": {
+    "favorite": "{{name}} ප් රියතමයන් වෙත එකතු කරන්න",
+    "unfavorite": "{{name}} ප් රියතමයන්ගෙන් ඉවත් කරන්න",
+    "simulatedHealthy": "සිමියුලේට් කරන ලද ජාලය · සෞඛ් ය සම්පන්න"
+  },
+  "search": {
+    "label": "සොයන්න ChainBeat",
+    "placeholder": "සෙවුම් කොටුව, ටීඑච්, ලිපිනය...",
+    "results": "සෙවුම් ප් රතිඵල",
+    "noResults": "{{query}} සඳහා කිසිදු ප් රතිඵලයක් නොමැත",
+    "kinds": {
+      "page": "පිටුව",
+      "block": "බ්ලොක්",
+      "transaction": "ටීඑක්ස්",
+      "validator": "වැලිඩේටර්",
+      "token": "ටෝකනය",
+      "address": "ලිපිනය",
+      "proposal": "යෝජනාව"
+    },
+    "recent": "මෑත කාලීන සෙවීම්",
+    "clearRecent": "පැහැදිලි මෑත සෙවීම්",
+    "removeRecent": "මෑත සෙවුම් වලින් {{query}} ඉවත් කරන්න",
+    "hint": "බ්ලොක් උස, ගනුදෙනු හැෂ් එකක්, ලිපිනයක් ( {{prefix}} 1...), වලංගුකරුවෙක්, යෝජනා අංකයක් හෝ සංකේත නාමයක්.",
+    "submit": "සොයන්න",
+    "searching": "හොයනවා...",
+    "resultCount": "ප් රතිඵල: {{count}}",
+    "invalid": {
+      "tooLong": "ඒක සෙවුම් වචනයක් වෙන්න ගොඩක් දිගයි (200 characters maximum).",
+      "badChecksum": "මේක හරියට ලිපිනයක් වගේ, ඒත් ඒකෙ චෙක්ස් එක ගැලපෙන්නෙ නෑ.",
+      "badHash": "ගනුදෙනුවක් හෝ බ්ලොක් හෑෂ් එකක හෙක්සාඩෙසිමල් අක්ෂර 64ක් තියෙනවා.",
+      "badChars": "බ්ලොක් උස, හැෂ්, ලිපිනය, වලංගුකාරය, යෝජනාවක් හෝ ටෝකනයක් සොයන්න."
+    },
+    "categories": {
+      "page": "පිටු",
+      "block": "බ්ලොක්",
+      "transaction": "ගනුදෙනු",
+      "address": "ලිපිනය",
+      "validator": "වැලිඩේටර්",
+      "proposal": "යෝජනා",
+      "token": "ටෝකන"
+    }
+  },
+  "user": {
+    "menu": "ගිණුම් මෙනුව",
+    "guest": "ආගන්තුකයා",
+    "notConnected": "වොලට් එක සම්බන්ධ නෑ",
+    "settings": "සැකසුම්",
+    "about": "චේන්බීට් ගැන"
+  }
+}

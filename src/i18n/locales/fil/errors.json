@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Wala pa rin dito",
+    "emptyBody": "Walang data upang ipakita para sa pananaw na ito.",
+    "errorTitle": "Hindi ko ma-load ang data na ito",
+    "errorBody": "May nagkamali habang binabasa ang network, suriin ang iyong koneksyon at subukan muli.",
+    "crashTitle": "May nagkamali",
+    "crashBody": "Ang pahinang ito ay nakaranas ng hindi inaasahang pagkakamali.",
+    "reload": "Pag-upload ng pahina"
+  }
+}

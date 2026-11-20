@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Ναυσιπλοΐα στη πλευρική γραμμή",
+    "primary": "Κεντρική ναυσιπλοΐα",
+    "menu": "Πίνακα πλοήγησης",
+    "openMenu": "Ανοιχτό μενού πλοήγησης",
+    "closeMenu": "Κλείστε το μενού πλοήγησης",
+    "collapseSidebar": "Συμπληρωματική γραμμή κατάρρευσης",
+    "expandSidebar": "Επέκταση πλευρικής γραμμής",
+    "skipToContent": "Πάρτε στο κύριο περιεχόμενο",
+    "home": "Σπίτι ChainBeat",
+    "pages": "Σελίδες",
+    "dashboard": "Πίνακας ελέγχου",
+    "validators": "Επικυρωτές",
+    "proposals": "Προτάσεις",
+    "blocks": "Μπλοκ",
+    "transactions": "Συναλλαγές",
+    "portfolio": "Χαρτοφυλάκιο",
+    "swap": "Ανταλλαγή",
+    "stake": "Staking",
+    "liquidStaking": "Ρευστό staking",
+    "send": "Αποστολή",
+    "vote": "Ψηφοφορία",
+    "createProposal": "Δημιουργία πρότασης",
+    "market": "Αγορά",
+    "network": "Δίκτυο",
+    "governance": "Διακυβέρνηση",
+    "ibcNetwork": "Δίκτυο IBC",
+    "devActivity": "Δραστηριότητα προγραμματιστών",
+    "multichain": "Επισκόπηση πολλών αλυσίδων",
+    "heartbeat": "Παλμός",
+    "dominance": "Κυριαρχία",
+    "validatorsViz": "Επικυρωτές",
+    "blockExplorer": "Εξερευνητής μπλοκ",
+    "transactionExplorer": "Εξερευνητής συναλλαγών",
+    "tokenExplorer": "Εξερευνητής tokens",
+    "about": "Σχετικά",
+    "explorerHome": "Εξερευνητής",
+    "governanceHome": "Κέντρο διακυβέρνησης",
+    "settings": "Ρυθμίσεις"
+  },
+  "sections": {
+    "explorer": "Εξερευνητής",
+    "wallet": "Πορτοφόλι",
+    "analytics": "Αναλύσεις",
+    "visualizations": "Οπτικοποιήσεις"
+  },
+  "chains": {
+    "favorite": "Προσθέστε {{name}} στα αγαπημένα",
+    "unfavorite": "Αφαιρέστε το {{name}} από τα αγαπημένα",
+    "simulatedHealthy": "Συμπληρωματικό δίκτυο · υγιές"
+  },
+  "search": {
+    "label": "Αναζήτηση ChainBeat",
+    "placeholder": "Κλειδί αναζήτησης, διεύθυνση...",
+    "results": "Αποτελέσματα αναζήτησης",
+    "noResults": "Κανένα αποτέλεσμα για {{query}}",
+    "kinds": {
+      "page": "Σελίδα",
+      "block": "Μπλοκ",
+      "transaction": "Τξ",
+      "validator": "Επικυρωτής",
+      "token": "Token",
+      "address": "Διεύθυνση",
+      "proposal": "Πρόταση"
+    },
+    "recent": "Πρόσφατες αναζητήσεις",
+    "clearRecent": "Καθαρές πρόσφατες αναζητήσεις",
+    "removeRecent": "Αφαιρέστε {{query}} από πρόσφατες αναζητήσεις",
+    "hint": "Δοκιμάστε ένα ύψος μπλοκ, μια συναλλαγή hash, μια διεύθυνση ( {{prefix}} 1...), επικύρωση, αριθμός πρότασης ή ονομαστικό σήμα.",
+    "submit": "Αναζήτηση",
+    "searching": "Ψάχνω...",
+    "resultCount": "Αποτελέσματα: {{count}}",
+    "invalid": {
+      "tooLong": "Αυτό είναι πολύ μακρύ για να είναι ένας όρος αναζήτησης (περισσότερο 200 χαρακτήρες).",
+      "badChecksum": "Μοιάζει με διεύθυνση, αλλά δεν ταιριάζει.",
+      "badHash": "Μια συναλλαγή ή μπλοκ hash έχει ακριβώς 64 έξιδεκατά χαρακτήρες.",
+      "badChars": "Ψάξε για ύψος μπλοκ, χασά, διεύθυνση, επικύρωση, πρόταση ή σήμα."
+    },
+    "categories": {
+      "page": "Σελίδες",
+      "block": "Μπλοκ",
+      "transaction": "Συναλλαγές",
+      "address": "Διεύθυνση",
+      "validator": "Επικυρωτές",
+      "proposal": "Προτάσεις",
+      "token": "Τόκενες"
+    }
+  },
+  "user": {
+    "menu": "Λεπτογραφικό μενού",
+    "guest": "Επισκέπτης",
+    "notConnected": "Χωρίς πορτοφόλι",
+    "settings": "Ρυθμίσεις",
+    "about": "Σχετικά με το ChainBeat"
+  }
+}

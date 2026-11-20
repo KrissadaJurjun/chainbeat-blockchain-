@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Inget här än",
+    "emptyBody": "Det finns inga uppgifter för denna syn.",
+    "errorTitle": "Jag kunde inte ladda in den här datan",
+    "errorBody": "Nåt gick fel när du läste nätverket.",
+    "crashTitle": "Något gick fel",
+    "crashBody": "Den här sidan råkade ut för ett oväntat fel.",
+    "reload": "Överladdningssida"
+  }
+}

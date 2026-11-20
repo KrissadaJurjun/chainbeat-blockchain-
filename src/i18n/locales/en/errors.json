@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Nothing here yet",
+    "emptyBody": "There is no data to show for this view.",
+    "errorTitle": "Couldn't load this data",
+    "errorBody": "Something went wrong while reading the network. Check your connection and try again.",
+    "crashTitle": "Something went wrong",
+    "crashBody": "This page ran into an unexpected error.",
+    "reload": "Reload page"
+  }
+}

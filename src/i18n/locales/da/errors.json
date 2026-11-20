@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Der er ikke noget her endnu",
+    "emptyBody": "Der er ingen data til at vise for denne synsvinkel.",
+    "errorTitle": "Jeg kunne ikke lade disse data op",
+    "errorBody": "- Tjek forbindelsen og prøv igen.",
+    "crashTitle": "Der gik noget galt",
+    "crashBody": "Denne side mødte en uventet fejl.",
+    "reload": "Overlasting side"
+  }
+}

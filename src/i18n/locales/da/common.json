@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simuleret",
+    "close": "Luk",
+    "retry": "Prøv igen",
+    "refresh": "Opdater",
+    "copy": "Kopiér",
+    "copied": "Kopieret",
+    "clear": "Ryd",
+    "loading": "Indlæser…",
+    "options": "Optioner",
+    "previous": "Forrige",
+    "next": "Næste",
+    "pagination": "Paginering",
+    "pageN": "Sidste side {{n}}",
+    "dismiss": "Afvis",
+    "cancel": "Annuller",
+    "viewAll": "Se alle",
+    "max": "Maks",
+    "amount": "Beløb",
+    "balance": "Saldo",
+    "fee": "Gebyr",
+    "status": "Status",
+    "time": "Tid",
+    "height": "Højde",
+    "hash": "Hash",
+    "type": "Type",
+    "all": "Alle",
+    "showing": "Visning {{from}} {{to}} af {{total}}",
+    "noResults": "Ingen resultater matcher dine filtre.",
+    "rowsPerPage": "Rækker pr. side",
+    "actions": "Aktioner",
+    "exportCsv": "Eksport CSV",
+    "details": "Detaljer",
+    "clearFilters": "Frit filter",
+    "collapseAll": "Kollapser alle sammen",
+    "copyJson": "Kopiere JSON",
+    "expandAll": "Udvide alt",
+    "showMore": "Vis {{count}} mere"
+  },
+  "language": {
+    "label": "Sprog",
+    "search": "Søgningssprog"
+  },
+  "theme": {
+    "label": "Tema",
+    "system": "System",
+    "dark": "Mørk",
+    "light": "Lys"
+  },
+  "footer": {
+    "tagline": "Udforsk blokke, spore transaktioner og forstå web3.",
+    "demo": "Demo Mode alle tal er simuleret og er ikke reelle netstatistikker.",
+    "share": "Del",
+    "linkCopied": "Link kopieret til klipbordet.",
+    "docs": "Dokumentation",
+    "links": "Fodderforbindelser",
+    "modeDemo": "Demo Netværk",
+    "repository": "Repository",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Siden blev ikke fundet",
+    "body": "Den side, du leder efter, eksisterer ikke eller er flyttet.",
+    "home": "Tilbage til overblikket"
+  },
+  "gate": {
+    "title": "Tilføj lommeboken Demo til at fortsætte",
+    "body": "Denne arbejdsproces kører på en simuleret tegnebog.",
+    "realTitle": "En ægte tegnebog er forbundet",
+    "realBody": "{{address}} Men ChainBeat Demo Mode underskriver aldrig eller sender aldrig transaktioner.",
+    "useDemo": "Brug tegnebogen Demo"
+  }
+}

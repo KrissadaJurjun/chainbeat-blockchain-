@@ -1,0 +1,37 @@
+{
+  "blockDetail": {
+    "title": "Blok {{height}}",
+    "invalid": "Nevaljan visina blokova",
+    "description": "Detalji simuliranog bloka na {{chain}}.",
+    "previous": "Prethodni blok",
+    "next": "Sljedeći blok",
+    "notFoundTitle": "Blok nije pronađen",
+    "notFoundBody": "{{chain}} još nema blok na ovoj visini.",
+    "transactions_one": "{{count}} transakcija",
+    "transactions_few": "{{count}} transakcije",
+    "transactions_other": "{{count}} transakcija",
+    "txCaption": "Postupe u bloku {{height}}",
+    "noTxs": "Ovaj blok nema transakcije",
+    "genesis": "Stvaranje blok",
+    "parentHash": "Rodičarski haš",
+    "demoTxs": "Demo transakcije u novčaniku na ovoj visini",
+    "demoTxsNote": "Oni su stvoreni od strane Demo novčanik."
+  },
+  "blocksPage": {
+    "description": "Najnoviji blokovi na {{chain}}.",
+    "live": "Živjeli",
+    "avgGas": "Upotreba ugljikovog plina",
+    "tableCaption": "Posljednje blokove na {{chain}}",
+    "proposer": "Proponent",
+    "txs": "Txs",
+    "gas": "Potrošeni gas",
+    "size": "Veličina",
+    "emptyTitle": "Nema blokova pronađen",
+    "filterPlaceholder": "Filtriranje po visini, hash ili validator",
+    "filtersLabel": "Filteri za blokiranje",
+    "finality": "Posljednja svrha",
+    "finalityNote": "Blokovi na takvoj mreži konačni su čim se obavezuju.",
+    "finalized": "Potvrđeno",
+    "withTxsOnly": "Samo blokovi s transakcijama"
+  }
+}

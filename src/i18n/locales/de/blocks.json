@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "Block {{height}}",
+    "invalid": "Ungültige Blockhöhe",
+    "description": "Details zu einem simulierten Block auf {{chain}}.",
+    "previous": "Vorheriger Block",
+    "next": "Nächster Block",
+    "notFoundTitle": "Block nicht gefunden",
+    "notFoundBody": "{{chain}} hat noch keinen Block mit dieser Höhe.",
+    "transactions_one": "{{count}} Transaktion",
+    "transactions_other": "{{count}} Transaktionen",
+    "txCaption": "Transaktionen in Block {{height}}",
+    "noTxs": "Dieser Block enthält keine Transaktionen",
+    "genesis": "Genesis-Block",
+    "parentHash": "Elternhash",
+    "demoTxs": "Demo Brieftaschentransaktionen in dieser Höhe",
+    "demoTxsNote": "Diese wurden von der Demo Wallet erstellt. Sie sind nicht Teil der eigenen Transaktionszahl des simulierten Blocks."
+  },
+  "blocksPage": {
+    "description": "Die neuesten Blöcke auf {{chain}}. Die Liste wird etwa einmal pro Blockzeit aktualisiert.",
+    "live": "Live",
+    "avgGas": "Ø Gasverbrauch",
+    "tableCaption": "Neueste Blöcke auf {{chain}}",
+    "proposer": "Proposer",
+    "txs": "Txs",
+    "gas": "Verbrauchtes Gas",
+    "size": "Größe",
+    "emptyTitle": "Keine Blöcke gefunden",
+    "filterPlaceholder": "Filter nach Höhe, Hash oder Validierer",
+    "filtersLabel": "Blockfilter",
+    "finality": "Endgültigkeit",
+    "finalityNote": "Blockierungen dieser Art von Netzwerk sind abgeschlossen, sobald sie in Kraft getreten sind.",
+    "finalized": "Vollendet",
+    "withTxsOnly": "Nur mit Transaktionen verbundene Blöcke"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Native, IBC, likvid- og eksterne aktiver, der er kendt på {{chain}} (simuleret).",
+    "stats": {
+      "total": "Sporede tokens"
+    },
+    "kinds": {
+      "native": "Indfødt",
+      "ibc": "IBC",
+      "external": "Udvendige",
+      "stable": "Stablecoin",
+      "liquid": "Væske staking"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Type",
+      "denom": "Denom",
+      "price": "Pris",
+      "change": "24 timer",
+      "supply": "Udbud",
+      "holders": "Holdere",
+      "marketCap": "Markedsværdi"
+    },
+    "filterPlaceholder": "Filtering efter symbol, navn eller betegnelse",
+    "tableCaption": "Token på {{chain}}"
+  },
+  "account": {
+    "title": "Konto",
+    "description": "Saldoer og den seneste aktivitet på en konto på {{chain}} (simuleret).",
+    "available": "Tilgængelig",
+    "balances": "Saldoer",
+    "counterparty": "Modpart",
+    "direction": "Indretning",
+    "in": "I",
+    "out": "Uden",
+    "history": "Transaktionshistorie",
+    "historyCaption": "Transaktioner af {{address}}",
+    "invalidTitle": "Ikke gyldig adresse",
+    "invalidBody": "Det er ikke gyldigt. {{chain}} Adresse. Adresser på dette netværk begynder med {{prefix}} 1 og indbefatter en checksum.",
+    "noBalances": "Ingen afbalancer.",
+    "noHistory": "Ingen transaktioner fundet",
+    "noHistoryBody": "Denne konto har ingen simuleret aktivitet i de nyeste {{blocks}} blokke.",
+    "rewards": "Belønninger: {{value}}",
+    "staked": "Stakede",
+    "totalValue": "Den samlede værdi",
+    "txCount": "Transaktioner",
+    "unknown": "Dette er en gyldig adresse, men den vises ikke i simuleringen, så den har ingen balance eller historie.",
+    "window": "i de nyeste {{blocks}} blokke",
+    "demoWallet": "Det er din lommebok Demo, og dens salder og transaktioner simuleres og findes kun i denne browser."
+  },
+  "explorer": {
+    "description": "Søg {{chain}} og se, hvad der sker på det (simulerede) netværk lige nu.",
+    "latestBlocks": "Seneste blokke",
+    "latestTransactions": "Seneste transaktioner",
+    "searchTitle": "Søg efter udforskeren",
+    "shortcuts": "Eksplorer sektioner"
+  }
+}

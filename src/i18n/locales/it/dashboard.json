@@ -1,0 +1,103 @@
+{
+  "overview": {
+    "title": "Presentazione generale",
+    "unit": "Indice di prestazioni · Base = 100 all'inizio della gamma",
+    "refreshFailed": "Non riuscivo a aggiornare mostrando gli ultimi dati caricati."
+  },
+  "chart": {
+    "keyboardHint": "Utilizzare i tassi delle frecce per spostarsi tra i punti dati.",
+    "summary": "Indice di prestazioni superiore a {{range}}: {{details}}",
+    "rangeLabel": "Intervallo temporale",
+    "seriesLabel": "Serie di grafici",
+    "keepOne": "Almeno una serie deve rimanere visibile",
+    "emptyTitle": "Nessun dato per questo intervallo",
+    "emptyBody": "Prova un altro intervallo temporale o rinfresca.",
+    "range": {
+      "24H": "24 ORE",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "Le ultime 24 ore",
+      "7D": "Negli ultimi 7 giorni",
+      "30D": "Negli ultimi 30 giorni",
+      "90D": "Negli ultimi 90 giorni"
+    },
+    "zoomControls": "Controlli zoom",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "resetView": "Vista di ripristino",
+    "zoomLevel": "Livello di zoom"
+  },
+  "proposals": {
+    "title": "Proposte",
+    "filter": "Filtro di proposta",
+    "live": "Vivi",
+    "total": "Totale",
+    "viewAll": "Visualizza tutte le proposte",
+    "noneLive": "Nessuna proposta in diretta",
+    "noneLiveBody": "Attualmente non esiste una governance in corso.",
+    "showAll": "Mostra le proposte recenti",
+    "endsIn": "Finite {{time}}",
+    "turnout": "Affluenza",
+    "vote": "Vota",
+    "status": {
+      "voting": "In votazione",
+      "deposit": "Deposito",
+      "passed": "Approvata",
+      "rejected": "Respinta",
+      "failed": "Fallita"
+    },
+    "passed": "Approvata",
+    "rejected": "Respinta",
+    "noneMatching": "Nessuna proposta corrispondente",
+    "noneMatchingBody": "Non c'e' niente che corrisponda a questo filtro in questo momento."
+  },
+  "dev": {
+    "title": "Attività sviluppatori",
+    "summary": "{{total}} contributi",
+    "viewFull": "Attività di sviluppo aperta",
+    "heatmapLabel": "Mappa di calore dei contributi: {{total}} contributi nel corso di {{weeks}} settimane",
+    "less": "Meno",
+    "more": "Più",
+    "cellTitle_one": "{{count}} contributo per {{date}}",
+    "cellTitle_many": "{{count}} contributi per {{date}}",
+    "cellTitle_other": "{{count}} contributi per {{date}}",
+    "range": "Intervallo della mappa di calore",
+    "ranges": {
+      "month": "Il mese",
+      "quarter": "Quarto",
+      "year": "Anno"
+    }
+  },
+  "repos": {
+    "title": "Repository attivo",
+    "period": "Periodo",
+    "periods": {
+      "week": "Settimana",
+      "month": "Il mese",
+      "year": "Anno",
+      "quarter": "Quarto"
+    },
+    "contributors": "Contributori",
+    "stars": "Le stelle",
+    "sparkline": "Attività di impegno per il {{name}}",
+    "vsPrevious": "{{change}} vs periodo precedente",
+    "up": "Alzati",
+    "down": "In basso",
+    "caption": "Impegni nel periodo selezionato · depositi simulati",
+    "col": {
+      "repository": "Ripositorio",
+      "language": "Lingua",
+      "commits": "Impegni",
+      "change": "Cambiamento",
+      "trend": "Tendenza"
+    },
+    "commitsCount": "Impegni: {{count}}",
+    "demoNote": "Demo dati: questo repository è immaginario e la sua attività è simulata. Non è connesso a GitHub.",
+    "emptyBody": "Non vi è alcuna attività di deposito in questo periodo.",
+    "emptyTitle": "Nessuna attività di deposito",
+    "history": "Attività di impegno"
+  }
+}

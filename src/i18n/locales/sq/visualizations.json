@@ -1,0 +1,58 @@
+{
+  "ibcPage": {
+    "description": "Si rrjedhin tokenet midis zinxhirëve mbi IBC. Links më të trashë do të thotë më shumë vëllim 24 orë.",
+    "volume": "24h IBC vëllim",
+    "chains": "Lidhje të lidhura",
+    "links": "Kanalet aktive",
+    "busiest": "Rruga më e zënë",
+    "mapLabel": "Harta e IBC lidhjeve midis zinxhirëve",
+    "nodeLabel": "{{name}}: {{volume}} në 24 orë në {{channels}} kanale",
+    "hint": "Vendosni, përqendrojeni ose zgjidhni një zinxhir për të evidentuar lidhjet e tij. Zgjidhni në pan; përdorni Ctrl ose me rrotullin e rrotullimit, çelësat + dhe − ose butonat për të zulumuar; shtypni 0 për të rivendosur.",
+    "channelsOf": "Kanalet e {{name}}",
+    "topChannels": "Kanalët më të lartë sipas vëllimit",
+    "transfers_one": "{{count, number}} transferim",
+    "transfers_other": "{{count, number}} transferime",
+    "info": {
+      "volume": "Volumi (24 orë)",
+      "channels": "Kanalët",
+      "share": "Pjesë e vëllimit IBC",
+      "partner": "Partner më i zënë"
+    }
+  },
+  "multichainPage": {
+    "description": "Ekosistemi më i gjerë në stilin e Kosmosit në një vështrim figura të simuluara për secilin zinxhir të lidhur.",
+    "chains": "Lidhje",
+    "tvl": "Vlera totale e bllokuar",
+    "validators": "Validatorët",
+    "tx24h": "Transaksionet (24 orë)",
+    "height": "Lartësia e bllokut",
+    "open": "Hapni dashboardin",
+    "switched": "Kthehet në {{name}}",
+    "registryOnly": "I regjistruar për demo ende nuk mund të zgjidhet",
+    "tvlByChain": "TVL sipas zinxhirit",
+    "tvlHint": "Vlera totale e mbyllur e simuluar",
+    "explainTitle": "Çfarë do të thotë metrika",
+    "explainHint": "Përkufizimet në gjuhën e thjeshtë të figurave në këtë faqe. Të gjitha vlera janë simulasi.",
+    "explain": {
+      "tvl": "Vlera e tokenave të paraqitura ose të mbajtura në ekonominë e simulacionit të rrjetit, në çmime të simulatuara.",
+      "height": "Sa blloqe ka prodhuar zinxhirin që nga fillimi i tij.",
+      "validators": "Operatorët që propozojnë dhe nënshkruajnë bloket. Numri është madhësia e grupit aktiv.",
+      "apr": "Përfitim i vlerësuar vjetor për stafin, si përqindje para komisionit.",
+      "bonded": "Një pjesë më e lartë do të thotë se më shumë furnizim është duke siguruar zinxhirin.",
+      "tx24h": "Transaksionet e përfshira në blloqe gjatë 24 orëve të fundit në të gjitha zinxhiret e renditura."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Pulsi i {{chain}}: çdo bllok është një rrahje largimi ndjek kohën e bllokut, lartësia ndjek numrin e transaksionit.",
+    "rate": "Tarifi i bllokut",
+    "perMinute": "blloqe/min",
+    "sinceLast": "Që nga blloku i fundit",
+    "txLastMinute": "Transaksionet (minuti i fundit)",
+    "monitor": "Monitor i pulsit",
+    "legend": "Lartësia e goditjes = transaksionet në bllok",
+    "chartLabel": "Tracimi i goditjes së zemrës: {{rate}} blloqe në minutë, {{seconds}} sekonda midis blloqeve",
+    "stream": "Rrjedhi i bllokut",
+    "txCount_one": "{{count}} tx",
+    "txCount_other": "{{count}} txs"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "accessibility": {
+    "navigatedTo": "Navigué vers {{title}}",
+    "loadingPage": "Page de chargement"
+  }
+}

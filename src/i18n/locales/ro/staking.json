@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delega token-uri unui validator pe {{chain}} pentru a câștiga recompensă simulată.",
+    "validator": "Validator",
+    "pickValidator": "Alege un validator",
+    "estimate": "Rentabilități estimate",
+    "netApr": "RAP net (după comision)",
+    "yearly": "Premii pe an",
+    "monthly": "Premii pe lună",
+    "unbonding": "Perioada de dezinvoltare",
+    "commission": "Comisie de validator",
+    "notice": "Pe o reţea reală, miza retrasă este blocată pentru perioada de dezbinare de {{days}} de zile. Aici totul este simulat şi instant.",
+    "yourStake": "Paria ta pe {{chain}}",
+    "unstake": "Anulează staking-ul",
+    "unstakeTitle": "Descărcare de la {{validator}}",
+    "unstakeDescription": "Într-o reţea reală, token-urile tale s-ar desbloca după perioada de descărcare de {{days}} de zile.",
+    "confirmUnstake": "Descărcare (simulată)",
+    "done": "Sticul (simulat)",
+    "doneBody": "O perioadă reală de dezlegare ar fi {{days}} zile.",
+    "unstaked": "Cea mai mare parte a producătorului este reprezentată de producătorul de produse similare",
+    "unstakedBody": "A revenit la portofelul Demo instantaneu. {{days}} zile.",
+    "errors": {
+      "validator": "Alege un validator.",
+      "moreThanStaked": "Nu poți dezvălui mai mult decât ai pariat."
+    },
+    "review": "Partea de revizuire",
+    "confirmDescription": "Verificaţi delegaţia. Confirmarea schimbă doar portofelul Demo în acest browser.",
+    "aprDisclaimer": "APR-ul prezentat este o estimare bazată pe inflația curentă, pe impozitul comunitar și pe raportul obligatoriu.",
+    "rewardsHistory": "Istoria premiilor",
+    "noRewardsHistory": "Încă nu au fost revendicate recompense.",
+    "rewardsClaimed": "Răspundere {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Pune un token și primește un token de pariu lichid care continuă să câștige recompense în timp ce rămâne tranzacționabil.",
+    "mode": "Direcție",
+    "stake": "Staking",
+    "unstake": "Anulează staking-ul",
+    "asset": "Acțiuni",
+    "youStake": "Tu pari ({{symbol}})",
+    "youRedeem": "Tu răscumperi ({{symbol}})",
+    "youReceive": "Aţi primit ({{symbol}})",
+    "exchangeRate": "Curs de schimb",
+    "apr": "RAP estimată",
+    "protocolFee": "Taxa de protocol privind recompensele",
+    "notice": "Tokenele de pariere lichidă şi ratele lor sunt simulate.",
+    "done": "Conversiune completă (simulată)",
+    "doneBody": "Bilanţele de portofel Demo au fost actualizate.",
+    "review": "Conversiunea de revizuire",
+    "confirmDescription": "Confirmarea schimbă doar portofelul Demo în acest browser.",
+    "risksTitle": "Riscuri pentru a înțelege",
+    "risks": {
+      "smartContract": "Riscul contractelor inteligente: protocoalele de stocare a lichidelor sunt software, iar software-ul poate avea buguri.",
+      "depeg": "Riscul de de-peg: tokenul lichid poate tranzacționa sub valoarea token-urilor pe care le reprezintă.",
+      "validator": "Riscul validatorului: în cazul în care validatorii din spatele protocolului sunt tăiați, fiecare titular împărtășește pierderea.",
+      "unbonding": "întârzierea ieșirii: răscumpărarea prin intermediul protocolului poate dura atât timp cât perioada de deconectare a rețelei."
+    },
+    "rateExplain": "Cursul de schimb este numărul de jetoane implicate pe care un token lichid îl reprezintă. El crește pe măsură ce recompensele de pariere se acumulează, astfel încât un token lichid devine încet mai valoros decât un token implicat.",
+    "noProtocol": "ChainBeat nu se integrează cu niciun protocol real de depunere a lichidelor."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "ibcPage": {
+    "description": "Kaip žetonų srautas tarp grandinių per IBC.",
+    "volume": "24 h IBC tūris",
+    "chains": "Prijungtos grandinės",
+    "links": "Aktyvūs kanalai",
+    "busiest": "Įdomuiausias maršrutas",
+    "mapLabel": "IBC grandinės ryšių žemėlapis",
+    "nodeLabel": "{{name}}: {{volume}} per 24 valandas per {{channels}} kanalus",
+    "hint": "Pasitraukite į \"pan\"; naudokite \"Ctrl\" arba \"\" kartu su \"scroll wheel\", \"+\" ir \"−\" klavišomis arba mygtukomis, kad padidintumėte ryšį; paspauskite \"0\", kad atsisuktumėte.",
+    "channelsOf": "{{name}} kanalai",
+    "topChannels": "Aukštesni kanalai pagal tūris",
+    "transfers_one": "{{count, number}} pervedimas",
+    "transfers_few": "{{count, number}} pervedimai",
+    "transfers_many": "{{count, number}} pervedimų",
+    "transfers_other": "{{count, number}} pervedimų",
+    "info": {
+      "volume": "Apibūdis (24 h)",
+      "channels": "Kanalai",
+      "share": "IBC tūrio dalis",
+      "partner": "Užimtas partneris"
+    }
+  },
+  "multichainPage": {
+    "description": "Visos platesnės Kosmos stiliaus ekosistemos per vieną akimirką simuliuojami kiekvienos sujungtos grandinės skaičiai.",
+    "chains": "Rinkės",
+    "tvl": "Bendra užrakinta vertė",
+    "validators": "Validatoriai",
+    "tx24h": "Transakcijos (24 valandos)",
+    "height": "Blokų aukštis",
+    "open": "Atidarykite prietaisų lentelę",
+    "switched": "Pasikeitė į {{name}}",
+    "registryOnly": "Užsiregistruota demo dar negali būti pasirinkta",
+    "tvlByChain": "TVL pagal grandinę",
+    "tvlHint": "Simuliuojama bendra užrakinta vertė",
+    "explainTitle": "Ką reiškia metrikai",
+    "explainHint": "Šioje puslapyje pateikiami skaičiai aiškiai apibrėžti.",
+    "explain": {
+      "tvl": "Tokenų, kurie yra statomi arba laikomi tinklo simuliuotoje ekonomikoje, vertė simuliuotomis kainomis.",
+      "height": "Kiek blokų gamino grandinė nuo jos pradžios.",
+      "validators": "Operatorius, siūlanti ir pasirašantys blokus.",
+      "apr": "Apskaičiuota metinė uždarymo atlygis, kaip procentas prieš komisiją.",
+      "bonded": "Didesnė dalis reiškia, kad daugiau tiekimo užtikrina grandinę.",
+      "tx24h": "Transakcijos, įtrauktos į blokus per pastarąsias 24 valandas visose išvardytose grandinėse."
+    }
+  },
+  "heartbeatPage": {
+    "description": "{{chain}} pulsas: kiekvienas blokas yra ritmas atstumas sekasi blokas laikas, aukštis sekasi sandorių skaičiaus.",
+    "rate": "Blokų norma",
+    "perMinute": "blokai/min",
+    "sinceLast": "Nuo paskutinio bloko",
+    "txLastMinute": "Transakcijos (paskutinės minutės)",
+    "monitor": "Pulso monitorius",
+    "legend": "Skirties aukštis = sandoriai blokuose",
+    "chartLabel": "Širdies taikinys: {{rate}} blokai per minutę, {{seconds}} sekundės tarp blokų",
+    "stream": "Blokų srautas",
+    "txCount_one": "{{count}} tx",
+    "txCount_few": "{{count}} txs",
+    "txCount_many": "{{count}} txs",
+    "txCount_other": "{{count}} txs"
+  }
+}

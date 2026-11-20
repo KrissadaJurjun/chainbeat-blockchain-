@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Zatím tu nic není",
+    "emptyBody": "Pro tento pohled nejsou žádné údaje.",
+    "errorTitle": "Nemohl jsem nahrát tyto údaje",
+    "errorBody": "Něco se pokazilo při čtení sítě.",
+    "crashTitle": "Něco se pokazilo",
+    "crashBody": "Tato stránka narazila na nečekanou chybu.",
+    "reload": "Stránka přeplňování"
+  }
+}

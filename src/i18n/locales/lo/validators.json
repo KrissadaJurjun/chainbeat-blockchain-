@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Vals ທີ່ຕິດພັນ",
+    "viewAll": "ເບິ່ງການຢັ້ງຢືນທັງ ຫມົດ",
+    "col": {
+      "validator": "ຜູ້ກວດສອບ",
+      "power": "ພະລັງການລົງຄະແນນ",
+      "cumulative": "ປະສົມ",
+      "commission": "ຄ່ານາຍໜ້າ",
+      "uptime": "ເວລາເຮັດວຽກ",
+      "change": "ການປ່ຽນແປງ 24 ຊົ່ວໂມງ",
+      "details": "ລາຍລະອຽດ",
+      "tokens": "Tokens ທີ່ຖືກພັນທະ"
+    },
+    "stake": "ສະເຕກ",
+    "stakeWith": "ໂຈມຕີດ້ວຍຕົວຢັ້ງຢືນນີ້",
+    "pageDescription": "ທຸກໆຜູ້ຢັ້ງຢືນທີ່ຮັບປະກັນ {{chain}}, ຈັດອັນດັບໂດຍສິດໃນການລົງຄະແນນສຽງ (ແບບ ຈຳ ລອງ).",
+    "stats": {
+      "active": "ເຄື່ອງຢັ້ງຢືນທີ່ເຄື່ອນໄຫວ",
+      "nakamoto": "ປະລິມານ Nakamoto",
+      "nakamotoHint": "ເຄື່ອງຢັ້ງຢືນທີ່ ຈຳ ເປັນເພື່ອຢຸດລະບົບຕ່ອງໂສ້",
+      "top10": "Top-10 ສິດທິໃນການລົງຄະແນນສຽງ",
+      "commission": "ຄ່າໃຊ້ຈ່າຍສະເລ່ຍ"
+    },
+    "filterPlaceholder": "ກັ່ນຕອງໂດຍຊື່ຫຼືທີ່ຢູ່",
+    "statusFilter": "ສະຖານະພາບຂອງຜູ້ຢັ້ງຢືນ",
+    "tableCaption": "Validators ໃນ {{chain}}",
+    "detailDescription": "ເຄື່ອງຢັ້ງຢືນແບບ ຈຳ ລອງໃນ {{chain}}.",
+    "detail": {
+      "delegators": "ຜູ້ມອບສິດ",
+      "bonded": "Tokens ທີ່ຕິດພັນ",
+      "last30": "30 ມື້ທີ່ຜ່ານມາ",
+      "last90": "90 ມື້ທີ່ຜ່ານມາ",
+      "noBlocks": "ບໍ່ມີການສະເຫນີ blocks ໃນໄລຍະບໍ່ດົນມານີ້.",
+      "noWebsite": "ບໍ່ສາມາດໃຊ້ໄດ້ (ການຢັ້ງຢືນຕົວຈິງ)",
+      "openPage": "ເປີດຫນ້າເຕັມ",
+      "powerHistory": "ພະລັງການລົງຄະແນນ",
+      "proposed24h": "ໂບລັອກທີ່ສະເຫນີ (24 ຊົ່ວໂມງ)",
+      "rank": "ອັນດັບ",
+      "recentBlocks": "blocks ທີ່ຖືກສະເຫນີເມື່ອບໍ່ດົນມານີ້",
+      "selfBonded": "ການຜູກມັດຕົນເອງ",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "ເວລາເຮັດວຽກ",
+      "valueUsd": "ມູນຄ່າສ່ວນ {{value}}",
+      "website": "ເວັບໄຊທ໌"
+    },
+    "status": {
+      "active": "ເຄື່ອນໄຫວ",
+      "inactive": "ບໍ່ເຄື່ອນໄຫວ",
+      "jailed": "ຖືກຄຸມຂັງ"
+    },
+    "activitiesTitle": "ການເຄື່ອນໄຫວຂອງຜູ້ຢັ້ງຢືນ",
+    "commissionShort": "ຄ່າ ທຳ ນຽມ {{value}}",
+    "detailTitle": "ຜູ້ກວດສອບ",
+    "fictionalNote": "ການຢັ້ງຢືນຕົວຈິງສຳລັບ Demo Mode. ມັນບໍ່ແມ່ນຕົວປະຕິບັດການທີ່ແທ້ຈິງແລະບໍ່ມີຫຍັງກ່ຽວກັບມັນໄດ້ຮັບການຢັ້ງຢືນ.",
+    "hoverTip": "ຄະນະກຳມະການ {{commission}} · ເວລາເຮັດວຽກ {{uptime}} · {{delegators}} ຜູ້ແທນ",
+    "noMatching": "ບໍ່ມີການຢັ້ງຢືນທີ່ກົງກັນຂ້າມ.",
+    "notFoundBody": "{{chain}} ບໍ່ມີ validator ກັບທີ່ຢູ່ນີ້.",
+    "notFoundTitle": "Validator ບໍ່ພົບ",
+    "sort": {
+      "power": "ພະລັງການລົງຄະແນນ",
+      "commission": "ຄ່ານາຍໜ້າ",
+      "uptime": "ເວລາເຮັດວຽກ"
+    },
+    "sortBy": "ຈັດປະເພດ validators ໂດຍ"
+  },
+  "validatorsViz": {
+    "description": "ຄະນະກຳມະການ versus uptime ສຳລັບແຕ່ລະ validator ໃນ {{chain}}; ຂະຫນາດ bubble ສະແດງໃຫ້ເຫັນກຳລັງການລົງຄະແນນສຽງ.",
+    "showAll": "ລວມທັງບໍ່ເຄື່ອນໄຫວແລະຖືກຄຸມຂັງ",
+    "avgUptime": "ສະເລ່ຍເວລາໃຊ້ງານ",
+    "zeroFee": "ເຄື່ອງຢັ້ງຢືນ zero commission",
+    "chartTitle": "Commission vs uptime",
+    "chartHint": "ແຕ່ລະເມັດແມ່ນ validator ດຽວ",
+    "legend": "ປະຫວັດສາດຕາຕະລາງ",
+    "sizeHint": "ຂະຫນາດຂອງ bubble = ຄວາມສາມາດໃນການລົງຄະແນນສຽງ"
+  }
+}

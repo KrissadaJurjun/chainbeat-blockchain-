@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "ነዋሪ፣ IBC፣ የፍትሃዊነት ማከማቻ እና በ {{chain}} ላይ የሚታወቁ ውጫዊ ንብረቶች (ተመሰል) ።",
+    "stats": {
+      "total": "የተከታተሉ መለያዎች"
+    },
+    "kinds": {
+      "native": "ተወላጅ",
+      "ibc": "IBC",
+      "external": "ውጫዊ",
+      "stable": "የተረጋጋ ሳንቲም",
+      "liquid": "ፈሳሽ ማስቀመጫ"
+    },
+    "col": {
+      "token": "ቶከን",
+      "type": "ዓይነት",
+      "denom": "ዴኖም",
+      "price": "ዋጋ",
+      "change": "24 ሰዓት",
+      "supply": "አቅርቦት",
+      "holders": "ባለቤቶች",
+      "marketCap": "የገበያ ካፒታል"
+    },
+    "filterPlaceholder": "በምልክት፣ ስም ወይም ስም ማጣሪያ",
+    "tableCaption": "በ {{chain}} ላይ ያሉ ቶከኖች"
+  },
+  "account": {
+    "title": "ሂሳብ",
+    "description": "በ {{chain}} ላይ የሂሳብ ሚዛን እና የቅርብ ጊዜ እንቅስቃሴ (ተመሰል) ።",
+    "available": "ይገኛል",
+    "balances": "ሚዛን",
+    "counterparty": "ተቃራኒ ፓርቲ",
+    "direction": "አቅጣጫ",
+    "in": "ውስጥ",
+    "out": "ውጪ",
+    "history": "የግብይት ታሪክ",
+    "historyCaption": "የ {{address}} ግብይቶች",
+    "invalidTitle": "ትክክለኛ አድራሻ የለም",
+    "invalidBody": "ይህ ትክክለኛ አይደለም {{chain}} በዚህ አውታረመረብ ላይ ያሉት አድራሻዎች በ ይጀምራሉ {{prefix}} 1 እና የቼክ መጠን ይጨምሩ.",
+    "noBalances": "ሚዛን የለውም።",
+    "noHistory": "ምንም ግብይቶች አልተገኙም",
+    "noHistoryBody": "ይህ መለያ በአዲሱ {{blocks}} ብሎኮች ውስጥ ምንም ዓይነት ተንቀሳቃሽ እንቅስቃሴ የለውም.",
+    "rewards": "ሽልማቶች: {{value}}",
+    "staked": "የተጣራ",
+    "totalValue": "ጠቅላላ ዋጋ",
+    "txCount": "ግብይቶች",
+    "unknown": "ይህ ትክክለኛ አድራሻ ነው, ነገር ግን በሲሙሌሽን ውስጥ አይታይም, ስለዚህ ምንም ሚዛን ወይም ታሪክ የለውም.",
+    "window": "በአዳዲስ {{blocks}} ብሎኮች ውስጥ",
+    "demoWallet": "ይህ የ Demo የኪስ ቦርሳዎ ነው። የኪስ ሂሳቡና ግብይቱ በዚህ አሳሽ ውስጥ ብቻ የሚቀርቡ ናቸው።"
+  },
+  "explorer": {
+    "description": "{{chain}} ፍለጋ እና አሁን (የተመሰለው) አውታረ መረብ ላይ ምን እየተከናወነ እንዳለ ይመልከቱ.",
+    "latestBlocks": "የቅርብ ጊዜ ብሎኮች",
+    "latestTransactions": "የቅርብ ጊዜ ግብይቶች",
+    "searchTitle": "ተመራማሪውን ፍለጋ",
+    "shortcuts": "የአሰሳ ክፍሎች"
+  }
+}

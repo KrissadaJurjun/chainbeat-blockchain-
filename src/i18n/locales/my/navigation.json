@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "ဘေးဘောင်ဘား ညွှန်ကြားမှု",
+    "primary": "အဓိက ရေကူးရေး",
+    "menu": "ညွှန်ကြားရေးစာအုပ်",
+    "openMenu": "ဖွင့်ထားသော navigation menu",
+    "closeMenu": "ညွှန်ကြားရေးစာအုပ်ကို ပိတ်ပါ။",
+    "collapseSidebar": "Collapse ဘေးဘား",
+    "expandSidebar": "ဘေးဘောင်ဘားကို ဖြန့်ဖြူးပါ",
+    "skipToContent": "အဓိကဆောင်းပါးကို skip လုပ်ပါ။",
+    "home": "ChainBeat အိမ်",
+    "pages": "စာမျက်နှာများ",
+    "dashboard": "ဒက်ရှ်ဘုတ်",
+    "validators": "ဗယ်လီဒေတာများ",
+    "proposals": "အဆိုပြုချက်များ",
+    "blocks": "ဘလောက်များ",
+    "transactions": "ငွေလွှဲမှုများ",
+    "portfolio": "ပေါ့ဖိုလီယို",
+    "swap": "လဲလှယ်မှု",
+    "stake": "စတေ့ခ်",
+    "liquidStaking": "လစ်ကွစ် စတေ့ကင်း",
+    "send": "ပို့ရန်",
+    "vote": "မဲပေးရန်",
+    "createProposal": "အဆိုပြုချက် ဖန်တီးရန်",
+    "market": "ဈေးကွက်",
+    "network": "ကွန်ရက်",
+    "governance": "အုပ်ချုပ်မှု",
+    "ibcNetwork": "IBC ကွန်ရက်",
+    "devActivity": "ဖွံ့ဖြိုးရေးသူ လှုပ်ရှားမှု",
+    "multichain": "မာလ်တီချိန်း ခြုံငုံသုံးသပ်ချက်",
+    "heartbeat": "နှလုံးခုန်သံ",
+    "dominance": "လွှမ်းမိုးမှု",
+    "validatorsViz": "ဗယ်လီဒေတာများ",
+    "blockExplorer": "ဘလောက် အက်စ်ပလိုရာ",
+    "transactionExplorer": "ငွေလွှဲမှု အက်စ်ပလိုရာ",
+    "tokenExplorer": "တိုကင် အက်စ်ပလိုရာ",
+    "about": "အကြောင်း",
+    "explorerHome": "အက်စ်ပလိုရာ",
+    "governanceHome": "အုပ်ချုပ်ရေး ဗဟိုချက်",
+    "settings": "ဆက်တင်များ"
+  },
+  "sections": {
+    "explorer": "အက်စ်ပလိုရာ",
+    "wallet": "ပိုက်ဆံအိတ်",
+    "analytics": "ခွဲခြမ်းစိတ်ဖြာမှု",
+    "visualizations": "ပုံဖော်ဖော်ပြမှုများ"
+  },
+  "chains": {
+    "favorite": "{{name}} ကို အကြိုက်ဆုံးများထဲထည့်ပါ။",
+    "unfavorite": "အကြိုက်ဆုံးများထဲက {{name}} ကို ဖယ်ရှားပါ",
+    "simulatedHealthy": "တုပထားတဲ့ ကွန်ရက် · ကျန်းမာ"
+  },
+  "search": {
+    "label": "ChainBeat ကိုရှာပါ",
+    "placeholder": "ရှာဖွေရေး ဘလော့၊ TX၊ လိပ်စာ...",
+    "results": "ရှာဖွေမှု ရလဒ်များ",
+    "noResults": "{{query}} အတွက် ရလဒ်မရှိ",
+    "kinds": {
+      "page": "စာမျက်နှာ",
+      "block": "ဘလောက်",
+      "transaction": "Tx ကို",
+      "validator": "ဗယ်လီဒေတာ",
+      "token": "တိုကင်",
+      "address": "လိပ်စာ",
+      "proposal": "အဆိုပြုချက်"
+    },
+    "recent": "မကြာသေးမီက ရှာဖွေမှုများ",
+    "clearRecent": "လတ်တလော ရှာဖွေမှု ရှင်းလင်း",
+    "removeRecent": "မကြာသေးမီက ရှာဖွေမှုများမှ {{query}} ကို ဖယ်ရှားပါ",
+    "hint": "Block height, transaction hash, address ကို စမ်းကြည့်ပါ ( {{prefix}} 1...) ကို validator, အဆိုပါနံပါတ် (သို့) အမှတ်တံဆိပ်အမည်.",
+    "submit": "ရှာရန်",
+    "searching": "ရှာဖွေနေတာပါ။",
+    "resultCount": "ရလဒ်များ: {{count}}",
+    "invalid": {
+      "tooLong": "အဲဒါဟာ ရှာဖွေရေး စကားလုံးဆိုလို့ သိပ်ကို ရှည်လွန်းတယ်။ (200 စာလုံး အများဆုံးပါ။).",
+      "badChecksum": "ဒါက အမည်တစ်ခုလို ထင်ပေမဲ့ စာလုံးပေါင်းက မက်ညီဘူး။ စာလုံးပေါင်းမှားတွေရှိမရှိ စစ်ဆေးပါ။.",
+      "badHash": "Transaction (သို့) block hash မှာ exactly 64 hexadecimal characters ရှိတယ်။.",
+      "badChars": "ဘလော့ခ်အမြင့်၊ ဟက်ရှ်၊ လိပ်စာ၊ အတည်ပြုသူ၊ အဆိုပြုချက် (သို့) အမှတ်တံဆိပ်ကို ရှာပါ။."
+    },
+    "categories": {
+      "page": "စာမျက်နှာများ",
+      "block": "ဘလောက်များ",
+      "transaction": "ငွေလွှဲမှုများ",
+      "address": "လိပ်စာများ",
+      "validator": "ဗယ်လီဒေတာများ",
+      "proposal": "အဆိုပြုချက်များ",
+      "token": "အမှတ်တံဆိပ်များ"
+    }
+  },
+  "user": {
+    "menu": "အကောင့်စာရင်း",
+    "guest": "ဧည့်သည်",
+    "notConnected": "ပိုက်ဆံအိတ်မပါ",
+    "settings": "ဆက်တင်များ",
+    "about": "ChainBeat အကြောင်း"
+  }
+}

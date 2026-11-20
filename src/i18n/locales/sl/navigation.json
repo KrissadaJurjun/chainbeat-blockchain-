@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Navigacija ob strani",
+    "primary": "Glavna navigacija",
+    "menu": "Navigacijski menij",
+    "openMenu": "Odprti navigacijski meni",
+    "closeMenu": "Zapri navigacijski menij",
+    "collapseSidebar": "Stranski bar za pokvarjanje",
+    "expandSidebar": "Razširite stranišče",
+    "skipToContent": "Preskočite na glavno vsebino",
+    "home": "ChainBeat doma",
+    "pages": "Strani",
+    "dashboard": "Nadzorna plošča",
+    "validators": "Validatorji",
+    "proposals": "Predlogi",
+    "blocks": "Bloki",
+    "transactions": "Transakcije",
+    "portfolio": "Portfelj",
+    "swap": "Zamenjava",
+    "stake": "Staking",
+    "liquidStaking": "Likvidni staking",
+    "send": "Pošlji",
+    "vote": "Glasuj",
+    "createProposal": "Ustvari predlog",
+    "market": "Trg",
+    "network": "Omrežje",
+    "governance": "Upravljanje",
+    "ibcNetwork": "Omrežje IBC",
+    "devActivity": "Dejavnost razvijalcev",
+    "multichain": "Pregled več verig",
+    "heartbeat": "Utrip",
+    "dominance": "Prevlada",
+    "validatorsViz": "Validatorji",
+    "blockExplorer": "Brskalnik blokov",
+    "transactionExplorer": "Brskalnik transakcij",
+    "tokenExplorer": "Brskalnik žetonov",
+    "about": "O aplikaciji",
+    "explorerHome": "Brskalnik",
+    "governanceHome": "Območje upravljanja",
+    "settings": "Nastavitve"
+  },
+  "sections": {
+    "explorer": "Brskalnik",
+    "wallet": "Denarnica",
+    "analytics": "Analitika",
+    "visualizations": "Vizualizacije"
+  },
+  "chains": {
+    "favorite": "Dodati {{name}} na priljubljene",
+    "unfavorite": "Odstranite {{name}} iz priljubljenih",
+    "simulatedHealthy": "Simulirano omrežje · zdravo"
+  },
+  "search": {
+    "label": "Iskanje ChainBeat",
+    "placeholder": "Preiskni blok, naslov...",
+    "results": "Rezultati iskanja",
+    "noResults": "Ni rezultatov za {{query}}",
+    "kinds": {
+      "page": "Stranica",
+      "block": "Blok",
+      "transaction": "TX",
+      "validator": "Validator",
+      "token": "Žeton",
+      "address": "Naslov",
+      "proposal": "Predlog"
+    },
+    "recent": "Nedavne iskanje",
+    "clearRecent": "Jasna nedavna iskanja",
+    "removeRecent": "Odstranite {{query}} iz nedavnih iskanj",
+    "hint": "Poskusite višino blokov, hash transakcije, naslov ( {{prefix}} 1...), potrdilnik, številka predloga ali oznaka.",
+    "submit": "Iskanje",
+    "searching": "Iščem...",
+    "resultCount": "Rezultati: {{count}}",
+    "invalid": {
+      "tooLong": "To je preveč dolgo, da bi bila iskalna beseda (največ 200 znakov).",
+      "badChecksum": "Videti je kot naslov, vendar se ne ujema.",
+      "badHash": "Transakcija ali blok hash ima točno 64 hexadecimalnih znakov.",
+      "badChars": "Poiščite višino blokov, hash, naslov, potrdilnik, predlog ali žeton."
+    },
+    "categories": {
+      "page": "Strani",
+      "block": "Bloki",
+      "transaction": "Transakcije",
+      "address": "Naslovi",
+      "validator": "Validatorji",
+      "proposal": "Predlogi",
+      "token": "Tokeni"
+    }
+  },
+  "user": {
+    "menu": "Meni računov",
+    "guest": "Gosti",
+    "notConnected": "Brez denarnice",
+    "settings": "Nastavitve",
+    "about": "O ChainBeatu"
+  }
+}

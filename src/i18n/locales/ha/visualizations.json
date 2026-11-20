@@ -1,0 +1,58 @@
+{
+  "ibcPage": {
+    "description": "Yadda alamomi ke gudana tsakanin sarƙoƙi a kan IBC.",
+    "volume": "24h IBC girma",
+    "chains": "Ƙungiyoyin da aka haɗa",
+    "links": "Tashoshi masu aiki",
+    "busiest": "Hanyar da ta fi kowa aiki",
+    "mapLabel": "Taswirar IBC haɗin tsakanin sarƙoƙi",
+    "nodeLabel": "{{name}}: {{volume}} a cikin sa'o'i 24 a fadin tashoshi {{channels}}",
+    "hint": "Hover, mayar da hankali ko zaɓi sarkar don nuna haɗe-haɗe. Ja zuwa panel; yi amfani da Ctrl ko tare da ƙafafun gungurawa, maɓallan + da −, ko maɓallan don zoom; latsa 0 don sake saitawa.",
+    "channelsOf": "Tashoshi na {{name}}",
+    "topChannels": "Ƙarƙashin tashoshi bisa ƙarar",
+    "transfers_one": "{{count, number}} canja wurin",
+    "transfers_other": "{{count, number}} canja wurin",
+    "info": {
+      "volume": "Ƙarfi (24 h)",
+      "channels": "Tashoshi",
+      "share": "Kashi na yawan IBC",
+      "partner": "Abokin aiki mafi yawa"
+    }
+  },
+  "multichainPage": {
+    "description": "Tsarin halittu mafi girma na Cosmos a kallo siffofi na kowane sarkar da aka haɗa.",
+    "chains": "Ƙungiyoyi",
+    "tvl": "Jimlar darajar da aka kulle",
+    "validators": "Masu tabbatarwa",
+    "tx24h": "Ma'amaloli (24h)",
+    "height": "Tsawon toshe",
+    "open": "Buɗe dashboard",
+    "switched": "An sauya zuwa {{name}}",
+    "registryOnly": "An yi rajista don demo ba za a iya zaɓa ba tukuna",
+    "tvlByChain": "TVL ta hanyar sarkar",
+    "tvlHint": "Ƙididdigar ƙimar jimlar da aka kulle",
+    "explainTitle": "Abin da ma'aunin ke nufi",
+    "explainHint": "Bayani mai sauƙi na lambobin da ke wannan shafin.",
+    "explain": {
+      "tvl": "Value of tokens staked or held in the simulated economy of the network, at simulated prices. real \"total value locked\" Figures amfani daban-daban definition kuma ba a yi amfani a nan.",
+      "height": "Da yawa daga cikin sassan da sarkar ta samar tun lokacin da ta fara. Yana girma da daya tare da kowane sashe.",
+      "validators": "Masu aiki da suka gabatar da kuma sanya hannu a kan tubalan. Lambar shi ne size na aiki sa.",
+      "apr": "The kiyasta shekara-shekara lada ga staking, a matsayin kashi kafin kwamiti. Yana motsi tare da hauhawar kudi da kuma tare da rabo daga tokens da aka stake.",
+      "bonded": "Babban rabo yana nufin ƙarin samarwa yana tabbatar da sarkar.",
+      "tx24h": "Ayyukan da aka haɗa a cikin ginshiƙai a cikin sa'o'i 24 na ƙarshe a duk sarƙoƙi da aka jera."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Pulse na {{chain}}: kowane block ne a beat nisa bi block lokaci, tsawo bi ma'amala count.",
+    "rate": "Ƙididdigar ƙididdiga",
+    "perMinute": "blocks/min",
+    "sinceLast": "Tun daga karshe block",
+    "txLastMinute": "Ma'amaloli (a minti na karshe)",
+    "monitor": "Mai lura da bugun jini",
+    "legend": "Girman bugun = ma'amaloli a cikin toshe",
+    "chartLabel": "Sakamakon bugun zuciya: {{rate}} blocks a minti daya, {{seconds}} seconds tsakanin blocks",
+    "stream": "Ƙarƙashin ƙuƙwalwar ajiya",
+    "txCount_one": "{{count}} ts",
+    "txCount_other": "{{count}} txs"
+  }
+}

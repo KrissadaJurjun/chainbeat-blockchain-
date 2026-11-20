@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Reducerea mișcării",
+    "reduceMotionHint": "Minimizează animațiile și tranzițiile.",
+    "appearance": {
+      "compact": "Desfășurare compactă",
+      "compactHint": "Desenează suprafața conținutului puțin mai mică.",
+      "description": "Tema, mișcare și densitate.",
+      "title": "Înfăţişarea"
+    },
+    "confirm": {
+      "action": "Confirmă",
+      "title": "- Eşti sigură? - Da.",
+      "dataset": "Acest lucru resetează ceasul simulat, viteza, latența și erorile forțate la defavorizările lor.",
+      "wallet": "Acest lucru restabilește balanțele inițiale ale portofelului Demo și elimină activitatea simulată, voturile și propunerile.",
+      "all": "Acest lucru elimină toate setările ChainBeat stocate în acest browser ( limbă, temă, rețea, portofel Demo, căutări recente) și reîncărcă pagina."
+    },
+    "data": {
+      "datasetReset": "Demo Setul de date este setat în timp real.",
+      "description": "Cât de proaspete sunt datele și cum să resetați simularea.",
+      "refresh": "Actualizează datele live",
+      "refreshHint": "De câte ori listele și numărătoarele citesc din nou rețeaua (simulată).",
+      "refreshOptions": {
+        "live": "Să trăieşti",
+        "slow": "Încet",
+        "manual": "Manual"
+      },
+      "resetDataset": "Reset setul de date demo",
+      "searchesCleared": "Cercetările recente au fost eliminate.",
+      "speedHint": "Pauzaţi ceasul simulat sau încetiniţi-l.",
+      "title": "Datele"
+    },
+    "description": "Apariţia, limbajul, reţeaua şi confidenţialitatea. Totul este stocat doar în acest browser.",
+    "language": {
+      "count": "{{shipped}} din {{total}} de limbi disponibile",
+      "current": "Limba curentă",
+      "description": "Alegeți limba de interfață. Căutați după nume nativ, nume engleză sau cod.",
+      "fallback": "Textul care nu a fost încă tradus este prezentat în limba engleză.",
+      "title": "Limbă"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Care reţea să exploreze şi de unde provin datele.",
+      "endpoint": "Punctul final în direct",
+      "live": "Să trăieşti",
+      "liveUnavailable": "Dacă un endpoint este configurat, puteți testa conexiunea, dar aplicația nu amestecă niciodată datele live și simulate.",
+      "mode": "Sursa de date",
+      "noEndpoint": "Nimic (date simulate)",
+      "selected": "Rețea",
+      "status": "Conexiune",
+      "statusDemo": "Rețea simulată · înălțime {{height}}",
+      "title": "Rețea",
+      "unavailable": "nu este disponibil",
+      "test": "Conexiune de testare",
+      "testing": "Testarea...",
+      "testHint": "Trimite două solicitări GET de numai citire la punctul final de mai jos și arată ce răspunde. Nimic nu este stocat și sursa de date nu se schimbă.",
+      "testOk": "Conectat la {{chain}}: ultimul bloc {{height}}, răspuns în {{ms}} ms.",
+      "testPartial": "Am fost conectat la {{chain}}: ultimul bloc {{height}}, răspuns în {{ms}} ms. Unele detalii opționale nu erau disponibile.",
+      "testError": {
+        "timeout": "Punctul final nu a răspuns la timp.",
+        "network": "Nu s-a putut ajunge la punctul final. Verificaţi adresa şi dacă permite cererile de pe acest site.",
+        "http": "Punctul final a răspuns cu o eroare.",
+        "invalid": "Punctul final a răspuns, dar nu în formatul unei API Cosmos REST, aşa că nimic nu a fost folosit."
+      }
+    },
+    "privacy": {
+      "clearAll": "Șterge toate datele ChainBeat în acest browser",
+      "description": "Ce stochează această aplicaţie şi ce poate vedea.",
+      "keysCaption": "Stocarea browserului utilizată de ChainBeat",
+      "noNetwork": "ChainBeat nu trimite date nicăieri: nu are analiză și nu face nicio cerere, cu excepția propriilor fișiere. Există două excepții opționale: butonul Test connection, care apare doar atunci când configurați un punct de destinație și trimite două cereri doar de citire la el, și butonul de conectare Google, care apare doar după ce adăugați propriul dvs. ID client Google și apoi este încărcat de la Google.",
+      "noSeed": "ChainBeat nu cere, stochează sau vede niciodată o frază de semn, cheie privată sau parola de portofel.",
+      "storage": "Preferințele, rețeaua selectată, ceasul simulat, portofelul Demo, căutările recente și orice cont demo pe care îl creați sunt salvate numai în localStorage al acestui browser.",
+      "title": "Confidenţialitate",
+      "wallet": "Dacă conectați o extensie de portofel de browser, ChainBeat vă citeste doar adresa publică și numele contului, și numai după ce îl autorizați. Nimic nu este semnat sau trimis.",
+      "keys": {
+        "lang": "Limba selectată",
+        "ui": "Tema, mișcare, densitate, amenajare și preferințe",
+        "chain": "Rețeaua selectată",
+        "sim": "Ora simulată, viteza și latența",
+        "wallet": "Demo portofel: balanse fictive, activitate, voturi, propuneri",
+        "notifications": "Ce notificări ați citit sau respins, precum și evenimentele locale (poșetă, tranzacții simulate)",
+        "search": "Căutări recente",
+        "auth": "Demo conturi: nume de utilizator, adrese de e-mail, hashuri de parolă sărată și înregistrarea curentă"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Modul Demo",
+    "chipTip": "Toate datele sunt simulate. Deschide controlul demo.",
+    "controls": "Demo controluri",
+    "controlsIntro": "ChainBeat rulează pe date deterministe simulate. Nimic aici nu este citit de la, sau trimis la, un blockchain real.",
+    "clock": "Ceas simulat",
+    "simulatedNow": "Timp simulat",
+    "offset": "{{value}} de ore înainte",
+    "advanceHour": "O oră înainte",
+    "advanceDay": "1 zi înainte",
+    "resetClock": "Redesetarea ceasului",
+    "clockNote": "Progresarea ceasului produce noi blocuri, prețuri și evenimente pe {{chain}}. Datele pentru orice moment dat sunt întotdeauna identice.",
+    "network": "Comportamentul rețelei",
+    "latency": "Simularea latenței",
+    "latencyOff": "Închideţi-vă!",
+    "simulateErrors": "Simularea erorilor de rețea",
+    "simulateErrorsHint": "Fiecare cerere eșuează, astfel încât să puteți inspecta stările de eroare.",
+    "wallet": "Demo portofel",
+    "resetWallet": "Reset portofelul demo",
+    "walletReset": "Demo portofelul reinstalat la echilibrul inițial.",
+    "noticeTitle": "Modul Demo.",
+    "noticeBody": "Acest flux de lucru este simulat. Nimic nu este semnat sau difuzat și nu sunt implicate fonduri reale.",
+    "behind": "{{value}} de ore în urmă cu timpul real",
+    "speed": "Viteza de simulare",
+    "speeds": {
+      "paused": "Pauză",
+      "slow": "Încet",
+      "normal": "Normal"
+    }
+  },
+  "about": {
+    "title": "Despre ChainBeat",
+    "demo": "ChainBeat funcționează în modul Demo. Fiecare bloc, preț, validator și propunere sunt generate deterministic în browser.",
+    "privacy": "Nu este necesară cheia API, cheia privată sau fraza seed. Conturile demo opționale, preferințele și portofelul demo sunt stocate numai în browser-ul dvs.",
+    "shortcuts": "Schimbări de tastatură",
+    "shortcutSearch": "Căutarea de concentrare",
+    "shortcutClose": "Închiderea dialogurilor și a meniurilor",
+    "languages": "Limbaje de interfață: {{shipped}} din {{total}}. Traducerile sunt asistate de mașină și nu au fost revizuite de vorbitori nativi; se recomandă revizuirea profesională înainte de utilizarea publică.",
+    "pageDescription": "Ce este ChainBeat, cum gestionează datele, şi scurtături de tastatură.",
+    "shortcutPalette": "Căutare deschisă (paletă de comandă)"
+  }
+}

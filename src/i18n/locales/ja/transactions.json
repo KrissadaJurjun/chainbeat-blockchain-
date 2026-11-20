@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "{{chain}} の最新トランザクションです。開くと詳細をすべて確認できます。",
+    "stats": {
+      "recent": "最近のトランザクション",
+      "success": "成功",
+      "failed": "失敗",
+      "volume": "ネイティブ取引量"
+    },
+    "filterPlaceholder": "ハッシュ、アドレス、高さで絞り込み",
+    "allTypes": "すべての種類",
+    "tableCaption": "{{chain}} の最新トランザクション",
+    "from": "送信元",
+    "to": "送信先",
+    "memo": "メモ",
+    "noMemo": "メモなし",
+    "raw": "生データを表示（シミュレーション）",
+    "detailTitle": "トランザクション",
+    "detailDescription": "{{chain}} 上のシミュレーションのトランザクションの詳細です。",
+    "notFoundTitle": "トランザクションが見つかりません",
+    "notFoundBody": "シミュレーション上、{{chain}} にこのハッシュのトランザクションは存在しません。",
+    "failedBecause": "このトランザクションは失敗しました：{{reason}}。",
+    "types": {
+      "send": "送金",
+      "delegate": "委任",
+      "undelegate": "委任解除",
+      "claim": "報酬の受け取り",
+      "vote": "投票",
+      "ibc-transfer": "IBC 送金",
+      "swap": "スワップ",
+      "other": "その他"
+    },
+    "status": {
+      "success": "成功",
+      "failed": "失敗"
+    },
+    "block": "ブロック",
+    "cardsLabel": "トランザクション",
+    "category": "カテゴリー",
+    "date": "日付",
+    "dateNote": "{{date}} (UTC) 年末までの最新の {{count}} 件の取引を表示する.",
+    "emptyTitle": "取引が見つかりませんでした",
+    "events": "イベント",
+    "failedEvents": "この取引は失敗したため 料金事件のみを発行した.",
+    "feeSymbol": "料金記号",
+    "filtersLabel": "トランザクションフィルター",
+    "gasUsed": "使用ガス",
+    "gasWanted": "ガソリン要望",
+    "groups": {
+      "transfer": "移転",
+      "staking": "ステーキング",
+      "governance": "ガバナンス",
+      "ibc": "IBC",
+      "swap": "スワップ",
+      "other": "その他"
+    },
+    "latestNote": "最新{{count}}の取引を表示する 日付を選んで 後で調べる。",
+    "messageType": "メッセージタイプ",
+    "network": "ネットワーク",
+    "symbol": "トークン",
+    "syntheticNote": "これは Demo モードで生成された合成記録です.そのハッシュは実際のブロックチェーンハッシュではありません.",
+    "token": "トークン",
+    "validator": "バリデータ",
+    "demoWalletNote": "このトランザクションは Demo 財布によって作成されました. このブラウザでのみ存在します. ブロックチェーン転送が行われませんでした. そしてそのハッシュは実際のブロックチェーンハッシュではありません.",
+    "demoTag": "Demo 財布"
+  }
+}

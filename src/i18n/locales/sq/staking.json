@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delegoj tokenet në një validator në {{chain}} për të fituar shpërblime simuluese.",
+    "validator": "Validator",
+    "pickValidator": "Zgjidhni një validator",
+    "estimate": "Të ardhurat e parashikuara",
+    "netApr": "APR neto (pas komisionit)",
+    "yearly": "Çmimet në vit",
+    "monthly": "Çmimet në muaj",
+    "unbonding": "Periudha e lirimit",
+    "commission": "Komisioni i validatorit",
+    "notice": "Në një rrjet të vërtetë, palca e tërhequr është e mbyllur për periudhën {{days}} ditë të lirimit. Këtu gjithçka është simuluar dhe i menjëhershëm.",
+    "yourStake": "Lidhja jote në {{chain}}",
+    "unstake": "Hiq stakingun",
+    "unstakeTitle": "Çlirimi nga {{validator}}",
+    "unstakeDescription": "Në një rrjet të vërtetë tokenet tuaja do të hapeshin pas periudhës {{days}} ditore të lirimit.",
+    "confirmUnstake": "Shkatërrimi (simuluar)",
+    "done": "Përpjekur (simuluar)",
+    "doneBody": "Një periudhë e vërtetë e lirimit do të ishte {{days}} ditë.",
+    "unstaked": "Pa-pushtuar (simuluar)",
+    "unstakedBody": "U kthye në portofolin Demo menjëherë. {{days}} ditë.",
+    "errors": {
+      "validator": "Zgjidhni një validator.",
+      "moreThanStaked": "Nuk mund të zhgënjehesh më shumë se sa e ke zhgënjyer."
+    },
+    "review": "Pjesëmarrja e rishikimit",
+    "confirmDescription": "Kontrolloni delegimin. konfirmimi ndryshon vetëm portofolin Demo në këtë shfletues.",
+    "aprDisclaimer": "APR-ja e treguar është një vlerësim i bazuar në inflacionin aktual, tatimin komunitar dhe raportin e obligimeve.",
+    "rewardsHistory": "Historia e shpërblimeve",
+    "noRewardsHistory": "Asnjë shpërblim nuk është kërkuar ende.",
+    "rewardsClaimed": "I pretenduar {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Vendosni një token dhe merrni një token të lëngshëm që vazhdon të fiton shpërblime ndërsa mbetet e tregtueshme.",
+    "mode": "Drejtimi",
+    "stake": "Staking",
+    "unstake": "Hiq stakingun",
+    "asset": "Asetë",
+    "youStake": "Ju baston ({{symbol}})",
+    "youRedeem": "Ju shpengoni ({{symbol}})",
+    "youReceive": "Ju merrni ({{symbol}})",
+    "exchangeRate": "Kursi i këmbimit",
+    "apr": "APR e vlerësuar",
+    "protocolFee": "Tarifa e protokollit për shpërblimet",
+    "notice": "Tokenet e paraqitjes së lëngut dhe çmimet e tyre janë simuluar.",
+    "done": "Konvertimi i plotë (simuluar)",
+    "doneBody": "Bilancat e portofolit Demo janë përditësuar.",
+    "review": "Konvertimi i rishikimit",
+    "confirmDescription": "Kontrollo konvertimin. konfirmimi ndryshon vetëm portofolin Demo në këtë shfletues.",
+    "risksTitle": "Rreziku për të kuptuar",
+    "risks": {
+      "smartContract": "Rreziku i kontratave të mençura: Protokollet e grumbullimit të lëngjeve janë softuer dhe softueri mund të ketë gabime.",
+      "depeg": "Rreziku i de-peg: tokeni i lëngshëm mund të tregtojë nën vlerën e tokenëve që përfaqëson.",
+      "validator": "Rreziku i validatorit: nëse validatorët prapa protokollit të shkurtohen, çdo mbajtës ndan humbjen.",
+      "unbonding": "Vështirja e daljes: zbritja përmes protokollit mund të zgjasë aq gjatë sa periudha e lirimit të rrjetit."
+    },
+    "rateExplain": "Kursi i këmbimit është sa tokens të paraqitura një token likid. Ajo rritet ndërsa shpërblimet e paraqitura për paraqitje, kështu që një token likid ngadalë bëhet me vlerë më shumë se një token e paraqitur.",
+    "noProtocol": "ChainBeat nuk integrohet me asnjë protokoll të vërtetë të grumbullimit të lëngjeve. Kjo faqe është një simulimi arsimor."
+  }
+}

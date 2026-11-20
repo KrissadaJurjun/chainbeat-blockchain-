@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "Le ultime transazioni sul {{chain}}, apri uno per i dettagli.",
+    "stats": {
+      "recent": "Transazioni recenti",
+      "success": "Successo",
+      "failed": "Fallita",
+      "volume": "Volumi nativi"
+    },
+    "filterPlaceholder": "Filtro per hash, indirizzo o altezza",
+    "allTypes": "Tutti i tipi",
+    "tableCaption": "Ultime operazioni su {{chain}}",
+    "from": "Da",
+    "to": "A",
+    "memo": "Memo",
+    "noMemo": "Nessuna nota",
+    "raw": "Visualizzazione dei dati grezzi (simulati)",
+    "detailTitle": "Transazione",
+    "detailDescription": "Dettagli di una transazione simulata sul {{chain}}.",
+    "notFoundTitle": "Transazione non trovata",
+    "notFoundBody": "Nessuna transazione con questo hash esiste sul {{chain}} nella simulazione.",
+    "failedBecause": "Questa transazione è fallita: {{reason}}.",
+    "types": {
+      "send": "Invia",
+      "delegate": "Delegato",
+      "undelegate": "Non delegato",
+      "claim": "Rivendicazione delle ricompense",
+      "vote": "Vota",
+      "ibc-transfer": "IBC trasferimento",
+      "swap": "Scambia",
+      "other": "Altri"
+    },
+    "status": {
+      "success": "Riuscita",
+      "failed": "Fallita"
+    },
+    "block": "Blocco",
+    "cardsLabel": "Transazioni",
+    "category": "Categoria",
+    "date": "Data",
+    "dateNote": "Visualizzazione delle ultime {{count}} transazioni fino alla fine del {{date}} (UTC).",
+    "emptyTitle": "Nessuna transazione trovata",
+    "events": "Eventi",
+    "failedEvents": "Questa transazione è fallita, quindi ha emesso solo il suo evento di pagamento.",
+    "feeSymbol": "Fee token",
+    "filtersLabel": "Filtri di transazione",
+    "gasUsed": "Gas utilizzato",
+    "gasWanted": "Benzina richiesta",
+    "groups": {
+      "transfer": "Trasferimenti",
+      "staking": "Stacking",
+      "governance": "Governance",
+      "ibc": "IBC",
+      "swap": "Swap",
+      "other": "Altri"
+    },
+    "latestNote": "Mostrando le ultime transazioni {{count}}, scegli una data per guardare indietro.",
+    "messageType": "Tipo di messaggio",
+    "network": "Rete",
+    "symbol": "Token",
+    "syntheticNote": "Questo è un record sintetico generato per Demo Mode. Il suo hash non è un vero hash blockchain e non può essere verificato su nessuna rete.",
+    "token": "Token",
+    "validator": "Validatore",
+    "demoWalletNote": "Questa transazione è stata creata dal portafoglio Demo. Esiste solo in questo browser: nessun trasferimento blockchain è avvenuto, e il suo hash non è un vero hash blockchain.",
+    "demoTag": "Demo portafoglio"
+  }
+}

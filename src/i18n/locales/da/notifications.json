@@ -1,0 +1,31 @@
+{
+  "notifications": {
+    "label": "Notifikationer",
+    "title": "Notifikationer",
+    "unread": "Ulæst",
+    "unreadLabel_one": "{{count}} uforlæst meddelelse",
+    "unreadLabel_other": "{{count}} ulæste meddelelser",
+    "markAllRead": "Marker alt som læst",
+    "empty": "I er alle fanget op.",
+    "items": {
+      "proposalVoting": "Forslaget nr. {{id}} er i afstemningsperioden omkring {{hours}} timer tilbage.",
+      "proposalPassed": "Forslaget nr. {{id}} er vedtaget og vil blive anvendt.",
+      "validatorJailed": "{{name}} blev fængslet på grund af nedetid.",
+      "upgradeScheduled": "Netværksopgradering {{version}} er planlagt om {{days}} dage.",
+      "ibcVolume": "IBC Overførselsvolumen steg med {{pct}}% i løbet af de sidste 24 timer.",
+      "newBlock": "Block {{height}} blev fremstillet på {{chain}} (simuleret).",
+      "walletConnectedDemo": "Demo tegnebog tilkoblet (simuleret).",
+      "walletConnected": "{{name}} er forbundet, intet er underskrevet.",
+      "walletDisconnected": "Portemonnajen er afbrudt fra denne browser session.",
+      "txSuccess": "Simuleret transaktion bekræftet: {{summary}}",
+      "txFailed": "En simuleret transaktion mislykkedes, fordi fejlsimulering er på.",
+      "proposalCreated": "Demo forslag nr. {{id}} {{title}} blev tilføjet (simuleret).",
+      "networkChanged": "Jeg skifter til {{chain}}, viser simulerede data.",
+      "simPaused": "Simulering er standset. Simulerede data vil ikke opdateres, før du genoptager den.",
+      "errorSimulation": "Fejlsimulering er aktiveret, og dataforespørgsler og tegnebogbekræftelser fejler, indtil du slukker den."
+    },
+    "dismiss": "Meddelelse om afslag",
+    "clearAll": "Fjern alt",
+    "simulatedNote": "Der er ikke noget, der er en live-blockchain-varsel."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "બાંયધરીકૃત વાલ્સ",
+    "viewAll": "બધા ચકાસનારાઓ જુઓ",
+    "col": {
+      "validator": "વેલિડેટર",
+      "power": "મતદાન શક્તિ",
+      "cumulative": "સંચિત",
+      "commission": "કમિશન",
+      "uptime": "અપટાઇમ",
+      "change": "24 કલાકનો બદલાવ",
+      "details": "વિગતો",
+      "tokens": "બોન્ડ્ડ ટોકન્સ"
+    },
+    "stake": "સ્ટેક",
+    "stakeWith": "આ વેલિડેટર સાથે સ્ટેક",
+    "pageDescription": "દરેક માન્યતાકાર {{chain}} સુરક્ષિત, મતદાન શક્તિ દ્વારા ક્રમાંકિત (સિમ્યુલેટેડ).",
+    "stats": {
+      "active": "સક્રિય માન્યકર્તાઓ",
+      "nakamoto": "નાકામોટો સહયોગી",
+      "nakamotoHint": "સાંકળને રોકવા માટે વેલિડેટર્સની જરૂર હતી",
+      "top10": "ટોપ-10 મતદાન શક્તિ",
+      "commission": "સરેરાશ કમિશન"
+    },
+    "filterPlaceholder": "નામ અથવા સરનામું દ્વારા ફિલ્ટર",
+    "statusFilter": "માન્યકર્તાની સ્થિતિ",
+    "tableCaption": "{{chain}} પર વેલિડેટર્સ",
+    "detailDescription": "{{chain}} પર સિમ્યુલેટેડ વેલિડેટર.",
+    "detail": {
+      "delegators": "ડેલિગેટર",
+      "bonded": "બોન્ડ થયેલ ટોકન્સ",
+      "last30": "છેલ્લા 30 દિવસ",
+      "last90": "છેલ્લા 90 દિવસ",
+      "noBlocks": "તાજેતરમાં સૂચિત બ્લોક્સ નથી.",
+      "noWebsite": "ઉપલબ્ધ નથી (કલ્પનાત્મક માન્યકર્તા)",
+      "openPage": "સંપૂર્ણ પાનું ખોલો",
+      "powerHistory": "મતદાન શક્તિ",
+      "proposed24h": "સૂચિત બ્લોક્સ (24 કલાક)",
+      "rank": "ક્રમ",
+      "recentBlocks": "તાજેતરમાં સૂચિત બ્લોક્સ",
+      "selfBonded": "સ્વયં-બંધિત",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "અપટાઇમ",
+      "valueUsd": "હિસ્સો મૂલ્ય {{value}}",
+      "website": "વેબસાઇટ"
+    },
+    "status": {
+      "active": "સક્રિય",
+      "inactive": "નિષ્ક્રિય",
+      "jailed": "જેલમાં"
+    },
+    "activitiesTitle": "વેલિડેટર પ્રવૃત્તિઓ",
+    "commissionShort": "ફી {{value}}",
+    "detailTitle": "વેલિડેટર",
+    "fictionalNote": "Demo મોડ માટે કાલ્પનિક માન્યતા. તે વાસ્તવિક ઓપરેટર નથી અને તેના વિશે કંઈપણ ચકાસાયેલ નથી.",
+    "hoverTip": "કમિશન {{commission}} · અપટાઇમ {{uptime}} · {{delegators}} પ્રતિનિધિઓ",
+    "noMatching": "કોઈ મેચિંગ વેલિડેટર્સ નથી.",
+    "notFoundBody": "{{chain}} પાસે આ સરનામાં સાથે કોઈ માન્યતા નથી.",
+    "notFoundTitle": "માન્યકર્તા મળ્યો નથી",
+    "sort": {
+      "power": "મતદાન શક્તિ",
+      "commission": "કમિશન",
+      "uptime": "અપટાઇમ"
+    },
+    "sortBy": "વેલિડેટર્સને સૉર્ટ કરો"
+  },
+  "validatorsViz": {
+    "description": "{{chain}} પર દરેક વેલિડેટર માટે કમિશન વિ અપટાઇમ; બબલનું કદ મતદાન શક્તિ દર્શાવે છે.",
+    "showAll": "નિષ્ક્રિય અને જેલમાં શામેલ છે",
+    "avgUptime": "સરેરાશ અપટાઇમ",
+    "zeroFee": "શૂન્ય કમિશન વેલિડેટર્સ",
+    "chartTitle": "કમિશન વિ અપટાઇમ",
+    "chartHint": "દરેક બબલ એક માન્યતા છે",
+    "legend": "ચાર્ટ દંતકથા",
+    "sizeHint": "બબલનું કદ = મતદાન શક્તિ"
+  }
+}

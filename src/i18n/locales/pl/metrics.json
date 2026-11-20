@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Metryki on-chain",
+    "exportCsv": "Wywóz jako CSV",
+    "exported": "Metryki eksportowane jako CSV.",
+    "openAnalytics": "Analiza otwartej sieci",
+    "last24h": "Ostatnie 24 godziny",
+    "sparklineLabel": "Trend w ciągu ostatnich 24 godzin",
+    "change24h": "Zmiana 24h",
+    "blocks": "bloky",
+    "exact": "Dokładna wartość",
+    "bondedRatio": "Odsetek związany z obligacjami",
+    "poolShare": "Udział podaży",
+    "tokenPrice": "Cena tokenów",
+    "inputInflation": "Inflacja",
+    "inputTax": "Podatek wspólnotowy",
+    "inputBonded": "Odsetek związany z obligacjami",
+    "csvMetric": "Metryka",
+    "csvValue": "Wartość",
+    "csvUnit": "Jednostka",
+    "csvChange24h": "Zmiana 24h",
+    "blockHeight": {
+      "label": "Wysokość bloku",
+      "description": "Liczba bloków wytworzonych od początku, rośnie o jeden z każdym nowym blokem."
+    },
+    "totalTransactions": {
+      "label": "Transakcje",
+      "description": "Całkowita liczba transakcji przetworzonych przez sieć od początku."
+    },
+    "txPerBlock": {
+      "label": "Tx na blok",
+      "description": "Średnia liczba transakcji włączonych na blok, mierzona w ciągu ostatnich 100 bloków."
+    },
+    "blockTime": {
+      "label": "Czas bloku",
+      "description": "Średni czas pomiędzy kolejnymi blokami, mierzony w ciągu ostatnich 100 bloków."
+    },
+    "inflation": {
+      "label": "Inflacja",
+      "description": "Roczna stawka, z której są wyładowane nowe tokeny, aby nagrodzić uczestników i sfinansować zbiornik społeczny."
+    },
+    "stakingApr": {
+      "label": "APR stakingu",
+      "description": "Szacunkowy roczny zwrot tokenów zakładowanych, przed prowizją wprowadzającą weryfikację.",
+      "formula": "APR = inflacja × (1 − podatek wspólnotowy) ÷ stosunek obligacji"
+    },
+    "bondedTokens": {
+      "label": "Związane tokeny",
+      "description": "Tokeny obecnie stawiane z aktywnymi validatorami.",
+      "formula": "Obwiązane = całkowita podaż × współczynnik obwiązanych"
+    },
+    "totalSupply": {
+      "label": "Całkowita podaż",
+      "description": "Każdy istniejący token, w tym ten, który jest zagrożony, rośnie z inflacją."
+    },
+    "communityPool": {
+      "label": "Pula społeczności",
+      "description": "Tokeny kontrolowane przez zarządzanie w łańcuchu.",
+      "formula": "Poziom wzrasta w zależności od podaży × inflacji × podatku wspólnotowego"
+    },
+    "poolValue": {
+      "label": "Wartość zbiornika",
+      "description": "Szacunkowa wartość zbiornika wspólnotowego w dolarach amerykańskich w symulowanej cenie tokenów.",
+      "formula": "wartość = pool × cena tokena"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "overview": {
+    "title": "Overview",
+    "unit": "Performance index · Base = 100 at range start",
+    "refreshFailed": "Couldn't refresh — showing the last loaded data."
+  },
+  "chart": {
+    "keyboardHint": "Chart. Use the arrow keys to move between data points.",
+    "summary": "Performance index over {{range}}: {{details}}",
+    "rangeLabel": "Time range",
+    "seriesLabel": "Chart series",
+    "keepOne": "At least one series must stay visible",
+    "emptyTitle": "No data for this range",
+    "emptyBody": "Try another time range or refresh.",
+    "range": {
+      "24H": "24H",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "Last 24 hours",
+      "7D": "Last 7 days",
+      "30D": "Last 30 days",
+      "90D": "Last 90 days"
+    },
+    "zoomControls": "Zoom controls",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "resetView": "Reset view",
+    "zoomLevel": "Zoom level"
+  },
+  "proposals": {
+    "title": "Proposals",
+    "filter": "Proposal filter",
+    "live": "Live",
+    "total": "Total",
+    "viewAll": "View all proposals",
+    "noneLive": "No live proposals",
+    "noneLiveBody": "There is currently no ongoing governance.",
+    "showAll": "Show recent proposals",
+    "endsIn": "Ends {{time}}",
+    "turnout": "Turnout",
+    "vote": "Vote",
+    "status": {
+      "voting": "Voting",
+      "deposit": "Deposit",
+      "passed": "Passed",
+      "rejected": "Rejected",
+      "failed": "Failed"
+    },
+    "passed": "Passed",
+    "rejected": "Rejected",
+    "noneMatching": "No matching proposals",
+    "noneMatchingBody": "Nothing matches this filter right now."
+  },
+  "dev": {
+    "title": "Dev Activity",
+    "summary": "{{total}} contributions",
+    "viewFull": "Open developer activity",
+    "heatmapLabel": "Contribution heat map: {{total}} contributions over {{weeks}} weeks",
+    "less": "Less",
+    "more": "More",
+    "cellTitle_one": "{{count}} contribution on {{date}}",
+    "cellTitle_other": "{{count}} contributions on {{date}}",
+    "range": "Heatmap range",
+    "ranges": {
+      "month": "Month",
+      "quarter": "Quarter",
+      "year": "Year"
+    }
+  },
+  "repos": {
+    "title": "Active Repository",
+    "period": "Period",
+    "periods": {
+      "week": "Week",
+      "month": "Month",
+      "year": "Year",
+      "quarter": "Quarter"
+    },
+    "contributors": "Contributors",
+    "stars": "Stars",
+    "sparkline": "Commit activity for {{name}}",
+    "vsPrevious": "{{change}} vs previous period",
+    "up": "Up",
+    "down": "Down",
+    "caption": "Commits in the selected period · simulated repositories",
+    "col": {
+      "repository": "Repository",
+      "language": "Language",
+      "commits": "Commits",
+      "change": "Change",
+      "trend": "Trend"
+    },
+    "commitsCount": "Commits: {{count}}",
+    "demoNote": "Demo data: this repository is fictional and its activity is simulated. It is not connected to GitHub.",
+    "emptyBody": "There is no repository activity in this period.",
+    "emptyTitle": "No repository activity",
+    "history": "Commit activity"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Bağlı Vals",
+    "viewAll": "Tüm onaylayıcıları görüntüle",
+    "col": {
+      "validator": "Doğrulayıcı",
+      "power": "Oy gücü",
+      "cumulative": "Toplam",
+      "commission": "Komisyon",
+      "uptime": "Çalışma süresi",
+      "change": "24 saatlik değişim",
+      "details": "Ayrıntılar",
+      "tokens": "Bağlantılı tokenler"
+    },
+    "stake": "Stake",
+    "stakeWith": "Bu onaylayıcıyla bahse gir",
+    "pageDescription": "{{chain}}'i güvenceye alan her onaylayıcı, oy verme gücüne göre sıralanmıştır (simülasyon).",
+    "stats": {
+      "active": "Etkin onaylayıcılar",
+      "nakamoto": "Nakamoto katılamı",
+      "nakamotoHint": "Zinciri durdurmak için gerekli onaylayıcılar",
+      "top10": "Top 10 oy verme gücü",
+      "commission": "Ortalama komisyon"
+    },
+    "filterPlaceholder": "Adı veya adresi ile filtrelenir",
+    "statusFilter": "Validatör statüsü",
+    "tableCaption": "{{chain}} numaralı onaylayıcılar",
+    "detailDescription": "{{chain}}'de simüle edilmiş bir onaylayıcı.",
+    "detail": {
+      "delegators": "Devredenler",
+      "bonded": "Bağlı Tokenler",
+      "last30": "son 30 gün",
+      "last90": "son 90 gün",
+      "noBlocks": "Son zamanlarda önerilen bloklar yok.",
+      "noWebsite": "kullanılamıyor (iftiralı onaylayıcı)",
+      "openPage": "Tam sayfa aç",
+      "powerHistory": "Oy gücü",
+      "proposed24h": "Önerilen bloklar (24 saat)",
+      "rank": "Sıra",
+      "recentBlocks": "Son zamanlarda önerilen bloklar",
+      "selfBonded": "Kendine bağlı",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Çalışma süresi",
+      "valueUsd": "Bahis değeri {{value}}",
+      "website": "Web sitesi"
+    },
+    "status": {
+      "active": "Aktif",
+      "inactive": "Aktif değil",
+      "jailed": "Hapsedilmiş"
+    },
+    "activitiesTitle": "Değerlendirici Aktiviteleri",
+    "commissionShort": "Ücret {{value}}",
+    "detailTitle": "Doğrulayıcı",
+    "fictionalNote": "Demo Mod için uydurma bir onaylayıcı. Gerçek bir operatör değil ve bu konuda hiçbir şey doğrulanmamıştır.",
+    "hoverTip": "Komisyon {{commission}} · Uygulama zamanı {{uptime}} · {{delegators}} temsilci",
+    "noMatching": "Eşleşen onaylayıcılar yok.",
+    "notFoundBody": "{{chain}}'de bu adresle onaylayıcı yok.",
+    "notFoundTitle": "Değerlendirici bulunamadı",
+    "sort": {
+      "power": "Oy gücü",
+      "commission": "Komisyon",
+      "uptime": "Çalışma süresi"
+    },
+    "sortBy": "Validatörleri sınıflandırmak"
+  },
+  "validatorsViz": {
+    "description": "{{chain}}'de her onaylayıcı için komisyon ile çalışma süresi karşılaştırıldığında, balon boyutu oy verme gücünü gösterir.",
+    "showAll": "Etkisiz ve hapsedilenler de dahil",
+    "avgUptime": "Ortalama çalışma süresi",
+    "zeroFee": "sıfır komisyon onaylayıcıları",
+    "chartTitle": "Komisyon vs. Uygulama süresi",
+    "chartHint": "Her kabarcık bir onaylayıcıdır",
+    "legend": "Grafik efsanesi",
+    "sizeHint": "Bubble boyutu = oylama gücü"
+  }
+}

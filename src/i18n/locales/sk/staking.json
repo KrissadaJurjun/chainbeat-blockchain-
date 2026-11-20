@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delegovať tokeny na validátora na {{chain}} získať simulované odmeny.",
+    "validator": "Validátor",
+    "pickValidator": "Vyberte validátor",
+    "estimate": "Odhadované výnosy",
+    "netApr": "Čistý APR (po splnomocnení)",
+    "yearly": "Odmeny ročne",
+    "monthly": "Odmeny za mesiac",
+    "unbonding": "Obdobie uvoľňovania záväzkov",
+    "commission": "Komisia validátora",
+    "notice": "Na reálnej sieti je vytiahnutá stávka uzavretá na {{days}} dní.",
+    "yourStake": "Vaša stávka na {{chain}}",
+    "unstake": "Zrušiť staking",
+    "unstakeTitle": "Vytvorenie z {{validator}}",
+    "unstakeDescription": "Na skutočnej sieti by boli vaše tokeny odomknuté po {{days}} dňovom odovzdaní.",
+    "confirmUnstake": "Odloženie (simulácia)",
+    "done": "Vytvorené (simulované)",
+    "doneBody": "V demonštrovanom peňaženke by bol skutočný period uvoľňovania. {{days}} dni.",
+    "unstaked": "Nezahrnuté (simulované)",
+    "unstakedBody": "Vrátil som sa na demo peňaženku okamžite. {{days}} dni.",
+    "errors": {
+      "validator": "Vyberte validátora.",
+      "moreThanStaked": "Nemôžeš odhaliť viac, ako si odhalila."
+    },
+    "review": "Výhľadová stávka",
+    "confirmDescription": "Zkontrolujte delegáciu. Potvrdenie mení len peňaženku Demo v tomto prehliadači.",
+    "aprDisclaimer": "Predstavený APR je odhad založený na súčasnej inflácii, danej komunite a pomere dlhopisov, nie je zaručený výnos a časom sa mení.",
+    "rewardsHistory": "História odmeňovania",
+    "noRewardsHistory": "Žiadne odmeny ešte nevyžadované.",
+    "rewardsClaimed": "Požiadavky {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Vytvorte token a dostanete token s kvapalnou stávkou, ktorý stále vyděláva odmeny, zatiaľ čo zostáva obchodovateľný.",
+    "mode": "smer",
+    "stake": "Staking",
+    "unstake": "Zrušiť staking",
+    "asset": "Aktíva",
+    "youStake": "Vy stávka ({{symbol}})",
+    "youRedeem": "Vy vykúpenie ({{symbol}})",
+    "youReceive": "Dostávate ({{symbol}})",
+    "exchangeRate": "Výmenný kurz",
+    "apr": "Odhadovaná APR",
+    "protocolFee": "Protokolný poplatok za odmeny",
+    "notice": "Liquid staking tokens a ich sadzby sú simulované.",
+    "done": "Konverzia dokončená (simulovaná)",
+    "doneBody": "Vaše Demo peňaženky boli aktualizované.",
+    "review": "Prehodnotenie konverzie",
+    "confirmDescription": "Zkontrolujte konverziu. Potvrdenie mení len peňaženku Demo v tomto prehliadači.",
+    "risksTitle": "Riziko pochopenia",
+    "risks": {
+      "smartContract": "Riziko inteligentných zmlúv: protokoly na skladovanie tekutín sú softvérom a softvér môže mať chyby.",
+      "depeg": "Riziko de-peg: likvidný token môže byť obchodovaný pod hodnotou tokens, ktoré reprezentuje.",
+      "validator": "Riziko validátorov: ak sa validátory za protokolom znížia, každý držiteľ zdieľa stratu.",
+      "unbonding": "Odloženie výstupu: vykúpenie prostredníctvom protokolu môže trvať tak dlho, ako je obdobie uvoľňovania siete."
+    },
+    "rateExplain": "Náklady na výmenný kurz sú to, koľko žetónov je v stávke jeden likvidný žetón. Rastie, ako sa stávkové odmeny získavajú, takže jeden likvidný žetón sa pomaly stáva hodnotou viac ako jeden stávkový žetón.",
+    "noProtocol": "ChainBeat sa neintegruje s žiadnym skutočným protokolom na skladovanie tekutín. Táto stránka je vzdelávacia simulácia."
+  }
+}

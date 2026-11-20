@@ -1,0 +1,130 @@
+Koontinäyttö
+Validaattorit
+Ehdotukset
+Lohkot
+Transaktiot
+Salkku
+Vaihda
+Panostus
+Likvidi panostus
+Lähetä
+Äänestä
+Luo ehdotus
+Markkinat
+Verkko
+Hallinto
+IBC-verkko
+Kehittäjäaktiivisuus
+Monen ketjun yleiskatsaus
+Sydämenlyönti
+Dominanssi
+Lohkoselain
+Transaktioselain
+Tokenselain
+Tietoa
+Selain
+Asetukset
+Lompakko
+Analytiikka
+Visualisoinnit
+Kieli
+Teema
+Järjestelmä
+Tumma
+Vaalea
+Demo
+Simuloitu
+Sulje
+Yritä uudelleen
+Päivitä
+Kopioi
+Kopioitu
+Tyhjennä
+Ladataan…
+Edellinen
+Seuraava
+Hylkää
+Peruuta
+Takaisin
+Näytä kaikki
+Palauta
+Vie
+Maks.
+Määrä
+Saldo
+Maksu
+Tila
+Yhteensä
+Aika
+Korkeus
+Tiiviste
+Tyyppi
+Kaikki
+Haku
+Suodata
+Tiedot
+Vahvista
+Yhdistä lompakko
+Katkaise yhteys
+Tarkista transaktio
+Verkkomaksu
+Kopioi osoite
+Maksat
+Saat
+Vastaanottajan osoite
+Viesti (valinnainen)
+Omaisuus
+Jakauma
+Delegoitu
+Peru panostus
+Vaihtokurssi
+Onnistui
+Transaktio
+Lohko
+Lähettäjä
+Vastaanottaja
+Viesti
+Käytetty kaasu
+Validaattori
+Token
+Osoite
+Ehdotus
+Hinta
+Tarjonta
+Markkina-arvo
+Komissio
+Käytettävyys
+Äänivalta
+Sijoitus
+Aktiivinen
+Ei-aktiivinen
+Vangittu
+Delegoijat
+Kyllä
+Ei
+Pidättäydy
+Ei ja veto
+Hyväksytty
+Hylätty
+Epäonnistui
+Äänestys käynnissä
+Päätösvaltaisuus
+Osallistumisaste
+Talletus
+Äänesi
+Otsikko
+Kuvaus
+Ketjun mittarit
+Lohkokorkeus
+Tx / lohko
+Lohkoaika
+Panostuksen APR
+Sidotut tokenit
+Kokonaistarjonta
+Yhteisön pooli
+Sivua ei löytynyt
+Takaisin koontinäyttöön
+Uusimmat lohkot
+Uusimmat transaktiot
+Ilmoitukset
+Muut

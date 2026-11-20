@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "المدققون النشطون",
+    "viewAll": "عرض كل المدققين",
+    "col": {
+      "validator": "المدقق",
+      "power": "قوة التصويت",
+      "cumulative": "التراكمي",
+      "commission": "العمولة",
+      "uptime": "مدة التشغيل",
+      "change": "التغيّر خلال 24 ساعة",
+      "details": "التفاصيل",
+      "tokens": "الرموز المتعلقة بالربط"
+    },
+    "stake": "تخزين",
+    "stakeWith": "التخزين لدى هذا المدقق",
+    "pageDescription": "كل مدقق يؤمّن {{chain}}، مرتبًا حسب قوة التصويت (محاكاة).",
+    "stats": {
+      "active": "المدققون النشطون",
+      "nakamoto": "معامل ناكاموتو",
+      "nakamotoHint": "عدد المدققين اللازم لإيقاف السلسلة",
+      "top10": "قوة تصويت أعلى 10",
+      "commission": "متوسط العمولة"
+    },
+    "filterPlaceholder": "تصفية بالاسم أو العنوان",
+    "statusFilter": "حالة المدقق",
+    "tableCaption": "المدققون على {{chain}}",
+    "detailDescription": "مدقق محاكى على {{chain}}.",
+    "detail": {
+      "delegators": "المفوِّضون",
+      "bonded": "الرموز المربوطة",
+      "last30": "الـ 30 يوما الماضية",
+      "last90": "الـ 90 يوما الماضية",
+      "noBlocks": "لا توجد كتلة مقترحة مؤخراً.",
+      "noWebsite": "غير متوفر (مؤكد خيالي)",
+      "openPage": "فتح الصفحة الكاملة",
+      "powerHistory": "قوة التصويت",
+      "proposed24h": "الكتل المقترحة (24 ساعة)",
+      "rank": "رتبة",
+      "recentBlocks": "الكتل المقترحة مؤخراً",
+      "selfBonded": "الالتزام الذاتي",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "مدة التشغيل",
+      "valueUsd": "قيمة المشاركة {{value}}",
+      "website": "الموقع الإلكتروني"
+    },
+    "status": {
+      "active": "نشط",
+      "inactive": "غير نشط",
+      "jailed": "مسجون"
+    },
+    "activitiesTitle": "أنشطة المؤكد",
+    "commissionShort": "الرسوم {{value}}",
+    "detailTitle": "مدقق",
+    "fictionalNote": "المصادقة الخيالية لنظام Demo إنه ليس عاملًا حقيقيًا ولا يتم التحقق من أي شيء عنه.",
+    "hoverTip": "المفوضية {{commission}} · وقت التشغيل {{uptime}} · {{delegators}} مندوب",
+    "noMatching": "لا توجد مؤكّدات متطابقة.",
+    "notFoundBody": "{{chain}} لا يحتوي على مؤكدة بهذا العنوان.",
+    "notFoundTitle": "لم يتم العثور على المحقق",
+    "sort": {
+      "power": "قوة التصويت",
+      "commission": "العمولة",
+      "uptime": "مدة التشغيل"
+    },
+    "sortBy": "تصنيف المحققين حسب"
+  },
+  "validatorsViz": {
+    "description": "العمولة مقابل مدة التشغيل لكل مدقق على {{chain}}؛ يشير حجم الفقاعة إلى قوة التصويت.",
+    "showAll": "تضمين غير النشطين والمسجونين",
+    "avgUptime": "متوسط مدة التشغيل",
+    "zeroFee": "مدققون بلا عمولة",
+    "chartTitle": "العمولة مقابل مدة التشغيل",
+    "chartHint": "كل فقاعة تمثل مدققًا واحدًا",
+    "legend": "مفتاح المخطط",
+    "sizeHint": "حجم الفقاعة = قوة التصويت"
+  }
+}

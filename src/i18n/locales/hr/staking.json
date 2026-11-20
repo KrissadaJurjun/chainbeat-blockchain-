@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delegirajte tokene validatoru na {{chain}} kako biste dobili simulirane nagrade.",
+    "validator": "Validator",
+    "pickValidator": "Izaberite validator",
+    "estimate": "Smatrajuće povratne iznose",
+    "netApr": "Netni APR (poslije provizije)",
+    "yearly": "Nagrade godišnje",
+    "monthly": "Nagrade mjesečno",
+    "unbonding": "U skladu s Uredbom (EZ) br",
+    "commission": "Komisija za potvrđivanje",
+    "notice": "Na stvarnoj mreži, povlačena ulaganja je zaključana za {{days}} dana.",
+    "yourStake": "Vaš ulog na {{chain}}",
+    "unstake": "Ukini staking",
+    "unstakeTitle": "Srušena od {{validator}}",
+    "unstakeDescription": "Na stvarnoj mreži, vaši tokeni bi se otključali nakon {{days}} dana.",
+    "confirmUnstake": "Izbacivanje (simulacija)",
+    "done": "Prikupljeni (simulirani)",
+    "doneBody": "U novčaniku Demo, pravi period otkaza je {{days}} dana.",
+    "unstaked": "U skladu s člankom 1. stavkom 1",
+    "unstakedBody": "Vratio sam se na demo novčanik odmah. {{days}} Danima.",
+    "errors": {
+      "validator": "Izaberite validator.",
+      "moreThanStaked": "Ne možeš razbiti više nego što si stavio."
+    },
+    "review": "Uloga revizije",
+    "confirmDescription": "Provjerite delegaciju, potvrđivanje samo mijenja novčanik Demo u ovom pretraživaču.",
+    "aprDisclaimer": "Prikazan APR je procjena na temelju trenutne inflacije, poreza zajednice i odnosa obveznica.",
+    "rewardsHistory": "Istorija nagrada",
+    "noRewardsHistory": "Još nema nagrada.",
+    "rewardsClaimed": "Potvrđeno {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Ulagaj token i primi tekući token koji nastavlja zaraditi nagrade dok ostaje trgovac.",
+    "mode": "Usmjeravanje",
+    "stake": "Staking",
+    "unstake": "Ukini staking",
+    "asset": "Ključna vrijednost",
+    "youStake": "Ti ulazi ({{symbol}})",
+    "youRedeem": "Otkupite ({{symbol}})",
+    "youReceive": "Dobićete ({{symbol}})",
+    "exchangeRate": "Tečaj",
+    "apr": "Procenjena APR-a",
+    "protocolFee": "Protokolična pristojba za nagrade",
+    "notice": "Liquid staking tokeni i njihove stope su simulirani.",
+    "done": "Sljedeći članak:",
+    "doneBody": "Vaš Demo. novčanik je bio ažuriran.",
+    "review": "Prethodni članak",
+    "confirmDescription": "Provjerite konverziju. Potvrda samo mijenja novčanik Demo u ovom pretraživaču.",
+    "risksTitle": "Rizici za razumijevanje",
+    "risks": {
+      "smartContract": "Rizici pametnih ugovora: protokoli za skladištenje tekućine su softver, a softver može imati greške.",
+      "depeg": "U skladu s Uredbom (EU) br. 575/2013.",
+      "validator": "Ako se potvrda koja stoji iza protokola smanji, svaki nositelj dijeli gubitak.",
+      "unbonding": "Odlazak izlaska: otkup putem protokola može potrajati dok je mreža u razdoblju odvođenja obveza."
+    },
+    "rateExplain": "Razmena je količina tokena za koje se stavljaju.Razvija se s povećanjem nagrada za stavku, tako da jedan likvidni token polako postaje vrijedan više od jednog tokena.",
+    "noProtocol": "ChainBeat se ne integrira s bilo kojim pravim protokolom za stajanje tekućine."
+  }
+}

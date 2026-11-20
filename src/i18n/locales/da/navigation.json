@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Navigation i sidebar",
+    "primary": "Hovednavigation",
+    "menu": "Navigationsmenu",
+    "openMenu": "Åben navigeringsmenu",
+    "closeMenu": "Luk navigeringsmenu",
+    "collapseSidebar": "Collapse sidebar",
+    "expandSidebar": "Udvide sidebar",
+    "skipToContent": "Skip til hovedindholdet",
+    "home": "ChainBeat hjem",
+    "pages": "Sider",
+    "dashboard": "Overblik",
+    "validators": "Validatorer",
+    "proposals": "Forslag",
+    "blocks": "Blokke",
+    "transactions": "Transaktioner",
+    "portfolio": "Portefølje",
+    "swap": "Byt",
+    "stake": "Staking",
+    "liquidStaking": "Likvid staking",
+    "send": "Send",
+    "vote": "Stem",
+    "createProposal": "Opret forslag",
+    "market": "Marked",
+    "network": "Netværk",
+    "governance": "Styring",
+    "ibcNetwork": "IBC-netværk",
+    "devActivity": "Udviklingsaktivitet",
+    "multichain": "Multichain-overblik",
+    "heartbeat": "Hjerteslag",
+    "dominance": "Dominans",
+    "validatorsViz": "Validatorer",
+    "blockExplorer": "Blokudforsker",
+    "transactionExplorer": "Transaktionsudforsker",
+    "tokenExplorer": "Tokenudforsker",
+    "about": "Om",
+    "explorerHome": "Udforsker",
+    "governanceHome": "Styrelseshub",
+    "settings": "Indstillinger"
+  },
+  "sections": {
+    "explorer": "Udforsker",
+    "wallet": "Tegnebog",
+    "analytics": "Analyser",
+    "visualizations": "Visualiseringer"
+  },
+  "chains": {
+    "favorite": "Tilføj {{name}} til favoritter",
+    "unfavorite": "Fjern {{name}} fra favoritter",
+    "simulatedHealthy": "Simuleret netværk · sundt"
+  },
+  "search": {
+    "label": "Søg ChainBeat",
+    "placeholder": "Søgblok, TX, adresse...",
+    "results": "Søgningsresultater",
+    "noResults": "Ingen resultater for {{query}}",
+    "kinds": {
+      "page": "Sider",
+      "block": "Blok",
+      "transaction": "TX",
+      "validator": "Validator",
+      "token": "Token",
+      "address": "Adresse",
+      "proposal": "Forslag"
+    },
+    "recent": "Nylige søgninger",
+    "clearRecent": "Klare nylige søgninger",
+    "removeRecent": "Fjern {{query}} fra seneste søgninger",
+    "hint": "Prøv en blokhøjde, en transaktions hash, en adresse ( {{prefix}} 1...), en validator, et forslagnummer eller en symbol.",
+    "submit": "Søg",
+    "searching": "- Jeg leder efter...",
+    "resultCount": "Resultater: {{count}}",
+    "invalid": {
+      "tooLong": "Det er for langt til at være et søgeord (200 tegn højst).",
+      "badChecksum": "Det ser ud som en adresse, men det svarer ikke.",
+      "badHash": "En transaktion eller blok hash har præcis 64 heksadecimale tegn.",
+      "badChars": "Søg efter en blokhøjde, en hash, en adresse, en validator, et forslag eller et token."
+    },
+    "categories": {
+      "page": "Sider",
+      "block": "Blokke",
+      "transaction": "Transaktioner",
+      "address": "Adresser",
+      "validator": "Validatorer",
+      "proposal": "Forslag",
+      "token": "Tegn"
+    }
+  },
+  "user": {
+    "menu": "Konto menu",
+    "guest": "Gæst",
+    "notConnected": "Ingen tegnebog tilsluttet",
+    "settings": "Indstillinger",
+    "about": "Om ChainBeat"
+  }
+}

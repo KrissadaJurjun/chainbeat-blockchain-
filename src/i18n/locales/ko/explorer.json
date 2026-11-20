@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "{{chain}}에서 알려진 네이티브, IBC, 리퀴드 스테이킹, 외부 자산입니다(시뮬레이션).",
+    "stats": {
+      "total": "추적 중인 토큰"
+    },
+    "kinds": {
+      "native": "네이티브",
+      "ibc": "IBC",
+      "external": "외부",
+      "stable": "스테이블코인",
+      "liquid": "리퀴드 스테이킹"
+    },
+    "col": {
+      "token": "토큰",
+      "type": "유형",
+      "denom": "Denom",
+      "price": "가격",
+      "change": "24시간",
+      "supply": "공급량",
+      "holders": "보유자",
+      "marketCap": "시가총액"
+    },
+    "filterPlaceholder": "심볼, 이름 또는 denom으로 필터",
+    "tableCaption": "{{chain}}의 토큰"
+  },
+  "account": {
+    "title": "회계",
+    "description": "{{chain}}에 대한 계좌의 잔액과 최근 활동 (시뮬레이션).",
+    "available": "사용 가능",
+    "balances": "균형",
+    "counterparty": "상대방",
+    "direction": "방향",
+    "in": "내",
+    "out": "나갔어",
+    "history": "거래 역사",
+    "historyCaption": "{{address}}의 거래",
+    "invalidTitle": "유효한 주소가 아닙니다",
+    "invalidBody": "이것은 유효하지 않습니다 {{chain}} 주소. 이 네트워크의 주소는 로 시작됩니다. {{prefix}} 1 및 검정 금액을 포함합니다.",
+    "noBalances": "균형이 없다.",
+    "noHistory": "거래가 발견되지 않았다",
+    "noHistoryBody": "이 계좌는 최신 {{blocks}} 블록에서 시뮬레이션된 활동이 없습니다.",
+    "rewards": "보상: {{value}}",
+    "staked": "은",
+    "totalValue": "전체 가치",
+    "txCount": "트랜잭션",
+    "unknown": "이것은 유효한 주소이지만 시뮬레이션에 나타나지 않으므로 균형이나 역사가 없습니다.",
+    "window": "가장 새로운 {{blocks}} 블록에",
+    "demoWallet": "이 지갑은 Demo입니다. 이 지갑의 균형과 거래는 시뮬레이션되어 이 브라우저에서만 존재합니다."
+  },
+  "explorer": {
+    "description": "{{chain}}를 검색하고 지금 (시뮬레이션) 네트워크에서 무슨 일이 일어나고 있는지 확인하십시오.",
+    "latestBlocks": "최신 블록",
+    "latestTransactions": "최신 거래",
+    "searchTitle": "탐험가를 찾아라",
+    "shortcuts": "탐색자 섹션"
+  }
+}

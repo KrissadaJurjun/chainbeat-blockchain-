@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simulerad",
+    "close": "Stäng",
+    "retry": "Försök igen",
+    "refresh": "Uppdatera",
+    "copy": "Kopiera",
+    "copied": "Kopierad",
+    "clear": "Rensa",
+    "loading": "Läser in…",
+    "options": "Alternativ",
+    "previous": "Föregående",
+    "next": "Nästa",
+    "pagination": "Webbplatser",
+    "pageN": "Sidan {{n}}",
+    "dismiss": "Avfärda",
+    "cancel": "Avbryt",
+    "viewAll": "Visa alla",
+    "max": "Max",
+    "amount": "Belopp",
+    "balance": "Saldo",
+    "fee": "Avgift",
+    "status": "Status",
+    "time": "Tid",
+    "height": "Höjd",
+    "hash": "Hash",
+    "type": "Typ",
+    "all": "Alla",
+    "showing": "Att visa. {{from}} Översättning {{to}} av {{total}}",
+    "noResults": "Inga resultat matchar dina filter.",
+    "rowsPerPage": "Rådar per sida",
+    "actions": "Åtgärder",
+    "exportCsv": "Export CSV",
+    "details": "Detaljer",
+    "clearFilters": "Tydliga filter",
+    "collapseAll": "Alla kollapsar",
+    "copyJson": "Kopiera JSON",
+    "expandAll": "Utöka allt",
+    "showMore": "Visa {{count}} mer"
+  },
+  "language": {
+    "label": "Språk",
+    "search": "Sökspråk"
+  },
+  "theme": {
+    "label": "Tema",
+    "system": "System",
+    "dark": "Mörkt",
+    "light": "Ljust"
+  },
+  "footer": {
+    "tagline": "Utforska block, spåra transaktioner och förstå Web3.",
+    "demo": "Demo Mode alla siffror är simulerade och inte verkliga nätverksstatistik.",
+    "share": "Dela",
+    "linkCopied": "Länk kopierad till klippbordet.",
+    "docs": "Dokumentation",
+    "links": "Födera länkar",
+    "modeDemo": "Demo Nätverk",
+    "repository": "Repository",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Sidan hittades inte",
+    "body": "Den sida du letar efter existerar inte eller har flyttats.",
+    "home": "Tillbaka till instrumentpanelen"
+  },
+  "gate": {
+    "title": "Anslut plånboken Demo för att fortsätta",
+    "body": "Detta arbetsflöde körs på en simulerad plånbok. Anslut plånboken Demo för att prova det Inget verkligt skrivs under eller skickas någonsin.",
+    "realTitle": "En riktig plånbok är ansluten",
+    "realBody": "{{address}} Det är inte möjligt att använda demosystemet, men det är inte möjligt att använda demosystemet.",
+    "useDemo": "Använd plånboken Demo"
+  }
+}

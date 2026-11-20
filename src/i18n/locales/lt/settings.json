@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Sumažinkite judėjimą",
+    "reduceMotionHint": "Minimaliai sumažinti animacijas ir perėjimus.",
+    "appearance": {
+      "compact": "Kompaktiškas išdėstymas",
+      "compactHint": "Nuotraukia šiek tiek mažesnį turinio plotą.",
+      "description": "Temas, judėjimas ir tankis.",
+      "title": "Išvaizda"
+    },
+    "confirm": {
+      "action": "Patvirtinti",
+      "title": "Ar esi tikras?",
+      "dataset": "Tai atkuria simuluotą laikrodį, jo greitį, vėlavimą ir priverstines klaidas. Demo piniginė nėra paveikta.",
+      "wallet": "Tai atneša Demo piniginės pradinio balansą ir panaikina jos simuliuotą veiklą, balsavimą ir pasiūlymus.",
+      "all": "Tai pašalina kiekvieną ChainBeat nustatymą, saugomą šiame naršyklėje (dabai, tema, tinklas, Demo piniginė, naujausi paieškos) ir perkrauna puslapį."
+    },
+    "data": {
+      "datasetReset": "Demo duomenų rinkinys atkurtas į realią laiką.",
+      "description": "Kaip nauji duomenys ir kaip atstatyti simulaciją.",
+      "refresh": "Atnaujinkite gyvus duomenis",
+      "refreshHint": "Kaip dažnai sąrašai ir skaičiuotojai perskaičia (simuluotą) tinklą.",
+      "refreshOptions": {
+        "live": "Gyvenimas",
+        "slow": "Lėtai",
+        "manual": "Raštinė knyga"
+      },
+      "resetDataset": "Atkurti demo duomenų rinkinį",
+      "searchesCleared": "Paskutiniai paieškos atšaukti.",
+      "speedHint": "Paustokite simuliuotą laikrodį arba sulėtinkite.",
+      "title": "Duomenys"
+    },
+    "description": "Išvaizda, kalba, tinklas ir privatumas. Viskas saugoma tik šiame naršyklėje.",
+    "language": {
+      "count": "{{shipped}} iš {{total}} prieinamų kalbų",
+      "current": "Dabartinė kalba",
+      "description": "Pasirinkite sąsajos kalbą. Paieška pagal gimtąjį vardą, anglų vardą ar kodą.",
+      "fallback": "Tekstas, kuris dar nėra verčiamas, pateikiamas anglų kalba.",
+      "title": "Kalba"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Kurią tinklą ištirti ir iš kur gaunami duomenys.",
+      "endpoint": "Gyvas galutinis punktas",
+      "live": "Gyvenimas",
+      "liveUnavailable": "Gyvi duomenys nėra prieinami šiame statinyje: kiekviena puslapis rodo simuliuotus duomenis. Jei yra konfigūruotas galutinis taškas, galite išbandyti ryšį, tačiau programa niekada nesusijašo gyvių ir simuliuotų duomenų.",
+      "mode": "Duomenų šaltinis",
+      "noEndpoint": "Nėra (simuliuojami duomenys)",
+      "selected": "Tinklas",
+      "status": "Susisiekimas",
+      "statusDemo": "Simuliuojamas tinklas · aukštis {{height}}",
+      "title": "Tinklas",
+      "unavailable": "nepasiekiama",
+      "test": "Bandymo jungtis",
+      "testing": "Tyrimas...",
+      "testHint": "Išsiuntė du tik skaitymo GET prašymus toliau esančiam galutiniam tašku ir parodė, ką jis atsakė. Niekas nėra saugomas ir duomenų šaltinis nesikeičia.",
+      "testOk": "Susisiekęs su {{chain}}: naujausias blokas {{height}}, atsakytas {{ms}} ms.",
+      "testPartial": "Susisiekiau su {{chain}}: naujausias blokas {{height}}, atsakytas {{ms}} sekundėse.",
+      "testError": {
+        "timeout": "Baigiamasis taškas laiku neatsakė.",
+        "network": "Negalima pasiekti galutinio taško. Patikrinkite adresą ir ar jis leidžia prašymus iš šios svetainės.",
+        "http": "Galutinis taškas atsakė klaidingai.",
+        "invalid": "Galutinis taškas atsakė, bet ne \"Cosmos REST\" API formatu, todėl nieko nebuvo panaudota."
+      }
+    },
+    "privacy": {
+      "clearAll": "Ištrinkite visus ChainBeat duomenis šiame naršyklėje",
+      "description": "Ką ši programa saugosi ir ką ji gali matyti.",
+      "keysCaption": "ChainBeat naudojantis naršyklės saugykla",
+      "noNetwork": "ChainBeat niekur nešioja duomenų: jis neturi analitikos ir nepateikia jokių prašymų, išskyrus savo failus. Yra du pasirinktiniai išimčiai: mygtukas Test connection, kuris pasirodo tik kai konfigūruoja galutinio taško ir siunčia du tik skaitymo prašymus į jį, ir \"Google\" prisijungimo mygtukas, kuris pasirodo tik po to, kai pridedate savo \"Google\" kliento ID ir tada įkraunate iš \"Google\".",
+      "noSeed": "ChainBeat niekada neprašo, nešioja ar nemato sėklų frazės, privato raktų ar piniginės slaptažodžio.",
+      "storage": "Nustatytos tinklas, simuliuojamas laikrodis, Demo piniginė, paskutinio paieškos ir visas sukurtas demo paskyras saugomi tik šios naršyklės vietos saugykloje.",
+      "title": "Privatumas",
+      "wallet": "Jei prijungsite naršyklės piniginės išplėtimą, \"ChainBeat\" perskaito tik jūsų viešąjį adresą ir paskyros pavadinimą, o tik patvirtinus jį. Niekas nėra pasirašytas ar išsiųstas.",
+      "keys": {
+        "lang": "Pasirinkta kalba",
+        "ui": "Temas, judėjimas, tankis, išdėstymas ir mėgstamiausi",
+        "chain": "Pasirinktas tinklas",
+        "sim": "Simuliuojamas laikrodis, greitis ir vėlavimas",
+        "wallet": "Demo piniginė: fikciniai balansai, veikla, balsavimas, pasiūlymai",
+        "notifications": "Kokius pranešimus perskaitėte arba atmėtėte, ir vietos įvykius (valdikis, simuliaciniai sandoriai)",
+        "search": "Paskutiniai paieškos",
+        "auth": "Demo paskyros: naudotojų vardai, el. pašto adresai, druskos slaptažodžio hashas ir dabartinis prisijungimas"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Demo režimas",
+    "chipTip": "Visi duomenys simuliuojami.",
+    "controls": "Demo kontrolės mechanizmai",
+    "controlsIntro": "ChainBeat veikia remiantis deterministiniais simuliuotais duomenimis. Niekas čia nėra perskaitytas ar siunčiamas iš tikro blokų grandinės.",
+    "clock": "Simuliuojamas laikrodis",
+    "simulatedNow": "Simuliuojamas laikas",
+    "offset": "{{value}} h iš anksto",
+    "advanceHour": "1 valandą iš anksto",
+    "advanceDay": "1 diena iš anksto",
+    "resetClock": "Atstatyti laikrodį",
+    "clockNote": "Išankstinis laikrodis sukuria naujus blokus, kainas ir įvykius {{chain}}.",
+    "network": "Tinklo elgesys",
+    "latency": "Simuliuojamas vėlavimas",
+    "latencyOff": "Išjunkite",
+    "simulateErrors": "Simuliuoti tinklo klaidas",
+    "simulateErrorsHint": "Kiekvienas prašymas nepavyksta, todėl galite patikrinti klaidų atvejus.",
+    "wallet": "Demo piniginė",
+    "resetWallet": "Pranašykite demo pinigėlę",
+    "walletReset": "Demo piniginė atkurta į pradinius balansus.",
+    "noticeTitle": "Demo režimas.",
+    "noticeBody": "Šis darbo srautas simuluojamas, niekas nėra pasirašytas ar transliuojamas ir nėra realių lėšų.",
+    "behind": "{{value}} h už realaus laiko",
+    "speed": "Simulacijos greitis",
+    "speeds": {
+      "paused": "Pauzė",
+      "slow": "Lėtai",
+      "normal": "Normalus"
+    }
+  },
+  "about": {
+    "title": "Apie \"ChainBeat\"",
+    "demo": "ChainBeat veikia Demo režime. Kiekvienas blokas, kaina, patvirtintojas ir pasiūlymas yra sukurtas deterministiniu būdu jūsų naršyklėje.",
+    "privacy": "Nereikia jokių API raktų, privačių raktų ar sėklų frazų. Priimtinos demo paskyros, pageidavimai ir demo piniginė saugomi tik naršyklėje.",
+    "shortcuts": "Klaviatūros skridutės",
+    "shortcutSearch": "Susijusios paieškos",
+    "shortcutClose": "Uždarykite dialogus ir menius",
+    "languages": "Interfeiso kalbos: {{shipped}} iš {{total}}. Vertimas yra mašininiu būdu paremtas ir nebuvo peržiūrimas gimtosios kalbėtojų; rekomenduojama atlikti profesinį peržiūrą prieš naudojimąsi visuomenei.",
+    "pageDescription": "Kas yra ChainBeat, kaip jis tvarko duomenis ir klaviatūros perjungimo maršrutus.",
+    "shortcutPalette": "Atvira paieška (valdymo paletė)"
+  }
+}

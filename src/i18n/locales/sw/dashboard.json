@@ -1,0 +1,102 @@
+{
+  "overview": {
+    "title": "Maoni ya jumla",
+    "unit": "Kiwango cha utendaji · Msingi = 100 wakati wa kuanza kwa umbali",
+    "refreshFailed": "Haikuweza refresh kuonyesha data ya mwisho kupakiwa."
+  },
+  "chart": {
+    "keyboardHint": "Chati. Tumia funguo za mshale kusafiri kati ya pointi data.",
+    "summary": "Kiwango cha utendaji zaidi ya {{range}}: {{details}}",
+    "rangeLabel": "Kipindi cha wakati",
+    "seriesLabel": "Mfululizo wa chati",
+    "keepOne": "Angalau safu moja lazima iendelee kuonekana",
+    "emptyTitle": "Hakuna data kwa wigo huu",
+    "emptyBody": "Jaribu kipindi kingine cha wakati au jipya.",
+    "range": {
+      "24H": "SAA 24",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "Saa 24 zilizopita",
+      "7D": "Siku 7 zilizopita",
+      "30D": "Siku 30 zilizopita",
+      "90D": "Siku 90 zilizopita"
+    },
+    "zoomControls": "Udhibiti wa Zoom",
+    "zoomIn": "Zoom katika",
+    "zoomOut": "Zoom nje",
+    "resetView": "Kuangalia upya",
+    "zoomLevel": "Kiwango cha Zoom"
+  },
+  "proposals": {
+    "title": "Mapendekezo",
+    "filter": "Kichujio cha pendekezo",
+    "live": "Kuishi",
+    "total": "Jumla",
+    "viewAll": "Tazama mapendekezo yote",
+    "noneLive": "Hakuna mapendekezo ya moja kwa moja",
+    "noneLiveBody": "Kwa sasa hakuna utawala unaoendelea.",
+    "showAll": "Onyesha mapendekezo ya hivi karibuni",
+    "endsIn": "Mwisho {{time}}",
+    "turnout": "Ushiriki",
+    "vote": "Piga kura",
+    "status": {
+      "voting": "Kura inaendelea",
+      "deposit": "Amana",
+      "passed": "Limepitishwa",
+      "rejected": "Limekataliwa",
+      "failed": "Imeshindwa"
+    },
+    "passed": "Limepitishwa",
+    "rejected": "Limekataliwa",
+    "noneMatching": "Hakuna mapendekezo yanayofanana",
+    "noneMatchingBody": "Hakuna kinachofanana na kichujio hiki sasa."
+  },
+  "dev": {
+    "title": "Shughuli za wasanidi",
+    "summary": "{{total}} michango",
+    "viewFull": "Shughuli za waendelezaji wazi",
+    "heatmapLabel": "Mchoro wa nishati ya mchango: {{total}} mchango katika wiki {{weeks}}",
+    "less": "Kupunguza",
+    "more": "Zaidi",
+    "cellTitle_one": "{{count}} mchango juu ya {{date}}",
+    "cellTitle_other": "{{count}} michango juu ya {{date}}",
+    "range": "Heatmap mbalimbali",
+    "ranges": {
+      "month": "Mwezi",
+      "quarter": "Sehemu ya nne",
+      "year": "Mwaka"
+    }
+  },
+  "repos": {
+    "title": "Hifadhi Active",
+    "period": "Kipindi",
+    "periods": {
+      "week": "Wiki",
+      "month": "Mwezi",
+      "year": "Mwaka",
+      "quarter": "Sehemu ya nne"
+    },
+    "contributors": "Washiriki",
+    "stars": "Nyota",
+    "sparkline": "Shughuli ya kujitolea kwa ajili ya {{name}}",
+    "vsPrevious": "{{change}} dhidi ya kipindi kilichopita",
+    "up": "Juu",
+    "down": "Chini",
+    "caption": "Majukumu katika kipindi kilichochaguliwa · kuhifadhi simulated",
+    "col": {
+      "repository": "Hifadhi",
+      "language": "Lugha",
+      "commits": "Wajibikaji",
+      "change": "Mabadiliko",
+      "trend": "Mwelekeo"
+    },
+    "commitsCount": "Majukumu: {{count}}",
+    "demoNote": "Demo data: hifadhidata hii ni bandia na shughuli zake ni simulated.",
+    "emptyBody": "Hakuna shughuli za kuhifadhi katika kipindi hiki.",
+    "emptyTitle": "Hakuna shughuli za kuhifadhi",
+    "history": "Shughuli za kujitolea"
+  }
+}

@@ -1,0 +1,130 @@
+Dasbor
+Validator
+Proposal
+Blok
+Transaksi
+Portofolio
+Tukar
+Staking
+Staking likuid
+Kirim
+Voting
+Buat proposal
+Pasar
+Jaringan
+Tata kelola
+Jaringan IBC
+Aktivitas pengembang
+Ikhtisar multichain
+Detak jantung
+Dominasi
+Penjelajah blok
+Penjelajah transaksi
+Penjelajah token
+Tentang
+Penjelajah
+Pengaturan
+Dompet
+Analitik
+Visualisasi
+Bahasa
+Tema
+Sistem
+Gelap
+Terang
+Demo
+Simulasi
+Tutup
+Coba lagi
+Muat ulang
+Salin
+Tersalin
+Hapus
+Memuat…
+Sebelumnya
+Berikutnya
+Abaikan
+Batal
+Kembali
+Lihat semua
+Atur ulang
+Ekspor
+Maks.
+Jumlah
+Saldo
+Biaya
+Status
+Total
+Waktu
+Tinggi
+Hash
+Jenis
+Semua
+Cari
+Filter
+Detail
+Konfirmasi
+Hubungkan dompet
+Putuskan
+Tinjau transaksi
+Biaya jaringan
+Salin alamat
+Anda membayar
+Anda menerima
+Alamat penerima
+Memo (opsional)
+Aset
+Alokasi
+Didelegasikan
+Batalkan staking
+Kurs
+Berhasil
+Transaksi
+Blok
+Dari
+Ke
+Memo
+Gas terpakai
+Validator
+Token
+Alamat
+Proposal
+Harga
+Pasokan
+Kapitalisasi pasar
+Komisi
+Waktu aktif
+Kekuatan suara
+Peringkat
+Aktif
+Tidak aktif
+Dipenjara
+Delegator
+Ya
+Tidak
+Abstain
+Tidak dengan veto
+Disetujui
+Ditolak
+Gagal
+Pemungutan suara berlangsung
+Kuorum
+Partisipasi
+Deposit
+Suara Anda
+Judul
+Deskripsi
+Metrik on-chain
+Tinggi blok
+Transaksi per blok
+Waktu blok
+APR staking
+Token terikat
+Total pasokan
+Kolam komunitas
+Halaman tidak ditemukan
+Kembali ke dasbor
+Blok terbaru
+Transaksi terbaru
+Notifikasi
+Lainnya

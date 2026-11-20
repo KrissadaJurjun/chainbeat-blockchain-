@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "វាលស័ង្កសី bonded Vals",
+    "viewAll": "ទស្សនា validators ទាំងអស់",
+    "col": {
+      "validator": "អ្នកផ្ទៀងផ្ទាត់",
+      "power": "អំណាចបោះឆ្នោត",
+      "cumulative": "សរុប",
+      "commission": "កម្រៃជើងសារ",
+      "uptime": "ពេលវេលាដំណើរការ",
+      "change": "ការផ្លាស់ប្តូរ 24 ម៉ោង",
+      "details": "ព័ត៌មានលម្អិត",
+      "tokens": "ស្លាកលេខ កំពង់ចាម"
+    },
+    "stake": "ស្តេក",
+    "stakeWith": "ចែកចាយ ជាមួយនឹង validator នេះ",
+    "pageDescription": "គ្រប់ validator ការពារ {{chain}}, រចនាប័ទ្មដោយអំណាចបោះឆ្នោត ( simulate) ។.",
+    "stats": {
+      "active": "validators សកម្ម",
+      "nakamoto": "កម្រិត Nakamoto",
+      "nakamotoHint": "វ៉ាឌីត័រ ចាំបាច់ ដើម្បី បញ្ឈប់ ខ្សែ",
+      "top10": "Top-10 អំណាចបោះឆ្នោត",
+      "commission": "ប្រាក់ចំណូលអតិបរមា"
+    },
+    "filterPlaceholder": "ខ្ទឹមស តាម ឈ្មោះ ឬ អាសយដ្ឋាន",
+    "statusFilter": "ស្ថានភាព validator",
+    "tableCaption": "វ៉ាឌីត័រ នៅ {{chain}}",
+    "detailDescription": "ការស្រាវជ្រាវវិជ្ជមាន simulate នៅលើ {{chain}}.",
+    "detail": {
+      "delegators": "អ្នកផ្ទេរសិទ្ធិ",
+      "bonded": "Tokens bonded",
+      "last30": "30 ថ្ងៃចុងក្រោយ",
+      "last90": "រយៈពេល 90 ថ្ងៃ ចុងក្រោយ",
+      "noBlocks": "មិន មាន គម្រោង បិទ សណ្ឋាគារ ថ្មីៗ.",
+      "noWebsite": "មិនអាចប្រើបាន ( validator fictional)",
+      "openPage": "បើក ទំព័រ ពេញ",
+      "powerHistory": "អំណាចបោះឆ្នោត",
+      "proposed24h": "ប្លុកស្នើ (24 ម៉ោង)",
+      "rank": "ចំណាត់ថ្នាក់",
+      "recentBlocks": "ប្លុកដែលត្រូវបានស្នើកាលពីពេលថ្មីៗ",
+      "selfBonded": "ការបង្ខំ ខ្លួនឯង",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "ពេលវេលាដំណើរការ",
+      "valueUsd": "តម្លៃចំណេញ {{value}}",
+      "website": "គេហទំព័រ"
+    },
+    "status": {
+      "active": "សកម្ម",
+      "inactive": "អសកម្ម",
+      "jailed": "ជាប់ពន្ធនាគារ"
+    },
+    "activitiesTitle": "ប្រតិបត្តិការ Validator",
+    "commissionShort": "សំណង {{value}}",
+    "detailTitle": "អ្នកផ្ទៀងផ្ទាត់",
+    "fictionalNote": "វា មិន មែន ជា ប្រតិបត្តិការ ពិតប្រាកដ ហើយ គ្មាន អ្វី ដែល ត្រូវ បាន បញ្ជាក់ អំពី វា ទេ។.",
+    "hoverTip": "គណៈកម្មាធិការ {{commission}} · ពេលវេលា ដំណើរការ {{uptime}} · {{delegators}} ឯកអគ្គរដ្ឋទូត",
+    "noMatching": "គ្មាន វ៉ាលីឌ័រ ដែល ស្មើ គ្នា ទេ។.",
+    "notFoundBody": "{{chain}} មិនមាន validator ជាមួយអាសយដ្ឋាននេះទេ។.",
+    "notFoundTitle": "Validator មិនអាចរកបាន",
+    "sort": {
+      "power": "អំណាចបោះឆ្នោត",
+      "commission": "កម្រៃជើងសារ",
+      "uptime": "ពេលវេលាដំណើរការ"
+    },
+    "sortBy": "បែងចែក validators តាម"
+  },
+  "validatorsViz": {
+    "description": "គណៈកម្មាធិការ ប្រៀបធៀប ពេលវេលា សម្រាប់ validator នីមួយៗ {{chain}} ទំហំ បបួល បង្ហាញ ថា មាន សមត្ថភាព បោះឆ្នោត។.",
+    "showAll": "រួមមាន មិន សកម្ម និង ជាប់ ពន្ធនាគារ",
+    "avgUptime": "ពេលវេលា សរុប",
+    "zeroFee": "វេឡាឌីទ័រ ដែល គ្មាន គណៈកម្មការ (zero commission)",
+    "chartTitle": "គណៈកម្មការ vs ពេលវេលា",
+    "chartHint": "បបួល នីមួយៗ",
+    "legend": "ប្រពៃណី ផ្ទាំង",
+    "sizeHint": "ទំហំបបួល = សមត្ថភាពបោះឆ្នោត"
+  }
+}

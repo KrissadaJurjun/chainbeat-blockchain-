@@ -1,0 +1,37 @@
+{
+  "blockDetail": {
+    "title": "Bloc {{height}}",
+    "invalid": "Hauteur de bloc non valide",
+    "description": "Détails d’un bloc simulé sur {{chain}}.",
+    "previous": "Bloc précédent",
+    "next": "Bloc suivant",
+    "notFoundTitle": "Bloc introuvable",
+    "notFoundBody": "{{chain}} n’a pas encore de bloc à cette hauteur.",
+    "transactions_one": "{{count}} transaction",
+    "transactions_many": "{{count}} de transactions",
+    "transactions_other": "{{count}} transactions",
+    "txCaption": "Transactions du bloc {{height}}",
+    "noTxs": "Ce bloc ne contient aucune transaction",
+    "genesis": "Bloc de la Genèse",
+    "parentHash": "Le hachage parental",
+    "demoTxs": "Demo transactions de portefeuille à cette hauteur",
+    "demoTxsNote": "Ils ont été créés par le portefeuille Demo. Ils ne font pas partie du compte de transactions du bloc simulé."
+  },
+  "blocksPage": {
+    "description": "Les blocs les plus récents de {{chain}}. La liste est actualisée environ une fois par temps de bloc.",
+    "live": "En direct",
+    "avgGas": "Gas moyen utilisé",
+    "tableCaption": "Derniers blocs de {{chain}}",
+    "proposer": "Proposeur",
+    "txs": "Txs",
+    "gas": "Gas utilisé",
+    "size": "Taille",
+    "emptyTitle": "Aucun bloc n' a été trouvé",
+    "filterPlaceholder": "Filtre par hauteur, hachage ou validateur",
+    "filtersLabel": "Filtres à blocage",
+    "finality": "Finalité",
+    "finalityNote": "Les blocs de ce type de réseau sont définitifs dès leur mise en œuvre.",
+    "finalized": "Finalisé",
+    "withTxsOnly": "Seuls les blocs avec des transactions"
+  }
+}

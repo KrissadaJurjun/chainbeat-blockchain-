@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "التنقل الجانبي",
+    "primary": "التنقل الرئيسي",
+    "menu": "قائمة التنقل",
+    "openMenu": "فتح قائمة التنقل",
+    "closeMenu": "إغلاق قائمة التنقل",
+    "collapseSidebar": "طيّ الشريط الجانبي",
+    "expandSidebar": "توسيع الشريط الجانبي",
+    "skipToContent": "التخطي إلى المحتوى الرئيسي",
+    "home": "الصفحة الرئيسية لـ ChainBeat",
+    "pages": "الصفحات",
+    "dashboard": "لوحة التحكم",
+    "validators": "المدققون",
+    "proposals": "المقترحات",
+    "blocks": "الكتل",
+    "transactions": "المعاملات",
+    "portfolio": "المحفظة الاستثمارية",
+    "swap": "المبادلة",
+    "stake": "التخزين",
+    "liquidStaking": "التخزين السائل",
+    "send": "إرسال",
+    "vote": "التصويت",
+    "createProposal": "إنشاء مقترح",
+    "market": "السوق",
+    "network": "الشبكة",
+    "governance": "الحوكمة",
+    "ibcNetwork": "شبكة IBC",
+    "devActivity": "نشاط المطورين",
+    "multichain": "نظرة عامة على السلاسل المتعددة",
+    "heartbeat": "نبض الشبكة",
+    "dominance": "الهيمنة",
+    "validatorsViz": "المدققون",
+    "blockExplorer": "مستكشف الكتل",
+    "transactionExplorer": "مستكشف المعاملات",
+    "tokenExplorer": "مستكشف الرموز",
+    "about": "حول",
+    "explorerHome": "المستكشف",
+    "governanceHome": "مركز الحكم",
+    "settings": "الإعدادات"
+  },
+  "sections": {
+    "explorer": "المستكشف",
+    "wallet": "المحفظة",
+    "analytics": "التحليلات",
+    "visualizations": "التصورات"
+  },
+  "chains": {
+    "favorite": "إضافة {{name}} إلى المفضلة",
+    "unfavorite": "إزالة {{name}} من المفضلة",
+    "simulatedHealthy": "شبكة محاكاة · سليمة"
+  },
+  "search": {
+    "label": "البحث في ChainBeat",
+    "placeholder": "ابحث عن كتلة أو معاملة أو عنوان…",
+    "results": "نتائج البحث",
+    "noResults": "لا توجد نتائج لـ “{{query}}”",
+    "kinds": {
+      "page": "صفحة",
+      "block": "كتلة",
+      "transaction": "معاملة",
+      "validator": "مدقق",
+      "token": "رمز",
+      "address": "عنوان",
+      "proposal": "المقترح"
+    },
+    "recent": "عمليات البحث الأخيرة",
+    "clearRecent": "عمليات البحث الأخيرة واضحة",
+    "removeRecent": "إزالة {{query}} من عمليات البحث الأخيرة",
+    "hint": "جرب ارتفاع الكتل، hash المعاملة، عنوان ( {{prefix}} 1...) ، مؤكدة، رقم الاقتراح أو اسم رمزي.",
+    "submit": "بحث",
+    "searching": "أبحث...",
+    "resultCount": "النتائج: {{count}}",
+    "invalid": {
+      "tooLong": "هذا طويل جدا ليكون مصطلح بحث (200 حرف على الأكثر).",
+      "badChecksum": "هذا يبدو وكأنه عنوان، ولكن رقم التحقق لا يطابق. تحقق منه من أجل أخطاء الكتابة.",
+      "badHash": "المعاملة أو حشر الكتل لديها بالضبط 64 شخصية عشرية.",
+      "badChars": "ابحث عن ارتفاع الكتلة أو الهاشة أو العنوان أو المؤكد أو الاقتراح أو الرمز."
+    },
+    "categories": {
+      "page": "الصفحات",
+      "block": "الكتل",
+      "transaction": "المعاملات",
+      "address": "العناوين",
+      "validator": "المدققون",
+      "proposal": "المقترحات",
+      "token": "الرموز"
+    }
+  },
+  "user": {
+    "menu": "قائمة الحساب",
+    "guest": "زائر",
+    "notConnected": "لا توجد محفظة متصلة",
+    "settings": "الإعدادات",
+    "about": "حول ChainBeat"
+  }
+}

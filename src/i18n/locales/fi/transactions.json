@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "{{chain}} -n uusimmat tapahtumat.",
+    "stats": {
+      "recent": "Äskettäiset tapahtumat",
+      "success": "Menestynyt",
+      "failed": "Epäonnistui",
+      "volume": "Kotimainen tilavuus"
+    },
+    "filterPlaceholder": "Filtrointi hashin, osoitteen tai korkeuden mukaan",
+    "allTypes": "Kaikki tyypit",
+    "tableCaption": "Viimeisimmät tapahtumat {{chain}}",
+    "from": "Lähettäjä",
+    "to": "Vastaanottaja",
+    "memo": "Viesti",
+    "noMemo": "Ei muistiinpanoja",
+    "raw": "Näytä raaka-aineita (simuloitu)",
+    "detailTitle": "Transaktio",
+    "detailDescription": "Yksityiskohdat simuloidusta tapahtumasta {{chain}}:llä.",
+    "notFoundTitle": "Kauppa ei löytynyt",
+    "notFoundBody": "Simuloinnissa ei ole mitään tapahtumia tämän hashin kanssa {{chain}}:ssä.",
+    "failedBecause": "Tämä liiketoimi epäonnistui: {{reason}}.",
+    "types": {
+      "send": "Lähetä",
+      "delegate": "Valtuutettu",
+      "undelegate": "Eikä ole valtuutettu",
+      "claim": "Palkkiot",
+      "vote": "Äänestä",
+      "ibc-transfer": "IBC siirto",
+      "swap": "Vaihda",
+      "other": "Muut"
+    },
+    "status": {
+      "success": "Onnistui",
+      "failed": "Epäonnistui"
+    },
+    "block": "Lohko",
+    "cardsLabel": "Transaktiot",
+    "category": "Luokka",
+    "date": "Päivämäärä",
+    "dateNote": "Näyttää viimeisimmät {{count}} tapahtumaa vuoden {{date}} loppuun asti (UTC).",
+    "emptyTitle": "Mitään liiketoimia ei löytynyt",
+    "events": "Tapahtumat",
+    "failedEvents": "Tämä liiketoimi epäonnistui, joten se lähetti vain maksutapahtumansa.",
+    "feeSymbol": "Palkkiotunnus",
+    "filtersLabel": "Transaktiofiltrit",
+    "gasUsed": "Käytetty kaasu",
+    "gasWanted": "Kaasu vaaditaan",
+    "groups": {
+      "transfer": "Siirrot",
+      "staking": "Kytkeminen",
+      "governance": "Hallinto",
+      "ibc": "IBC",
+      "swap": "Vaihtoehdot",
+      "other": "Muut"
+    },
+    "latestNote": "Näytän viimeisimmät {{count}}-tapahtumat.",
+    "messageType": "Viestin tyyppi",
+    "network": "Verkko",
+    "symbol": "Token",
+    "syntheticNote": "Tämä on synteettinen tallennus, joka on luotu Demo Modelle.",
+    "token": "Token",
+    "validator": "Validaattori",
+    "demoWalletNote": "Tämä tapahtuma on tehty lompakolla Demo. Se on olemassa vain tässä selaimessa: ei ole tapahtunut blockchain-siirtoa ja sen hash ei ole todellinen blockchain-hash.",
+    "demoTag": "Demo lompakko"
+  }
+}

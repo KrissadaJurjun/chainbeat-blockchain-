@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "Transaksionet më të fundit në {{chain}}.",
+    "stats": {
+      "recent": "Transaksionet e fundit",
+      "success": "Të suksesshëm",
+      "failed": "Dështoi",
+      "volume": "Volumi i origjinës"
+    },
+    "filterPlaceholder": "Filtrimi sipas hashit, adresës ose lartësisë",
+    "allTypes": "Të gjitha llojet",
+    "tableCaption": "Transaksionet e fundit në {{chain}}",
+    "from": "Nga",
+    "to": "Për",
+    "memo": "Memo",
+    "noMemo": "Asnjë memorandum",
+    "raw": "Shikoni të dhënat e papërpunuara (simuluar)",
+    "detailTitle": "Transaksion",
+    "detailDescription": "Detaje për një transaksion të simuluar në {{chain}}.",
+    "notFoundTitle": "Transaksion nuk është gjetur",
+    "notFoundBody": "Asnjë transaksion me këtë hash nuk ekziston në {{chain}} në simulacionin.",
+    "failedBecause": "Kjo transaksion dështoi: {{reason}}.",
+    "types": {
+      "send": "Dërgo",
+      "delegate": "Delegat",
+      "undelegate": "Pa-delegjuar",
+      "claim": "Kërkesa e shpërblimeve",
+      "vote": "Voto",
+      "ibc-transfer": "IBC transferim",
+      "swap": "Këmbim",
+      "other": "Të tjera"
+    },
+    "status": {
+      "success": "Sukses",
+      "failed": "Dështoi"
+    },
+    "block": "Bllok",
+    "cardsLabel": "Transaksionet",
+    "category": "Kategoria",
+    "date": "Data",
+    "dateNote": "Duke treguar {{count}} transaksionet e fundit deri në fund të vitit {{date}} (UTC).",
+    "emptyTitle": "Asnjë transaksion nuk është gjetur",
+    "events": "Ngjarja",
+    "failedEvents": "Kjo transaksion dështoi, kështu që ajo lëshoi vetëm ngjarjen e saj të pagesës.",
+    "feeSymbol": "Tokeni i tarifave",
+    "filtersLabel": "Filtrat e transaksionit",
+    "gasUsed": "Gas i përdorur",
+    "gasWanted": "Kërkohet gaz",
+    "groups": {
+      "transfer": "Transferimet",
+      "staking": "Shtytje",
+      "governance": "Qeverisja",
+      "ibc": "IBC",
+      "swap": "Swap",
+      "other": "Të tjera"
+    },
+    "latestNote": "Duke treguar transaksionet e fundit {{count}}, zgjidhni një datë për të parë më tej.",
+    "messageType": "Tipi i mesazhit",
+    "network": "Rrjeti",
+    "symbol": "Token",
+    "syntheticNote": "Ky është një rekord sintetik i gjeneruar për Demo Mode. Hash-i i tij nuk është një hash blockchain e vërtetë dhe nuk mund të verifikohet në asnjë rrjet.",
+    "token": "Token",
+    "validator": "Validator",
+    "demoWalletNote": "Kjo transaksion u krijua nga portofoli Demo. Ekziston vetëm në këtë shfletues: nuk ka ndodhur asnjë transferim blockchain, dhe hashja e tij nuk është një hash blockchain e vërtetë.",
+    "demoTag": "Demo portofol"
+  }
+}

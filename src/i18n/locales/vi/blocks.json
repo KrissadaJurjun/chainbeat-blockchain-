@@ -1,0 +1,35 @@
+{
+  "blockDetail": {
+    "title": "Phòng {{height}}",
+    "invalid": "Độ cao khối không hợp lệ",
+    "description": "Chi tiết về một khối mô phỏng trên {{chain}}.",
+    "previous": "Khối trước",
+    "next": "Quận tiếp theo",
+    "notFoundTitle": "Block không được tìm thấy",
+    "notFoundBody": "{{chain}} chưa có khối ở độ cao này.",
+    "transactions_other": "{{count}} giao dịch",
+    "txCaption": "Giao dịch trong khối {{height}}",
+    "noTxs": "Khối này không có giao dịch",
+    "genesis": "Genesis block",
+    "parentHash": "Phương pháp của cha mẹ",
+    "demoTxs": "Demo giao dịch ví ở độ cao này",
+    "demoTxsNote": "Chúng được tạo ra bởi ví Demo. Chúng không phải là một phần của số lượng giao dịch của khối mô phỏng."
+  },
+  "blocksPage": {
+    "description": "Các khối mới nhất trên {{chain}}. Danh sách được cập nhật khoảng một lần mỗi khối.",
+    "live": "Đời sống",
+    "avgGas": "Gas Avg. được sử dụng",
+    "tableCaption": "Các khối cuối cùng trên đường {{chain}}",
+    "proposer": "Người đề xuất",
+    "txs": "Txs",
+    "gas": "Gas đã dùng",
+    "size": "Kích thước",
+    "emptyTitle": "Không có khối nào được tìm thấy",
+    "filterPlaceholder": "Bộ lọc theo chiều cao, hash hoặc chất xác thực",
+    "filtersLabel": "Các bộ lọc khối",
+    "finality": "Sự kết thúc",
+    "finalityNote": "Các khối trên loại mạng này là cuối cùng ngay khi chúng được thực hiện.",
+    "finalized": "Được hoàn thành",
+    "withTxsOnly": "Chỉ khối với giao dịch"
+  }
+}

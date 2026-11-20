@@ -1,0 +1,103 @@
+{
+  "overview": {
+    "title": "Prikaz",
+    "unit": "Indeks performansi · Osnovna vrijednost = 100 na početku raspona",
+    "refreshFailed": "Nisam mogao osvježiti prikazuje posljednje naložene podatke."
+  },
+  "chart": {
+    "keyboardHint": "Koristite ključeve strelice za kretanje između tačaka podataka.",
+    "summary": "Indeks učinkovitosti iznad {{range}}: {{details}}",
+    "rangeLabel": "Vremenski raspon",
+    "seriesLabel": "Sljedeći članak",
+    "keepOne": "Najmanje jedna serija mora ostati vidljiva",
+    "emptyTitle": "Ne postoje podaci za ovaj raspon",
+    "emptyBody": "Pokušaj u drugom vremenskom rasponu ili osvježi se.",
+    "range": {
+      "24H": "24 SATA",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "U posljednjih 24 sata",
+      "7D": "Posljednjih 7 dana",
+      "30D": "Posljednjih 30 dana",
+      "90D": "Posljednjih 90 dana"
+    },
+    "zoomControls": "Kontrole za povezivanje",
+    "zoomIn": "Povećaj se",
+    "zoomOut": "Izlazi",
+    "resetView": "Prikaz nastavka",
+    "zoomLevel": "Stopnja približavanja"
+  },
+  "proposals": {
+    "title": "Prijedlozi",
+    "filter": "Filtriranje prijedloga",
+    "live": "Živjeli",
+    "total": "Ukupno",
+    "viewAll": "Pogledajte sve prijedloge",
+    "noneLive": "Nema živih prijedloga",
+    "noneLiveBody": "Trenutno ne postoji tekuće upravljanje.",
+    "showAll": "Pokaži nedavne prijedloge",
+    "endsIn": "Krajovi {{time}}",
+    "turnout": "Odaziv",
+    "vote": "Glasaj",
+    "status": {
+      "voting": "Glasanje u tijeku",
+      "deposit": "Depozit",
+      "passed": "Usvojeno",
+      "rejected": "Odbijeno",
+      "failed": "Neuspjelo"
+    },
+    "passed": "Usvojeno",
+    "rejected": "Odbijeno",
+    "noneMatching": "Nema odgovarajućih prijedloga",
+    "noneMatchingBody": "Ništa ne odgovara ovom filtru sada."
+  },
+  "dev": {
+    "title": "Aktivnost programera",
+    "summary": "{{total}} doprinosi",
+    "viewFull": "Aktivnost otvorenih programera",
+    "heatmapLabel": "Karta topline doprinosa: {{total}} doprinosa tijekom {{weeks}} tjedna",
+    "less": "Manje",
+    "more": "Više",
+    "cellTitle_one": "{{count}} doprinos na {{date}}",
+    "cellTitle_few": "{{count}} doprinosi na {{date}}",
+    "cellTitle_other": "{{count}} doprinosa na {{date}}",
+    "range": "Raznovrsnost toplote",
+    "ranges": {
+      "month": "Mjesec",
+      "quarter": "Četvrtina",
+      "year": "Godina"
+    }
+  },
+  "repos": {
+    "title": "Aktivni repozitorij",
+    "period": "Period",
+    "periods": {
+      "week": "Tjedan",
+      "month": "Mjesec",
+      "year": "Godina",
+      "quarter": "Četvrtina"
+    },
+    "contributors": "Djelotvorci",
+    "stars": "Zvijezde",
+    "sparkline": "Aktivnost obveze za {{name}}",
+    "vsPrevious": "{{change}} u odnosu na prethodni period",
+    "up": "Gore",
+    "down": "Dolje",
+    "caption": "Odgovornosti u odabranom razdoblju · simulirani repozitoriji",
+    "col": {
+      "repository": "Repozitorij",
+      "language": "Jezik",
+      "commits": "Odgovornosti",
+      "change": "Promjena",
+      "trend": "Trend"
+    },
+    "commitsCount": "Prihvaćene obveze: {{count}}",
+    "demoNote": "Demo podaci: ovaj repozitorij je izmišljen i njegova aktivnost je simulirana.",
+    "emptyBody": "U tom razdoblju ne postoji aktivnost skladišta.",
+    "emptyTitle": "Ne postoji aktivnost skladišta",
+    "history": "Aktivnost obveza"
+  }
+}

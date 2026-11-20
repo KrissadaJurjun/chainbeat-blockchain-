@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Mengurangi gerak",
+    "reduceMotionHint": "Minimalkan animasi dan transisi.",
+    "appearance": {
+      "compact": "Tata letak kompak",
+      "compactHint": "Menggambar area konten sedikit lebih kecil.",
+      "description": "Tema, gerak dan kepadatan.",
+      "title": "Penampilan"
+    },
+    "confirm": {
+      "action": "Konfirmasi",
+      "title": "Apa kau yakin?",
+      "dataset": "Ini mengatur kembali jam simulasi, kecepatan, latensi dan kesalahan paksa ke standar mereka. dompet Demo tidak disentuh.",
+      "wallet": "Hal ini mengembalikan saldo awal dompet Demo dan menghapus aktivitas simulasi, suara dan proposal.",
+      "all": "Ini menghapus setiap pengaturan ChainBeat yang disimpan di browser ini (bahasa, tema, jaringan, Demo dompet, pencarian baru-baru ini) dan memuat kembali halaman."
+    },
+    "data": {
+      "datasetReset": "Demo Dataset disetel kembali ke real time.",
+      "description": "Seberapa segar data dan bagaimana mengatur ulang simulasi.",
+      "refresh": "Perbarui data live",
+      "refreshHint": "Seberapa sering daftar dan counter membaca kembali jaringan (simulasi).",
+      "refreshOptions": {
+        "live": "Hidup",
+        "slow": "Perlahan",
+        "manual": "Manual"
+      },
+      "resetDataset": "Reset set data demo",
+      "searchesCleared": "Pencarian baru-baru ini dibersihkan.",
+      "speedHint": "Hentikan jam simulasi atau memperlambatnya.",
+      "title": "Data"
+    },
+    "description": "Penampilan, bahasa, jaringan dan privasi. Semuanya disimpan hanya di browser ini.",
+    "language": {
+      "count": "{{shipped}} dari {{total}} bahasa yang tersedia",
+      "current": "Bahasa saat ini",
+      "description": "Pilih bahasa antarmuka. Cari dengan nama asli, nama Inggris atau kode.",
+      "fallback": "Teks yang belum diterjemahkan ditampilkan dalam bahasa Inggris.",
+      "title": "Bahasa"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Jaringan mana yang harus dijelajahi dan dari mana data itu berasal.",
+      "endpoint": "Live endpoint",
+      "live": "Hidup",
+      "liveUnavailable": "Data live tidak tersedia dalam build ini: setiap halaman menampilkan data simulasi. Jika titik akhir dikonfigurasi Anda dapat menguji koneksi, tetapi aplikasi tidak pernah mencampur data live dan simulasi.",
+      "mode": "Sumber data",
+      "noEndpoint": "Tidak ada (data simulasi)",
+      "selected": "Jaringan",
+      "status": "Sambungan",
+      "statusDemo": "Simulasi jaringan · ketinggian {{height}}",
+      "title": "Jaringan",
+      "unavailable": "tidak tersedia",
+      "test": "Sambungan pengujian",
+      "testing": "Uji...",
+      "testHint": "Mengirim dua permintaan GET hanya untuk dibaca ke titik akhir di bawah dan menunjukkan apa yang dijawab. Tidak ada yang disimpan dan sumber data tidak berubah.",
+      "testOk": "Terhubung ke {{chain}}: blok terbaru {{height}}, dijawab dalam {{ms}} ms.",
+      "testPartial": "Terhubung ke {{chain}}: blok terbaru {{height}}, dijawab dalam {{ms}} ms. Beberapa detail opsional tidak tersedia.",
+      "testError": {
+        "timeout": "Titik akhir tidak menjawab tepat waktu.",
+        "network": "Tidak bisa mencapai titik akhir. periksa alamat dan bahwa itu memungkinkan permintaan dari situs ini.",
+        "http": "Titik akhir menjawab dengan kesalahan.",
+        "invalid": "Endpoint menjawab, tapi tidak dalam format Cosmos REST API, jadi tidak ada yang digunakan."
+      }
+    },
+    "privacy": {
+      "clearAll": "Hapus semua data ChainBeat di browser ini",
+      "description": "Apa yang disimpan aplikasi ini dan apa yang dapat dilihatnya.",
+      "keysCaption": "Penyimpanan browser yang digunakan oleh ChainBeat",
+      "noNetwork": "ChainBeat tidak mengirim data ke mana-mana: tidak memiliki analisis dan tidak membuat permintaan kecuali untuk file sendiri. Ada dua pengecualian opsional: tombol Test connection, yang hanya muncul ketika Anda mengkonfigurasi titik akhir dan mengirim dua permintaan hanya dibaca kepadanya, dan tombol masuk Google, yang hanya muncul setelah Anda menambahkan ID klien Google Anda sendiri dan kemudian dimuat dari Google.",
+      "noSeed": "ChainBeat tidak pernah meminta, menyimpan atau melihat frasa seed, kunci pribadi atau kata sandi dompet.",
+      "storage": "Preferensi, jaringan yang dipilih, jam simulasi, dompet Demo, pencarian baru-baru ini dan akun demo yang Anda buat disimpan di localStorage browser ini saja.",
+      "title": "Privasi",
+      "wallet": "Jika Anda menghubungkan ekstensi dompet browser, ChainBeat hanya membaca alamat publik dan nama akun Anda, dan hanya setelah Anda menyetujuinya. Tidak ada yang ditandatangani atau dikirim.",
+      "keys": {
+        "lang": "Bahasa yang dipilih",
+        "ui": "Tema, gerakan, kepadatan, tata letak dan favorit",
+        "chain": "Jaringan yang dipilih",
+        "sim": "Jam, kecepatan dan latensi simulasi",
+        "wallet": "Demo dompet: saldo fiksi, kegiatan, suara, proposal",
+        "notifications": "Pemberitahuan apa yang telah Anda baca atau menolak, dan peristiwa lokal (dompet, transaksi simulasi)",
+        "search": "Pencarian terbaru",
+        "auth": "Demo akun: nama pengguna, alamat email, hash kata sandi asin dan login saat ini"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Demo Mode",
+    "chipTip": "Semua data disimulasikan. Buka kontrol demo.",
+    "controls": "Demo kontrol",
+    "controlsIntro": "ChainBeat berjalan pada data simulasi deterministik. Tidak ada yang dibaca dari, atau dikirim ke, blockchain nyata.",
+    "clock": "Jam simulasi",
+    "simulatedNow": "Waktu simulasi",
+    "offset": "{{value}} jam di depan",
+    "advanceHour": "1 jam lebih awal",
+    "advanceDay": "1 hari sebelumnya",
+    "resetClock": "Reset jam",
+    "clockNote": "Meneruskan jam menghasilkan blok baru, harga dan peristiwa pada {{chain}}. Data untuk setiap saat tertentu selalu identik.",
+    "network": "Perilaku jaringan",
+    "latency": "Simulasi latensi",
+    "latencyOff": "Berhenti",
+    "simulateErrors": "Simulasi kesalahan jaringan",
+    "simulateErrorsHint": "Setiap permintaan gagal sehingga Anda dapat memeriksa keadaan kesalahan.",
+    "wallet": "Demo dompet",
+    "resetWallet": "Reset dompet demo",
+    "walletReset": "Demo dompet reset ke saldo awal.",
+    "noticeTitle": "Modus Demo.",
+    "noticeBody": "Aliran kerja ini disimulasikan. Tidak ada yang ditandatangani atau disiarkan dan tidak ada dana nyata yang terlibat.",
+    "behind": "{{value}} jam di belakang waktu nyata",
+    "speed": "Kecepatan simulasi",
+    "speeds": {
+      "paused": "Berhenti",
+      "slow": "Perlahan",
+      "normal": "Normal"
+    }
+  },
+  "about": {
+    "title": "Tentang ChainBeat",
+    "demo": "ChainBeat berjalan di Demo Mode. Setiap blok, harga, validator dan proposal dihasilkan secara deterministik di browser Anda. Ini bukan statistik mainnet saat ini.",
+    "privacy": "Tidak diperlukan kunci API, kunci pribadi atau frasa seed. Akun demo opsional, preferensi dan dompet demo disimpan hanya di browser Anda.",
+    "shortcuts": "Pendekatan keyboard",
+    "shortcutSearch": "Pencarian fokus",
+    "shortcutClose": "Tutup dialog dan menu",
+    "languages": "Bahasa antarmuka: {{shipped}} dari {{total}}. Terjemahan dibantu mesin dan belum ditinjau oleh penutur asli; pemeriksaan profesional disarankan sebelum penggunaan publik.",
+    "pageDescription": "Apa ChainBeat, bagaimana ia menangani data, dan keyboard shortcutnya.",
+    "shortcutPalette": "Pencarian terbuka (palet perintah)"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "accessibility": {
+    "navigatedTo": "Navigert til {{title}}",
+    "loadingPage": "Lasting side"
+  }
+}

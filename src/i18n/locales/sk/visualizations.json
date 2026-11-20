@@ -1,0 +1,62 @@
+{
+  "ibcPage": {
+    "description": "Ako tokeny prechádzajú medzi reťazcami cez IBC. hrubšie prepojenia znamenajú viac 24-hodinového objemu.",
+    "volume": "24h IBC objem",
+    "chains": "Pripojené reťazce",
+    "links": "Aktívne kanály",
+    "busiest": "Najrušnejšia cesta",
+    "mapLabel": "Mapa IBC spojení medzi reťazcami",
+    "nodeLabel": "{{name}}: {{volume}} za 24 hodín cez {{channels}} kanálov",
+    "hint": "Prevezmite, sústreďte sa alebo vyberte reťazec, aby ste vyzdvihli jeho spojenia. Vytiahnite na panel; použite Ctrl alebo s kolesom prezerania, klávesmi + a − alebo tlačidlami zoomovať; stlačte 0 na reset.",
+    "channelsOf": "Kanály z {{name}}",
+    "topChannels": "Najvyššie kanály podľa objemu",
+    "transfers_one": "{{count, number}} prevod",
+    "transfers_few": "{{count, number}} prevody",
+    "transfers_many": "{{count, number}} prevody",
+    "transfers_other": "{{count, number}} prevody",
+    "info": {
+      "volume": "Objem (24 hodín)",
+      "channels": "Kanály",
+      "share": "Podiel objemu IBC",
+      "partner": "Najrušnejší partner"
+    }
+  },
+  "multichainPage": {
+    "description": "Široký ekosystém v štýle Cosmos na prvý pohľad simuloval čísla pre každý prepojený reťazec.",
+    "chains": "Reťazce",
+    "tvl": "Celková hodnota zamknutá",
+    "validators": "Validátori",
+    "tx24h": "Transakcie (24h)",
+    "height": "Výška blokov",
+    "open": "Otvorte prístrojovú dosku",
+    "switched": "Prešiel na {{name}}",
+    "registryOnly": "Zaregistrovaný na demo ešte nie je možné vybrať",
+    "tvlByChain": "TVL podľa reťazca",
+    "tvlHint": "Simulovaná celková hodnota zamknutá",
+    "explainTitle": "Čo znamenajú metriky",
+    "explainHint": "Jednoduché definície čísel na tejto stránke. Všetky hodnoty sú simulované.",
+    "explain": {
+      "tvl": "Hodnota tokens uložených alebo držaných v simulovanom hospodárstve siete, za simulované ceny.",
+      "height": "Koľko blokov vytvoril reťazec od jeho vzniku.",
+      "validators": "Operátori, ktorí navrhujú a podpíšu bloky.",
+      "apr": "Odhadovaná ročná odmena za stávku, ako percentuálny podiel pred províziou, pohybuje sa s infláciou a s podielom tokensov, ktoré sa stávkujú.",
+      "bonded": "Podíl celkového dodávky tokens, ktorý je v stávke. Vyšší podiel znamená, že viac dodávky zabezpečuje reťazec.",
+      "tx24h": "Transakcie zahrnuté v blokoch v priebehu posledných 24 hodín vo všetkých zoznamoch reťazcov."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Pulz {{chain}}: každý blok je rytmus vzdialenosť nasleduje čas bloku, výška nasleduje počet transakcií.",
+    "rate": "Bloková sadzba",
+    "perMinute": "bloky/min",
+    "sinceLast": "Od posledného bloku",
+    "txLastMinute": "Transakcie (posledná minúta)",
+    "monitor": "Pulzový monitor",
+    "legend": "Výška úderov = transakcie v bloku",
+    "chartLabel": "Sledovanie srdcových tepov: {{rate}} blokov za minútu, {{seconds}} sekúnd medzi blokmi",
+    "stream": "Prúd blokov",
+    "txCount_one": "{{count}} tx",
+    "txCount_few": "{{count}} txs",
+    "txCount_many": "{{count}} txs",
+    "txCount_other": "{{count}} txs"
+  }
+}

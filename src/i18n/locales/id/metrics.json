@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Metrik on-chain",
+    "exportCsv": "Ekspor sebagai CSV",
+    "exported": "Metrik diekspor sebagai CSV.",
+    "openAnalytics": "Analisis jaringan terbuka",
+    "last24h": "24 jam terakhir",
+    "sparklineLabel": "Tren dalam 24 jam terakhir",
+    "change24h": "Perubahan 24 jam",
+    "blocks": "blok",
+    "exact": "Nilai yang tepat",
+    "bondedRatio": "Rasio obligasi",
+    "poolShare": "Berbagi pasokan",
+    "tokenPrice": "Harga token",
+    "inputInflation": "Inflasi",
+    "inputTax": "Pajak Komunitas",
+    "inputBonded": "Rasio obligasi",
+    "csvMetric": "Metrik",
+    "csvValue": "Nilai",
+    "csvUnit": "Unit",
+    "csvChange24h": "Pergantian 24 jam",
+    "blockHeight": {
+      "label": "Tinggi blok",
+      "description": "Jumlah blok yang dihasilkan sejak genesis. Itu tumbuh satu dengan setiap blok baru."
+    },
+    "totalTransactions": {
+      "label": "Transaksi",
+      "description": "Total transaksi yang diproses oleh jaringan sejak genesis."
+    },
+    "txPerBlock": {
+      "label": "Transaksi per blok",
+      "description": "Jumlah rata-rata transaksi yang termasuk per blok, diukur selama 100 blok terakhir."
+    },
+    "blockTime": {
+      "label": "Waktu blok",
+      "description": "Rata-rata waktu antara blok berturut-turut, diukur selama 100 blok terakhir."
+    },
+    "inflation": {
+      "label": "Inflasi",
+      "description": "Tingkat tahunan di mana token baru diciptakan untuk memberi imbalan kepada stakers dan mendanai kolam komunitas."
+    },
+    "stakingApr": {
+      "label": "APR staking",
+      "description": "Perkiraan pengembalian tahunan atas token yang dipertaruhkan, sebelum komisi validator.",
+      "formula": "APR = inflasi × (1 − pajak masyarakat) ÷ rasio obligasi"
+    },
+    "bondedTokens": {
+      "label": "Token terikat",
+      "description": "Token saat ini dipertaruhkan dengan validator aktif.",
+      "formula": "terikat = total pasokan × rasio terikat"
+    },
+    "totalSupply": {
+      "label": "Total pasokan",
+      "description": "Setiap token yang ada, termasuk yang dipertaruhkan."
+    },
+    "communityPool": {
+      "label": "Kolam komunitas",
+      "description": "Token yang dikendalikan oleh pemerintahan rantai. Bagian inflasi mengalir masuk; proposal yang sukses membelanjakannya.",
+      "formula": "kolam tumbuh dengan penawaran × inflasi × pajak masyarakat"
+    },
+    "poolValue": {
+      "label": "Nilai kolam",
+      "description": "Nilai perkiraan dolar AS dari kolam komunitas pada harga token simulasi.",
+      "formula": "nilai = pool × harga token"
+    }
+  }
+}

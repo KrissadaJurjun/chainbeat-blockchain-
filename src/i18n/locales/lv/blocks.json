@@ -1,0 +1,37 @@
+{
+  "blockDetail": {
+    "title": "Bloks {{height}}",
+    "invalid": "Neatbilstoša bloka augstums",
+    "description": "Detalizēti simulēta bloka numurs {{chain}}.",
+    "previous": "Iepriekšējais bloks",
+    "next": "Nākamais bloks",
+    "notFoundTitle": "Bloks neatrodīts",
+    "notFoundBody": "{{chain}} vēl nav blokēts šajā augstumā.",
+    "transactions_zero": "{{count}} darījumi",
+    "transactions_one": "{{count}} darījums",
+    "transactions_other": "{{count}} darījumi",
+    "txCaption": "Transakcijas blokā {{height}}",
+    "noTxs": "Šajā blokā nav darījumiem",
+    "genesis": "Genesis bloks",
+    "parentHash": "Vecāku hašiks",
+    "demoTxs": "Demo portfeļa darījumi šajā augstumā",
+    "demoTxsNote": "Tie tika radīti ar Demo. portfelī. Tie nav daļa no simulētā bloka pašu darījumu skaita."
+  },
+  "blocksPage": {
+    "description": "Jaunākie bloki {{chain}} numurā.",
+    "live": "Dzīvoklis",
+    "avgGas": "Avg. gāzes izmantošana",
+    "tableCaption": "Pēdējie bloki uz {{chain}}",
+    "proposer": "Prasības iesniedzējs",
+    "txs": "Txs",
+    "gas": "Izmantotā gāze",
+    "size": "lielums",
+    "emptyTitle": "Neatrodas blokas",
+    "filterPlaceholder": "Filtrēšana pēc augstuma, hash vai validators",
+    "filtersLabel": "Bloka filtri",
+    "finality": "Visbeidzotība",
+    "finalityNote": "Šādas tīkla blokes ir galīgās, tiklīdz tās tiek veiktas.",
+    "finalized": "Piepildīts",
+    "withTxsOnly": "Tikai bloki ar darījumiem"
+  }
+}

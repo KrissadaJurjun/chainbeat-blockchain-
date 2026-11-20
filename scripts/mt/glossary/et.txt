@@ -1,0 +1,130 @@
+Armatuurlaud
+Valideerijad
+Ettepanekud
+Plokid
+Tehingud
+Portfell
+Vahetus
+Staking
+Likviidne staking
+Saada
+Hääleta
+Loo ettepanek
+Turg
+Võrk
+Juhtimine
+IBC võrk
+Arendajate tegevus
+Mitme ahela ülevaade
+Südamelöök
+Domineerimine
+Plokiuurija
+Tehinguuurija
+Tokeniuurija
+Teave
+Uurija
+Seaded
+Rahakott
+Analüütika
+Visualiseeringud
+Keel
+Teema
+Süsteem
+Tume
+Hele
+Demo
+Simuleeritud
+Sulge
+Proovi uuesti
+Värskenda
+Kopeeri
+Kopeeritud
+Tühjenda
+Laadimine…
+Eelmine
+Järgmine
+Peida
+Tühista
+Tagasi
+Vaata kõiki
+Lähtesta
+Ekspordi
+Maks
+Summa
+Saldo
+Tasu
+Olek
+Kokku
+Aeg
+Kõrgus
+Räsi
+Tüüp
+Kõik
+Otsi
+Filtreeri
+Üksikasjad
+Kinnita
+Ühenda rahakott
+Katkesta ühendus
+Vaata tehing üle
+Võrgutasu
+Kopeeri aadress
+Sa maksad
+Sa saad
+Saaja aadress
+Memo (valikuline)
+Varad
+Jaotus
+Delegeeritud
+Lõpeta staking
+Vahetuskurss
+Õnnestus
+Tehing
+Plokk
+Saatja
+Saaja
+Memo
+Kasutatud gaas
+Valideerija
+Token
+Aadress
+Ettepanek
+Hind
+Pakkumine
+Turukapitalisatsioon
+Komisjonitasu
+Käideldavus
+Hääletusjõud
+Koht
+Aktiivne
+Mitteaktiivne
+Vangistatud
+Delegeerijad
+Jah
+Ei
+Erapooletu
+Ei koos vetoga
+Vastu võetud
+Tagasi lükatud
+Ebaõnnestus
+Hääletus käib
+Kvoorum
+Osalus
+Tagatis
+Sinu hääl
+Pealkiri
+Kirjeldus
+Ahelasisesed näitajad
+Ploki kõrgus
+Tehinguid ploki kohta
+Ploki aeg
+Stakingu APR
+Seotud tokenid
+Koguvaru
+Kogukonna fond
+Lehte ei leitud
+Tagasi armatuurlauale
+Uusimad plokid
+Uusimad tehingud
+Teavitused
+Muud

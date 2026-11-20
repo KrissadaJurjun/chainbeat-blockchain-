@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "活跃验证者",
+    "viewAll": "查看全部验证者",
+    "col": {
+      "validator": "验证者",
+      "power": "投票权",
+      "cumulative": "累计",
+      "commission": "佣金",
+      "uptime": "在线率",
+      "change": "24 小时变化",
+      "details": "详情",
+      "tokens": "债券的代币"
+    },
+    "stake": "质押",
+    "stakeWith": "质押给该验证者",
+    "pageDescription": "保护 {{chain}} 的全部验证者，按投票权排序（模拟）。",
+    "stats": {
+      "active": "活跃验证者",
+      "nakamoto": "中本聪系数",
+      "nakamotoHint": "使链停止出块所需的验证者数量",
+      "top10": "前 10 名投票权占比",
+      "commission": "平均佣金"
+    },
+    "filterPlaceholder": "按名称或地址筛选",
+    "statusFilter": "验证者状态",
+    "tableCaption": "{{chain}} 上的验证者",
+    "detailDescription": "{{chain}} 上的一个模拟验证者。",
+    "detail": {
+      "delegators": "委托人",
+      "bonded": "结合的代币",
+      "last30": "过去30天",
+      "last90": "过去90天",
+      "noBlocks": "没有最近提出的区块.",
+      "noWebsite": "无法使用 (虚构验证器)",
+      "openPage": "打开完整页面",
+      "powerHistory": "投票权",
+      "proposed24h": "拟议的区块 (24小时)",
+      "rank": "级别",
+      "recentBlocks": "最近提出的区块",
+      "selfBonded": "自主约束",
+      "txs": "标签: {{count}}",
+      "uptimeHistory": "在线率",
+      "valueUsd": "股价 {{value}}",
+      "website": "网站"
+    },
+    "status": {
+      "active": "活跃",
+      "inactive": "未活跃",
+      "jailed": "已被关押"
+    },
+    "activitiesTitle": "验证器活动",
+    "commissionShort": "费 {{value}}",
+    "detailTitle": "验证者",
+    "fictionalNote": "这不是一个真正的操作员,没有任何关于它的验证.",
+    "hoverTip": "委员会 {{commission}} · 工作时间 {{uptime}} · {{delegators}} 代表",
+    "noMatching": "没有匹配的验证器.",
+    "notFoundBody": "{{chain}} 没有这个地址的验证符.",
+    "notFoundTitle": "验证器未找到",
+    "sort": {
+      "power": "投票权",
+      "commission": "佣金",
+      "uptime": "在线率"
+    },
+    "sortBy": "按标准分类验证器"
+  },
+  "validatorsViz": {
+    "description": "{{chain}} 每个验证者的佣金与在线率对比；气泡大小代表投票权。",
+    "showAll": "包括未活跃和被关押的验证者",
+    "avgUptime": "平均在线率",
+    "zeroFee": "零佣金验证者",
+    "chartTitle": "佣金与在线率",
+    "chartHint": "每个气泡代表一个验证者",
+    "legend": "图表图例",
+    "sizeHint": "气泡大小 = 投票权"
+  }
+}

@@ -1,0 +1,130 @@
+Panel
+Doğrulayıcılar
+Teklifler
+Bloklar
+İşlemler
+Portföy
+Takas
+Stake
+Likit staking
+Gönder
+Oy ver
+Teklif oluştur
+Piyasa
+Ağ
+Yönetişim
+IBC Ağı
+Geliştirici Etkinliği
+Çoklu Zincir Genel Bakışı
+Kalp Atışı
+Hakimiyet
+Blok Gezgini
+İşlem Gezgini
+Token Gezgini
+Hakkında
+Gezgin
+Ayarlar
+Cüzdan
+Analizler
+Görselleştirmeler
+Dil
+Tema
+Sistem
+Koyu
+Açık
+Demo
+Simüle
+Kapat
+Tekrar dene
+Yenile
+Kopyala
+Kopyalandı
+Temizle
+Yükleniyor…
+Önceki
+Sonraki
+Gizle
+İptal
+Geri
+Tümünü gör
+Sıfırla
+Dışa aktar
+Maks.
+Tutar
+Bakiye
+Ücret
+Durum
+Toplam
+Zaman
+Yükseklik
+Hash
+Tür
+Tümü
+Ara
+Filtrele
+Ayrıntılar
+Onayla
+Cüzdanı bağla
+Bağlantıyı kes
+İşlemi incele
+Ağ ücreti
+Adresi kopyala
+Ödersiniz
+Alırsınız
+Alıcı adresi
+Not (isteğe bağlı)
+Varlıklar
+Dağılım
+Devredilen
+Stake'i çöz
+Döviz kuru
+Başarılı
+İşlem
+Blok
+Gönderen
+Alıcı
+Not
+Kullanılan gas
+Doğrulayıcı
+Token
+Adres
+Teklif
+Fiyat
+Arz
+Piyasa değeri
+Komisyon
+Çalışma süresi
+Oy gücü
+Sıra
+Aktif
+Aktif değil
+Hapsedilmiş
+Devredenler
+Evet
+Hayır
+Çekimser
+Veto ile hayır
+Kabul edildi
+Reddedildi
+Başarısız
+Oylamada
+Yeter sayı
+Katılım
+Depozito
+Oyunuz
+Başlık
+Açıklama
+Zincir üstü metrikler
+Blok yüksekliği
+Blok başına işlem
+Blok süresi
+Staking APR
+Bağlı tokenlar
+Toplam arz
+Topluluk havuzu
+Sayfa bulunamadı
+Panele dön
+En yeni bloklar
+En yeni işlemler
+Bildirimler
+Diğer

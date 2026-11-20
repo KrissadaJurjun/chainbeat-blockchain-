@@ -1,0 +1,130 @@
+Paneli
+Validatorët
+Propozimet
+Blloqet
+Transaksionet
+Portofoli
+Këmbim
+Staking
+Staking i lëngshëm
+Dërgo
+Voto
+Krijo propozim
+Tregu
+Rrjeti
+Qeverisja
+Rrjeti IBC
+Aktiviteti i zhvilluesve
+Pasqyra e shumë zinxhirëve
+Pulsi
+Dominimi
+Eksploruesi i blloqeve
+Eksploruesi i transaksioneve
+Eksploruesi i tokenëve
+Rreth
+Eksploruesi
+Cilësimet
+Kuleta
+Analitika
+Vizualizimet
+Gjuha
+Tema
+Sistemi
+E errët
+E çelët
+Demo
+E simuluar
+Mbyll
+Provo përsëri
+Rifresko
+Kopjo
+U kopjua
+Pastro
+Po ngarkohet…
+E mëparshme
+Tjetra
+Hiq
+Anulo
+Mbrapa
+Shiko të gjitha
+Rivendos
+Eksporto
+Maks.
+Shuma
+Bilanci
+Tarifa
+Statusi
+Gjithsej
+Koha
+Lartësia
+Hash
+Lloji
+Të gjitha
+Kërko
+Filtro
+Detajet
+Konfirmo
+Lidh kuletën
+Shkëput
+Shqyrto transaksionin
+Tarifa e rrjetit
+Kopjo adresën
+Ju paguani
+Ju merrni
+Adresa e marrësit
+Memo (opsionale)
+Asetet
+Shpërndarja
+I deleguar
+Hiq stakingun
+Kursi i këmbimit
+Sukses
+Transaksion
+Bllok
+Nga
+Për
+Memo
+Gas i përdorur
+Validator
+Token
+Adresë
+Propozim
+Çmimi
+Oferta
+Kapitalizimi i tregut
+Komisioni
+Disponueshmëria
+Fuqia e votës
+Renditja
+Aktiv
+Joaktiv
+I burgosur
+Delegatorët
+Po
+Jo
+Abstenim
+Jo me veto
+Miratuar
+Refuzuar
+Dështoi
+Votimi në vazhdim
+Kuorumi
+Pjesëmarrja
+Depozita
+Vota juaj
+Titulli
+Përshkrimi
+Metrikat on-chain
+Lartësia e bllokut
+Transaksione për bllok
+Koha e bllokut
+APR i stakingut
+Tokenë të lidhur
+Oferta totale
+Fondi i komunitetit
+Faqja nuk u gjet
+Kthehu te paneli
+Blloqet më të reja
+Transaksionet më të reja
+Njoftimet
+Të tjera

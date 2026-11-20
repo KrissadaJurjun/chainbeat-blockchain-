@@ -1,0 +1,130 @@
+Dashboard
+Validatori
+Proposte
+Blocchi
+Transazioni
+Portfolio
+Scambia
+Staking
+Staking liquido
+Invia
+Vota
+Crea proposta
+Mercato
+Rete
+Governance
+Rete IBC
+Attività sviluppatori
+Panoramica multichain
+Battito
+Dominanza
+Esplora blocchi
+Esplora transazioni
+Esplora token
+Informazioni
+Esplora
+Impostazioni
+Wallet
+Analisi
+Visualizzazioni
+Lingua
+Tema
+Sistema
+Scuro
+Chiaro
+Demo
+Simulato
+Chiudi
+Riprova
+Aggiorna
+Copia
+Copiato
+Cancella
+Caricamento…
+Precedente
+Successivo
+Ignora
+Annulla
+Indietro
+Vedi tutto
+Reimposta
+Esporta
+Max
+Importo
+Saldo
+Commissione
+Stato
+Totale
+Ora
+Altezza
+Hash
+Tipo
+Tutti
+Cerca
+Filtra
+Dettagli
+Conferma
+Collega wallet
+Scollega
+Rivedi transazione
+Commissione di rete
+Copia indirizzo
+Paghi
+Ricevi
+Indirizzo del destinatario
+Memo (facoltativo)
+Asset
+Allocazione
+Delegato
+Rimuovi stake
+Tasso di cambio
+Riuscita
+Transazione
+Blocco
+Da
+A
+Memo
+Gas utilizzato
+Validatore
+Token
+Indirizzo
+Proposta
+Prezzo
+Offerta
+Capitalizzazione
+Commissione
+Uptime
+Potere di voto
+Posizione
+Attivo
+Inattivo
+Sospeso
+Delegatori
+Sì
+No
+Astensione
+No con veto
+Approvata
+Respinta
+Fallita
+In votazione
+Quorum
+Affluenza
+Deposito
+Il tuo voto
+Titolo
+Descrizione
+Metriche on-chain
+Altezza del blocco
+Tx per blocco
+Tempo di blocco
+APR dello staking
+Token vincolati
+Offerta totale
+Pool della community
+Pagina non trovata
+Torna alla dashboard
+Ultimi blocchi
+Ultime transazioni
+Notifiche
+Altri

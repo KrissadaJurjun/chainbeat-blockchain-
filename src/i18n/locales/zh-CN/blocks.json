@@ -1,0 +1,35 @@
+{
+  "blockDetail": {
+    "title": "区块 {{height}}",
+    "invalid": "无效的区块高度",
+    "description": "{{chain}} 上一个模拟区块的详情。",
+    "previous": "上一个区块",
+    "next": "下一个区块",
+    "notFoundTitle": "未找到区块",
+    "notFoundBody": "{{chain}} 上还没有此高度的区块。",
+    "transactions_other": "{{count}} 笔交易",
+    "txCaption": "区块 {{height}} 中的交易",
+    "noTxs": "此区块没有交易",
+    "genesis": "创世纪区块",
+    "parentHash": "父母",
+    "demoTxs": "Demo 在这个高度的钱包交易",
+    "demoTxsNote": "这些都是由Demo钱包创建的.它们不是模拟区块的交易数量的一部分."
+  },
+  "blocksPage": {
+    "description": "{{chain}} 的最新区块。列表大约每个出块周期更新一次。",
+    "live": "实时",
+    "avgGas": "平均 Gas 用量",
+    "tableCaption": "{{chain}} 最新区块",
+    "proposer": "出块者",
+    "txs": "交易数",
+    "gas": "已用 Gas",
+    "size": "大小",
+    "emptyTitle": "没有发现的块",
+    "filterPlaceholder": "根据高度,哈希或验证器进行过",
+    "filtersLabel": "区块过器",
+    "finality": "终结",
+    "finalityNote": "这种网络的区块一旦被执行,就会成为最终的区块.",
+    "finalized": "完成",
+    "withTxsOnly": "只有交易的区块"
+  }
+}

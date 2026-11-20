@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simulirano",
+    "close": "Zatvori",
+    "retry": "Pokušaj ponovo",
+    "refresh": "Osvježi",
+    "copy": "Kopiraj",
+    "copied": "Kopirano",
+    "clear": "Očisti",
+    "loading": "Učitavanje…",
+    "options": "Opcije",
+    "previous": "Prethodno",
+    "next": "Sljedeće",
+    "pagination": "Stranica",
+    "pageN": "Stranica {{n}}",
+    "dismiss": "Odbaci",
+    "cancel": "Otkaži",
+    "viewAll": "Prikaži sve",
+    "max": "Maks.",
+    "amount": "Iznos",
+    "balance": "Stanje",
+    "fee": "Naknada",
+    "status": "Status",
+    "time": "Vrijeme",
+    "height": "Visina",
+    "hash": "Hash",
+    "type": "Vrsta",
+    "all": "Sve",
+    "showing": "Pokazujući {{from}} {{to}} od {{total}}",
+    "noResults": "Nijedan rezultat ne odgovara vašim filtrima.",
+    "rowsPerPage": "Redovi po stranici",
+    "actions": "Akcije",
+    "exportCsv": "Izvoz CSV",
+    "details": "Detalji",
+    "clearFilters": "Čisti filteri",
+    "collapseAll": "Sve se raspadaju",
+    "copyJson": "Kopiranje JSON-a",
+    "expandAll": "Širi sve",
+    "showMore": "Pokaži još {{count}}"
+  },
+  "language": {
+    "label": "Jezik",
+    "search": "Jezici za pretragu"
+  },
+  "theme": {
+    "label": "Tema",
+    "system": "Sistem",
+    "dark": "Tamna",
+    "light": "Svijetla"
+  },
+  "footer": {
+    "tagline": "Pretraži blokove, prati transakcije, razume Web3.",
+    "demo": "Demo Modalitet svi podaci su simulirani i nisu stvarna mrežna statistika.",
+    "share": "Deliti",
+    "linkCopied": "Link kopiran na ploču.",
+    "docs": "Dokumentacija",
+    "links": "Povezivanja ispod stopala",
+    "modeDemo": "Demo Mreža",
+    "repository": "Repozitorij",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Stranica nije pronađena",
+    "body": "Stranica koju tražite ne postoji ili se pomakla.",
+    "home": "Nazad na kontrolnu ploču"
+  },
+  "gate": {
+    "title": "Priključi novčanik Demo da nastavi",
+    "body": "Ovaj protok rada se pokreće na simuliranom novčaniku. Priključite novčanik Demo da ga pokušate ništa stvarno nikada nije potpisano ili poslato.",
+    "realTitle": "Pravi novčanik je povezan",
+    "realBody": "{{address}} je povezan, ali ChainBeat Demo Mode nikada ne potpisuje ili prenosi transakcije.",
+    "useDemo": "Koristite novčanik Demo"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Native, IBC, liquid-stacking e attività esterne note al {{chain}} (simulato).",
+    "stats": {
+      "total": "Token tracciati"
+    },
+    "kinds": {
+      "native": "Indigeno",
+      "ibc": "IBC",
+      "external": "Esterno",
+      "stable": "Stablecoin",
+      "liquid": "Staking liquido"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Tipo",
+      "denom": "Denom",
+      "price": "Prezzo",
+      "change": "24 ore",
+      "supply": "Offerta",
+      "holders": "Detentori",
+      "marketCap": "Capitalizzazione"
+    },
+    "filterPlaceholder": "Filtro per simbolo, nome o denominazione",
+    "tableCaption": "Token su {{chain}}"
+  },
+  "account": {
+    "title": "Conto",
+    "description": "Saldi e attività recenti di un conto sul {{chain}} (simulato).",
+    "available": "Disponibile",
+    "balances": "Saldi",
+    "counterparty": "Controparte",
+    "direction": "Direzione",
+    "in": "In",
+    "out": "Fuori",
+    "history": "Storia delle transazioni",
+    "historyCaption": "Transazioni di {{address}}",
+    "invalidTitle": "Non un indirizzo valido",
+    "invalidBody": "Questo non è valido. {{chain}} indirizzo. Gli indirizzi di questa rete iniziano con {{prefix}} 1 e include una somma di controllo.",
+    "noBalances": "Nessun equilibrio.",
+    "noHistory": "Nessuna transazione trovata",
+    "noHistoryBody": "Questo account non ha attività simulate nei nuovi {{blocks}} blocchi.",
+    "rewards": "Ricompense: {{value}}",
+    "staked": "Inchiodato",
+    "totalValue": "Valore totale",
+    "txCount": "Transazioni",
+    "unknown": "Questo è un indirizzo valido, ma non appare nella simulazione, quindi non ha bilanci o storia.",
+    "window": "nei più recenti {{blocks}} blocchi",
+    "demoWallet": "Questo è il tuo portafoglio Demo, i suoi saldi e le sue transazioni sono simulati e esistono solo in questo browser."
+  },
+  "explorer": {
+    "description": "Cerca il {{chain}} e vedi cosa sta succedendo sulla rete (simulata) in questo momento.",
+    "latestBlocks": "Ultimi blocchi",
+    "latestTransactions": "Ultime transazioni",
+    "searchTitle": "Cerca l' esploratore",
+    "shortcuts": "Sezioni Explorer"
+  }
+}

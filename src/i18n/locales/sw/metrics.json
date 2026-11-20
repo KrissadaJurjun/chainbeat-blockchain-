@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Vipimo vya mnyororo",
+    "exportCsv": "Mauzo kama CSV",
+    "exported": "Metrics nje kama CSV.",
+    "openAnalytics": "Utafiti wa mtandao wazi",
+    "last24h": "Saa 24 zilizopita",
+    "sparklineLabel": "Mwelekeo katika saa 24 zilizopita",
+    "change24h": "Mabadiliko ya saa 24",
+    "blocks": "vifurushi",
+    "exact": "Thamani halisi",
+    "bondedRatio": "Kiwango cha vifungo",
+    "poolShare": "Sehemu ya usambazaji",
+    "tokenPrice": "Bei ya ishara",
+    "inputInflation": "Mfumuko wa bei",
+    "inputTax": "Ushuru wa Jumuiya",
+    "inputBonded": "Kiwango cha vifungo",
+    "csvMetric": "Metric",
+    "csvValue": "Thamani",
+    "csvUnit": "Kitengo",
+    "csvChange24h": "Mabadiliko ya saa 24",
+    "blockHeight": {
+      "label": "Urefu wa kitalu",
+      "description": "Idadi ya vitalu vilivyotengenezwa tangu mwanzo huongezeka kwa moja kwa kila vitalu vipya."
+    },
+    "totalTransactions": {
+      "label": "Miamala",
+      "description": "Jumla ya shughuli kusindika na mtandao tangu mwanzo."
+    },
+    "txPerBlock": {
+      "label": "Miamala kwa kitalu",
+      "description": "Idadi ya wastani ya shughuli zilizojumuishwa kwa kila block, kupimwa juu ya blocks 100 ya mwisho."
+    },
+    "blockTime": {
+      "label": "Wakati wa kitalu",
+      "description": "Wakati wa wastani kati ya vitalu mfululizo, kupimwa juu ya vitalu 100 ya mwisho."
+    },
+    "inflation": {
+      "label": "Mfumuko wa bei",
+      "description": "Kiwango cha kila mwaka ambapo tokens mpya ni minted ili thawabu stakers na fedha pool jamii."
+    },
+    "stakingApr": {
+      "label": "APR ya staking",
+      "description": "Tathmini ya kurudi kwa kila mwaka kwa tokeni zilizounganishwa, kabla ya tume ya uthibitishaji.",
+      "formula": "APR = inflation × (1 − kodi ya jamii) ÷ uwiano bonded"
+    },
+    "bondedTokens": {
+      "label": "Tokeni zilizofungwa",
+      "description": "Tokens kwa sasa bet na validators kazi. Bonded stake ni nini usalama wa mtandao.",
+      "formula": "bonded = jumla ya usambazaji × bonded uwiano"
+    },
+    "totalSupply": {
+      "label": "Jumla ya usambazaji",
+      "description": "Kila ishara iliyopo, ikiwa ni pamoja na zile zinazokabiliwa."
+    },
+    "communityPool": {
+      "label": "Hazina ya jamii",
+      "description": "Tokens kudhibitiwa na utawala juu ya mlolongo. sehemu ya inflation mtiririko; mafanikio mapendekezo matumizi yake.",
+      "formula": "pool kukua kwa usambazaji × inflation × kodi ya jamii"
+    },
+    "poolValue": {
+      "label": "Thamani ya Hifadhi",
+      "description": "Tathmini ya thamani ya dola za Marekani ya pool ya jamii kwa bei simulated ishara.",
+      "formula": "thamani = pool × bei ya ishara"
+    }
+  }
+}

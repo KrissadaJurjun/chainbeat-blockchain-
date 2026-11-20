@@ -1,0 +1,102 @@
+{
+  "overview": {
+    "title": "Oversikt",
+    "unit": "Performance-indeks · Base = 100 ved start av rekkevidde",
+    "refreshFailed": "Kan ikke oppdatere viser siste lastet data."
+  },
+  "chart": {
+    "keyboardHint": "Bruk piltnøkkene for å flytte mellom datapunkter.",
+    "summary": "Prestasjonsindeks over {{range}}: {{details}}",
+    "rangeLabel": "Tidsområde",
+    "seriesLabel": "Kartserien",
+    "keepOne": "Minst en serie må forbli synlig",
+    "emptyTitle": "Ingen data for dette området",
+    "emptyBody": "Prøv et annet tidsrom eller oppfrisk.",
+    "range": {
+      "24H": "24 TIMER",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "De siste 24 timene",
+      "7D": "De siste 7 dagene",
+      "30D": "De siste 30 dagene",
+      "90D": "De siste 90 dagene"
+    },
+    "zoomControls": "Zoom kontroller",
+    "zoomIn": "Zoom inn",
+    "zoomOut": "Zoom ut",
+    "resetView": "Omstillingsvisning",
+    "zoomLevel": "Zoomnivå"
+  },
+  "proposals": {
+    "title": "Forslag",
+    "filter": "Forslagfilter",
+    "live": "Leve",
+    "total": "Totalt",
+    "viewAll": "Se alle forslag",
+    "noneLive": "Ingen direkte forslag",
+    "noneLiveBody": "Det er for øyeblikket ingen pågående styring.",
+    "showAll": "Vis de siste forslagene",
+    "endsIn": "Endene {{time}}",
+    "turnout": "Oppmøte",
+    "vote": "Stem",
+    "status": {
+      "voting": "Avstemning pågår",
+      "deposit": "Innskudd",
+      "passed": "Vedtatt",
+      "rejected": "Avvist",
+      "failed": "Mislyktes"
+    },
+    "passed": "Vedtatt",
+    "rejected": "Avvist",
+    "noneMatching": "Ingen tilsvarende forslag",
+    "noneMatchingBody": "Ingenting matcher dette filteret akkurat nå."
+  },
+  "dev": {
+    "title": "Utviklingsaktivitet",
+    "summary": "{{total}} bidrag",
+    "viewFull": "Åpen utvikleraktivitet",
+    "heatmapLabel": "Bidragvarmekort: {{total}} bidrag i løpet av {{weeks}} uker",
+    "less": "Mindre",
+    "more": "Mer",
+    "cellTitle_one": "{{count}} bidrag på {{date}}",
+    "cellTitle_other": "{{count}} bidrag på {{date}}",
+    "range": "Hotmap-område",
+    "ranges": {
+      "month": "Måned",
+      "quarter": "Kvarter",
+      "year": "År"
+    }
+  },
+  "repos": {
+    "title": "Aktiv lagre",
+    "period": "Periode",
+    "periods": {
+      "week": "Ugen",
+      "month": "Måned",
+      "year": "År",
+      "quarter": "Kvarter"
+    },
+    "contributors": "Bidragere",
+    "stars": "Stjerner",
+    "sparkline": "Forpliktelsesaktivitet for {{name}}",
+    "vsPrevious": "{{change}} vs forrige periode",
+    "up": "Opp",
+    "down": "Nedover",
+    "caption": "Forpliktelser i den valgte perioden · simulerte repositorier",
+    "col": {
+      "repository": "Repositoriet",
+      "language": "Språk",
+      "commits": "Forpliktelser",
+      "change": "Endring",
+      "trend": "Trenden"
+    },
+    "commitsCount": "Forpliktelser: {{count}}",
+    "demoNote": "Demo data: dette arkivet er fiktivt og aktiviteten er simulert. Det er ikke koblet til GitHub.",
+    "emptyBody": "Det er ingen lagringsaktivitet i denne perioden.",
+    "emptyTitle": "Ingen lagringsaktivitet",
+    "history": "Forpliktelsesaktivitet"
+  }
+}

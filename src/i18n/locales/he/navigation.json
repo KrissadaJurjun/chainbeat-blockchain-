@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "נוויגציה ברגל צד",
+    "primary": "ניווט מרכזי",
+    "menu": "תפריט הניווט",
+    "openMenu": "תפריט ניווט פתוח",
+    "closeMenu": "סגור את התפריט של הניווט",
+    "collapseSidebar": "כפתור צד של התמוטטות",
+    "expandSidebar": "להרחיב את קישור הצידה",
+    "skipToContent": "חליפי לתוכן הראשי",
+    "home": "ChainBeat הביתה",
+    "pages": "עמודים",
+    "dashboard": "לוח בקרה",
+    "validators": "מאמתים",
+    "proposals": "הצעות",
+    "blocks": "בלוקים",
+    "transactions": "עסקאות",
+    "portfolio": "תיק השקעות",
+    "swap": "החלפה",
+    "stake": "סטייקינג",
+    "liquidStaking": "סטייקינג נזיל",
+    "send": "שליחה",
+    "vote": "הצבעה",
+    "createProposal": "יצירת הצעה",
+    "market": "שוק",
+    "network": "רשת",
+    "governance": "ממשל",
+    "ibcNetwork": "רשת IBC",
+    "devActivity": "פעילות מפתחים",
+    "multichain": "סקירת רב-שרשראות",
+    "heartbeat": "דופק",
+    "dominance": "דומיננטיות",
+    "validatorsViz": "מאמתים",
+    "blockExplorer": "סייר בלוקים",
+    "transactionExplorer": "סייר עסקאות",
+    "tokenExplorer": "סייר טוקנים",
+    "about": "אודות",
+    "explorerHome": "סייר",
+    "governanceHome": "מרכז השלטון",
+    "settings": "הגדרות"
+  },
+  "sections": {
+    "explorer": "סייר",
+    "wallet": "ארנק",
+    "analytics": "ניתוחים",
+    "visualizations": "ויזואליזציות"
+  },
+  "chains": {
+    "favorite": "הוסף {{name}} לפופולריים",
+    "unfavorite": "להסיר {{name}} מהפופולריים",
+    "simulatedHealthy": "רשת מודל · בריאה"
+  },
+  "search": {
+    "label": "חיפוש ChainBeat",
+    "placeholder": "בלוק חיפוש, טקס, כתובת...",
+    "results": "תוצאות החיפוש",
+    "noResults": "אין תוצאות עבור {{query}}",
+    "kinds": {
+      "page": "דף",
+      "block": "בלוק",
+      "transaction": "טקס",
+      "validator": "מאמת",
+      "token": "טוקן",
+      "address": "כתובת",
+      "proposal": "הצעה"
+    },
+    "recent": "חיפושים אחרונים",
+    "clearRecent": "חיפושים סבירים לאחרונה",
+    "removeRecent": "להסיר {{query}} מהחיפושים האחרונים",
+    "hint": "נסה גובה של בלוק, כמות העסקה, כתובת ( {{prefix}} 1...), מעודד, מספר הצעת הצעת הצעת הצעת הצעת הצעת הצעת הצעת הצעת הצעת הצעת הצעת הצעת הצעת הצעת הצעת הצ.",
+    "submit": "חיפוש",
+    "searching": "מחפש...",
+    "resultCount": "תוצאות: {{count}}",
+    "invalid": {
+      "tooLong": "זה יותר מדי ארוך כדי להיות מונח חיפוש (200 אותיות לכל היותר).",
+      "badChecksum": "זה נראה כמו כתובת, אבל סכום המחאה לא מתאים.",
+      "badHash": "העסקה או ה-block hash יש בדיוק 64 אותיות hexadecimal.",
+      "badChars": "חפש גובה של בלוק, חשיש, כתובת, אישור, הצעה או סימן."
+    },
+    "categories": {
+      "page": "עמודים",
+      "block": "בלוקים",
+      "transaction": "עסקאות",
+      "address": "כתובות",
+      "validator": "מאמתים",
+      "proposal": "הצעות",
+      "token": "סימנים"
+    }
+  },
+  "user": {
+    "menu": "תפריט חשבונות",
+    "guest": "אורח",
+    "notConnected": "אין ארנק מחובר",
+    "settings": "הגדרות",
+    "about": "על ChainBeat"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "ibcPage": {
+    "description": "Cum circulă token-urile între lanţuri peste IBC.",
+    "volume": "24h IBC volum",
+    "chains": "Lanțuri conectate",
+    "links": "Canale active",
+    "busiest": "Cea mai aglomerată rută",
+    "mapLabel": "Harta a IBC de conexiuni între lanțuri",
+    "nodeLabel": "{{name}}: {{volume}} în 24 de ore pe {{channels}} de canale",
+    "hint": "Oferă, concentrează sau selectează un lanț pentru a evidenția conexiunile sale. Trage la pan; folosește Ctrl sau cu roata de scroll, cheile + și − sau butoanele pentru a mări; apăsați 0 pentru a reseta.",
+    "channelsOf": "Canale din {{name}}",
+    "topChannels": "Canale superioare prin volum",
+    "transfers_one": "{{count, number}} transfer",
+    "transfers_few": "{{count, number}} transferuri",
+    "transfers_other": "{{count, number}} transferuri",
+    "info": {
+      "volume": "Volumul (24 h)",
+      "channels": "Canale",
+      "share": "Părți din IBC volum",
+      "partner": "Cel mai ocupat partener"
+    }
+  },
+  "multichainPage": {
+    "description": "Ecosistemul de tip Cosmos, la o privire, a simulat cifrele pentru fiecare lanț conectat.",
+    "chains": "Lanțuri",
+    "tvl": "Valoarea totală blocată",
+    "validators": "Validatori",
+    "tx24h": "Tranzacții (24h)",
+    "height": "Înălțimea blocurilor",
+    "open": "Deschideţi tabla de bord",
+    "switched": "Am schimbat la {{name}}",
+    "registryOnly": "Înregistrat pentru demo nu poate fi selectat încă",
+    "tvlByChain": "TVL pe lanț",
+    "tvlHint": "Valoarea totală simulată blocată",
+    "explainTitle": "Ce înseamnă metrica",
+    "explainHint": "Definiţii în limbaj simplu ale figurilor de pe această pagină.",
+    "explain": {
+      "tvl": "Valoarea token-urilor investite sau deținute în economia simulată a rețelei, la prețuri simulate.",
+      "height": "Câte blocuri a produs lanţul de când a început.",
+      "validators": "Operatorii care propun și semneze blocuri. Numărul este dimensiunea setului activ.",
+      "apr": "Premiul anual estimat pentru pariuri, ca procent înainte de comision.",
+      "bonded": "O parte mai mare înseamnă că mai mult din aprovizionare asigură lanțul.",
+      "tx24h": "Tranzacțiile incluse în blocuri în ultimele 24 de ore în toate lanțurile listate."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Pulsul de {{chain}}: fiecare bloc este un ritm spațiul urmează timpul blocului, înălțimea urmează numărul de tranzacții.",
+    "rate": "Rata blocurilor",
+    "perMinute": "blocuri/min",
+    "sinceLast": "De la ultimul bloc",
+    "txLastMinute": "Tranzacții (în ultimul minut)",
+    "monitor": "Monitorul pulsului",
+    "legend": "Înălțimea baterii = tranzacții în bloc",
+    "chartLabel": "Urmărirea ritmului cardiac: {{rate}} blocuri pe minut, {{seconds}} secunde între blocuri",
+    "stream": "Curent de blocare",
+    "txCount_one": "{{count}} tx",
+    "txCount_few": "{{count}} txs",
+    "txCount_other": "{{count}} txs"
+  }
+}

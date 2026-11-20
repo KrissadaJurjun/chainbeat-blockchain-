@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Vázované valsy",
+    "viewAll": "Podívejte se na všechny validátory",
+    "col": {
+      "validator": "Validátor",
+      "power": "Hlasovací síla",
+      "cumulative": "Kumulativní",
+      "commission": "Provize",
+      "uptime": "Dostupnost",
+      "change": "24hodinová změna",
+      "details": "Podrobnosti",
+      "tokens": "Obligované tokeny"
+    },
+    "stake": "Staking",
+    "stakeWith": "Vstup s tímto validátorem",
+    "pageDescription": "Každý validátor zabezpečí {{chain}}, řadí se podle hlasovací pravomoci (simulované).",
+    "stats": {
+      "active": "Aktivní validátory",
+      "nakamoto": "Koefficient Nakamoto",
+      "nakamotoHint": "Validátory potřebné k zastavení řetězce",
+      "top10": "Top 10 hlasovacích sil",
+      "commission": "Průměrná provize"
+    },
+    "filterPlaceholder": "Filtrace podle jména nebo adresy",
+    "statusFilter": "Status potvrzujícího",
+    "tableCaption": "Validátory na {{chain}}",
+    "detailDescription": "Simulovaný validátor na {{chain}}.",
+    "detail": {
+      "delegators": "Delegující",
+      "bonded": "Obližované tokeny",
+      "last30": "v posledních 30 dnech",
+      "last90": "v posledních 90 dnech",
+      "noBlocks": "Žádné nedávno navržené bloky.",
+      "noWebsite": "není k dispozici (představitel validátoru)",
+      "openPage": "Otevřete celou stránku",
+      "powerHistory": "Hlasovací síla",
+      "proposed24h": "Předpokládané bloky (24 hodin)",
+      "rank": "Pořadí",
+      "recentBlocks": "Nedávno navrhované bloky",
+      "selfBonded": "Samotné závazky",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Dostupnost",
+      "valueUsd": "Hodnota podílu {{value}}",
+      "website": "Webová stránka"
+    },
+    "status": {
+      "active": "Aktivní",
+      "inactive": "Neaktivní",
+      "jailed": "Uvězněn"
+    },
+    "activitiesTitle": "Účinky ověřovače",
+    "commissionShort": "Poplatky {{value}}",
+    "detailTitle": "Validátor",
+    "fictionalNote": "Vyprávěný validátor pro režim Demo. Není to skutečný operátor a nic o něm není ověřeno.",
+    "hoverTip": "Komise {{commission}} · doba provozu {{uptime}} · {{delegators}} delegátů",
+    "noMatching": "Žádné odpovídající validátory.",
+    "notFoundBody": "{{chain}} nemá žádný validátor s touto adresou.",
+    "notFoundTitle": "Validátor nebyl nalezen",
+    "sort": {
+      "power": "Hlasovací síla",
+      "commission": "Provize",
+      "uptime": "Dostupnost"
+    },
+    "sortBy": "Sortovat validátory podle"
+  },
+  "validatorsViz": {
+    "description": "Komise vs. provozní doba pro každého validátora na {{chain}}; velikost bubliny ukazuje hlasovací sílu.",
+    "showAll": "Zahrnujte neaktivní a uvězněné",
+    "avgUptime": "Průměrná doba provozu",
+    "zeroFee": "Validátory s nulovou provizií",
+    "chartTitle": "Komise vs. provozní doba",
+    "chartHint": "Každá bublina je jeden validátor",
+    "legend": "Legenda grafů",
+    "sizeHint": "Velikost bubliny = hlasovací síla"
+  }
+}

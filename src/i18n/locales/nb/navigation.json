@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Navigasjon i sidebar",
+    "primary": "Hovednavigasjon",
+    "menu": "Navigasjonsmenyen",
+    "openMenu": "Åpne navigasjonsmenyu",
+    "closeMenu": "Luk navigasjonsmenyen",
+    "collapseSidebar": "Kollapse sidebar",
+    "expandSidebar": "Utvide sidebar",
+    "skipToContent": "Skip til hovedinnholdet",
+    "home": "ChainBeat hjem",
+    "pages": "Sider",
+    "dashboard": "Dashbord",
+    "validators": "Validatorer",
+    "proposals": "Forslag",
+    "blocks": "Blokker",
+    "transactions": "Transaksjoner",
+    "portfolio": "Portefølje",
+    "swap": "Bytt",
+    "stake": "Staking",
+    "liquidStaking": "Likvid staking",
+    "send": "Send",
+    "vote": "Stem",
+    "createProposal": "Opprett forslag",
+    "market": "Marked",
+    "network": "Nettverk",
+    "governance": "Styring",
+    "ibcNetwork": "IBC-nettverk",
+    "devActivity": "Utviklingsaktivitet",
+    "multichain": "Multichain-oversikt",
+    "heartbeat": "Hjerteslag",
+    "dominance": "Dominans",
+    "validatorsViz": "Validatorer",
+    "blockExplorer": "Blokkutforsker",
+    "transactionExplorer": "Transaksjonsutforsker",
+    "tokenExplorer": "Tokenutforsker",
+    "about": "Om",
+    "explorerHome": "Utforsker",
+    "governanceHome": "Styrelsesnettet",
+    "settings": "Innstillinger"
+  },
+  "sections": {
+    "explorer": "Utforsker",
+    "wallet": "Lommebok",
+    "analytics": "Analyse",
+    "visualizations": "Visualiseringer"
+  },
+  "chains": {
+    "favorite": "Legg til {{name}} til favoritter",
+    "unfavorite": "Fjern {{name}} fra favoritter",
+    "simulatedHealthy": "Simulert nettverk · sunt"
+  },
+  "search": {
+    "label": "Søk ChainBeat",
+    "placeholder": "Søk blokk, TX, adresse...",
+    "results": "Søkresultater",
+    "noResults": "Ingen resultater for {{query}}",
+    "kinds": {
+      "page": "Siden",
+      "block": "Blokk",
+      "transaction": "TX",
+      "validator": "Validator",
+      "token": "Token",
+      "address": "Adresse",
+      "proposal": "Forslag"
+    },
+    "recent": "Nylige søk",
+    "clearRecent": "Klart nylige søk",
+    "removeRecent": "Fjern {{query}} fra siste søk",
+    "hint": "Prøv en blokkhøyde, en transaksjonshash, en adresse ( {{prefix}} 1...), en validator, et forslagnummer eller en symbol.",
+    "submit": "Søk",
+    "searching": "Søker etter...",
+    "resultCount": "Resultater: {{count}}",
+    "invalid": {
+      "tooLong": "Det er for lang for å være et søkeord (200 tegn maksimalt).",
+      "badChecksum": "Dette ser ut som en adresse, men sjekksummen samsvarer ikke. Sjekk det for skrivfeil.",
+      "badHash": "En transaksjon eller blokk hash har nøyaktig 64 heksadesimale tegn.",
+      "badChars": "Søk etter en blokkhøyde, en hash, en adresse, en validator, et forslag eller et token."
+    },
+    "categories": {
+      "page": "Sider",
+      "block": "Blokker",
+      "transaction": "Transaksjoner",
+      "address": "Adresser",
+      "validator": "Validatorer",
+      "proposal": "Forslag",
+      "token": "Token"
+    }
+  },
+  "user": {
+    "menu": "Kontomenu",
+    "guest": "Gjest",
+    "notConnected": "Ingen lommebok tilkoblet",
+    "settings": "Innstillinger",
+    "about": "Om ChainBeat"
+  }
+}

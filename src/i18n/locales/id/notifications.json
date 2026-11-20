@@ -1,0 +1,30 @@
+{
+  "notifications": {
+    "label": "Notifikasi",
+    "title": "Notifikasi",
+    "unread": "Tidak dibaca",
+    "unreadLabel_other": "{{count}} pemberitahuan yang belum dibaca",
+    "markAllRead": "Tanda semua seperti yang dibaca",
+    "empty": "Kau semua tertangkap.",
+    "items": {
+      "proposalVoting": "Proposal #{{id}} berada dalam periode pemungutan suara sekitar {{hours}} jam tersisa.",
+      "proposalPassed": "Proposal #{{id}} diterima dan akan diterapkan.",
+      "validatorJailed": "{{name}} dipenjara karena waktu istirahat.",
+      "upgradeScheduled": "Upgrade jaringan {{version}} dijadwalkan dalam {{days}} hari.",
+      "ibcVolume": "Volume transfer IBC meningkat {{pct}} % dalam 24 jam terakhir.",
+      "newBlock": "Blok {{height}} diproduksi di {{chain}} (simulasi).",
+      "walletConnectedDemo": "Demo dompet terhubung (simulasi).",
+      "walletConnected": "{{name}} terhubung, tidak ada yang ditandatangani.",
+      "walletDisconnected": "Dompet terputus dari sesi browser ini.",
+      "txSuccess": "Transaksi simulasi dikonfirmasi: {{summary}}",
+      "txFailed": "Transaksi simulasi gagal karena simulasi kesalahan aktif.",
+      "proposalCreated": "Demo proposal #{{id}} {{title}} ditambahkan (simulasi).",
+      "networkChanged": "Bertukar ke {{chain}}. Menampilkan data simulasi.",
+      "simPaused": "Simulasi dihentikan. Data simulasi tidak akan diperbarui sampai Anda melanjutkan.",
+      "errorSimulation": "Simulasi kesalahan diaktifkan, permintaan data dan konfirmasi dompet akan gagal sampai Anda mematikannya."
+    },
+    "dismiss": "Pemberitahuan penolakan",
+    "clearAll": "Hapus semua",
+    "simulatedNote": "Barang-barang dari feed jaringan disimulasikan."
+  }
+}

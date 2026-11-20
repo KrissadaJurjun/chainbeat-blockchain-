@@ -1,0 +1,101 @@
+{
+  "overview": {
+    "title": "概要",
+    "unit": "パフォーマンス指数 · 期間の開始時点 = 100",
+    "refreshFailed": "更新できませんでした。最後に読み込んだデータを表示しています。"
+  },
+  "chart": {
+    "keyboardHint": "チャートです。矢印キーでデータポイント間を移動できます。",
+    "summary": "{{range}}のパフォーマンス指数：{{details}}",
+    "rangeLabel": "期間",
+    "seriesLabel": "チャートの系列",
+    "keepOne": "少なくとも 1 つの系列を表示しておく必要があります",
+    "emptyTitle": "この期間のデータはありません",
+    "emptyBody": "別の期間を試すか、更新してください。",
+    "range": {
+      "24H": "24時間",
+      "7D": "7日",
+      "30D": "30日",
+      "90D": "90日"
+    },
+    "rangeLong": {
+      "24H": "過去 24 時間",
+      "7D": "過去 7 日間",
+      "30D": "過去 30 日間",
+      "90D": "過去 90 日間"
+    },
+    "zoomControls": "拡大制御",
+    "zoomIn": "拡大する",
+    "zoomOut": "拡大する",
+    "resetView": "復元表示",
+    "zoomLevel": "拡大レベル"
+  },
+  "proposals": {
+    "title": "提案",
+    "filter": "提案フィルター",
+    "live": "進行中",
+    "total": "合計",
+    "viewAll": "すべての提案を表示",
+    "noneLive": "進行中の提案はありません",
+    "noneLiveBody": "現在行われているガバナンス投票はありません。",
+    "showAll": "最近の提案を表示",
+    "endsIn": "終了：{{time}}",
+    "turnout": "投票率",
+    "vote": "投票",
+    "status": {
+      "voting": "投票中",
+      "deposit": "デポジット中",
+      "passed": "可決",
+      "rejected": "否決",
+      "failed": "不成立"
+    },
+    "passed": "可決",
+    "rejected": "否決",
+    "noneMatching": "一致する提案はない",
+    "noneMatchingBody": "このフィルターに一致するものはありません。"
+  },
+  "dev": {
+    "title": "開発アクティビティ",
+    "summary": "貢献 {{total}} 件",
+    "viewFull": "開発アクティビティを開く",
+    "heatmapLabel": "貢献ヒートマップ：{{weeks}} 週間で {{total}} 件の貢献",
+    "less": "少",
+    "more": "多",
+    "cellTitle_other": "{{date}}：貢献 {{count}} 件",
+    "range": "熱地図の範囲",
+    "ranges": {
+      "month": "月",
+      "quarter": "4 分の 1",
+      "year": "年間"
+    }
+  },
+  "repos": {
+    "title": "アクティブなリポジトリ",
+    "period": "期間",
+    "periods": {
+      "week": "週",
+      "month": "月",
+      "year": "年",
+      "quarter": "4 分の 1"
+    },
+    "contributors": "コントリビューター",
+    "stars": "スター",
+    "sparkline": "{{name}} のコミット推移",
+    "vsPrevious": "前の期間比 {{change}}",
+    "up": "上昇",
+    "down": "下降",
+    "caption": "選択した期間のコミット数 · リポジトリはシミュレーションです",
+    "col": {
+      "repository": "リポジトリ",
+      "language": "言語",
+      "commits": "コミット",
+      "change": "変化",
+      "trend": "推移"
+    },
+    "commitsCount": "コミットメント: {{count}}",
+    "demoNote": "Demo データ:このリポジトリは虚構であり,その活動がシミュレーションされています. GitHubに接続されていません.",
+    "emptyBody": "この期間には,リポジトリ活動はありません.",
+    "emptyTitle": "リポジトリの活動がない",
+    "history": "コミットメント活動"
+  }
+}

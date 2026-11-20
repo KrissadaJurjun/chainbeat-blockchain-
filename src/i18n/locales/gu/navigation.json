@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "સાઇડબાર નેવિગેશન",
+    "primary": "મુખ્ય નેવિગેશન",
+    "menu": "નેવિગેશન મેનુ",
+    "openMenu": "ઓપન નેવિગેશન મેનુ",
+    "closeMenu": "નેવિગેશન મેનુ બંધ કરો",
+    "collapseSidebar": "ક્રેશ સાઇડબાર",
+    "expandSidebar": "સાઇડબાર વિસ્તૃત કરો",
+    "skipToContent": "મુખ્ય સામગ્રી પર સ્વિપ",
+    "home": "ChainBeat ઘર",
+    "pages": "પૃષ્ઠો",
+    "dashboard": "ડેશબોર્ડ",
+    "validators": "વેલિડેટર",
+    "proposals": "પ્રસ્તાવ",
+    "blocks": "બ્લોક",
+    "transactions": "વ્યવહાર",
+    "portfolio": "પોર્ટફોલિયો",
+    "swap": "સ્વેપ",
+    "stake": "સ્ટેક",
+    "liquidStaking": "લિક્વિડ સ્ટેકિંગ",
+    "send": "મોકલો",
+    "vote": "મત આપો",
+    "createProposal": "પ્રસ્તાવ બનાવો",
+    "market": "બજાર",
+    "network": "નેટવર્ક",
+    "governance": "ગવર્નન્સ",
+    "ibcNetwork": "IBC નેટવર્ક",
+    "devActivity": "ડેવલપર પ્રવૃત્તિ",
+    "multichain": "મલ્ટીચેન ઝાંખી",
+    "heartbeat": "હાર્ટબીટ",
+    "dominance": "પ્રભુત્વ",
+    "validatorsViz": "વેલિડેટર",
+    "blockExplorer": "બ્લોક એક્સપ્લોરર",
+    "transactionExplorer": "વ્યવહાર એક્સપ્લોરર",
+    "tokenExplorer": "ટોકન એક્સપ્લોરર",
+    "about": "વિશે",
+    "explorerHome": "એક્સપ્લોરર",
+    "governanceHome": "વહીવટ કેન્દ્ર",
+    "settings": "સેટિંગ્સ"
+  },
+  "sections": {
+    "explorer": "એક્સપ્લોરર",
+    "wallet": "વૉલેટ",
+    "analytics": "વિશ્લેષણ",
+    "visualizations": "વિઝ્યુલાઇઝેશન"
+  },
+  "chains": {
+    "favorite": "મનપસંદ {{name}} ઉમેરો",
+    "unfavorite": "મનપસંદમાંથી {{name}} દૂર કરો",
+    "simulatedHealthy": "સિમ્યુલેટેડ નેટવર્ક · સ્વસ્થ"
+  },
+  "search": {
+    "label": "શોધ ચેઇનબીટ",
+    "placeholder": "શોધ બ્લોક, ટીએચ, સરનામું...",
+    "results": "શોધ પરિણામો",
+    "noResults": "{{query}} માટે કોઈ પરિણામો મળ્યા નથી",
+    "kinds": {
+      "page": "પાનું",
+      "block": "બ્લોક",
+      "transaction": "ટીએક્સ",
+      "validator": "વેલિડેટર",
+      "token": "ટોકન",
+      "address": "સરનામું",
+      "proposal": "પ્રસ્તાવ"
+    },
+    "recent": "તાજેતરની શોધો",
+    "clearRecent": "સ્પષ્ટ તાજેતરની શોધો",
+    "removeRecent": "તાજેતરની શોધમાંથી {{query}} દૂર કરો",
+    "hint": "બ્લોક ઊંચાઈ, ટ્રાન્ઝેક્શન હેશ, સરનામું ( {{prefix}} 1...), માન્યકર્તા, પ્રસ્તાવ નંબર અથવા ટોકન નામ.",
+    "submit": "શોધો",
+    "searching": "શોધ કરી રહ્યા છીએ.",
+    "resultCount": "પરિણામો: {{count}}",
+    "invalid": {
+      "tooLong": "તે શોધ શબ્દ માટે ખૂબ લાંબી છે (200 અક્ષરો મહત્તમ).",
+      "badChecksum": "આ એક સરનામું જેવું લાગે છે, પરંતુ તેની ચેકઆઉટ મેળ ખાતી નથી. તેને ટાઇપિંગ ભૂલો માટે તપાસો.",
+      "badHash": "ટ્રાન્ઝેક્શન અથવા બ્લોક હેશમાં બરાબર 64 હેક્સાડેસિમલ અક્ષરો છે.",
+      "badChars": "બ્લોક ઊંચાઈ, હેશ, સરનામું, માન્યકર્તા, દરખાસ્ત અથવા ટોકન માટે શોધો."
+    },
+    "categories": {
+      "page": "પૃષ્ઠો",
+      "block": "બ્લોક",
+      "transaction": "વ્યવહાર",
+      "address": "સરનામાં",
+      "validator": "વેલિડેટર",
+      "proposal": "પ્રસ્તાવ",
+      "token": "ટોકન્સ"
+    }
+  },
+  "user": {
+    "menu": "એકાઉન્ટ મેનુ",
+    "guest": "મહેમાન",
+    "notConnected": "કોઈ વૉલેટ જોડાયેલ નથી",
+    "settings": "સેટિંગ્સ",
+    "about": "ચેઇનબીટ વિશે"
+  }
+}

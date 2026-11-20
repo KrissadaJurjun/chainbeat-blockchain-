@@ -1,0 +1,31 @@
+{
+  "notifications": {
+    "label": "Mga abiso",
+    "title": "Mga abiso",
+    "unread": "Hindi binabasa",
+    "unreadLabel_one": "{{count}} hindi binabasa na notification",
+    "unreadLabel_other": "{{count}} hindi binabasa na mga pahibalo",
+    "markAllRead": "I-mark ang lahat tulad ng nabasa",
+    "empty": "Lahat kayo'y nakapasok.",
+    "items": {
+      "proposalVoting": "Ang Proposal #{{id}} ay nasa voting period nito halos {{hours}} oras ang natitira.",
+      "proposalPassed": "Ang Proposal #{{id}} ay napasa at gagamitin.",
+      "validatorJailed": "{{name}} ay nasa bilangguan dahil sa downtime.",
+      "upgradeScheduled": "Ang pag-upgrade ng network {{version}} ay nakakatakda sa {{days}} araw.",
+      "ibcVolume": "IBC Ang dami ng mga transfer ay tumaas ng {{pct}}% sa huling 24 oras.",
+      "newBlock": "Ang block {{height}} ay ginawa sa {{chain}} (simulated).",
+      "walletConnectedDemo": "Demo wallet na konektado (simulating).",
+      "walletConnected": "{{name}} na nakonekta. walang sinundong.",
+      "walletDisconnected": "Ang wallet ay disconnected mula sa sesyon ng browser na ito.",
+      "txSuccess": "Nakumpirma ang sinimulan na transaksyon: {{summary}}",
+      "txFailed": "Ang isang simulating transaksyon ay nabigo dahil ang error simulation ay on. Walang nagbago.",
+      "proposalCreated": "Demo Proposal #{{id}} {{title}} ay idinagdag (simulated).",
+      "networkChanged": "Nag-switch sa {{chain}}. Nagpapakita ng simulating data.",
+      "simPaused": "Ang simulasiyon ay nakakatigil. Ang simulasiyong data ay hindi mag-update hanggang sa ituloy mo ito.",
+      "errorSimulation": "Ang error simulation ay naka-on. ang mga request ng data at mga confirmation ng wallet ay mabuwal hangga't i-off mo ito."
+    },
+    "dismiss": "Notification ng pagtanggi",
+    "clearAll": "I-clear ang lahat",
+    "simulatedNote": "Ang mga item mula sa feed ng network ay simulan. Wala dito ay isang live blockchain alerto."
+  }
+}

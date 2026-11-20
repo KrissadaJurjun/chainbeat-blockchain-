@@ -1,0 +1,130 @@
+Painel
+Validadores
+Propostas
+Blocos
+Transações
+Portfólio
+Trocar
+Staking
+Staking líquido
+Enviar
+Votar
+Criar proposta
+Mercado
+Rede
+Governança
+Rede IBC
+Atividade de desenvolvimento
+Visão multichain
+Batimento
+Dominância
+Explorador de blocos
+Explorador de transações
+Explorador de tokens
+Sobre
+Explorador
+Configurações
+Carteira
+Análises
+Visualizações
+Idioma
+Tema
+Sistema
+Escuro
+Claro
+Demo
+Simulado
+Fechar
+Tentar novamente
+Atualizar
+Copiar
+Copiado
+Limpar
+Carregando…
+Anterior
+Próximo
+Dispensar
+Cancelar
+Voltar
+Ver tudo
+Redefinir
+Exportar
+Máx.
+Valor
+Saldo
+Taxa
+Status
+Total
+Hora
+Altura
+Hash
+Tipo
+Todos
+Buscar
+Filtrar
+Detalhes
+Confirmar
+Conectar carteira
+Desconectar
+Revisar transação
+Taxa de rede
+Copiar endereço
+Você paga
+Você recebe
+Endereço do destinatário
+Memo (opcional)
+Ativos
+Alocação
+Delegado
+Cancelar stake
+Taxa de câmbio
+Sucesso
+Transação
+Bloco
+De
+Para
+Memo
+Gas usado
+Validador
+Token
+Endereço
+Proposta
+Preço
+Oferta
+Valor de mercado
+Comissão
+Disponibilidade
+Poder de voto
+Posição
+Ativo
+Inativo
+Suspenso
+Delegadores
+Sim
+Não
+Abster-se
+Não com veto
+Aprovada
+Rejeitada
+Falhou
+Em votação
+Quórum
+Participação
+Depósito
+Seu voto
+Título
+Descrição
+Métricas on-chain
+Altura do bloco
+Tx por bloco
+Tempo de bloco
+APR de staking
+Tokens em stake
+Oferta total
+Pool da comunidade
+Página não encontrada
+Voltar ao painel
+Últimos blocos
+Últimas transações
+Notificações
+Outros

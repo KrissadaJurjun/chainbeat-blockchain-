@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Związane węgielki",
+    "viewAll": "Wyświetlanie wszystkich weryfikatorów",
+    "col": {
+      "validator": "Walidator",
+      "power": "Siła głosu",
+      "cumulative": "Główną wartość",
+      "commission": "Prowizja",
+      "uptime": "Czas działania",
+      "change": "Zmiana 24h",
+      "details": "Szczegóły",
+      "tokens": "Tokeny związane z obligacjami"
+    },
+    "stake": "Staking",
+    "stakeWith": "Wykorzystaj ten werytor",
+    "pageDescription": "Każdy ważnik zabezpieczający {{chain}}, podzielony według uprawnień do głosowania (simulowany).",
+    "stats": {
+      "active": "Aktywne weryfikujące urządzenia",
+      "nakamoto": "Współczynnik Nakamoto",
+      "nakamotoHint": "Validatory niezbędne do zatrzymania łańcucha",
+      "top10": "Największa liczba głosów",
+      "commission": "Średnia prowizja"
+    },
+    "filterPlaceholder": "Filtr po nazwie lub adresie",
+    "statusFilter": "Status weryfikującego",
+    "tableCaption": "Validatory w numerze {{chain}}",
+    "detailDescription": "Simulowany weryfikator na {{chain}}.",
+    "detail": {
+      "delegators": "Delegujący",
+      "bonded": "Tokeny powiązane",
+      "last30": "w ciągu ostatnich 30 dni",
+      "last90": "w ciągu ostatnich 90 dni",
+      "noBlocks": "Żadnych ostatnio zaproponowanych bloków.",
+      "noWebsite": "nie jest dostępny (faktywny weryfikator)",
+      "openPage": "Otwórz pełną stronę",
+      "powerHistory": "Siła głosu",
+      "proposed24h": "Proponowane bloky (24 godziny)",
+      "rank": "Pozycja",
+      "recentBlocks": "Niedawno zaproponowane bloki",
+      "selfBonded": "Samodzielnie związane",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Czas działania",
+      "valueUsd": "Wartość zakładu {{value}}",
+      "website": "Strona internetowa"
+    },
+    "status": {
+      "active": "Aktywny",
+      "inactive": "Nieaktywny",
+      "jailed": "Uwięziony"
+    },
+    "activitiesTitle": "Działania w zakresie weryfikacji",
+    "commissionShort": "Opłata {{value}}",
+    "detailTitle": "Walidator",
+    "fictionalNote": "Faktyczny weryfikator dla trybu Demo. To nie jest prawdziwy operator i nic o nim nie jest zweryfikowane.",
+    "hoverTip": "Komisja {{commission}} · czas eksploatacji {{uptime}} · {{delegators}} delegatów",
+    "noMatching": "Nie ma odpowiednich weryfikatorów.",
+    "notFoundBody": "{{chain}} nie ma nadajnika z tym adresem.",
+    "notFoundTitle": "Validator nie znaleziony",
+    "sort": {
+      "power": "Siła głosu",
+      "commission": "Prowizja",
+      "uptime": "Czas działania"
+    },
+    "sortBy": "Sortoryzatory według"
+  },
+  "validatorsViz": {
+    "description": "Komisja w porównaniu z upływem czasu dla każdego validatora na {{chain}}; wielkość pęcherza pokazuje moc głosowania.",
+    "showAll": "Włączyć nieaktywne i uwięzione",
+    "avgUptime": "Średni czas eksploatacji",
+    "zeroFee": "Validatorzy z zerową prowizją",
+    "chartTitle": "Komisja w stosunku do czasu eksploatacji",
+    "chartHint": "Każda bąbelka jest jednym weryfikatorem",
+    "legend": "Legenda wykresu",
+    "sizeHint": "Wielkość pęcherza = moc głosowania"
+  }
+}

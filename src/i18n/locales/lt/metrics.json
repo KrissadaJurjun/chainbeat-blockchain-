@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Grandinės rodikliai",
+    "exportCsv": "Eksportas kaip CSV",
+    "exported": "Eksportuojami rodikliai kaip CSV.",
+    "openAnalytics": "Atviro tinklo analizė",
+    "last24h": "Paskutinės 24 valandas",
+    "sparklineLabel": "Paskutinės 24 valandos tendencijos",
+    "change24h": "24 val. keitimas",
+    "blocks": "blokai",
+    "exact": "Tiksli vertė",
+    "bondedRatio": "Sutarties santykis",
+    "poolShare": "Tiekimo dalis",
+    "tokenPrice": "Tokenų kaina",
+    "inputInflation": "Infliacija",
+    "inputTax": "Bendrijos mokestis",
+    "inputBonded": "Sutarties santykis",
+    "csvMetric": "Metrikos",
+    "csvValue": "Vertybė",
+    "csvUnit": "Vienetas",
+    "csvChange24h": "24 valandas per parą",
+    "blockHeight": {
+      "label": "Bloko aukštis",
+      "description": "Blokų skaičius, pagamintas nuo pradžia, auga po vieną su kiekvienu nauju bloku."
+    },
+    "totalTransactions": {
+      "label": "Sandoriai",
+      "description": "Bendras tinklo tvarkytas sandorius nuo pradžia."
+    },
+    "txPerBlock": {
+      "label": "Sandorių per bloką",
+      "description": "Vidutinis įtrauktų sandorių skaičius per bloką, matuojamas per pastaruosius 100 blokų."
+    },
+    "blockTime": {
+      "label": "Bloko laikas",
+      "description": "Vidutinis laikas tarp eilinių blokų, matuojamas per pastaruosius 100 blokų."
+    },
+    "inflation": {
+      "label": "Infliacija",
+      "description": "Metinė palūkanų norma, pagal kurią įvedami nauji žetoniai, siekiant apdovanoti dalyvius ir finansuoti bendruomenės fondą."
+    },
+    "stakingApr": {
+      "label": "Stakingo APR",
+      "description": "Nustatoma metinė palūkanų norma, apskaičiuota prieš validuotojo komisiją.",
+      "formula": "APR = infliacija × (1 − Bendrijos mokestis) ÷ obligacijų santykis"
+    },
+    "bondedTokens": {
+      "label": "Susieti žetonai",
+      "description": "Tokenai, kurie šiuo metu naudojami aktyviais validuotojais.",
+      "formula": "įpareigotas = bendras tiekimas × įpareigotas santykis"
+    },
+    "totalSupply": {
+      "label": "Bendra pasiūla",
+      "description": "Kiekvienas egzistuojantis žetonas, įskaitant tuos, kurie yra sužaisti, auga su infliacija."
+    },
+    "communityPool": {
+      "label": "Bendruomenės fondas",
+      "description": "Tokenis, kuriuos valdo grandinės valdymas. Infliacijos dalis įeina; sėkmingi pasiūlymai jį išleidžia.",
+      "formula": "Bendrovė auga pagal pasiūlą × infliaciją × Bendrijos mokestį"
+    },
+    "poolValue": {
+      "label": "Rūko vertė",
+      "description": "Bendrovės fondų apskaičiuota JAV dolerių vertė simuliuotame žetonų kaina.",
+      "formula": "vertė = fondas × token kaina"
+    }
+  }
+}

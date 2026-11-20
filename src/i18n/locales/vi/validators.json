@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "VALS bị ràng buộc",
+    "viewAll": "Xem tất cả các validator",
+    "col": {
+      "validator": "Trình xác thực",
+      "power": "Quyền biểu quyết",
+      "cumulative": "Tóm lại",
+      "commission": "Hoa hồng",
+      "uptime": "Thời gian hoạt động",
+      "change": "24h thay đổi",
+      "details": "Chi tiết",
+      "tokens": "Các mã thông báo liên kết"
+    },
+    "stake": "Stake",
+    "stakeWith": "Đánh giá bằng chứng nhân này",
+    "pageDescription": "Mỗi người xác nhận bảo mật {{chain}}, xếp hạng theo quyền bỏ phiếu (được mô phỏng).",
+    "stats": {
+      "active": "Máy xác thực hoạt động",
+      "nakamoto": "Tỷ số Nakamoto",
+      "nakamotoHint": "Các chất xác minh cần thiết để ngăn chặn chuỗi",
+      "top10": "Top 10 quyền bỏ phiếu",
+      "commission": "Thuế trung bình"
+    },
+    "filterPlaceholder": "Bộ lọc theo tên hoặc địa chỉ",
+    "statusFilter": "Tình trạng xác thực viên",
+    "tableCaption": "Các chất xác thực trên {{chain}}",
+    "detailDescription": "Một bộ xác nhận mô phỏng trên {{chain}}.",
+    "detail": {
+      "delegators": "Người ủy quyền",
+      "bonded": "Các mã thông báo liên kết",
+      "last30": "30 ngày qua",
+      "last90": "90 ngày qua",
+      "noBlocks": "Không có các khối được đề xuất gần đây.",
+      "noWebsite": "Không có sẵn (định hành giả tưởng)",
+      "openPage": "Mở toàn trang",
+      "powerHistory": "Quyền biểu quyết",
+      "proposed24h": "Các khối được đề xuất (24 giờ)",
+      "rank": "Thứ hạng",
+      "recentBlocks": "Các khối được đề xuất gần đây",
+      "selfBonded": "Tự ràng buộc",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Thời gian hoạt động",
+      "valueUsd": "Giá trị cổ phần {{value}}",
+      "website": "Trang web"
+    },
+    "status": {
+      "active": "Hoạt động",
+      "inactive": "Không hoạt động",
+      "jailed": "Bị giam"
+    },
+    "activitiesTitle": "Các hoạt động xác nhận",
+    "commissionShort": "Thuế {{value}}",
+    "detailTitle": "Trình xác thực",
+    "fictionalNote": "Bộ xác nhận giả tưởng cho chế độ Demo. Nó không phải là một nhà khai thác thực tế và không có gì về nó được xác minh.",
+    "hoverTip": "Ủy ban {{commission}} · thời gian hoạt động {{uptime}} · {{delegators}} đại diện",
+    "noMatching": "Không có chất xác nhận phù hợp.",
+    "notFoundBody": "{{chain}} không có chứng thực với địa chỉ này.",
+    "notFoundTitle": "Validator không được tìm thấy",
+    "sort": {
+      "power": "Quyền biểu quyết",
+      "commission": "Hoa hồng",
+      "uptime": "Thời gian hoạt động"
+    },
+    "sortBy": "Định dạng các chất xác thực theo:"
+  },
+  "validatorsViz": {
+    "description": "Ủy ban so với thời gian hoạt động cho mỗi validator trên {{chain}}; kích thước bong bóng cho thấy quyền bỏ phiếu.",
+    "showAll": "Bao gồm không hoạt động và bị bỏ tù",
+    "avgUptime": "Thời gian hoạt động trung bình",
+    "zeroFee": "Máy xác thực không có ủy ban",
+    "chartTitle": "Ủy ban vs thời gian hoạt động",
+    "chartHint": "Mỗi bong bóng là một xác nhận",
+    "legend": "Truyền thuyết biểu đồ",
+    "sizeHint": "Kích thước bong bóng = quyền bỏ phiếu"
+  }
+}

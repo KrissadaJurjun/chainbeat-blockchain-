@@ -1,0 +1,103 @@
+{
+  "overview": {
+    "title": "Pārskatījums",
+    "unit": "Izmantošanas indekss · bāze = 100 attāluma sākumā",
+    "refreshFailed": "Negribēju atjaunināt, parādot pēdējo iekļūto datu."
+  },
+  "chart": {
+    "keyboardHint": "Grāmatas. Izmantojiet lukšu klavieru, lai pārvietoties starp datu punktiem.",
+    "summary": "Darbības indekss vairāk nekā {{range}}: {{details}}",
+    "rangeLabel": "laika diapazons",
+    "seriesLabel": "Grafiku sērija",
+    "keepOne": "Vismaz viena sērija jāpalieka redzama",
+    "emptyTitle": "Nav datu par šo diapazonu",
+    "emptyBody": "Izdzīvojot citu laika intervalu vai atjaunināt.",
+    "range": {
+      "24H": "24 STUNDAS",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "Pēdējās 24 stundas",
+      "7D": "Pēdējās 7 dienas",
+      "30D": "Pēdējās 30 dienas",
+      "90D": "Pēdējās 90 dienas"
+    },
+    "zoomControls": "Zoom vadības ierīces",
+    "zoomIn": "Uzgriežot",
+    "zoomOut": "Izgriežot",
+    "resetView": "Atkārtošanas attēls",
+    "zoomLevel": "Zoom līmenis"
+  },
+  "proposals": {
+    "title": "Priekšlikumi",
+    "filter": "Prasības filters",
+    "live": "Dzīvoklis",
+    "total": "Kopā",
+    "viewAll": "Skatīt visus priekšlikumus",
+    "noneLive": "Neviena dzīva priekšlikuma",
+    "noneLiveBody": "Šobrīd nav pastāvīga valdība.",
+    "showAll": "Izskatīt jaunus priekšlikumus",
+    "endsIn": "Konkurss {{time}}",
+    "turnout": "Aktivitāte",
+    "vote": "Balsot",
+    "status": {
+      "voting": "Notiek balsošana",
+      "deposit": "Depozīts",
+      "passed": "Pieņemts",
+      "rejected": "Noraidīts",
+      "failed": "Neizdevās"
+    },
+    "passed": "Pieņemts",
+    "rejected": "Noraidīts",
+    "noneMatching": "Neatbilstīgi priekšlikumi",
+    "noneMatchingBody": "Nē, tagad nekas neatbilst šim filtram."
+  },
+  "dev": {
+    "title": "Izstrādātāju aktivitāte",
+    "summary": "{{total}} ieguldījumi",
+    "viewFull": "Atvērtās attīstības darbības",
+    "heatmapLabel": "Kontribūcijas karstuma karte: {{total}} kontribūcijas {{weeks}} nedēļu laikā",
+    "less": "mazāk",
+    "more": "Vēl vairāk",
+    "cellTitle_zero": "{{count}} iemaksas par {{date}}",
+    "cellTitle_one": "{{count}} ieguldījums par {{date}}",
+    "cellTitle_other": "{{count}} iemaksas par {{date}}",
+    "range": "Heatmaps diapazons",
+    "ranges": {
+      "month": "mēnesis",
+      "quarter": "Katrs kvartāls",
+      "year": "Jaundzimušais"
+    }
+  },
+  "repos": {
+    "title": "Aktīvs reģisters",
+    "period": "Periods",
+    "periods": {
+      "week": "Vaiņās",
+      "month": "mēnesis",
+      "year": "Jaundzimušais",
+      "quarter": "Katrs kvartāls"
+    },
+    "contributors": "Piekārtošie",
+    "stars": "zvaigznes",
+    "sparkline": "Apņemšanās darbība par {{name}}",
+    "vsPrevious": "{{change}} salīdzinājumā ar iepriekšējo periodu",
+    "up": "Uz augšu",
+    "down": "Zāļu",
+    "caption": "Pieņemšanās atlasītajā periodā · simulētas reģistros",
+    "col": {
+      "repository": "Repository",
+      "language": "Valoda",
+      "commits": "Pieņemšanās",
+      "change": "Izmaiņas",
+      "trend": "Trends"
+    },
+    "commitsCount": "Uzdevumus: {{count}}",
+    "demoNote": "Demo dati: šis nolikums ir fiktīvs un tā darbība ir simulēta.",
+    "emptyBody": "Šajā periodā nav reģistrācijas veiktspējas.",
+    "emptyTitle": "Repozīcijas darbība",
+    "history": "Apņemšanās darbība"
+  }
+}

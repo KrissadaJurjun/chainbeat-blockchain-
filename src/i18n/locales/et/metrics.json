@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Ahelasisesed näitajad",
+    "exportCsv": "Eksport CSV-s",
+    "exported": "Ekspordi tehtavate andmete arv CSV-s.",
+    "openAnalytics": "Avatud võrgustiku analüüs",
+    "last24h": "Viimased 24 tundi",
+    "sparklineLabel": "Viimase 24 tunni areng",
+    "change24h": "24 tunni vahetus",
+    "blocks": "blokkid",
+    "exact": "Täpsed väärtused",
+    "bondedRatio": "Sõltumata osakaal",
+    "poolShare": "Tootmise osakaal",
+    "tokenPrice": "Tokaani hind",
+    "inputInflation": "Inflatsioon",
+    "inputTax": "Ühenduse maksu",
+    "inputBonded": "Sõltumata osakaal",
+    "csvMetric": "Metriline",
+    "csvValue": "Väärtus",
+    "csvUnit": "Üksus",
+    "csvChange24h": "24 tunni vahetus",
+    "blockHeight": {
+      "label": "Ploki kõrgus",
+      "description": "Blokid, mis on toodetud alates algusest, kasvavad iga uue blokiga ühe võrra."
+    },
+    "totalTransactions": {
+      "label": "Tehingud",
+      "description": "Võrgustiku poolt alates algusest töödeldud tehingute kogusumma."
+    },
+    "txPerBlock": {
+      "label": "Tehinguid ploki kohta",
+      "description": "Blokki kohta hõlmatud tehingute keskmine arv, mida mõõdetakse viimase 100 bloki jooksul."
+    },
+    "blockTime": {
+      "label": "Ploki aeg",
+      "description": "Keskmine aeg järjestikuse bloki vahel, mõõdetud viimase 100 bloki jooksul."
+    },
+    "inflation": {
+      "label": "Inflatsioon",
+      "description": "Iga-aastane määr, millega tehakse uued tokendid, et auhindada osalejaid ja rahastada kogukonna pool."
+    },
+    "stakingApr": {
+      "label": "Stakingu APR",
+      "description": "Väärtpaberitõendatud väärtpaberitõenduste hinnanguline aastane tulu enne validatoritõendust.",
+      "formula": "APR = inflatsioon × (1 − ühenduse maksu) ÷ võlakirjade osakaal"
+    },
+    "bondedTokens": {
+      "label": "Seotud tokenid",
+      "description": "Tokendid, mida praegu aktiivsete validaatoritega panustatakse.",
+      "formula": "siduv = kogu tarneaine × siduv suhtarv"
+    },
+    "totalSupply": {
+      "label": "Koguvaru",
+      "description": "Iga olemasoluväärtus, kaasa arvatud need, mis on panustatud, kasvab inflatsiooniga."
+    },
+    "communityPool": {
+      "label": "Kogukonna fond",
+      "description": "Toonid, mida kontrollib võrgustiku juhtimine, inflatsiooni osa voolab sisse, edukad ettepanekud kuluvad selle.",
+      "formula": "Pool kasvab pakkumise × inflatsiooni × kogukonna maksuse alusel"
+    },
+    "poolValue": {
+      "label": "Poolaväärtus",
+      "description": "Ühiskonna kogumi hinnanguline väärtus simuleeritud tokenide hinnaga.",
+      "formula": "väärtus = pool × token hind"
+    }
+  }
+}

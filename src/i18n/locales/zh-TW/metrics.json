@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "鏈上指標",
+    "exportCsv": "作为 CSV 的出口",
+    "exported": "數據以 CSV 形式出口.",
+    "openAnalytics": "公開網絡分析",
+    "last24h": "在過去的24小時裡",
+    "sparklineLabel": "過去24小時的趨勢",
+    "change24h": "24 小時的變更",
+    "blocks": "積木",
+    "exact": "確切價值",
+    "bondedRatio": "負債比率",
+    "poolShare": "供應比例",
+    "tokenPrice": "符號價格",
+    "inputInflation": "經濟增長",
+    "inputTax": "社會稅收",
+    "inputBonded": "負債比率",
+    "csvMetric": "數量表",
+    "csvValue": "價值",
+    "csvUnit": "單位",
+    "csvChange24h": "24小時的變更",
+    "blockHeight": {
+      "label": "區塊高度",
+      "description": "數量從創世開始的積木, 每個新的積木都增加一塊."
+    },
+    "totalTransactions": {
+      "label": "交易",
+      "description": "自創世以来,網路處理的交易總數."
+    },
+    "txPerBlock": {
+      "label": "每區塊交易數",
+      "description": "每塊包含的交易的平均數量, 在過去100塊中衡量."
+    },
+    "blockTime": {
+      "label": "區塊時間",
+      "description": "在過去100個區塊中測量的連續區塊之間的平均時間."
+    },
+    "inflation": {
+      "label": "經濟增長",
+      "description": "利率是每年造新代幣的利率,。"
+    },
+    "stakingApr": {
+      "label": "質押年化收益率",
+      "description": "在核准委托之前,估計對投注的代幣的年度回報.",
+      "formula": "增值率 =通胀 × (1 − 社區稅) ÷債券比率"
+    },
+    "bondedTokens": {
+      "label": "已綁定代幣",
+      "description": "票目前使用活跃的驗證碼. 票是確保網絡的原因.",
+      "formula": "結合 = 供應總量 × 結合比例"
+    },
+    "totalSupply": {
+      "label": "總供應量",
+      "description": "任何現存的代幣, 包括那些被賭注的代幣,。"
+    },
+    "communityPool": {
+      "label": "社群資金池",
+      "description": "代幣由連鎖治理控制. 通胀的一部分流入;成功的提案花費它.",
+      "formula": "供應 ×通胀 ×社區稅收增長"
+    },
+    "poolValue": {
+      "label": "池價值",
+      "description": "在模擬的代幣價格下,。",
+      "formula": "價值 = 池 × 符號價格"
+    }
+  }
+}

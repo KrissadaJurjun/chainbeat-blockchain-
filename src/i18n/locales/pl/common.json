@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Symulowane",
+    "close": "Zamknij",
+    "retry": "Spróbuj ponownie",
+    "refresh": "Odśwież",
+    "copy": "Kopiuj",
+    "copied": "Skopiowano",
+    "clear": "Wyczyść",
+    "loading": "Ładowanie…",
+    "options": "Opcje",
+    "previous": "Poprzednia",
+    "next": "Następna",
+    "pagination": "Strona internetowa",
+    "pageN": "Strona {{n}}",
+    "dismiss": "Odrzuć",
+    "cancel": "Anuluj",
+    "viewAll": "Zobacz wszystko",
+    "max": "Maks.",
+    "amount": "Kwota",
+    "balance": "Saldo",
+    "fee": "Opłata",
+    "status": "Status",
+    "time": "Czas",
+    "height": "Wysokość",
+    "hash": "Hash",
+    "type": "Typ",
+    "all": "Wszystkie",
+    "showing": "Pokazywanie {{from}} {{to}} z {{total}}",
+    "noResults": "Żadne wyniki nie pasują do twoich filtrów.",
+    "rowsPerPage": "Rzędy na stronę",
+    "actions": "Działania",
+    "exportCsv": "CSV wywozowy",
+    "details": "Szczegóły",
+    "clearFilters": "Filtry przejrzyste",
+    "collapseAll": "Wszystko się załamało",
+    "copyJson": "Kopiowanie JSON",
+    "expandAll": "Rozszerzyć wszystkie",
+    "showMore": "Pokaż {{count}} więcej"
+  },
+  "language": {
+    "label": "Język",
+    "search": "Języki wyszukiwania"
+  },
+  "theme": {
+    "label": "Motyw",
+    "system": "Systemowy",
+    "dark": "Ciemny",
+    "light": "Jasny"
+  },
+  "footer": {
+    "tagline": "Sprawdź bloky, śledź transakcje, zrozum Web3.",
+    "demo": "Demo Tryb wszystkie dane są symulowane i nie są prawdziwymi statystykami sieciowymi.",
+    "share": "Dzielenie się",
+    "linkCopied": "Link kopiowany do deski.",
+    "docs": "Dokumentacja",
+    "links": "Linki podnóżkowe",
+    "modeDemo": "Demo Sieć",
+    "repository": "Repozytorium",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Nie znaleziono strony",
+    "body": "Strona, której szukasz, nie istnieje lub się przesunęła.",
+    "home": "Wróć do pulpitu"
+  },
+  "gate": {
+    "title": "Włącz portfel Demo do kontynuacji",
+    "body": "Ten przepływ pracy działa na symulowanym portfelu. łączyć portfel Demo spróbować nic rzeczywiste nigdy nie jest podpisane lub wysłane.",
+    "realTitle": "Prawdziwy portfel jest podłączony",
+    "realBody": "{{address}} jest podłączony, ale tryb ChainBeat Demo nigdy nie podpisuje ani nie nadaje transakcji. Przełącz się do portfela Demo aby spróbować tego przepływu pracy.",
+    "useDemo": "Użyj portfela Demo"
+  }
+}

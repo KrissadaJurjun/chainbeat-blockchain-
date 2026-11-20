@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Vähennä liikkuvuutta",
+    "reduceMotionHint": "Vähennä animaatioita ja siirtymyksiä.",
+    "appearance": {
+      "compact": "Kompakti suunnittelu",
+      "compactHint": "Piirtää sisällön alueen hieman pienemmäksi.",
+      "description": "Teema, liike ja tiheys.",
+      "title": "Ulkonäkö"
+    },
+    "confirm": {
+      "action": "Vahvista",
+      "title": "- Oletko varma? - Kyllä.",
+      "dataset": "Tämä asettaa simuloidun kellon, sen nopeuden, viivästymisen ja pakotettujen virheiden ennalta määritetyn määrän.",
+      "wallet": "Tämä palauttaa Demo -lompakon lähtöpainot ja poistaa sen simuloitu toiminta, äänet ja ehdotukset.",
+      "all": "Tämä poistaa tässä selaimessa tallennettujen ChainBeatin asetusten (kielen, teema, verkosto, Demo lompakko, viimeaikaiset hakemukset) ja lataa sivu uudelleen."
+    },
+    "data": {
+      "datasetReset": "Demo Dataset asetetaan reaaliaikaiseksi.",
+      "description": "Kuinka uudet tiedot ovat ja miten simulointi voidaan asettaa uudelleen.",
+      "refresh": "Uudentaa eläviä tietoja",
+      "refreshHint": "Kuinka usein luettelot ja laskut luovat uudelleen (simuloitu) verkosto.",
+      "refreshOptions": {
+        "live": "Elä",
+        "slow": "Hidas",
+        "manual": "Käsikirja"
+      },
+      "resetDataset": "Demo-tietokannan uudelleenasetus",
+      "searchesCleared": "Äskettäiset etsinnät selvitettiin.",
+      "speedHint": "Pysäytä simuloitu kello tai hidasta.",
+      "title": "Tiedot"
+    },
+    "description": "Ulkonäkö, kieli, verkko ja yksityisyys. Kaikki tallennetaan vain tässä selaimessa.",
+    "language": {
+      "count": "{{shipped}} käytettävissä olevista {{total}} kielestä",
+      "current": "Nykyinen kieli",
+      "description": "Valitse käyttöliittymä kieli. Etsi alkuperäisen nimen, englannin nimen tai koodin mukaan.",
+      "fallback": "Tekstit, joita ei ole vielä käännetty, näkyvät englanniksi.",
+      "title": "Kieli"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Mitä verkkoa tutkia ja mistä tiedot tulevat.",
+      "endpoint": "Elävä loppupiste",
+      "live": "Elä",
+      "liveUnavailable": "Elämätietoja ei ole saatavilla tässä rakenteessa: jokaisella sivulla on simuloituja tietoja. Jos pääpiste on konfiguroitu, voit testata yhteyden, mutta sovellus ei koskaan sekoita eläviä ja simuloituja tietoja.",
+      "mode": "Tiedonlähde",
+      "noEndpoint": "Ei mitään (simuloituja tietoja)",
+      "selected": "Verkko",
+      "status": "Yhteys",
+      "statusDemo": "Simuloitu verkko · korkeus {{height}}",
+      "title": "Verkko",
+      "unavailable": "ei ole käytettävissä",
+      "test": "Kokeiluyhteys",
+      "testing": "Kokeilu...",
+      "testHint": "Lähettää kaksi lukemattoman GET-pyyntöä alla olevaan loppupisteeseen ja näyttää, mitä se vastaa. Mikään ei tallenneta ja tietolähteen ei muutu.",
+      "testOk": "Yhteys {{chain}}: viimeisimmälle blokille {{height}}, vastaus {{ms}} ms.",
+      "testPartial": "Yhteys {{chain}}: viimeisimmälle blokiin {{height}}, vastaus {{ms}} ms.",
+      "testError": {
+        "timeout": "Lopputulos ei vastannut ajoissa.",
+        "network": "Epäonnistuin, tarkista osoite ja että se sallii pyyntöjä tästä sivustosta.",
+        "http": "Lopputulos vastasi virheellä.",
+        "invalid": "Lopputulos vastasi, mutta ei Cosmos REST API:n muodossa, joten mitään ei käytetty."
+      }
+    },
+    "privacy": {
+      "clearAll": "Poista kaikki ChainBeatin tiedot tässä selaimessa",
+      "description": "Mitä tämä sovellus tallentaa ja mitä se voi nähdä.",
+      "keysCaption": "ChainBeatin käyttämä selaimen tallennus",
+      "noNetwork": "ChainBeat ei lähetä tietoja minnekään: sillä ei ole analytiikkaa eikä se tee pyyntöjä, paitsi omille tiedostoilleen.",
+      "noSeed": "ChainBeat ei koskaan kysy, varastoi tai näkee siemensanan, yksityisen avaimen tai lompakon salasanan.",
+      "storage": "Ehdotukset, valitu verkko, simuloitu kello, lompakko Demo, viimeaikaiset hakemukset ja luomme demo-tilin tallennetaan vain tämän selaimen paikalliseen tallennukseen.",
+      "title": "Yksityisyyttä",
+      "wallet": "Jos liität selaimen lompakon laajennuksen, ChainBeat lukee vain julkisen osoitteesi ja tiliesi nimen ja vasta sen hyväksymisen jälkeen. Mikään ei ole allekirjoitettu tai lähetetty.",
+      "keys": {
+        "lang": "Valitu kieli",
+        "ui": "Teema, liike, tiheys, suunnittelu ja suosikat",
+        "chain": "Valittu verkko",
+        "sim": "Simuloitu kello, nopeus ja viivästys",
+        "wallet": "Demo lompakko: kuvitteelliset tasot, toiminta, äänestykset, ehdotukset",
+        "notifications": "Mitkä ilmoitukset olet lukenut tai hylännyt, sekä paikalliset tapahtumat (lompakko, simuloituja liiketoimia)",
+        "search": "Äskettäiset hakemukset",
+        "auth": "Demo tili: käyttäjätunnukset, sähköpostiosoitteet, suolatut salasanan hashit ja nykyinen kirjautuminen"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Demo Laite",
+    "chipTip": "Kaikki tiedot on simuloitu.",
+    "controls": "Demo valvonta",
+    "controlsIntro": "ChainBeat käyttää deterministisia simuloituja tietoja.",
+    "clock": "Simuloitu kello",
+    "simulatedNow": "Simuloitu aika",
+    "offset": "{{value}} tuntia etukäteen",
+    "advanceHour": "1 tuntia etukäteen",
+    "advanceDay": "1 päivää etukäteen",
+    "resetClock": "Säästä kello uudelleen",
+    "clockNote": "Kellojen eteneminen tuottaa uusia blokkeja, hintoja ja tapahtumia {{chain}}: ssä.",
+    "network": "Verkon käyttäytyminen",
+    "latency": "Simuloitu myöhästyminen",
+    "latencyOff": "Päästä irti",
+    "simulateErrors": "Simuloida verkkovirheet",
+    "simulateErrorsHint": "Jokainen pyyntö epäonnistuu.",
+    "wallet": "Demo lompakko",
+    "resetWallet": "Laitetaan uudelleen demo lompakko",
+    "walletReset": "Demo lompakko asetetaan lähtöarvoaan.",
+    "noticeTitle": "Demo-laite.",
+    "noticeBody": "Tämä työnkulku on simuloitu, eikä mitään allekirjoiteta tai lähetetä eikä oikeaa rahaa ole mukana.",
+    "behind": "{{value}} tuntia jäljellä reaaliajassa",
+    "speed": "Simulointinopeus",
+    "speeds": {
+      "paused": "Pysähdytys",
+      "slow": "Hidas",
+      "normal": "Normaaliksi"
+    }
+  },
+  "about": {
+    "title": "ChainBeatista",
+    "demo": "ChainBeat toimii Demo -tilassa. Jokainen blokki, hinta, validointi ja ehdotus syntyy deterministisesti selaimessasi. Nämä eivät ole nykyisiä mainnettitilastoja.",
+    "privacy": "Ei tarvita API-avainta, yksityistä avainta tai siementä. Valinnaiset demo-tilit, mieltymykset ja demo-lompakko tallennetaan vain selaimessasi.",
+    "shortcuts": "Laitteiden lyhytkäytöt",
+    "shortcutSearch": "Keskitysetkimys",
+    "shortcutClose": "Sulje vuoropuhelu- ja menuja",
+    "languages": "Käyttöliittokieli: {{shipped}} {{total}} Käännöt ovat koneen avustettuja eikä niitä ole tarkistettu äidinkielenkäyttäjillä; ammatillista tarkistusta suositellaan ennen julkista käyttöä.",
+    "pageDescription": "Mikä ChainBeat on, miten se käsittelee tietoja ja sen klaviaturinmuutokset.",
+    "shortcutPalette": "Avainen hakemus (ohjepalletti)"
+  }
+}

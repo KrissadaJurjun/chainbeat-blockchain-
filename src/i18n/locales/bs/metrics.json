@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "On-chain metrike",
+    "exportCsv": "Izvoz u obliku CSV-a",
+    "exported": "Metrike izvožene kao CSV.",
+    "openAnalytics": "Otvorena mrežna analiza",
+    "last24h": "Poslednjih 24 sata",
+    "sparklineLabel": "Trend u poslednjih 24 sata",
+    "change24h": "24h promjena",
+    "blocks": "blokovi",
+    "exact": "Tačna vrijednost",
+    "bondedRatio": "Prihvatena stopa",
+    "poolShare": "Udio snabdevanja",
+    "tokenPrice": "Cena tokena",
+    "inputInflation": "Inflacija",
+    "inputTax": "Zajednički porez",
+    "inputBonded": "Prihvatena stopa",
+    "csvMetric": "Metrika",
+    "csvValue": "Vrednost",
+    "csvUnit": "Jedinica",
+    "csvChange24h": "24h zamjena",
+    "blockHeight": {
+      "label": "Visina bloka",
+      "description": "Broj blokova koji su proizvedeni od početka, povećava se po jedan sa svakom novom blokom."
+    },
+    "totalTransactions": {
+      "label": "Transakcije",
+      "description": "Ukupno transakcije koje je mreža obrađivala od početka."
+    },
+    "txPerBlock": {
+      "label": "Transakcija po bloku",
+      "description": "Prosječan broj uključenih transakcija po bloku, meren u poslednjih 100 bloka."
+    },
+    "blockTime": {
+      "label": "Vrijeme bloka",
+      "description": "Prosječno vrijeme između uzastopnih blokova, mereno tokom poslednjih 100 blokova."
+    },
+    "inflation": {
+      "label": "Inflacija",
+      "description": "Godišnja stopa po kojoj se novim tokenima izređuju kako bi se nagrađivali sudionici i finansirali zajednički fond."
+    },
+    "stakingApr": {
+      "label": "APR stakinga",
+      "description": "Procenjena godišnja povratna vrijednost ulaganih tokena, pre provjere validatora.",
+      "formula": "APR = inflacija × (1 − porez na zajednicu) ÷ odnos obveznica"
+    },
+    "bondedTokens": {
+      "label": "Vezani tokeni",
+      "description": "Tokeni koji se trenutno stavljaju sa aktivnim validatorima.",
+      "formula": "Obvezni = ukupna snabdevanja × obvezni odnos"
+    },
+    "totalSupply": {
+      "label": "Ukupna ponuda",
+      "description": "Svaki simbol koji postoji, uključujući i one koji su ugroženi, raste sa inflacijom."
+    },
+    "communityPool": {
+      "label": "Fond zajednice",
+      "description": "Tokeni kontrolirani upravljanjem na lancu.Udio inflacije ulazi; uspješni prijedlozi troše ga.",
+      "formula": "Bilan raste po ponudi × inflaciji × porezu na zajednicu"
+    },
+    "poolValue": {
+      "label": "Vrijednost bazena",
+      "description": "Procjenjena vrijednost zajednice u američkim dolarima po simuliranoj ceni tokena.",
+      "formula": "vrijednost = fond × cena tokena"
+    }
+  }
+}

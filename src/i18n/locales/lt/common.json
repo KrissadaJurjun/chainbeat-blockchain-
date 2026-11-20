@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simuliuota",
+    "close": "Uždaryti",
+    "retry": "Bandyti dar kartą",
+    "refresh": "Atnaujinti",
+    "copy": "Kopijuoti",
+    "copied": "Nukopijuota",
+    "clear": "Išvalyti",
+    "loading": "Įkeliama…",
+    "options": "Galimybė",
+    "previous": "Ankstesnis",
+    "next": "Kitas",
+    "pagination": "Skaitmeninė svetainė",
+    "pageN": "{{n}} puslapis",
+    "dismiss": "Atmesti",
+    "cancel": "Atšaukti",
+    "viewAll": "Rodyti viską",
+    "max": "Maks.",
+    "amount": "Suma",
+    "balance": "Likutis",
+    "fee": "Mokestis",
+    "status": "Būsena",
+    "time": "Laikas",
+    "height": "Aukštis",
+    "hash": "Maiša",
+    "type": "Tipas",
+    "all": "Viskas",
+    "showing": "Parodymas {{from}} {{to}} iš {{total}}",
+    "noResults": "Nėra rezultato, kuris atitiktų jūsų filtrus.",
+    "rowsPerPage": "eilutės per puslapį",
+    "actions": "Veiksmai",
+    "exportCsv": "Eksporto CSV",
+    "details": "Išsami informacija",
+    "clearFilters": "Šviesi filtrai",
+    "collapseAll": "Visi žlugė",
+    "copyJson": "Kopiruoti JSON",
+    "expandAll": "Išplėskite visus",
+    "showMore": "Parodykite daugiau {{count}}"
+  },
+  "language": {
+    "label": "Kalba",
+    "search": "Paieškos kalbos"
+  },
+  "theme": {
+    "label": "Tema",
+    "system": "Sistema",
+    "dark": "Tamsi",
+    "light": "Šviesi"
+  },
+  "footer": {
+    "tagline": "Ištirkite blokus, sekite sandorius, suprastumėte tinklą 3.",
+    "demo": "Demo Modas visi skaičiai yra simuliuojami ir nėra realaus tinklo statistika.",
+    "share": "Pasidalijimas",
+    "linkCopied": "Susijungimas kopijuotas į plokštelę.",
+    "docs": "Dokumentacija",
+    "links": "Žvelgių nuorodos",
+    "modeDemo": "Demo Tinklas",
+    "repository": "Repozitorius",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Puslapis nerastas",
+    "body": "Puslapis, kurį ieškote, nėra arba perkeliamas.",
+    "home": "Atgal į skydelį"
+  },
+  "gate": {
+    "title": "Prijungti Demo piniginę tęsti",
+    "body": "Šis darbo srautas veikia simuliuojamoje piniginėje. Prijungkite Demo piniginį, kad išbandytumėte jį nieko realaus niekada nėra pasirašytas ar išsiųstas.",
+    "realTitle": "Iš tikrųjų yra susietas piniginys",
+    "realBody": "{{address}} yra prijungtas, bet ChainBeat demo režimas niekada nesirašia ar nešviečia sandorių.",
+    "useDemo": "Naudokite Demo piniginę"
+  }
+}

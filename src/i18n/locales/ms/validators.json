@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Vals yang terikat",
+    "viewAll": "Lihat semua pengesahan",
+    "col": {
+      "validator": "Pengesah",
+      "power": "Kuasa mengundi",
+      "cumulative": "Cumulatif",
+      "commission": "Komisen",
+      "uptime": "Masa operasi",
+      "change": "Pertukaran 24 jam",
+      "details": "Butiran",
+      "tokens": "Token ikatan"
+    },
+    "stake": "Staking",
+    "stakeWith": "Taruhan dengan pengesahan ini",
+    "pageDescription": "Setiap pengesahan yang memastikan {{chain}}, diurutkan mengikut kuasa undi (disimulasikan).",
+    "stats": {
+      "active": "Validator aktif",
+      "nakamoto": "Koefisien Nakamoto",
+      "nakamotoHint": "Validator yang diperlukan untuk menghentikan rantaian",
+      "top10": "Top 10 kuasa undi",
+      "commission": "Komisen purata"
+    },
+    "filterPlaceholder": "Penapis dengan nama atau alamat",
+    "statusFilter": "Status pengesahan",
+    "tableCaption": "Validator pada {{chain}}",
+    "detailDescription": "Sebuah pengesahan simulasi di {{chain}}.",
+    "detail": {
+      "delegators": "Pewakil",
+      "bonded": "Token yang terikat",
+      "last30": "30 hari terakhir",
+      "last90": "90 hari terakhir",
+      "noBlocks": "Tiada blok baru-baru ini dicadangkan.",
+      "noWebsite": "tidak tersedia (validator fiksyen)",
+      "openPage": "Buka laman penuh",
+      "powerHistory": "Kuasa mengundi",
+      "proposed24h": "Blok yang dicadangkan (24 jam)",
+      "rank": "Kedudukan",
+      "recentBlocks": "Blok baru-baru ini dicadangkan",
+      "selfBonded": "Mengikat diri",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Masa operasi",
+      "valueUsd": "Nilai saham {{value}}",
+      "website": "Laman web"
+    },
+    "status": {
+      "active": "Aktif",
+      "inactive": "Tidak aktif",
+      "jailed": "Dipenjarakan"
+    },
+    "activitiesTitle": "Aktiviti Validator",
+    "commissionShort": "Cukai {{value}}",
+    "detailTitle": "Pengesah",
+    "fictionalNote": "Pengesahan fiksi untuk Mod Demo. Ia bukan pengendali sebenar dan tiada apa-apa tentang ia disahkan.",
+    "hoverTip": "Komisen {{commission}} · masa aktif {{uptime}} · {{delegators}} delegasi",
+    "noMatching": "Tiada pengesahan yang sesuai.",
+    "notFoundBody": "{{chain}} tidak mempunyai pengesahan dengan alamat ini.",
+    "notFoundTitle": "Validator tidak ditemui",
+    "sort": {
+      "power": "Kuasa mengundi",
+      "commission": "Komisen",
+      "uptime": "Masa operasi"
+    },
+    "sortBy": "Mengurutkan pengesahan mengikut"
+  },
+  "validatorsViz": {
+    "description": "Commission versus uptime untuk setiap validator pada {{chain}}; saiz gelembung menunjukkan kuasa undi.",
+    "showAll": "Termasuk tidak aktif dan dipenjara",
+    "avgUptime": "Tempoh aktif purata",
+    "zeroFee": "Validator dengan komisen sifar",
+    "chartTitle": "Komisen vs masa aktif",
+    "chartHint": "Setiap gelembung adalah satu pengesahan",
+    "legend": "Legenda carta",
+    "sizeHint": "Ukuran gelembung = kuasa undi"
+  }
+}

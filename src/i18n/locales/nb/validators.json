@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Bindede valser",
+    "viewAll": "Se alle validatorer",
+    "col": {
+      "validator": "Validator",
+      "power": "Stemmekraft",
+      "cumulative": "Samlet",
+      "commission": "Provisjon",
+      "uptime": "Oppetid",
+      "change": "24 timers endring",
+      "details": "Detaljer",
+      "tokens": "Obligerte tokener"
+    },
+    "stake": "Staking",
+    "stakeWith": "Stake med denne validatoren",
+    "pageDescription": "Hver validator som sikrer {{chain}}, rangert etter stemmerett (simulert).",
+    "stats": {
+      "active": "Aktive validatorer",
+      "nakamoto": "Nakamoto-koefficient",
+      "nakamotoHint": "Validerere som trengs for å stoppe kjeden",
+      "top10": "Top-10 stemmerett",
+      "commission": "Gjennomsnittskommisjon"
+    },
+    "filterPlaceholder": "Filter etter navn eller adresse",
+    "statusFilter": "Valideringsstatus",
+    "tableCaption": "Validatorer på {{chain}}",
+    "detailDescription": "En simulert validator på {{chain}}.",
+    "detail": {
+      "delegators": "Delegatorer",
+      "bonded": "Tokener som er bundet",
+      "last30": "siste 30 dager",
+      "last90": "siste 90 dager",
+      "noBlocks": "Ingen nylig foreslåtte blokker.",
+      "noWebsite": "ikke tilgjengelig (fantastisk validator)",
+      "openPage": "Åpne full side",
+      "powerHistory": "Stemmekraft",
+      "proposed24h": "Planlagte blokker (24 timer)",
+      "rank": "Rangering",
+      "recentBlocks": "Nylig foreslåtte blokker",
+      "selfBonded": "Selvbunden",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Oppetid",
+      "valueUsd": "Innsatsverdi {{value}}",
+      "website": "Nettsted"
+    },
+    "status": {
+      "active": "Aktiv",
+      "inactive": "Inaktiv",
+      "jailed": "Utestengt"
+    },
+    "activitiesTitle": "Valideringsaktiviteter",
+    "commissionShort": "Avgift {{value}}",
+    "detailTitle": "Validator",
+    "fictionalNote": "Det er ikke en ekte operatør, og ingenting om det er verifisert.",
+    "hoverTip": "Kommisjon {{commission}} · opptid {{uptime}} · {{delegators}} delegater",
+    "noMatching": "Ingen tilsvarende validatorer.",
+    "notFoundBody": "{{chain}} har ingen validator med denne adressen.",
+    "notFoundTitle": "Validator ikke funnet",
+    "sort": {
+      "power": "Stemmekraft",
+      "commission": "Provisjon",
+      "uptime": "Oppetid"
+    },
+    "sortBy": "Sortere validatorer etter"
+  },
+  "validatorsViz": {
+    "description": "Kommisjon versus uptime for hver validator på {{chain}}; boble størrelse viser stemmerett.",
+    "showAll": "Inkluderer inaktiv og fengslet",
+    "avgUptime": "Gjennomsnittlig drifttid",
+    "zeroFee": "Nullkommisjonsvalidatorer",
+    "chartTitle": "Kommisjon vs drifttid",
+    "chartHint": "Hver boble er en validator",
+    "legend": "Kartlegende",
+    "sizeHint": "Bubbelstørrelse = stemmerett"
+  }
+}

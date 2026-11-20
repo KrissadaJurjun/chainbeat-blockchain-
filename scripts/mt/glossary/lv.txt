@@ -1,0 +1,130 @@
+Informācijas panelis
+Validatori
+Priekšlikumi
+Bloki
+Darījumi
+Portfelis
+Apmaiņa
+Stakings
+Likvīdais stakings
+Sūtīt
+Balsot
+Izveidot priekšlikumu
+Tirgus
+Tīkls
+Pārvaldība
+IBC tīkls
+Izstrādātāju aktivitāte
+Vairāku ķēžu pārskats
+Pulss
+Dominance
+Bloku pārlūks
+Darījumu pārlūks
+Tokenu pārlūks
+Par
+Pārlūks
+Iestatījumi
+Maks
+Analītika
+Vizualizācijas
+Valoda
+Motīvs
+Sistēma
+Tumšs
+Gaišs
+Demo
+Simulēts
+Aizvērt
+Mēģināt vēlreiz
+Atsvaidzināt
+Kopēt
+Nokopēts
+Notīrīt
+Ielādē…
+Iepriekšējā
+Nākamā
+Noraidīt
+Atcelt
+Atpakaļ
+Skatīt visu
+Atiestatīt
+Eksportēt
+Maks.
+Summa
+Atlikums
+Maksa
+Statuss
+Kopā
+Laiks
+Augstums
+Jaucējkods
+Veids
+Viss
+Meklēt
+Filtrēt
+Detaļas
+Apstiprināt
+Pievienot maku
+Atvienot
+Pārskatīt darījumu
+Tīkla maksa
+Kopēt adresi
+Jūs maksājat
+Jūs saņemat
+Saņēmēja adrese
+Memo (neobligāti)
+Aktīvi
+Sadalījums
+Deleģēts
+Atcelt stakingu
+Maiņas kurss
+Veiksmīgi
+Darījums
+Bloks
+No
+Kam
+Memo
+Izmantotā gāze
+Validators
+Tokens
+Adrese
+Priekšlikums
+Cena
+Piedāvājums
+Tirgus kapitalizācija
+Komisijas maksa
+Pieejamība
+Balsu spēks
+Vieta
+Aktīvs
+Neaktīvs
+Ieslodzīts
+Deleģētāji
+Jā
+Nē
+Atturos
+Nē ar veto
+Pieņemts
+Noraidīts
+Neizdevās
+Notiek balsošana
+Kvorums
+Aktivitāte
+Depozīts
+Jūsu balss
+Nosaukums
+Apraksts
+On-chain rādītāji
+Bloka augstums
+Darījumi uz bloku
+Bloka laiks
+Staking APR
+Saistītie tokeni
+Kopējais piedāvājums
+Kopienas fonds
+Lapa nav atrasta
+Atpakaļ uz informācijas paneli
+Jaunākie bloki
+Jaunākie darījumi
+Paziņojumi
+Citi

@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delegasi token ke validator di {{chain}} untuk mendapatkan hadiah simulasi.",
+    "validator": "Validator",
+    "pickValidator": "Pilih validator",
+    "estimate": "Pengembalian perkiraan",
+    "netApr": "APR bersih (setelah komisi)",
+    "yearly": "Penghargaan per tahun",
+    "monthly": "Penghargaan per bulan",
+    "unbonding": "Periode pembebasan obligasi",
+    "commission": "Komisi validator",
+    "notice": "Pada jaringan nyata, taruhan yang ditarik dikunci untuk periode penghapusan {{days}} hari. Di sini semuanya disimulasikan dan instan.",
+    "yourStake": "Taruhan Anda di {{chain}}",
+    "unstake": "Batalkan staking",
+    "unstakeTitle": "Penghapusan dari {{validator}}",
+    "unstakeDescription": "Pada jaringan nyata token Anda akan membuka setelah periode penghapusan {{days}} hari.",
+    "confirmUnstake": "Unstack (simulasi)",
+    "done": "Staked (simulasi)",
+    "doneBody": "Dilengkapi di dompet Demo. Periode pengunduran diri yang sebenarnya adalah {{days}} hari.",
+    "unstaked": "Unstaked (simulasi)",
+    "unstakedBody": "Kembali ke dompet Demo instan. jaringan nyata akan memakan waktu {{days}} hari.",
+    "errors": {
+      "validator": "Pilih validator.",
+      "moreThanStaked": "Kau tidak bisa melepaskan lebih dari yang telah kau pertaruhkan."
+    },
+    "review": "Stok Review",
+    "confirmDescription": "Periksa delegasi, konfirmasi hanya mengubah dompet Demo di browser ini.",
+    "aprDisclaimer": "APR yang ditunjukkan adalah perkiraan berdasarkan inflasi saat ini, pajak masyarakat dan rasio obligasi.",
+    "rewardsHistory": "Sejarah penghargaan",
+    "noRewardsHistory": "Belum ada hadiah yang dituntut.",
+    "rewardsClaimed": "Klaim {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Taruhan token dan menerima token taruhan cair yang terus menghasilkan imbalan sementara tetap diperdagangkan.",
+    "mode": "Panduan",
+    "stake": "Staking",
+    "unstake": "Batalkan staking",
+    "asset": "Aset",
+    "youStake": "Anda taruhan ({{symbol}})",
+    "youRedeem": "Anda menebus ({{symbol}})",
+    "youReceive": "Anda menerima ({{symbol}})",
+    "exchangeRate": "Kurs",
+    "apr": "Perkiraan APR",
+    "protocolFee": "Biaya protokol atas imbalan",
+    "notice": "Token taruhan cair dan tingkatnya disimulasikan.",
+    "done": "Konversi lengkap (simulasi)",
+    "doneBody": "Saldo dompet Demo Anda diperbarui.",
+    "review": "Revisi konversi",
+    "confirmDescription": "Periksa konversi. Mengonfirmasi hanya mengubah dompet Demo di browser ini.",
+    "risksTitle": "Risiko untuk memahami",
+    "risks": {
+      "smartContract": "Risiko kontrak pintar: protokol penyimpanan cairan adalah perangkat lunak, dan perangkat lunak dapat memiliki bug.",
+      "depeg": "Risiko De-peg: token cair dapat diperdagangkan di bawah nilai token yang diwakili.",
+      "validator": "Risiko validator: jika validator di balik protokol dipotong, setiap pemegang berbagi kerugian.",
+      "unbonding": "Penundaan keluar: penebusan melalui protokol dapat memakan waktu selama periode pembebasan jaringan."
+    },
+    "rateExplain": "Nilai tukar adalah berapa banyak token yang ditempatkan satu token cair berdiri. Ini tumbuh seiring dengan kenaikan imbalan taruhan, sehingga satu token cair perlahan menjadi lebih berharga dari satu token yang ditempatkan.",
+    "noProtocol": "ChainBeat tidak mengintegrasikan dengan protokol stacking cairan nyata. Halaman ini adalah simulasi pendidikan."
+  }
+}

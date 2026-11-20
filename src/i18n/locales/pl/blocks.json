@@ -1,0 +1,38 @@
+{
+  "blockDetail": {
+    "title": "Blok {{height}}",
+    "invalid": "Nieważna wysokość bloku",
+    "description": "Szczegóły symulowanego bloku na {{chain}}.",
+    "previous": "Poprzedni blok",
+    "next": "Następny blok",
+    "notFoundTitle": "Blok nie znaleziony",
+    "notFoundBody": "{{chain}} nie ma bloku na tej wysokości.",
+    "transactions_one": "{{count}} transakcja",
+    "transactions_few": "{{count}} transakcje",
+    "transactions_many": "{{count}} transakcji",
+    "transactions_other": "{{count}} transakcji",
+    "txCaption": "Transakcje w bloku {{height}}",
+    "noTxs": "Ten blok nie ma transakcji",
+    "genesis": "Blok Genesis",
+    "parentHash": "Rodzice",
+    "demoTxs": "Demo transakcje portfela na tej wysokości",
+    "demoTxsNote": "Te zostały stworzone przez portfel Demo. Nie są częścią samej liczby transakcji symulowanego bloku."
+  },
+  "blocksPage": {
+    "description": "Najnowsze bloky na {{chain}}. Lista odświeża się około raz na blok.",
+    "live": "Życie",
+    "avgGas": "Wykorzystany gaz",
+    "tableCaption": "Ostatnie bloky na {{chain}}",
+    "proposer": "Proponent",
+    "txs": "Txs",
+    "gas": "Zużyty gas",
+    "size": "Wielkość",
+    "emptyTitle": "Brak znalezionych bloków",
+    "filterPlaceholder": "Filtr według wysokości, hash lub werylatora",
+    "filtersLabel": "Filtry blokujące",
+    "finality": "Działanie ostateczne",
+    "finalityNote": "Bloki w takiej sieci są ostateczne, gdy tylko zostaną zawarte.",
+    "finalized": "Zakończone",
+    "withTxsOnly": "Tylko bloki z transakcjami"
+  }
+}

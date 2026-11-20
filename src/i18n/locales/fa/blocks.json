@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "بلاک {{height}}",
+    "invalid": "ارتفاع بلوک غیرفعال",
+    "description": "جزئیات یک بلوک شبیه سازی شده در {{chain}}.",
+    "previous": "بلوک قبلی",
+    "next": "بلوک بعدی",
+    "notFoundTitle": "بلوک یافت نشد",
+    "notFoundBody": "{{chain}} هنوز در اين ارتفاع بلوک نداره.",
+    "transactions_one": "{{count}} معامله",
+    "transactions_other": "{{count}} معاملات",
+    "txCaption": "معاملات در بلوک {{height}}",
+    "noTxs": "این بلاک هیچ معامله ای ندارد",
+    "genesis": "بلوک پیدایش",
+    "parentHash": "هاشای والدین",
+    "demoTxs": "Demo معاملات کیف پول در این ارتفاع",
+    "demoTxsNote": "این ها توسط کیف پول Demo ایجاد شده اند. آنها بخشی از حساب معاملات بلوک شبیه سازی شده نیستند."
+  },
+  "blocksPage": {
+    "description": "تازه ترين بلوک ها در شماره {{chain}} فهرست هر بلوک يک بار تازه ميشه.",
+    "live": "زنده",
+    "avgGas": "گاز Avg. استفاده شده",
+    "tableCaption": "آخرین بلوک ها در شماره {{chain}}",
+    "proposer": "پیشنهاد دهنده",
+    "txs": "Txs",
+    "gas": "گس مصرف‌شده",
+    "size": "اندازه",
+    "emptyTitle": "هیچ بلوکی پیدا نشد",
+    "filterPlaceholder": "فیلتر با ارتفاع، هاش یا اعتبار دهنده",
+    "filtersLabel": "فیلترهای بلاک",
+    "finality": "پایان نامه",
+    "finalityNote": "بلوک هایی که در این نوع شبکه قرار دارند، به محض انجام آنها نهایی می شوند.",
+    "finalized": "تکمیل شده",
+    "withTxsOnly": "فقط بلوک هایی با معاملات"
+  }
+}

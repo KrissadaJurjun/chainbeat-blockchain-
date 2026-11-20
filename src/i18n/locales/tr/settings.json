@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Hareketini azalt",
+    "reduceMotionHint": "Animasyonları ve geçişleri en aza indir.",
+    "appearance": {
+      "compact": "Kompakt bir düzen",
+      "compactHint": "İçerik alanını biraz daha küçük çizer.",
+      "description": "Tema, hareket ve yoğunluk.",
+      "title": "Görünüm"
+    },
+    "confirm": {
+      "action": "Onayla",
+      "title": "- Emin misin? - Evet.",
+      "dataset": "Bu simülasyon saatini, hızını, gecikmesini ve zorlanmış hataları öntanımlı olarak yeniden ayarlar. Demo cüzdanı dokunmaz.",
+      "wallet": "Bu, Demo cüzdanının başlangıç bakiyesini geri getirir ve simüle edilen etkinliğini, oylarını ve önerilerini ortadan kaldırır.",
+      "all": "Bu, bu tarayıcıda saklanan tüm ChainBeat ayarlarını (dilleri, tema, ağ, Demo cüzdanı, son aramaları) kaldırır ve sayfayı yeniden yükler."
+    },
+    "data": {
+      "datasetReset": "Demo veri kümesi gerçek zamanlı olarak yeniden ayarlandı.",
+      "description": "Verilerin ne kadar yeni olduğunu ve simülasyonu nasıl yeniden ayarlayacağını.",
+      "refresh": "Canlı verileri yenile",
+      "refreshHint": "Listeler ve sayıcılar (simülasyon) ağı ne sıklıkla tekrar okuyor.",
+      "refreshOptions": {
+        "live": "Canlı",
+        "slow": "Yavaşça",
+        "manual": "Kılavuz"
+      },
+      "resetDataset": "Demo veri kümesini yeniden ayarlayın",
+      "searchesCleared": "Son aramalar temizlendi.",
+      "speedHint": "Simülasyonlu saati durdur veya yavaşlat.",
+      "title": "Veriler"
+    },
+    "description": "Görünüm, dil, ağ ve gizlilik. Her şey sadece bu tarayıcıda saklanır.",
+    "language": {
+      "count": "{{total}} dilden {{shipped}}'i",
+      "current": "Geçerli dil",
+      "description": "Bağlantı dilini seçin. Yerli isim, İngilizce isim veya kodla arama yapın.",
+      "fallback": "Henüz tercüme edilmemiş metinler İngilizce olarak gösterilmiştir.",
+      "title": "Dil"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Hangi ağı keşfetmek ve verilerin nereden geldiği.",
+      "endpoint": "Canlı uç noktası",
+      "live": "Canlı",
+      "liveUnavailable": "Bu yapıtaşta canlı veriler mevcut değildir: her sayfa simülasyon verileri gösterir. Bir uç noktası yapılandırılırsa bağlantıyı test edebilirsiniz, ancak uygulama asla canlı ve simülasyon verileri karıştırmaz.",
+      "mode": "Veri kaynağı",
+      "noEndpoint": "Hiç (simülasyon verileri)",
+      "selected": "Ağ",
+      "status": "Bağlantı",
+      "statusDemo": "Simüle edilen ağ · yüksekliği {{height}}",
+      "title": "Ağ",
+      "unavailable": "kullanılamıyor",
+      "test": "Test bağlantısı",
+      "testing": "Sınavlar...",
+      "testHint": "Aşağıdaki son noktaya sadece okunabilir iki GET talebi gönderir ve ne cevap verdiğini gösterir. Hiçbir şey kaydedilmez ve veri kaynağı değişmez.",
+      "testOk": "{{chain}}: son blok {{height}}, {{ms}} ms'de cevaplandı.",
+      "testPartial": "{{chain}}: son blok {{height}}, {{ms}} ms'de cevaplandı.",
+      "testError": {
+        "timeout": "Son nokta zamanında cevap vermedi.",
+        "network": "Son noktaya ulaşamadım. Adresini kontrol et ve bu siteden isteklere izin verdiğini kontrol et.",
+        "http": "Son nokta bir hata ile cevap verdi.",
+        "invalid": "Son nokta cevap verdi, ama Cosmos REST API biçiminde değil, bu yüzden hiçbir şey kullanılmadı."
+      }
+    },
+    "privacy": {
+      "clearAll": "Bu tarayıcıdaki tüm ChainBeat verilerini sil",
+      "description": "Bu uygulama neyi saklıyor ve neyi görebiliyor.",
+      "keysCaption": "ChainBeat tarafından kullanılan tarayıcı depolama",
+      "noNetwork": "ChainBeat hiçbir yere veriler göndermez: kendi dosyalarını hariç hiçbir analitiğe sahip değildir ve hiçbir talep yapmaz. İki seçeneği vardır: bir son noktayı yapılandırırken ve ona iki tek okuyucu talebi gönderirken ortaya çıkan Test bağlantı düğmesi ve kendi Google istemci kimliğini ekledikten sonra Google'dan yüklenen Google giriş düğmesi.",
+      "noSeed": "ChainBeat asla bir tohum cümlesi, özel anahtar veya cüzdan şifresini sormaz, saklamaz veya görmez.",
+      "storage": "Tercihleri, seçilen ağ, simülasyonlu saat, Demo cüzdanı, son aramalar ve oluşturduğunuz herhangi bir demo hesabı yalnızca bu tarayıcının localStorage'da kaydedilir.",
+      "title": "Gizlilik",
+      "wallet": "Bir tarayıcı cüzdan uzantısını bağladığınızda, ChainBeat yalnızca kamu adresinizi ve hesap adınızı okuyor ve yalnızca onayladıktan sonra. Hiçbir şey imzalanmaz veya gönderilmez.",
+      "keys": {
+        "lang": "Seçilen dil",
+        "ui": "Tema, hareket, yoğunluk, düzen ve favoriler",
+        "chain": "Seçili ağ",
+        "sim": "Simülasyonlu saat, hız ve gecikme",
+        "wallet": "Demo cüzdan: uydurma dengeler, faaliyet, oylar, öneriler",
+        "notifications": "Hangi bildirimleri okudunuz veya reddettiniz ve yerel olaylar (cüzdan, simülasyon işlemleri)",
+        "search": "Son aramalar",
+        "auth": "Demo hesaplar: kullanıcı adları, e-posta adresleri, tuzlu şifre hashleri ve mevcut giriş"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Demo Modu",
+    "chipTip": "Tüm veriler simüle edildi.",
+    "controls": "Demo Kontroller",
+    "controlsIntro": "ChainBeat deterministik simülasyon verilerine dayanıyor. Burada hiçbir şey gerçek bir blok zincirinden okunmuyor veya gönderilmiyor.",
+    "clock": "Simülasyonlu saat",
+    "simulatedNow": "Simülasyon süresi",
+    "offset": "{{value}} saat ileride",
+    "advanceHour": "Bir saat önceden",
+    "advanceDay": "1 gün önceden",
+    "resetClock": "Saati yeniden ayarlayın",
+    "clockNote": "Saatin ilerlemesi, {{chain}}'de yeni bloklar, fiyatlar ve olaylar üretir.",
+    "network": "Ağ davranışları",
+    "latency": "Simüle edilen gecikme",
+    "latencyOff": "Çıkar",
+    "simulateErrors": "Ağ hatalarını simüle et",
+    "simulateErrorsHint": "Her istek başarısız olur, böylece hata durumlarını kontrol edebilirsiniz.",
+    "wallet": "Demo cüzdan",
+    "resetWallet": "Demo cüzdanı yeniden ayarlayın",
+    "walletReset": "Demo cüzdanı başlangıç bakiyesine yeniden ayarlayın.",
+    "noticeTitle": "Demo Modu.",
+    "noticeBody": "Bu iş akışı simüle edilir. Hiçbir şey imzalanmaz ya da yayınlanmaz ve gerçek fonlar kullanılmaz.",
+    "behind": "{{value}} saat gerçek zaman gerisinde",
+    "speed": "Simülasyon hızı",
+    "speeds": {
+      "paused": "Durdurma",
+      "slow": "Yavaşça",
+      "normal": "Normal"
+    }
+  },
+  "about": {
+    "title": "ChainBeat Hakkında",
+    "demo": "ChainBeat Demo Modunda çalışmaktadır. Her blok, fiyat, onaylayıcı ve teklif tarayıcınızda belirleyici olarak oluşturulur. Bunlar mevcut ana ağ istatistikleri değildir.",
+    "privacy": "API anahtarı, özel anahtar veya tohum cümlesi gerekmez. Seçmeli demo hesapları, tercihler ve demo cüzdanı yalnızca tarayıcınızda depolanır.",
+    "shortcuts": "Klavye kısayolları",
+    "shortcutSearch": "odak arama",
+    "shortcutClose": "Diyalog ve menüleri kapat",
+    "languages": "Bağlantı dilleri: {{total}}'den {{shipped}}. Çevirmeler makine yardımıyla yapılmaktadır ve ana dili konuşanlar tarafından incelenmemiştir. Kamu kullanımından önce profesyonel inceleme önerilir.",
+    "pageDescription": "ChainBeat nedir, verileri nasıl ele alıyor ve klavyelerinin kısayolları.",
+    "shortcutPalette": "Açık arama (komut paleti)"
+  }
+}

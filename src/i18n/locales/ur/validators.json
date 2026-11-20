@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "بانڈڈ والس",
+    "viewAll": "تمام توثیق کنندہ دیکھیں",
+    "col": {
+      "validator": "ویلیڈیٹر",
+      "power": "ووٹنگ پاور",
+      "cumulative": "مجموعی",
+      "commission": "کمیشن",
+      "uptime": "دستیابی",
+      "change": "24 گھنٹوں کی تبدیلی",
+      "details": "تفصیلات",
+      "tokens": "بانڈ ٹوکن"
+    },
+    "stake": "اسٹیکنگ",
+    "stakeWith": "اس تصدیق کنندہ کے ساتھ اسٹیک",
+    "pageDescription": "{{chain}} کو محفوظ کرنے والے ہر تصدیق کنندہ، ووٹنگ طاقت کے مطابق درجہ بندی (مسلما).",
+    "stats": {
+      "active": "فعال تصدیق کنندہ",
+      "nakamoto": "ناکاموٹو کوفیشن",
+      "nakamotoHint": "زنجیروں کو روکنے کے لیے ویلیڈیٹرز کی ضرورت تھی",
+      "top10": "سب سے اوپر 10 ووٹنگ طاقت",
+      "commission": "اوسط کمیشن"
+    },
+    "filterPlaceholder": "نام یا پتہ سے فلٹر",
+    "statusFilter": "تصدیق کنندہ کی حیثیت",
+    "tableCaption": "{{chain}} پر توثیق کرنے والے",
+    "detailDescription": "{{chain}} پر ایک تخروپن تصدیق کنندہ.",
+    "detail": {
+      "delegators": "تفویض کنندگان",
+      "bonded": "ٹوکن بانڈ",
+      "last30": "آخری 30 دن",
+      "last90": "آخری 90 دن",
+      "noBlocks": "حال ہی میں مجوزہ بلاکس نہیں.",
+      "noWebsite": "دستیاب نہیں (خیالی تصدیق کنندہ)",
+      "openPage": "مکمل صفحہ کھولیں",
+      "powerHistory": "ووٹنگ پاور",
+      "proposed24h": "مجوزہ بلاک (24 گھنٹے)",
+      "rank": "درجہ",
+      "recentBlocks": "حال ہی میں مجوزہ بلاک",
+      "selfBonded": "خود مختار",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "دستیابی",
+      "valueUsd": "اسٹیک ویلیو {{value}}",
+      "website": "ویب سائٹ"
+    },
+    "status": {
+      "active": "فعال",
+      "inactive": "غیر فعال",
+      "jailed": "قید"
+    },
+    "activitiesTitle": "تصدیق کار کی سرگرمیاں",
+    "commissionShort": "فیس {{value}}",
+    "detailTitle": "ویلیڈیٹر",
+    "fictionalNote": "Demo موڈ کے لئے خیالی توثیق کنندہ. یہ ایک حقیقی آپریٹر نہیں ہے اور اس کے بارے میں کچھ بھی تصدیق نہیں کی جاتی ہے.",
+    "hoverTip": "کمیشن {{commission}} · اپ ٹائم {{uptime}} · {{delegators}} مندوبین",
+    "noMatching": "کوئی مماثل تصدیق کنندہ نہیں.",
+    "notFoundBody": "{{chain}} میں اس پتے کے ساتھ کوئی تصدیق نامہ نہیں ہے۔",
+    "notFoundTitle": "تصدیق کنندہ نہیں ملا",
+    "sort": {
+      "power": "ووٹنگ پاور",
+      "commission": "کمیشن",
+      "uptime": "دستیابی"
+    },
+    "sortBy": "ویلیڈیٹرز کو درجہ بندی کریں"
+  },
+  "validatorsViz": {
+    "description": "{{chain}} پر ہر تصدیق کنندہ کے لئے کمیشن بمقابلہ اپ ٹائم۔ بلبل کا سائز ووٹنگ کی طاقت کو ظاہر کرتا ہے۔",
+    "showAll": "غیر فعال اور جیل میں شامل کریں",
+    "avgUptime": "اوسط اپ ٹائم",
+    "zeroFee": "صفر کمیشن کی تصدیق کرنے والے",
+    "chartTitle": "کمیشن بمقابلہ اپ ٹائم",
+    "chartHint": "ہر بلبلا ایک تصدیق کنندہ ہے",
+    "legend": "چارٹ لیجنڈ",
+    "sizeHint": "بلبل کا سائز = ووٹنگ طاقت"
+  }
+}

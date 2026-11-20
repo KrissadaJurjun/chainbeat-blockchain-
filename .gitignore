@@ -1,0 +1,37 @@
+# dependencies
+node_modules
+
+# build output
+dist
+dist-ssr
+coverage
+*.tsbuildinfo
+
+# test output
+playwright-report
+test-results
+tests/e2e/__screenshots__
+.vitest-cache
+
+# env files (never commit secrets — this app needs none)
+.env
+.env.*
+!.env.example
+
+# editor / OS
+.DS_Store
+Thumbs.db
+.idea
+*.log
+npm-debug.log*
+
+# machine-translation working files (scripts/mt)
+scripts/mt/out
+scripts/mt/out-delta
+scripts/mt/final
+scripts/mt/en-flat.txt
+scripts/mt/plural-samples.json
+scripts/mt/__pycache__
+
+# third-party design reference (not ours to redistribute) — kept on the author's machine only
+reference/heartbeat-dashboard.png

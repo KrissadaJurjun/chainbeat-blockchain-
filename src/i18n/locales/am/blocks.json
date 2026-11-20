@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "ክፍል {{height}}",
+    "invalid": "ልክ ያልሆነ የብሎክ ቁመት",
+    "description": "በ{{chain}} ላይ የተመሰረተ ብሎክ ዝርዝሮች።",
+    "previous": "የቀድሞው ክፍል",
+    "next": "ቀጣዩ ብሎክ",
+    "notFoundTitle": "ብሎክ አልተገኘም",
+    "notFoundBody": "{{chain}} እስካሁን ድረስ በዚህ ቁመት ላይ ምንም ብሎክ የለውም.",
+    "transactions_one": "{{count}} ግብይት",
+    "transactions_other": "{{count}} ግብይቶች",
+    "txCaption": "በቡድን {{height}} ውስጥ የሚደረጉ ግብይቶች",
+    "noTxs": "ይህ ብሎክ ምንም ግብይቶች የሉትም",
+    "genesis": "የዘፍጥረት ብሎክ",
+    "parentHash": "የወላጅ ሃሽ",
+    "demoTxs": "Demo በዚህ ከፍታ ላይ የኪስ ቦርሳ ግብይቶች",
+    "demoTxsNote": "እነዚህ በ Demo ቦርሳ የተፈጠሩ ናቸው. እነሱ የሲምዩለር ብሎክ የራሱ የግብይት ቆጠራ አካል አይደሉም."
+  },
+  "blocksPage": {
+    "description": "በ{{chain}} ላይ ያሉት የቅርብ ጊዜ ብሎኮች ዝርዝር በየቦታው አንድ ጊዜ ያድሳል.",
+    "live": "በቀጥታ",
+    "avgGas": "ጥቅም ላይ የዋለው የአቪጂ ጋዝ",
+    "tableCaption": "በ{{chain}} ላይ የመጨረሻዎቹ ብሎኮች",
+    "proposer": "አቅራቢ",
+    "txs": "Txs",
+    "gas": "ያገለገለ ጋዝ",
+    "size": "መጠን",
+    "emptyTitle": "ምንም ብሎኮች አልተገኙም",
+    "filterPlaceholder": "ከፍታ, ሃሽ ወይም ማረጋገጫ ማጣሪያ",
+    "filtersLabel": "የማገጃ ማጣሪያዎች",
+    "finality": "ፍጻሜ",
+    "finalityNote": "እንዲህ ዓይነቱ አውታረመረብ ላይ ያሉ ማገጃዎች እንደተፈጸሙ ወዲያውኑ የመጨረሻ ይሆናሉ።",
+    "finalized": "የተጠናቀቀ",
+    "withTxsOnly": "ከግብይቶች ጋር ብቻ የሚደረጉ ብሎኮች"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Belum ada apa-apa di sini",
+    "emptyBody": "Tidak ada data untuk menunjukkan untuk pandangan ini.",
+    "errorTitle": "Tidak bisa memuat data ini",
+    "errorBody": "Ada yang salah saat membaca jaringan, periksa koneksi dan coba lagi.",
+    "crashTitle": "Ada yang salah",
+    "crashBody": "Halaman ini mengalami kesalahan yang tak terduga.",
+    "reload": "Mempunyai halaman ulang"
+  }
+}

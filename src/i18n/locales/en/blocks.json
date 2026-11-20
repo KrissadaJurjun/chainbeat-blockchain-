@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "Block {{height}}",
+    "invalid": "Invalid block height",
+    "description": "Details of a simulated block on {{chain}}.",
+    "previous": "Previous block",
+    "next": "Next block",
+    "notFoundTitle": "Block not found",
+    "notFoundBody": "{{chain}} has no block at this height yet.",
+    "transactions_one": "{{count}} transaction",
+    "transactions_other": "{{count}} transactions",
+    "txCaption": "Transactions in block {{height}}",
+    "noTxs": "This block has no transactions",
+    "genesis": "Genesis block",
+    "parentHash": "Parent hash",
+    "demoTxs": "Demo wallet transactions at this height",
+    "demoTxsNote": "These were created by the Demo wallet. They are not part of the simulated block's own transaction count."
+  },
+  "blocksPage": {
+    "description": "The newest blocks on {{chain}}. The list refreshes about once per block time.",
+    "live": "Live",
+    "avgGas": "Avg. gas used",
+    "tableCaption": "Latest blocks on {{chain}}",
+    "proposer": "Proposer",
+    "txs": "Txs",
+    "gas": "Gas used",
+    "size": "Size",
+    "emptyTitle": "No blocks found",
+    "filterPlaceholder": "Filter by height, hash or validator",
+    "filtersLabel": "Block filters",
+    "finality": "Finality",
+    "finalityNote": "Blocks on this kind of network are final as soon as they are committed.",
+    "finalized": "Finalized",
+    "withTxsOnly": "Only blocks with transactions"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "በ{{chain}} ላይ የቅርብ ጊዜዎቹ ግብይቶች ሙሉ ዝርዝሮችን ለማግኘት አንድን ይክፈቱ ።",
+    "stats": {
+      "recent": "የቅርብ ጊዜ ግብይቶች",
+      "success": "ስኬታማ",
+      "failed": "አልተሳካም",
+      "volume": "የተፈጥሮ መጠን"
+    },
+    "filterPlaceholder": "በሃሽ፣ አድራሻ ወይም ከፍታ ማጣራት",
+    "allTypes": "ሁሉም ዓይነቶች",
+    "tableCaption": "{{chain}} ላይ የቅርብ ጊዜ ግብይቶች",
+    "from": "ከ",
+    "to": "ወደ",
+    "memo": "ማስታወሻ",
+    "noMemo": "ማስታወሻ የለም",
+    "raw": "ጥሬ መረጃዎችን ይመልከቱ (ሲሚዩተር)",
+    "detailTitle": "ግብይት",
+    "detailDescription": "በ{{chain}} ላይ የተመሰረተ ግብይት ዝርዝሮች።",
+    "notFoundTitle": "ግብይት አልተገኘም",
+    "notFoundBody": "በዚህ ሃሽ ጋር ምንም ዓይነት ግብይት የለም {{chain}} በሲሚዩሉ ውስጥ.",
+    "failedBecause": "ይህ ግብይት አልተሳካም: {{reason}}.",
+    "types": {
+      "send": "ላክ",
+      "delegate": "ተልዕኮ ሰጪ",
+      "undelegate": "ያልተወከሉ",
+      "claim": "የሽልማት ጥያቄ",
+      "vote": "ድምጽ ስጥ",
+      "ibc-transfer": "IBC ማስተላለፍ",
+      "swap": "መለዋወጥ",
+      "other": "ሌሎች"
+    },
+    "status": {
+      "success": "ስኬታማ",
+      "failed": "አልተሳካም"
+    },
+    "block": "ብሎክ",
+    "cardsLabel": "ግብይቶች",
+    "category": "ምድብ",
+    "date": "ቀን",
+    "dateNote": "እስከ {{date}} መጨረሻ ድረስ የቅርብ ጊዜዎቹን {{count}} ግብይቶች ያሳያል (UTC).",
+    "emptyTitle": "ምንም ግብይቶች አልተገኙም",
+    "events": "ክስተቶች",
+    "failedEvents": "ይህ ግብይት አልተሳካለትም፤ በመሆኑም ክፍያውን ብቻ አወጣ።",
+    "feeSymbol": "የክፍያ ምልክት",
+    "filtersLabel": "የግብይት ማጣሪያዎች",
+    "gasUsed": "ያገለገለ ጋዝ",
+    "gasWanted": "የጋዝ ፍለጋ",
+    "groups": {
+      "transfer": "ማስተላለፍ",
+      "staking": "መጨናነቅ",
+      "governance": "አስተዳደር",
+      "ibc": "IBC",
+      "swap": "ልውውጦች",
+      "other": "ሌሎች"
+    },
+    "latestNote": "የቅርብ ጊዜዎቹን {{count}} ግብይቶች ያሳያሉ.",
+    "messageType": "የመልዕክት አይነት",
+    "network": "አውታረ መረብ",
+    "symbol": "ቶከን",
+    "syntheticNote": "ይህ ለ Demo ሞድ የተፈጠረ ሰው ሰራሽ መዝገብ ነው። ሃሽ እውነተኛ የብሎክቼን ሃሽ አይደለም እናም በማንኛውም አውታረመረብ ላይ ሊረጋገጥ አይችልም ።",
+    "token": "ቶከን",
+    "validator": "አረጋጋጭ",
+    "demoWalletNote": "ይህ ግብይት በ Demo Wallet የተፈጠረ ነው. ይህ ብቻ በዚህ አሳሽ ውስጥ ይገኛል: ምንም blockchain ዝውውር አልተከናወነም, እና ሃሽ እውነተኛ blockchain ሃሽ አይደለም.",
+    "demoTag": "Demo ቦርሳ"
+  }
+}

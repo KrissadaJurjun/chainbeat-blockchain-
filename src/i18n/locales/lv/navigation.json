@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Latgales līdzenes navigācija",
+    "primary": "Galvenā navigācija",
+    "menu": "Navigācijas menu",
+    "openMenu": "Atvērtas navigācijas menu",
+    "closeMenu": "Savienojiet navigācijas menu",
+    "collapseSidebar": "Izkļautās pusspēks",
+    "expandSidebar": "Lai paplašinātu laterālo staru",
+    "skipToContent": "Pārskats uz galveno saturu",
+    "home": "ChainBeat mājās",
+    "pages": "Pages",
+    "dashboard": "Informācijas panelis",
+    "validators": "Validatori",
+    "proposals": "Priekšlikumi",
+    "blocks": "Bloki",
+    "transactions": "Darījumi",
+    "portfolio": "Portfelis",
+    "swap": "Apmaiņa",
+    "stake": "Stakings",
+    "liquidStaking": "Likvīdais stakings",
+    "send": "Sūtīt",
+    "vote": "Balsot",
+    "createProposal": "Izveidot priekšlikumu",
+    "market": "Tirgus",
+    "network": "Tīkls",
+    "governance": "Pārvaldība",
+    "ibcNetwork": "IBC tīkls",
+    "devActivity": "Izstrādātāju aktivitāte",
+    "multichain": "Vairāku ķēžu pārskats",
+    "heartbeat": "Pulss",
+    "dominance": "Dominance",
+    "validatorsViz": "Validatori",
+    "blockExplorer": "Bloku pārlūks",
+    "transactionExplorer": "Darījumu pārlūks",
+    "tokenExplorer": "Tokenu pārlūks",
+    "about": "Par",
+    "explorerHome": "Pārlūks",
+    "governanceHome": "Valdības centrs",
+    "settings": "Iestatījumi"
+  },
+  "sections": {
+    "explorer": "Pārlūks",
+    "wallet": "Maks",
+    "analytics": "Analītika",
+    "visualizations": "Vizualizācijas"
+  },
+  "chains": {
+    "favorite": "Pievieno {{name}} mīļotājiem",
+    "unfavorite": "Izņem {{name}} no favorītiem",
+    "simulatedHealthy": "Simulēta tīkla · veselīga"
+  },
+  "search": {
+    "label": "Izmeklējiet ChainBeat",
+    "placeholder": "Izmeklēšanas bloks, tx, adrese...",
+    "results": "Izmeklēšanas rezultāti",
+    "noResults": "Nav rezultātiem par {{query}}",
+    "kinds": {
+      "page": "Pagāja",
+      "block": "Bloks",
+      "transaction": "Tx",
+      "validator": "Validators",
+      "token": "Tokens",
+      "address": "Adrese",
+      "proposal": "Priekšlikums"
+    },
+    "recent": "Pēdējās meklēšanas",
+    "clearRecent": "Skaista pēdējā meklēšana",
+    "removeRecent": "Izvairīt {{query}} no pēdējā meklēšanas",
+    "hint": "Izdzīvojiet bloka augstumu, darījumu hash, adresi ( {{prefix}} 1...), validators, priekšlikuma numurs vai simbols.",
+    "submit": "Meklēt",
+    "searching": "Ievērojot...",
+    "resultCount": "Rezultāti: {{count}}",
+    "invalid": {
+      "tooLong": "Tas ir pārāk ilgs, lai būtu meklēšanas termins (200 burtu maksimāli).",
+      "badChecksum": "Tas izskatās kā adrese, bet tā skaitlis neatbilst.",
+      "badHash": "Transakcijas vai bloka hashā ir tieši 64 seksadesimālie simboli.",
+      "badChars": "Izmeklējiet bloka augstumu, hash, adresi, validatoru, priekšlikumu vai token."
+    },
+    "categories": {
+      "page": "Pages",
+      "block": "Bloki",
+      "transaction": "Darījumi",
+      "address": "Adrese",
+      "validator": "Validatori",
+      "proposal": "Priekšlikumi",
+      "token": "Ziņojumi"
+    }
+  },
+  "user": {
+    "menu": "Konta menuss",
+    "guest": "Ziņojums",
+    "notConnected": "Bez portfeļa",
+    "settings": "Iestatījumi",
+    "about": "Par ChainBeat"
+  }
+}

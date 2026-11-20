@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "Les transactions les plus récentes de {{chain}}. Ouvrez-en une pour voir tous les détails.",
+    "stats": {
+      "recent": "Transactions récentes",
+      "success": "Réussies",
+      "failed": "Échouées",
+      "volume": "Volume natif"
+    },
+    "filterPlaceholder": "Filtrer par hash, adresse ou hauteur",
+    "allTypes": "Tous les types",
+    "tableCaption": "Dernières transactions de {{chain}}",
+    "from": "De",
+    "to": "À",
+    "memo": "Mémo",
+    "noMemo": "Aucun mémo",
+    "raw": "Voir les données brutes (simulé)",
+    "detailTitle": "Transaction",
+    "detailDescription": "Détails d’une transaction simulée sur {{chain}}.",
+    "notFoundTitle": "Transaction introuvable",
+    "notFoundBody": "Aucune transaction avec ce hash n’existe sur {{chain}} dans la simulation.",
+    "failedBecause": "Cette transaction a échoué : {{reason}}.",
+    "types": {
+      "send": "Envoi",
+      "delegate": "Délégation",
+      "undelegate": "Retrait de délégation",
+      "claim": "Réclamation de récompenses",
+      "vote": "Vote",
+      "ibc-transfer": "Transfert IBC",
+      "swap": "Échange",
+      "other": "Autre"
+    },
+    "status": {
+      "success": "Réussie",
+      "failed": "Échouée"
+    },
+    "block": "Bloc",
+    "cardsLabel": "Transactions",
+    "category": "Catégorie",
+    "date": "Date de réception",
+    "dateNote": "Affichage des {{count}} dernières transactions jusqu'à la fin de l'année {{date}} (UTC).",
+    "emptyTitle": "Aucune transaction n'a été trouvée",
+    "events": "Les événements",
+    "failedEvents": "Cette transaction a échoué, elle n'a donc émis que son événement de redevance.",
+    "feeSymbol": "Marque de redevance",
+    "filtersLabel": "Filtres de transaction",
+    "gasUsed": "Gas utilisé",
+    "gasWanted": "L'essence est recherchée",
+    "groups": {
+      "transfer": "Les transferts",
+      "staking": "La mise en pièces",
+      "governance": "Gouvernance",
+      "ibc": "IBC, À TITRE D'EXEMPLAIRE",
+      "swap": "Les échanges",
+      "other": "Autres"
+    },
+    "latestNote": "Il montre les dernières transactions {{count}}, choisissez une date pour revenir en arrière.",
+    "messageType": "Type de message",
+    "network": "Réseau",
+    "symbol": "Jeton",
+    "syntheticNote": "Il s'agit d'un enregistrement synthétique généré pour Demo Mode. Son hash n'est pas un véritable hash blockchain et il ne peut être vérifié sur aucun réseau.",
+    "token": "Jeton",
+    "validator": "Validateur",
+    "demoWalletNote": "Cette transaction a été créée par le portefeuille Demo. Elle n'existe que dans ce navigateur: aucun transfert de blockchain n'a eu lieu, et son hash n'est pas un vrai hash de blockchain.",
+    "demoTag": "Demo portefeuille"
+  }
+}

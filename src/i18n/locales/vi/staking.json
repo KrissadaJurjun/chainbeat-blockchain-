@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Chuyển giao token cho một người xác nhận trên {{chain}} để kiếm được phần thưởng mô phỏng.",
+    "validator": "Trình xác thực",
+    "pickValidator": "Chọn một validator",
+    "estimate": "Thu nhập ước tính",
+    "netApr": "APR ròng (sau khi giao dịch)",
+    "yearly": "Giải thưởng hàng năm",
+    "monthly": "Giải thưởng mỗi tháng",
+    "unbonding": "Thời gian không liên kết",
+    "commission": "Ủy ban xác nhận",
+    "notice": "Trên một mạng thực tế, cổ phần rút được khóa trong khoảng thời gian giải quyết liên kết {{days}} ngày. Ở đây mọi thứ được mô phỏng và tức thời.",
+    "yourStake": "Cổ số của anh ở số {{chain}}",
+    "unstake": "Hủy stake",
+    "unstakeTitle": "Tháo hỏa từ {{validator}}",
+    "unstakeDescription": "Trên một mạng thực sự, token của bạn sẽ mở khóa sau thời gian giải quyết liên kết {{days}} ngày.",
+    "confirmUnstake": "Tháo cổ phiếu (được mô phỏng)",
+    "done": "Nổ (được mô phỏng)",
+    "doneBody": "Một thời gian không liên kết thực sự sẽ là {{days}} vài ngày.",
+    "unstaked": "Không có rủi ro (được mô phỏng)",
+    "unstakedBody": "Trở lại ví Demo ngay lập tức. Một mạng thực sự sẽ mất {{days}} ngày.",
+    "errors": {
+      "validator": "Chọn người xác nhận.",
+      "moreThanStaked": "Bạn không thể giải được nhiều hơn bạn đã đặt cược."
+    },
+    "review": "Đánh giá cổ phần",
+    "confirmDescription": "Kiểm tra đại diện chỉ thay đổi ví Demo trong trình duyệt này.",
+    "aprDisclaimer": "APR được hiển thị là một ước tính dựa trên lạm phát hiện tại, thuế cộng đồng và tỷ lệ trái phiếu.",
+    "rewardsHistory": "Lịch sử phần thưởng",
+    "noRewardsHistory": "Không có phần thưởng nào được yêu cầu.",
+    "rewardsClaimed": "Được yêu cầu {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Đặt một mã thông báo và nhận một mã thông báo đặt cược chất lỏng mà tiếp tục kiếm được phần thưởng trong khi vẫn có thể giao dịch.",
+    "mode": "Định hướng",
+    "stake": "Stake",
+    "unstake": "Hủy stake",
+    "asset": "Tài sản",
+    "youStake": "Bạn đặt cược ({{symbol}})",
+    "youRedeem": "Các người cứu chuộc ({{symbol}})",
+    "youReceive": "Bạn nhận được ({{symbol}})",
+    "exchangeRate": "Tỷ giá",
+    "apr": "APR ước tính",
+    "protocolFee": "Thuế giao thức về phần thưởng",
+    "notice": "Các mã thông báo cá cược chất lỏng và tỷ lệ cược của chúng được mô phỏng.",
+    "done": "Chuyển đổi hoàn chỉnh (được mô phỏng)",
+    "doneBody": "Số dư Demo ví của anh đã được cập nhật.",
+    "review": "Chuyển đổi xem xét",
+    "confirmDescription": "Kiểm tra chuyển đổi. chỉ xác nhận thay đổi ví Demo trong trình duyệt này.",
+    "risksTitle": "Nguy cơ để hiểu",
+    "risks": {
+      "smartContract": "Nguy cơ hợp đồng thông minh: Các giao thức lưu trữ chất lỏng là phần mềm, và phần mềm có thể có lỗi.",
+      "depeg": "Nguy cơ De-peg: token lỏng có thể giao dịch dưới giá trị của các token mà nó đại diện.",
+      "validator": "Nguy cơ xác nhận: nếu các xác nhận đằng sau giao thức bị cắt giảm, mỗi chủ sở hữu sẽ chia sẻ thiệt hại.",
+      "unbonding": "Sự chậm trễ xuất hiện: Việc mua lại thông qua giao thức có thể mất thời gian giải quyết liên kết của mạng."
+    },
+    "rateExplain": "Tỷ lệ trao đổi là bao nhiêu mã thông báo được đặt cược một mã thông báo thanh khoản đứng lên. Nó tăng lên khi phần thưởng đặt cược tích lũy, do đó một mã thông báo thanh khoản dần trở nên có giá trị hơn một mã thông báo được đặt cược.",
+    "noProtocol": "ChainBeat không tích hợp với bất kỳ giao thức đống chất lỏng thực sự nào. Trang này là một mô phỏng giáo dục."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simulat",
+    "close": "Închide",
+    "retry": "Încearcă din nou",
+    "refresh": "Reîmprospătează",
+    "copy": "Copiază",
+    "copied": "Copiat",
+    "clear": "Șterge",
+    "loading": "Se încarcă…",
+    "options": "Opțiuni",
+    "previous": "Anterior",
+    "next": "Următorul",
+    "pagination": "Paginaţie",
+    "pageN": "Pagina {{n}}",
+    "dismiss": "Respinge",
+    "cancel": "Anulează",
+    "viewAll": "Vezi tot",
+    "max": "Max",
+    "amount": "Sumă",
+    "balance": "Sold",
+    "fee": "Comision",
+    "status": "Stare",
+    "time": "Timp",
+    "height": "Înălțime",
+    "hash": "Hash",
+    "type": "Tip",
+    "all": "Toate",
+    "showing": "Să arăt {{from}} {{to}} de {{total}}",
+    "noResults": "Niciun rezultat nu se potriveşte cu filtrele tale.",
+    "rowsPerPage": "Lini pe pagină",
+    "actions": "Acțiuni",
+    "exportCsv": "CSV de export",
+    "details": "Detalii",
+    "clearFilters": "Filtre transparente",
+    "collapseAll": "Se prăbuşesc toţi",
+    "copyJson": "Copiează JSON",
+    "expandAll": "Expandă toate",
+    "showMore": "Arată {{count}} mai mult"
+  },
+  "language": {
+    "label": "Limbă",
+    "search": "Limba de căutare"
+  },
+  "theme": {
+    "label": "Temă",
+    "system": "Sistem",
+    "dark": "Întunecat",
+    "light": "Luminos"
+  },
+  "footer": {
+    "tagline": "Explorează blocuri, urmăreşte tranzacţiile, înţelege Web3.",
+    "demo": "Demo Mode toate cifrele sunt simulate și nu sunt statistici reale de rețea.",
+    "share": "Împărţire",
+    "linkCopied": "Link copiat pe clipboard.",
+    "docs": "Documentare",
+    "links": "Legături de mai jos",
+    "modeDemo": "Demo Rețea",
+    "repository": "Repositoriu",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Pagina nu a fost găsită",
+    "body": "Pagina pe care o cauţi nu există sau s-a mutat.",
+    "home": "Înapoi la tabloul de bord"
+  },
+  "gate": {
+    "title": "Conectaţi portofelul Demo pentru a continua",
+    "body": "Acest flux de lucru se execută pe un portofel simulat. Conectați portofelul Demo pentru a încerca nimic real nu este semnat sau trimis vreodată.",
+    "realTitle": "Un portofel real este conectat",
+    "realBody": "{{address}} este conectat, dar modul ChainBeat Demo nu semnează sau transmite niciodată tranzacții. Treci la portofelul Demo pentru a încerca acest flux de lucru.",
+    "useDemo": "Foloseşte portofelul Demo"
+  }
+}

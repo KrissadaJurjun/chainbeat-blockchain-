@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Šeit vēl nekas",
+    "emptyBody": "Nav nekādu datu par šo viedokli.",
+    "errorTitle": "Nevaru iekļut šos datus",
+    "errorBody": "Nē, kaut kas klāja nepareizi lasot tīklu, pārbaudiet savienojumu un mēģiniet atkal.",
+    "crashTitle": "Nē, kaut kas notika nepareizi",
+    "crashBody": "Šī lapa sasniega neticētu kļūdu.",
+    "reload": "Atkārtojiet lapu"
+  }
+}

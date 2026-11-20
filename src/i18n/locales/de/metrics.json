@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "On-Chain-Kennzahlen",
+    "exportCsv": "Als CSV exportieren",
+    "exported": "Kennzahlen als CSV exportiert.",
+    "openAnalytics": "Netzwerkanalyse öffnen",
+    "last24h": "Letzte 24 Stunden",
+    "sparklineLabel": "Trend der letzten 24 Stunden",
+    "change24h": "Änderung in 24 Std.",
+    "blocks": "Blöcke",
+    "exact": "Exakter Wert",
+    "bondedRatio": "Bonded-Quote",
+    "poolShare": "Anteil am Angebot",
+    "tokenPrice": "Token-Preis",
+    "inputInflation": "Inflation",
+    "inputTax": "Community-Steuer",
+    "inputBonded": "Bonded-Quote",
+    "csvMetric": "Kennzahl",
+    "csvValue": "Wert",
+    "csvUnit": "Einheit",
+    "csvChange24h": "Änderung 24 Std.",
+    "blockHeight": {
+      "label": "Blockhöhe",
+      "description": "Die Anzahl der seit dem Genesis-Block erzeugten Blöcke. Sie steigt mit jedem neuen Block um eins."
+    },
+    "totalTransactions": {
+      "label": "Transaktionen",
+      "description": "Gesamtzahl der Transaktionen, die das Netzwerk seit dem Genesis-Block verarbeitet hat."
+    },
+    "txPerBlock": {
+      "label": "Tx pro Block",
+      "description": "Durchschnittliche Anzahl an Transaktionen pro Block, gemessen über die letzten 100 Blöcke."
+    },
+    "blockTime": {
+      "label": "Blockzeit",
+      "description": "Durchschnittliche Zeit zwischen aufeinanderfolgenden Blöcken, gemessen über die letzten 100 Blöcke."
+    },
+    "inflation": {
+      "label": "Inflation",
+      "description": "Die jährliche Rate, mit der neue Token ausgegeben werden, um Staker zu belohnen und den Community-Pool zu füllen."
+    },
+    "stakingApr": {
+      "label": "Staking-APR",
+      "description": "Geschätzte jährliche Rendite gestakter Token, vor der Provision des Validators.",
+      "formula": "APR = Inflation × (1 − Community-Steuer) ÷ Bonded-Quote"
+    },
+    "bondedTokens": {
+      "label": "Gebundene Token",
+      "description": "Token, die derzeit bei aktiven Validatoren gestakt sind. Der gebundene Stake sichert das Netzwerk.",
+      "formula": "gebunden = Gesamtangebot × Bonded-Quote"
+    },
+    "totalSupply": {
+      "label": "Gesamtangebot",
+      "description": "Alle existierenden Token, einschließlich der gestakten. Es wächst mit der Inflation."
+    },
+    "communityPool": {
+      "label": "Community-Pool",
+      "description": "Token, die per On-Chain-Governance kontrolliert werden. Der Pool erhält einen Anteil der Inflation und wird durch angenommene Vorschläge verwendet.",
+      "formula": "Pool-Wachstum ≈ Angebot × Inflation × Community-Steuer"
+    },
+    "poolValue": {
+      "label": "Poolwert",
+      "description": "Geschätzter Wert des Community-Pools in US-Dollar zum simulierten Token-Preis.",
+      "formula": "Wert = Pool × Token-Preis"
+    }
+  }
+}

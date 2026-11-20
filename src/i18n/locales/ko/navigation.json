@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "사이드바 탐색",
+    "primary": "주 메뉴",
+    "menu": "탐색 메뉴",
+    "openMenu": "탐색 메뉴 열기",
+    "closeMenu": "탐색 메뉴 닫기",
+    "collapseSidebar": "사이드바 접기",
+    "expandSidebar": "사이드바 펼치기",
+    "skipToContent": "본문으로 건너뛰기",
+    "home": "ChainBeat 홈",
+    "pages": "페이지",
+    "dashboard": "대시보드",
+    "validators": "검증인",
+    "proposals": "제안",
+    "blocks": "블록",
+    "transactions": "트랜잭션",
+    "portfolio": "포트폴리오",
+    "swap": "스왑",
+    "stake": "스테이킹",
+    "liquidStaking": "리퀴드 스테이킹",
+    "send": "보내기",
+    "vote": "투표",
+    "createProposal": "제안 만들기",
+    "market": "시장",
+    "network": "네트워크",
+    "governance": "거버넌스",
+    "ibcNetwork": "IBC 네트워크",
+    "devActivity": "개발 활동",
+    "multichain": "멀티체인 개요",
+    "heartbeat": "하트비트",
+    "dominance": "점유율",
+    "validatorsViz": "검증인",
+    "blockExplorer": "블록 탐색기",
+    "transactionExplorer": "트랜잭션 탐색기",
+    "tokenExplorer": "토큰 탐색기",
+    "about": "에 관한 것",
+    "explorerHome": "탐색기",
+    "governanceHome": "통치 중심지",
+    "settings": "설정"
+  },
+  "sections": {
+    "explorer": "탐색기",
+    "wallet": "지갑",
+    "analytics": "분석",
+    "visualizations": "시각화"
+  },
+  "chains": {
+    "favorite": "{{name}} 즐겨찾기에 추가",
+    "unfavorite": "{{name}} 즐겨찾기에서 제거",
+    "simulatedHealthy": "시뮬레이션 네트워크 · 정상"
+  },
+  "search": {
+    "label": "ChainBeat 검색",
+    "placeholder": "블록, Tx, 주소 검색…",
+    "results": "검색 결과",
+    "noResults": "“{{query}}”에 대한 결과가 없습니다",
+    "kinds": {
+      "page": "페이지",
+      "block": "블록",
+      "transaction": "Tx",
+      "validator": "검증인",
+      "token": "토큰",
+      "address": "주소",
+      "proposal": "제안"
+    },
+    "recent": "최근 검색",
+    "clearRecent": "명확한 최근 검색",
+    "removeRecent": "최근 검색에서 {{query}}을 삭제",
+    "hint": "블록 높이, 트랜잭션 해시, 주소 ( {{prefix}} 1...), 검증자, 제안 번호 또는 토큰 도메인.",
+    "submit": "검색",
+    "searching": "찾아...",
+    "resultCount": "결과: {{count}}",
+    "invalid": {
+      "tooLong": "검색 용어로 쓰기에는 너무 길다.",
+      "badChecksum": "주소처럼 보이지만 체크 수치는 일치하지 않습니다. 타이핑 오류를 확인하세요.",
+      "badHash": "트랜잭션이나 블록 해시에는 정확히 64개의 여섯십자 문자가 있습니다.",
+      "badChars": "블록 높이, 해시, 주소, 검증자, 제안 또는 토큰을 검색하세요."
+    },
+    "categories": {
+      "page": "페이지",
+      "block": "블록",
+      "transaction": "트랜잭션",
+      "address": "주소",
+      "validator": "검증인",
+      "proposal": "제안",
+      "token": "토큰"
+    }
+  },
+  "user": {
+    "menu": "계정 메뉴",
+    "guest": "게스트",
+    "notConnected": "연결된 지갑 없음",
+    "settings": "설정",
+    "about": "ChainBeat 정보"
+  }
+}

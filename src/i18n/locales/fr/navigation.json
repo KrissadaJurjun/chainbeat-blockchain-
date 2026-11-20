@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Navigation latérale",
+    "primary": "Navigation principale",
+    "menu": "Menu de navigation",
+    "openMenu": "Ouvrir le menu de navigation",
+    "closeMenu": "Fermer le menu de navigation",
+    "collapseSidebar": "Réduire la barre latérale",
+    "expandSidebar": "Développer la barre latérale",
+    "skipToContent": "Aller au contenu principal",
+    "home": "Accueil ChainBeat",
+    "pages": "Pages",
+    "dashboard": "Tableau de bord",
+    "validators": "Validateurs",
+    "proposals": "Propositions",
+    "blocks": "Blocs",
+    "transactions": "Transactions",
+    "portfolio": "Portefeuille",
+    "swap": "Échange",
+    "stake": "Staking",
+    "liquidStaking": "Staking liquide",
+    "send": "Envoyer",
+    "vote": "Voter",
+    "createProposal": "Créer une proposition",
+    "market": "Marché",
+    "network": "Réseau",
+    "governance": "Gouvernance",
+    "ibcNetwork": "Réseau IBC",
+    "devActivity": "Activité de développement",
+    "multichain": "Vue multichaîne",
+    "heartbeat": "Battement",
+    "dominance": "Dominance",
+    "validatorsViz": "Validateurs",
+    "blockExplorer": "Explorateur de blocs",
+    "transactionExplorer": "Explorateur de transactions",
+    "tokenExplorer": "Explorateur de jetons",
+    "about": "À propos de",
+    "explorerHome": "Explorateur",
+    "governanceHome": "Centre de gouvernance",
+    "settings": "Paramètres"
+  },
+  "sections": {
+    "explorer": "Explorateur",
+    "wallet": "Portefeuille",
+    "analytics": "Analyses",
+    "visualizations": "Visualisations"
+  },
+  "chains": {
+    "favorite": "Ajouter {{name}} aux favoris",
+    "unfavorite": "Retirer {{name}} des favoris",
+    "simulatedHealthy": "Réseau simulé · en bon état"
+  },
+  "search": {
+    "label": "Rechercher dans ChainBeat",
+    "placeholder": "Rechercher un bloc, une tx, une adresse…",
+    "results": "Résultats de recherche",
+    "noResults": "Aucun résultat pour « {{query}} »",
+    "kinds": {
+      "page": "Page",
+      "block": "Bloc",
+      "transaction": "Tx",
+      "validator": "Validateur",
+      "token": "Jeton",
+      "address": "Adresse",
+      "proposal": "Proposition de décision"
+    },
+    "recent": "Recherches récentes",
+    "clearRecent": "Des recherches récentes claires",
+    "removeRecent": "Supprimer {{query}} des recherches récentes",
+    "hint": "Essayez une hauteur de bloc, un hash de transaction, une adresse ( {{prefix}} 1...), un validateur, un numéro de proposition ou une dénomination symbolique.",
+    "submit": "Rechercher",
+    "searching": "Je suis à la recherche...",
+    "resultCount": "Résultats: {{count}}",
+    "invalid": {
+      "tooLong": "C'est trop long pour être un terme de recherche (200 caractères au maximum).",
+      "badChecksum": "Cela ressemble à une adresse, mais sa somme de contrôle ne correspond pas. Vérifiez-le pour des erreurs de frappe.",
+      "badHash": "Une transaction ou un bloc hash a exactement 64 caractères hexadecimaux.",
+      "badChars": "Recherchez une hauteur de bloc, un hash, une adresse, un validateur, une proposition ou un jeton."
+    },
+    "categories": {
+      "page": "Pages",
+      "block": "Blocs",
+      "transaction": "Transactions",
+      "address": "Adresses",
+      "validator": "Validateurs",
+      "proposal": "Propositions",
+      "token": "Les jetons"
+    }
+  },
+  "user": {
+    "menu": "Menu du compte",
+    "guest": "Invité",
+    "notConnected": "Aucun portefeuille connecté",
+    "settings": "Paramètres",
+    "about": "À propos de ChainBeat"
+  }
+}

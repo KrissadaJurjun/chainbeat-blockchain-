@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Izmantojot kustību",
+    "reduceMotionHint": "Minimizēt animacijas un pārejas.",
+    "appearance": {
+      "compact": "Kompakta sastāva",
+      "compactHint": "Piekrīt saturu nedaudz mazāk.",
+      "description": "Tema, kustība un blīvums.",
+      "title": "Izskats"
+    },
+    "confirm": {
+      "action": "Apstiprināt",
+      "title": "Vai tu esi pārliecināts?",
+      "dataset": "Tas atceļ simulēto stundu, to ātrumu, aizguvu un piespiedu kļūdas uz iepriekšējiem parametriem.",
+      "wallet": "Tas atjaunina Demo. portfeļa sākotnējo bilanci un novērš simulētu darbību, balsojumus un priekšlikumus.",
+      "all": "Tas izslēdz katru ChainBeat iestatījumu, kas ir uzglabāta šajā pārlūkojumā (valsts, tema, tīkls, Demo. portfelis, pēdējā meklēšana) un atkārtoti iekļūst lapu."
+    },
+    "data": {
+      "datasetReset": "Demo Datubāzes atjauninājums uz reālo laiku.",
+      "description": "Cik jaunāki dati ir un kā atjaunot simulāciju.",
+      "refresh": "Jautājums:",
+      "refreshHint": "Cik bieži saraksts un skaitītāji atkārtoti lasīs (simulēta) tīklu.",
+      "refreshOptions": {
+        "live": "Dzīvoklis",
+        "slow": "Lēnai",
+        "manual": "Rīcējs"
+      },
+      "resetDataset": "Atkārto demo datu kopumu",
+      "searchesCleared": "Pēdējos meklējumus atbrīvojusi.",
+      "speedHint": "Atstājiet simulētu laikrakstu vai uzlabotu.",
+      "title": "Dati"
+    },
+    "description": "Izskats, valoda, tīkls un privātuma.",
+    "language": {
+      "count": "{{shipped}} no {{total}} pieejamas valodām",
+      "current": "Jaundzimušo valoda",
+      "description": "Izvēli saskarnes valodu, meklējiet pēc vietējā nosaukuma, angļu nosaukuma vai kodu.",
+      "fallback": "Teksts, kas vēl nav pārklāts, ir parādīts angļu valodā.",
+      "title": "Valoda"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Kādus tīklus izpētīt un no kur nāk dati.",
+      "endpoint": "Jautājums",
+      "live": "Dzīvoklis",
+      "liveUnavailable": "Šajā uzbūvēs nav pieejami dzīvi dati: katrā lapā ir attēloti simulētie dati. Ja ir konfigurēts galamērķis, jūs varat testēt savienojumu, bet aplikācija nekad nesamazina dzīvi un simulētie dati.",
+      "mode": "Datu avots",
+      "noEndpoint": "Ne (simulētie dati)",
+      "selected": "Tīkls",
+      "status": "Saistība",
+      "statusDemo": "Simulēta tīkla · augstums {{height}}",
+      "title": "Tīkls",
+      "unavailable": "nepastāvēta",
+      "test": "Testas savienojums",
+      "testing": "Testēšana...",
+      "testHint": "Sūta divus GET pieprasījumus, kas ir tikai lasami, pie apakšnodaļā un norāda atbildes uz tiem.",
+      "testOk": "Saistībā ar {{chain}}: pēdējais bloks {{height}}, atbildēja {{ms}} ms.",
+      "testPartial": "Savienojies ar {{chain}}. jaunāko bloku {{height}}. atbildēja {{ms}} minūtēs.",
+      "testError": {
+        "timeout": "Galvenais punkts neatbildēja laiku.",
+        "network": "Galvenā punkta nav iespējams sasniegt, pārbaudiet adresi un to, ka tas ļauj pieprasīt no šīs vietnes.",
+        "http": "Galvenais punkts atbildēja ar kļūdu.",
+        "invalid": "Galvenais punkts atbildēja, bet ne Cosmos REST API formātā, tāpēc nekas nebija izmantots."
+      }
+    },
+    "privacy": {
+      "clearAll": "Izvairīt visus ChainBeat datus šajā pārlūkojumā",
+      "description": "Ko šī aplikācija glabā un ko tā var redzēt.",
+      "keysCaption": "ChainBeat izmantotā pārlūkošanas uzglabāšana",
+      "noNetwork": "ChainBeat nav sūtījis datus uz jebkuru vietu: tā nav analīzes un nesniedz pieprasījumus, izņemot savus failus. Ir divi izvēles izņēmumi: Test connection pulksteņš, kas parādās tikai tad, kad konfigurēsi galamērķi un nosūtīsi tam divus tikai lasīšanas pieprasījumus, un Google reģistrācijas pulksteņš, kas parādās tikai tad, kad pievienosi savu Google klienta ID un pēc tam tiek iekļūstas no Google.",
+      "noSeed": "ChainBeat nekad neatbilda, neatbilda vai neredz sēdekļa frazi, privāto atslēgu vai naudas pinceļu loģendu.",
+      "storage": "Preferences, izvēlēta tīkla, simulētais laiks, Demo. portfelis, pēdējā meklēšana un jebkādu demo kontu, ko izveidojat, glabā tikai šajā brauzēra vietējā uzglabāšanas sistēmā.",
+      "title": "Privātība",
+      "wallet": "Ja savienojat brauciena portfeļa paplašinājumu, ChainBeat lasīs tikai jūsu publisko adresi un konta nosaukumu, un tikai pēc to apstiprināšanas.",
+      "keys": {
+        "lang": "Izvēlēta valoda",
+        "ui": "Tema, kustība, blīvums, sastāva un mīļoti",
+        "chain": "Izvēlēta tīkla",
+        "sim": "Simulēts laikraksts, ātrums un aizmugurums",
+        "wallet": "Demo portfelis: fiktīvas bilances, darbība, balsi, priekšlikumi",
+        "notifications": "Kādus paziņojumus esat izlasījis vai noraidījis, kā arī vietējos notikumus (wallet, simulētas darījumus)",
+        "search": "Pēdējās meklēšanas",
+        "auth": "Demo kontu: lietotāju nosaukumi, e-pastu adresi, sāls salas hashes un pašreizējo reģistrāciju"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Demo Mods",
+    "chipTip": "Visi dati ir simulēti.",
+    "controls": "Demo kontroles",
+    "controlsIntro": "ChainBeat darbojas uz deterministisku simulētu datu.",
+    "clock": "Simulēts laikraksts",
+    "simulatedNow": "Simulēts laiks",
+    "offset": "{{value}} stundas iepriekš",
+    "advanceHour": "1 stundu iepriekš",
+    "advanceDay": "1 diena iepriekš",
+    "resetClock": "Atkārtojiet laikrakstu",
+    "clockNote": "Nākošais laikraksts rada jaunas blokas, cenas un notikumus {{chain}}.",
+    "network": "Sievijas uzvedība",
+    "latency": "Simulēts aizmugurums",
+    "latencyOff": "Izstāde",
+    "simulateErrors": "Simulēt tīkla kļūdas",
+    "simulateErrorsHint": "Katrs pieprasījums nesasniedz, tāpēc jūs varat pārbaudīt kļūdas datus.",
+    "wallet": "Demo portfelis",
+    "resetWallet": "Atkārto demo portfelli",
+    "walletReset": "Demo portfelis atceļ uz sākotnējo bilanci.",
+    "noticeTitle": "Demo režīms.",
+    "noticeBody": "Šī darba plūsma ir simulēta, nekas nav parakstīts vai nosūtīts, un nav iesaistīti reāli līdzekļi.",
+    "behind": "{{value}} stundas pēc reāla laika",
+    "speed": "Simulācijas ātrums",
+    "speeds": {
+      "paused": "Pauzis",
+      "slow": "Lēnai",
+      "normal": "Normals"
+    }
+  },
+  "about": {
+    "title": "Par ChainBeat",
+    "demo": "ChainBeat darbojas Demo režīmā. Katrs bloks, cena, validators un priekšlikums tiek determiniski radīts jūsu pārlūkojumā.",
+    "privacy": "Nav nepieciešams API atslēgas, privāts atslēgas vai sēdekļa fraze.",
+    "shortcuts": "Klaviatures īslaicības",
+    "shortcutSearch": "Fokusēja meklēšana",
+    "shortcutClose": "Atklājiet dialogu un menu",
+    "languages": "Interface valodas: {{shipped}} no {{total}}. Pārvadījumi ir mašīnām palīdzēti un nav pārbaudīti no domātājiem; profesionāla pārbaude ir ieteicama pirms publiskajai izmantošanai.",
+    "pageDescription": "Kas ir ChainBeat, kā tas rīkojas ar datiem, un tās klaviatūras īpatnēs.",
+    "shortcutPalette": "Atvērtā meklēšana (parādības paleta)"
+  }
+}

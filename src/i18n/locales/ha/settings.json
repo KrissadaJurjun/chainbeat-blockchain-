@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "Ka rage motsi",
+    "reduceMotionHint": "Ka rage rayarwa da kuma sauye-sauye.",
+    "appearance": {
+      "compact": "Shirye-shiryen tsari",
+      "compactHint": "Ya zana yankin abun ciki dan kadan karami.",
+      "description": "Jigo, motsi da yawa.",
+      "title": "Halin da ake gani"
+    },
+    "confirm": {
+      "action": "Tabbatar",
+      "title": "Shin kana da tabbacin hakan?",
+      "dataset": "Wannan ya sake saita agogon kwaikwayo, saurinsa, jinkirinsa da kurakuran da aka tilasta zuwa tsoho.",
+      "wallet": "Wannan ya dawo da asusun ajiya na Demo kuma ya kawar da aikinsa na kwaikwayo, kuri'u da shawarwari.",
+      "all": "Wannan yana cire duk saitin ChainBeat da aka adana a cikin wannan mai bincike (harshe, taken, cibiyar sadarwa, Demo walat, binciken kwanan nan) kuma sake loda shafin."
+    },
+    "data": {
+      "datasetReset": "Demo data set sake saita zuwa real lokaci.",
+      "description": "Yadda ake sabunta bayanan da kuma yadda za a sake saita kwaikwayon.",
+      "refresh": "Sabunta bayanai masu rai",
+      "refreshHint": "Sau nawa jerin da counters sake karanta (simulated) cibiyar sadarwa.",
+      "refreshOptions": {
+        "live": "Rayuwa",
+        "slow": "A hankali",
+        "manual": "Manual"
+      },
+      "resetDataset": "Sake saita bayanan demo",
+      "searchesCleared": "Binciken da aka yi kwanan nan ya warware.",
+      "speedHint": "Ka dakatar da agogon ko kuma ka rage saurin sa.",
+      "title": "Bayanai"
+    },
+    "description": "Kallon, harshe, cibiyar sadarwa da tsare sirri. Duk abin da aka adana kawai a cikin wannan browser.",
+    "language": {
+      "count": "{{shipped}} daga cikin harsuna {{total}} da ake da su",
+      "current": "Harshe na yanzu",
+      "description": "Zaɓi yaren dubawa. Bincika ta sunan asali, sunan Ingilishi ko lambar.",
+      "fallback": "Ana nuna rubutun da ba a fassara ba a Turanci.",
+      "title": "Harshe"
+    },
+    "network": {
+      "demo": "Demo",
+      "description": "Wace hanyar sadarwa za a bincika kuma daga ina bayanan suka fito.",
+      "endpoint": "Ƙarshen Ƙarshen Rayuwa",
+      "live": "Rayuwa",
+      "liveUnavailable": "Ba a samun bayanai na rayuwa a cikin wannan ginin: kowane shafi yana nuna bayanan kwaikwayo. Idan an saita ƙarshen za ku iya gwada haɗin, amma aikace-aikacen ba ya haɗuwa da bayanan rayuwa da simintin.",
+      "mode": "Tushen Bayanai",
+      "noEndpoint": "Babu (bayanan kwaikwayo)",
+      "selected": "Hanyar sadarwa",
+      "status": "Haɗin",
+      "statusDemo": "Ƙararrawa na cibiyar sadarwa · tsawo {{height}}",
+      "title": "Hanyar sadarwa",
+      "unavailable": "ba a samu ba",
+      "test": "Hadin gwaji",
+      "testing": "Gwajin...",
+      "testHint": "Yana aika da buƙatun GET guda biyu don karantawa kawai zuwa ƙarshen ƙarshen da ke ƙasa kuma yana nuna abin da ya amsa. Babu wani abu da aka adana kuma tushen bayanan bai canza ba.",
+      "testOk": "An haɗa shi zuwa {{chain}}: latest block {{height}}, amsa a {{ms}} ms.",
+      "testPartial": "Na haɗu da {{chain}}: latest block {{height}}, amsa a {{ms}} ms. Wasu zaɓuɓɓuka bayanai ba su samuwa.",
+      "testError": {
+        "timeout": "Ba a ba da amsa a kan lokaci ba.",
+        "network": "Ba za a iya isa wurin ba. Ka duba adireshin da kuma cewa yana ba da izinin buƙatun daga wannan shafin.",
+        "http": "Ƙarshen ya amsa da kuskure.",
+        "invalid": "Ƙarshen ƙarshen ya amsa, amma ba a cikin tsarin API na Cosmos REST ba, don haka ba a yi amfani da kome ba."
+      }
+    },
+    "privacy": {
+      "clearAll": "Share duk ChainBeat data a cikin wannan browser",
+      "description": "Abin da wannan app ke adanawa da kuma abin da zai iya gani.",
+      "keysCaption": "Shafin bincike da ChainBeat ke amfani da shi",
+      "noNetwork": "ChainBeat ba ya aika da bayanai a ko'ina: ba shi da nazari kuma baya yin buƙatu sai don fayilolin kansa. Akwai keɓancewa biyu na zaɓi: maɓallin Test connection, wanda kawai ya bayyana lokacin da kuka saita ƙarshen maɓallin kuma ya aika buƙatun karantawa guda biyu zuwa gare shi, da maɓallin shiga Google, wanda kawai ya bayyana bayan kun ƙara ID na abokin ciniki na Google kuma an ɗora shi daga Google.",
+      "noSeed": "ChainBeat ba ya tambayar, adana ko ganin kalmar farko, maɓallin sirri ko kalmar sirri na walat.",
+      "storage": "Zaɓuɓɓuka, hanyar sadarwar da aka zaɓa, agogon kwaikwayo, walat ɗin Demo, binciken da aka yi kwanan nan da duk wani asusun demo da kuka ƙirƙira an adana su ne kawai a cikin localStorage na wannan mai bincike.",
+      "title": "Sirri",
+      "wallet": "Idan ka haɗa wani browser wallet tsawo, ChainBeat karanta kawai your jama'a address da asusun sunan, kuma kawai bayan ka amince da shi. Babu wani abu da aka sanya hannu ko aika.",
+      "keys": {
+        "lang": "Harshe da aka zaɓa",
+        "ui": "Jigo, motsi, yawa, layout da kuma fi so",
+        "chain": "Zaɓaɓɓen cibiyar sadarwa",
+        "sim": "Sa'a, saurin da jinkirin da aka kwaikwaya",
+        "wallet": "Demo walat: lissafin kuɗi, aiki, kuri'u, shawarwari",
+        "notifications": "Waɗanne sanarwar da kuka karanta ko kuka ƙi, da abubuwan da suka faru a gida (wallet, simintattun ma'amaloli)",
+        "search": "Binciken da aka yi kwanan nan",
+        "auth": "Demo asusun: sunayen masu amfani, adiresoshin imel, hashes na kalmar sirri mai gishiri da shiga na yanzu"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Yanayin Demo",
+    "chipTip": "Dukan bayanan an kwaikwaya su.",
+    "controls": "Demo sarrafawa",
+    "controlsIntro": "ChainBeat yana gudana akan ƙididdigar ƙididdiga. Babu wani abu a nan da aka karanta daga, ko aika zuwa, ainihin toshe-toshe.",
+    "clock": "Sa'a mai kwaikwayon",
+    "simulatedNow": "Lokaci na kwaikwayon",
+    "offset": "{{value}} sa'o'i a gaba",
+    "advanceHour": "Sa'a 1 a gaba",
+    "advanceDay": "Kwanaki 1 a gaba",
+    "resetClock": "Sake saita agogo",
+    "clockNote": "Ƙaddamar da agogo yana haifar da sababbin abubuwa, farashin da abubuwan da suka faru a kan {{chain}}. Bayanai don kowane lokaci koyaushe iri ɗaya ne.",
+    "network": "Halin cibiyar sadarwa",
+    "latency": "Ƙaddamar da jinkiri",
+    "latencyOff": "A kashe",
+    "simulateErrors": "Auna kuskuren cibiyar sadarwa",
+    "simulateErrorsHint": "Kowane request kasa don haka za ka iya duba kuskure jihohi.",
+    "wallet": "Demo Aljihu",
+    "resetWallet": "Sake saita walat na demo",
+    "walletReset": "Demo Aljihu sake saitawa zuwa asusunsa na farko.",
+    "noticeTitle": "Yanayin Demo.",
+    "noticeBody": "Ba a sanya hannu ko watsa shirye-shirye ba kuma babu kudade na ainihi.",
+    "behind": "{{value}} sa'o'i baya lokaci na ainihi",
+    "speed": "Saurin kwaikwayon",
+    "speeds": {
+      "paused": "Tsawan lokaci",
+      "slow": "A hankali",
+      "normal": "Al'ada"
+    }
+  },
+  "about": {
+    "title": "Game da ChainBeat",
+    "demo": "ChainBeat yana gudana a yanayin Demo. Kowane toshe, farashi, mai tabbatarwa da shawarwari ana kirkirar su ta hanyar ƙayyadewa a cikin burauzarka. Waɗannan ba statistics na yanzu ba ne.",
+    "privacy": "Babu buƙatar maɓallin API, maɓallin sirri ko kalmar asali. Ana adana asusun demo na zaɓi, fifiko da walat ɗin demo kawai a cikin burauzarku.",
+    "shortcuts": "Ƙididdigar maɓallin kewayawa",
+    "shortcutSearch": "Binciken mayar da hankali",
+    "shortcutClose": "Rufe maganganu da menus",
+    "languages": "Harsunan dubawa: {{shipped}} daga cikin {{total}}. Fassara suna da taimakon inji kuma ba'a sake nazarin su ta hanyar masu magana da su ba; ana ba da shawarar yin nazarin ƙwararru kafin amfani da jama'a.",
+    "pageDescription": "Menene ChainBeat, yadda yake sarrafa bayanai, da gajerun hanyoyin keyboard.",
+    "shortcutPalette": "Buɗe bincike (tsarin umarni)"
+  }
+}

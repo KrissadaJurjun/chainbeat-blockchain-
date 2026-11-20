@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "{{chain}}'deki en yeni işlemler.",
+    "stats": {
+      "recent": "Son işlemler",
+      "success": "Başarılı",
+      "failed": "Başarısız",
+      "volume": "Doğal boyut"
+    },
+    "filterPlaceholder": "Hash, adres veya yüksekliğe göre filtreleme",
+    "allTypes": "Tüm türler",
+    "tableCaption": "{{chain}}'deki son işlemler",
+    "from": "Gönderen",
+    "to": "Alıcı",
+    "memo": "Not",
+    "noMemo": "Memorandum yok",
+    "raw": "Çiğ verileri görüntüle (simülasyon)",
+    "detailTitle": "İşlem",
+    "detailDescription": "{{chain}} numaralı simülasyon işleminin ayrıntıları.",
+    "notFoundTitle": "İşlem bulunamadı",
+    "notFoundBody": "Simülasyonda {{chain}}'de bu hash ile hiçbir işlem bulunmuyor.",
+    "failedBecause": "Bu işlem başarısız oldu: {{reason}}.",
+    "types": {
+      "send": "Gönder",
+      "delegate": "Delegasyon",
+      "undelegate": "Görevsizler",
+      "claim": "Ödül talep etmek",
+      "vote": "Oy ver",
+      "ibc-transfer": "IBC transfer",
+      "swap": "Takas",
+      "other": "Diğerleri"
+    },
+    "status": {
+      "success": "Başarılı",
+      "failed": "Başarısız"
+    },
+    "block": "Blok",
+    "cardsLabel": "İşlemler",
+    "category": "Kategoriler",
+    "date": "Tarih",
+    "dateNote": "{{date}} yılı sonuna kadar yapılan en son {{count}} işlem gösterilmektedir (UTC).",
+    "emptyTitle": "Hiçbir işlem bulunamadı",
+    "events": "Olaylar",
+    "failedEvents": "Bu işlem başarısız oldu, bu yüzden sadece ücret olayını yayınladı.",
+    "feeSymbol": "Ücret simgesi",
+    "filtersLabel": "İşlem filtreleri",
+    "gasUsed": "Kullanılan gas",
+    "gasWanted": "Gaz istiyoruz",
+    "groups": {
+      "transfer": "Depolamalar",
+      "staking": "Çatıştırma",
+      "governance": "Yönetişim",
+      "ibc": "IBC",
+      "swap": "Swaplar",
+      "other": "Diğerleri"
+    },
+    "latestNote": "En son {{count}} işlemini gösteriyorum.",
+    "messageType": "Mesaj tipi",
+    "network": "Ağ",
+    "symbol": "Token",
+    "syntheticNote": "Bu Demo Mod için oluşturulan sentetik bir kayıt.",
+    "token": "Token",
+    "validator": "Doğrulayıcı",
+    "demoWalletNote": "Bu işlem Demo cüzdanı tarafından oluşturuldu. Sadece bu tarayıcıda mevcuttur: hiçbir blok zinciri aktarımı yapılmadı ve hash gerçek bir blok zinciri hash değildir.",
+    "demoTag": "Demo cüzdan"
+  }
+}

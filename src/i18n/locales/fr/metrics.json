@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Indicateurs on-chain",
+    "exportCsv": "Exporter en CSV",
+    "exported": "Indicateurs exportés en CSV.",
+    "openAnalytics": "Ouvrir l’analyse du réseau",
+    "last24h": "24 dernières heures",
+    "sparklineLabel": "Tendance sur les dernières 24 heures",
+    "change24h": "Variation sur 24 h",
+    "blocks": "blocs",
+    "exact": "Valeur exacte",
+    "bondedRatio": "Ratio de bonding",
+    "poolShare": "Part de l’offre",
+    "tokenPrice": "Prix du jeton",
+    "inputInflation": "Inflation",
+    "inputTax": "Taxe communautaire",
+    "inputBonded": "Ratio de bonding",
+    "csvMetric": "Indicateur",
+    "csvValue": "Valeur",
+    "csvUnit": "Unité",
+    "csvChange24h": "Variation 24 h",
+    "blockHeight": {
+      "label": "Hauteur de bloc",
+      "description": "Le nombre de blocs produits depuis la genèse. Il augmente de un à chaque nouveau bloc."
+    },
+    "totalTransactions": {
+      "label": "Transactions",
+      "description": "Nombre total de transactions traitées par le réseau depuis la genèse."
+    },
+    "txPerBlock": {
+      "label": "Tx par bloc",
+      "description": "Nombre moyen de transactions incluses dans un bloc, mesuré sur les 100 derniers blocs."
+    },
+    "blockTime": {
+      "label": "Temps de bloc",
+      "description": "Durée moyenne entre deux blocs consécutifs, mesurée sur les 100 derniers blocs."
+    },
+    "inflation": {
+      "label": "Inflation",
+      "description": "Le rythme annuel auquel de nouveaux jetons sont émis pour récompenser les stakers et alimenter le fonds communautaire."
+    },
+    "stakingApr": {
+      "label": "APR du staking",
+      "description": "Rendement annuel estimé des jetons stakés, avant la commission du validateur.",
+      "formula": "APR = inflation × (1 − taxe communautaire) ÷ ratio de bonding"
+    },
+    "bondedTokens": {
+      "label": "Jetons bondés",
+      "description": "Jetons actuellement stakés auprès de validateurs actifs. Le stake bondé est ce qui sécurise le réseau.",
+      "formula": "bondés = offre totale × ratio de bonding"
+    },
+    "totalSupply": {
+      "label": "Offre totale",
+      "description": "Tous les jetons existants, y compris ceux qui sont stakés. Elle croît avec l’inflation."
+    },
+    "communityPool": {
+      "label": "Fonds communautaire",
+      "description": "Jetons contrôlés par la gouvernance on-chain. Il reçoit une part de l’inflation et est dépensé par les propositions adoptées.",
+      "formula": "croissance du fonds ≈ offre × inflation × taxe communautaire"
+    },
+    "poolValue": {
+      "label": "Valeur du fonds",
+      "description": "Valeur estimée en dollars américains du fonds communautaire au prix simulé du jeton.",
+      "formula": "valeur = fonds × prix du jeton"
+    }
+  }
+}

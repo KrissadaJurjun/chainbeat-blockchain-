@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Rien à afficher pour l’instant",
+    "emptyBody": "Il n’y a aucune donnée à afficher dans cette vue.",
+    "errorTitle": "Impossible de charger ces données",
+    "errorBody": "Un problème est survenu pendant la lecture du réseau. Vérifiez votre connexion et réessayez.",
+    "crashTitle": "Une erreur est survenue",
+    "crashBody": "Cette page a rencontré une erreur inattendue.",
+    "reload": "Recharger la page"
+  }
+}

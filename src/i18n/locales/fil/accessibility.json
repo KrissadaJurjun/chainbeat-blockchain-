@@ -1,0 +1,6 @@
+{
+  "accessibility": {
+    "navigatedTo": "Navigated sa {{title}}",
+    "loadingPage": "Mga pahina ng pag-load"
+  }
+}

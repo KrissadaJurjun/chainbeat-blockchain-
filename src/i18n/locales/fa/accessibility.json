@@ -1,0 +1,6 @@
+{
+  "accessibility": {
+    "navigatedTo": "به سمت {{title}} حرکت کرد",
+    "loadingPage": "صفحه بارگذاری"
+  }
+}

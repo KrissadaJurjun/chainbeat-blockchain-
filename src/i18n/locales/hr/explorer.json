@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Native, IBC, likvidni i vanjski aktivi poznati na {{chain}} (simulirani).",
+    "stats": {
+      "total": "Pratljivi žetonovi"
+    },
+    "kinds": {
+      "native": "Native",
+      "ibc": "IBC",
+      "external": "Izvanjski",
+      "stable": "Stablecoin",
+      "liquid": "Vljetna staža"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Vrsta",
+      "denom": "Sljedeći članak",
+      "price": "Cijena",
+      "change": "24 sata",
+      "supply": "Ponuda",
+      "holders": "Vlasnici",
+      "marketCap": "Tržišna kapitalizacija"
+    },
+    "filterPlaceholder": "Filtriranje po simbola, nazivu ili denominaciji",
+    "tableCaption": "Tokeni na {{chain}}"
+  },
+  "account": {
+    "title": "Račun",
+    "description": "Sredstva i nedavna aktivnost računa na {{chain}} (simuliracija).",
+    "available": "Dostupan",
+    "balances": "Ravnoteža",
+    "counterparty": "S druge strane",
+    "direction": "Usmjeravanje",
+    "in": "U",
+    "out": "Izlazi!",
+    "history": "Istorija transakcija",
+    "historyCaption": "Transakcije iz {{address}}",
+    "invalidTitle": "Ne valjan adres",
+    "invalidBody": "Ovo nije valjan. {{chain}} Adresa. Adresi na ovoj mreži počinju sa {{prefix}} 1 i uključi provjereni iznos.",
+    "noBalances": "Nema ravnoteže.",
+    "noHistory": "Nema transakcija pronađena",
+    "noHistoryBody": "Ovaj račun nema simulaciju aktivnosti u najnovijim {{blocks}} bloka.",
+    "rewards": "Nagrade: {{value}}",
+    "staked": "Ugrađen",
+    "totalValue": "Zajednička vrijednost",
+    "txCount": "Transakcije",
+    "unknown": "Ovo je valjan adres, ali se ne pojavljuje u simulaciji, tako da nema ravnoteže ili povijest.",
+    "window": "u najnovijim blokovima {{blocks}}",
+    "demoWallet": "To je vaš novčanik Demo. njegove ravnoteže i transakcije su simulirani i postoje samo u ovom pretraživaču."
+  },
+  "explorer": {
+    "description": "Tražite {{chain}} i vidite što se događa na (simuliranom) mreži upravo sada.",
+    "latestBlocks": "Najnoviji blokovi",
+    "latestTransactions": "Najnovije transakcije",
+    "searchTitle": "Pretražite istraživača",
+    "shortcuts": "Odjeljenja Explorer"
+  }
+}

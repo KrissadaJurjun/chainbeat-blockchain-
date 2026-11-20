@@ -1,0 +1,32 @@
+{
+  "notifications": {
+    "label": "Paziņojumi",
+    "title": "Paziņojumi",
+    "unread": "Nelaidīts",
+    "unreadLabel_zero": "{{count}} neizlase notifikācijas",
+    "unreadLabel_one": "{{count}} neizlasīts paziņojums",
+    "unreadLabel_other": "{{count}} neizlase notifikācijas",
+    "markAllRead": "Atzīmējiet visu, ko esat lasis",
+    "empty": "Jūs visi esat aizņemti.",
+    "items": {
+      "proposalVoting": "Priekšlikums Nr. {{id}} ir balsošanas laikā pie {{hours}} stundām.",
+      "proposalPassed": "Priekšlikums Nr. {{id}} ir pieņemts un tiks piemērots.",
+      "validatorJailed": "{{name}} tika ieslodzīts par pārtraukumu.",
+      "upgradeScheduled": "Sistēmas modernizācija {{version}} ir paredzēta {{days}} dienu laikā.",
+      "ibcVolume": "IBC Pārvedumu apjoms pēdējo 24 stundu laikā palielinājās par {{pct}}%.",
+      "newBlock": "Bloks {{height}} tika izgatavots uz {{chain}} (simulēts).",
+      "walletConnectedDemo": "Demo portfelis pieslēgts (simulēts).",
+      "walletConnected": "{{name}} ir saukta, nekas nav parakstīts.",
+      "walletDisconnected": "Cūkgaļa ir izlēpta no brauceļa sesijas.",
+      "txSuccess": "Simulēts darījums apstiprināts: {{summary}}",
+      "txFailed": "Simulētais darījums nesaprotas, jo ir ieslēgts kļūdas simulācija.",
+      "proposalCreated": "Demo priekšlikums Nr. {{id}} {{title}} tika pievienots (simulēts).",
+      "networkChanged": "Pasmaidīju uz {{chain}}.",
+      "simPaused": "Simulācija apturēta. Simulācijas dati tiks atjaunināti tikai tad, ja jūs to atcelsiet.",
+      "errorSimulation": "Simulācija ir aktivizēta. Datu pieprasījumi un portfeļa apstiprinājumi neatbalsta, līdz jūs to izslēdzat."
+    },
+    "dismiss": "Paziņojums par atteikumu",
+    "clearAll": "Visus atdalīt",
+    "simulatedNote": "Tie ir simulēti."
+  }
+}

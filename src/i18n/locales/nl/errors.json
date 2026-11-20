@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Er is nog niets",
+    "emptyBody": "Er zijn geen gegevens voor deze visie.",
+    "errorTitle": "Ik kon deze gegevens niet laden",
+    "errorBody": "Er is iets mis gegaan tijdens het lezen van het netwerk.",
+    "crashTitle": "Er is iets mis gegaan",
+    "crashBody": "Deze pagina kwam in een onverwachte fout terecht.",
+    "reload": "Verladen van de pagina"
+  }
+}

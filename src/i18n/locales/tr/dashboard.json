@@ -1,0 +1,102 @@
+{
+  "overview": {
+    "title": "Açıklama",
+    "unit": "Performans endeksi · Temel = 100 aralığın başlangıcında",
+    "refreshFailed": "Son yüklenen verileri gösteren 'yi güncelleyemedim."
+  },
+  "chart": {
+    "keyboardHint": "Verim noktaları arasında hareket etmek için ok tuşlarını kullanın.",
+    "summary": "{{range}}: {{details}} üzerinde performans endeksi",
+    "rangeLabel": "Zaman aralığı",
+    "seriesLabel": "Grafikler dizisi",
+    "keepOne": "En az bir dizi görünür kalmalıdır",
+    "emptyTitle": "Bu aralık için veriler yok",
+    "emptyBody": "Başka bir zaman aralığı deneyin.",
+    "range": {
+      "24H": "24 SAAT",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "Son 24 saat",
+      "7D": "Son 7 gün",
+      "30D": "Son 30 gün",
+      "90D": "Son 90 gün"
+    },
+    "zoomControls": "Zoom kontrolleri",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom Out",
+    "resetView": "Yeniden ayarlama görünümü",
+    "zoomLevel": "Zoom seviyesi"
+  },
+  "proposals": {
+    "title": "Teklifler",
+    "filter": "Teklif filtresi",
+    "live": "Canlı",
+    "total": "Toplam",
+    "viewAll": "Tüm önerileri görün",
+    "noneLive": "Canlı öneriler yok",
+    "noneLiveBody": "Şu anda devam eden bir yönetim yok.",
+    "showAll": "Son önerileri göster",
+    "endsIn": "Sonları {{time}}",
+    "turnout": "Katılım",
+    "vote": "Oy ver",
+    "status": {
+      "voting": "Oylamada",
+      "deposit": "Depozito",
+      "passed": "Kabul edildi",
+      "rejected": "Reddedildi",
+      "failed": "Başarısız"
+    },
+    "passed": "Kabul edildi",
+    "rejected": "Reddedildi",
+    "noneMatching": "Eşleşen öneriler yok",
+    "noneMatchingBody": "Şu anda bu filtreyle hiçbir şey eşleşmiyor."
+  },
+  "dev": {
+    "title": "Geliştirici Etkinliği",
+    "summary": "{{total}} katkı",
+    "viewFull": "Açık geliştiriciler faaliyeti",
+    "heatmapLabel": "Katkı sıcaklık haritası: {{total}} katkı {{weeks}} hafta boyunca",
+    "less": "Daha az",
+    "more": "Daha fazlası",
+    "cellTitle_one": "{{count}} katkı {{date}}",
+    "cellTitle_other": "{{count}} katkı {{date}}",
+    "range": "Sıcaklık haritası aralığı",
+    "ranges": {
+      "month": "Ay",
+      "quarter": "Çeyreği",
+      "year": "Yıl"
+    }
+  },
+  "repos": {
+    "title": "Etkin Depo",
+    "period": "Dönem",
+    "periods": {
+      "week": "Hafta",
+      "month": "Ay",
+      "year": "Yıl",
+      "quarter": "Çeyreği"
+    },
+    "contributors": "Katılımcılar",
+    "stars": "Yıldızlar",
+    "sparkline": "{{name}} için bağlılık faaliyeti",
+    "vsPrevious": "{{change}} vs önceki dönem",
+    "up": "Yukarı",
+    "down": "Aşağı",
+    "caption": "Seçilen dönemde yükümlülükler · simülasyon deposu",
+    "col": {
+      "repository": "Depolama",
+      "language": "Dil",
+      "commits": "Taahhütler",
+      "change": "Değişiklik",
+      "trend": "Eğilim"
+    },
+    "commitsCount": "Taahhütler: {{count}}",
+    "demoNote": "Demo veriler: bu deposu uydurma ve etkinliği simüle edilir. GitHub'a bağlanmamıştır.",
+    "emptyBody": "Bu dönemde depolama faaliyetleri yoktur.",
+    "emptyTitle": "Depo faaliyetleri yok",
+    "history": "Bağlılık faaliyeti"
+  }
+}

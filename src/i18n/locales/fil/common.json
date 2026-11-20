@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simulado",
+    "close": "Isara",
+    "retry": "Subukan muli",
+    "refresh": "I-refresh",
+    "copy": "Kopyahin",
+    "copied": "Nakopya",
+    "clear": "I-clear",
+    "loading": "Naglo-load…",
+    "options": "Mga pagpipilian",
+    "previous": "Nakaraan",
+    "next": "Susunod",
+    "pagination": "Pagination",
+    "pageN": "pahina {{n}}",
+    "dismiss": "Isantabi",
+    "cancel": "Kanselahin",
+    "viewAll": "Tingnan lahat",
+    "max": "Max",
+    "amount": "Halaga",
+    "balance": "Balanse",
+    "fee": "Bayad",
+    "status": "Katayuan",
+    "time": "Oras",
+    "height": "Taas",
+    "hash": "Hash",
+    "type": "Uri",
+    "all": "Lahat",
+    "showing": "Pagpapakita {{from}} {{to}} ng {{total}}",
+    "noResults": "Walang resulta na katumbas sa iyong mga filter.",
+    "rowsPerPage": "Mga hilera sa bawat pahina",
+    "actions": "Mga Aksiyon",
+    "exportCsv": "Export CSV",
+    "details": "Mga detalye",
+    "clearFilters": "Malinaw na mga filter",
+    "collapseAll": "Bumagsak lahat",
+    "copyJson": "I-copy ang JSON",
+    "expandAll": "Ipagpalawak ang lahat",
+    "showMore": "Ipakita ang higit pa {{count}}"
+  },
+  "language": {
+    "label": "Wika",
+    "search": "Mga wika ng paghahanap"
+  },
+  "theme": {
+    "label": "Tema",
+    "system": "Sistema",
+    "dark": "Madilim",
+    "light": "Maliwanag"
+  },
+  "footer": {
+    "tagline": "I-explore ang mga bloke, suriin ang mga transaksyon, maunawaan ang Web3.",
+    "demo": "Demo Mode ang lahat ng mga numero ay sinimula at hindi tunay na istatistika ng network.",
+    "share": "Ibahagi",
+    "linkCopied": "Ang link ay nai-copy sa clipboard.",
+    "docs": "Mga dokumento",
+    "links": "Mga link sa footer",
+    "modeDemo": "Demo Network",
+    "repository": "Repository",
+    "version": "v{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Hindi nahanap ang pahina",
+    "body": "Ang pahina na hinahanap mo ay hindi umiiral o lumipat.",
+    "home": "Bumalik sa dashboard"
+  },
+  "gate": {
+    "title": "Ikonekta ang Demo wallet upang magpatuloy",
+    "body": "Ang workflow na ito ay tumatakbo sa isang simulated wallet. I-connect ang Demo wallet upang subukan ito walang tunay ay kailanman nagpirma o nagpadala.",
+    "realTitle": "Ang isang tunay na wallet ay konektado",
+    "realBody": "{{address}} ay konektado, ngunit ChainBeat Demo Mode ay hindi kailanman mag-sign o mag-broadcast ng mga transaksyon. switch sa wallet Demo upang subukan ang workflow na ito.",
+    "useDemo": "Gamitin ang Demo wallet"
+  }
+}

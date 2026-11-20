@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Native, IBC, liquidity-stacking at panlabas na mga asset na kilala sa {{chain}} (simulated).",
+    "stats": {
+      "total": "Mga token na nasubaybayan"
+    },
+    "kinds": {
+      "native": "Mga katutubong tao",
+      "ibc": "IBC",
+      "external": "Panlabas na",
+      "stable": "Stablecoin",
+      "liquid": "Pag-aalaga ng likido"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Uri",
+      "denom": "Pang-aalaga",
+      "price": "Presyo",
+      "change": "24 oras",
+      "supply": "Suplay",
+      "holders": "Mga may hawak",
+      "marketCap": "Market cap"
+    },
+    "filterPlaceholder": "Pag-filter sa pamamagitan ng simbolo, pangalan o denomination",
+    "tableCaption": "Mga token sa {{chain}}"
+  },
+  "account": {
+    "title": "Account",
+    "description": "Mga saldo at kamakailang aktibidad ng isang account sa {{chain}} (simulated).",
+    "available": "Makukuha",
+    "balances": "Balanse",
+    "counterparty": "Ang counterparty",
+    "direction": "Patnubay",
+    "in": "Sa",
+    "out": "Lumabas",
+    "history": "Kasaysayan ng transaksyon",
+    "historyCaption": "Mga transaksyon ng {{address}}",
+    "invalidTitle": "Hindi katumbas na address",
+    "invalidBody": "Ito ay hindi katumbas {{chain}} address. Ang mga address sa network na ito ay nagsisimula sa {{prefix}} 1 at isama ang checksum.",
+    "noBalances": "Walang balanse.",
+    "noHistory": "Walang nakatagpuan na transaksyon",
+    "noHistoryBody": "Ang ulat na ito ay walang simulating aktibidad sa pinakabagong {{blocks}} mga bloke.",
+    "rewards": "Mga gantimpala: {{value}}",
+    "staked": "Nag-iimbak",
+    "totalValue": "Total na halaga",
+    "txCount": "Mga Transaksyon",
+    "unknown": "Ito ay isang wastong address, ngunit ito ay hindi lumitaw sa simulasiyon, kaya ito ay walang balanse o kasaysayan.",
+    "window": "sa pinakabagong {{blocks}} bloke",
+    "demoWallet": "Ito ang iyong Demo wallet. Ang mga balanse at transaksyon nito ay sinimulan at umiiral lamang sa browser na ito."
+  },
+  "explorer": {
+    "description": "Maghanap ng {{chain}} at tingnan kung ano ang nangyayari sa (simulated) network ngayon.",
+    "latestBlocks": "Mga pinakabagong block",
+    "latestTransactions": "Mga pinakabagong transaksyon",
+    "searchTitle": "Hanapin ang explorer",
+    "shortcuts": "Mga seksyon ng Explorer"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "将代币委托给 {{chain}} 上的验证者，赚取模拟奖励。",
+    "validator": "验证者",
+    "pickValidator": "选择验证者",
+    "estimate": "预估收益",
+    "netApr": "净年化收益率（扣除佣金后）",
+    "yearly": "每年奖励",
+    "monthly": "每月奖励",
+    "unbonding": "解绑期",
+    "commission": "验证者佣金",
+    "notice": "在真实网络上，取消质押的代币会被锁定 {{days}} 天的解绑期。这里的一切都是模拟的，并即时完成。",
+    "yourStake": "你在 {{chain}} 上的质押",
+    "unstake": "取消质押",
+    "unstakeTitle": "取消质押 {{validator}}",
+    "unstakeDescription": "在真实网络上，你的代币将在 {{days}} 天的解绑期结束后解锁。",
+    "confirmUnstake": "取消质押（模拟）",
+    "done": "质押完成（模拟）",
+    "doneBody": "已在演示钱包中完成委托。真实的解绑期为 {{days}} 天。",
+    "unstaked": "已取消质押（模拟）",
+    "unstakedBody": "已立即退回演示钱包。真实网络需要 {{days}} 天。",
+    "errors": {
+      "validator": "请选择验证者。",
+      "moreThanStaked": "取消质押的数量不能超过已质押的数量。"
+    },
+    "review": "审查权限",
+    "confirmDescription": "在这个浏览器中,确认只会改变Demo钱包.",
+    "aprDisclaimer": "显示的APR是基于当前通货膨胀,社区税和债券比率的估计,它不是保证收益率,它随着时间的推移而变化.",
+    "rewardsHistory": "奖励历史",
+    "noRewardsHistory": "目前还没有索赔奖励.",
+    "rewardsClaimed": "索赔 {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "质押代币并获得流动性质押代币，它在持续赚取奖励的同时仍可交易。",
+    "mode": "方向",
+    "stake": "质押",
+    "unstake": "赎回",
+    "asset": "资产",
+    "youStake": "你质押（{{symbol}}）",
+    "youRedeem": "你赎回（{{symbol}}）",
+    "youReceive": "你获得（{{symbol}}）",
+    "exchangeRate": "兑换率",
+    "apr": "预估年化收益率",
+    "protocolFee": "奖励的协议费",
+    "notice": "流动性质押代币及其汇率均为模拟，不会在链上发行任何内容。",
+    "done": "转换完成（模拟）",
+    "doneBody": "你的演示钱包余额已更新。",
+    "review": "审查转换",
+    "confirmDescription": "在这个浏览器中,确认只会改变Demo钱包.",
+    "risksTitle": "了解的风险",
+    "risks": {
+      "smartContract": "智能合同风险:液体存储协议是软件,软件可能存在错误.",
+      "depeg": "脱风险:流动代币可以交易低于所代表代币的价值.",
+      "validator": "验证器风险:如果协议背后的验证器被切断,每个持有者都将承担损失.",
+      "unbonding": "退出延迟:通过协议收回可能需要连接网络的解锁期."
+    },
+    "rateExplain": "汇率是一个流动代币所代表的投注代币数量.随着投注奖励的增加,一个流动代币慢慢变得价值超过一个投注代币.",
+    "noProtocol": "这个页面是一个教育模拟."
+  }
+}

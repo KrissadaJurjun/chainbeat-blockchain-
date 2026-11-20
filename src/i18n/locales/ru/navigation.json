@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Навигация в боковой панели",
+    "primary": "Главная навигация",
+    "menu": "Меню навигации",
+    "openMenu": "Открытое меню навигации",
+    "closeMenu": "Закрыть меню навигации",
+    "collapseSidebar": "Побочная панель",
+    "expandSidebar": "Расширить боковую панель",
+    "skipToContent": "Перейти к основному содержанию",
+    "home": "Дом ChainBeat",
+    "pages": "Страницы",
+    "dashboard": "Панель",
+    "validators": "Валидаторы",
+    "proposals": "Предложения",
+    "blocks": "Блоки",
+    "transactions": "Транзакции",
+    "portfolio": "Портфель",
+    "swap": "Обмен",
+    "stake": "Стейкинг",
+    "liquidStaking": "Ликвидный стейкинг",
+    "send": "Отправить",
+    "vote": "Голосование",
+    "createProposal": "Создать предложение",
+    "market": "Рынок",
+    "network": "Сеть",
+    "governance": "Управление",
+    "ibcNetwork": "Сеть IBC",
+    "devActivity": "Активность разработчиков",
+    "multichain": "Обзор мультичейна",
+    "heartbeat": "Пульс",
+    "dominance": "Доминирование",
+    "validatorsViz": "Валидаторы",
+    "blockExplorer": "Обозреватель блоков",
+    "transactionExplorer": "Обозреватель транзакций",
+    "tokenExplorer": "Обозреватель токенов",
+    "about": "О приложении",
+    "explorerHome": "Обозреватель",
+    "governanceHome": "Центр управления",
+    "settings": "Настройки"
+  },
+  "sections": {
+    "explorer": "Обозреватель",
+    "wallet": "Кошелёк",
+    "analytics": "Аналитика",
+    "visualizations": "Визуализации"
+  },
+  "chains": {
+    "favorite": "Добавить {{name}} к любимым",
+    "unfavorite": "Снять {{name}} из любимых",
+    "simulatedHealthy": "Симулируемая сеть · здоровая"
+  },
+  "search": {
+    "label": "Поиск ChainBeat",
+    "placeholder": "Блок поиска, ТС, адрес...",
+    "results": "Результаты поиска",
+    "noResults": "Никаких результатов для {{query}}",
+    "kinds": {
+      "page": "Страница",
+      "block": "Блок",
+      "transaction": "Ткс",
+      "validator": "Валидатор",
+      "token": "Токен",
+      "address": "Адрес",
+      "proposal": "Предложение"
+    },
+    "recent": "Недавние поиски",
+    "clearRecent": "Ясные недавние поиски",
+    "removeRecent": "Удалить {{query}} из недавних поисков",
+    "hint": "Попробуйте высоту блока, хэш транзакции, адрес ( {{prefix}} 1...), валидатор, номер предложения или знаковое наименование.",
+    "submit": "Поиск",
+    "searching": "Поиск...",
+    "resultCount": "Результаты: {{count}}",
+    "invalid": {
+      "tooLong": "Это слишком длинный термин для поиска (не более 200 символов).",
+      "badChecksum": "Это выглядит как адрес, но сумма не совпадает.",
+      "badHash": "Транзакция или хэш-блок имеет точно 64 шестидесятных символов.",
+      "badChars": "Поищите высоту блока, хэш, адрес, валидатор, предложение или токен."
+    },
+    "categories": {
+      "page": "Страницы",
+      "block": "Блоки",
+      "transaction": "Транзакции",
+      "address": "Адреса",
+      "validator": "Валидаторы",
+      "proposal": "Предложения",
+      "token": "Токены"
+    }
+  },
+  "user": {
+    "menu": "Меню счетов",
+    "guest": "Гость",
+    "notConnected": "Нет соединения кошелька",
+    "settings": "Настройки",
+    "about": "О ChainBeat"
+  }
+}

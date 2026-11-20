@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Tugaskan token kepada pengesahan pada {{chain}} untuk mendapatkan ganjaran simulasi.",
+    "validator": "Pengesah",
+    "pickValidator": "Pilih pengesahan",
+    "estimate": "Pendapatan yang dianggarkan",
+    "netApr": "APR bersih (setelah komisen)",
+    "yearly": "Anugerah setiap tahun",
+    "monthly": "Anugerah setiap bulan",
+    "unbonding": "Tempoh pembatasan",
+    "commission": "Suruhanjaya pengesahan",
+    "notice": "Di rangkaian sebenar, saham yang dikeluarkan dikunci untuk tempoh {{days}} hari. Di sini semuanya disimulasikan dan segera.",
+    "yourStake": "Pertaruhan anda pada {{chain}}",
+    "unstake": "Nyahstake",
+    "unstakeTitle": "Penghapusan dari {{validator}}",
+    "unstakeDescription": "Pada rangkaian sebenar token anda akan dibuka selepas tempoh penghapusan {{days}} hari.",
+    "confirmUnstake": "Penghapusan (disimulasikan)",
+    "done": "Dipasang (disimulasikan)",
+    "doneBody": "Diarahkan dalam dompet Demo, tempoh pembebasan sebenar adalah {{days}} hari.",
+    "unstaked": "Tidak dipertaruhkan (disimulasikan)",
+    "unstakedBody": "Kembali ke dompet Demo dengan serta-merta. {{days}} Berhari-hari.",
+    "errors": {
+      "validator": "Pilih pengesahan.",
+      "moreThanStaked": "Anda tidak boleh melepaskan lebih daripada yang anda telah bertaruh."
+    },
+    "review": "Peranan kajian semula",
+    "confirmDescription": "Periksa delegasi. Pengesahan hanya mengubah dompet Demo dalam penyemak imbas ini.",
+    "aprDisclaimer": "APR yang ditunjukkan adalah anggaran berdasarkan inflasi semasa, cukai komuniti dan nisbah obligasi. Ia bukan pulangan yang dijamin dan ia berubah dari masa ke masa.",
+    "rewardsHistory": "Sejarah ganjaran",
+    "noRewardsHistory": "Tiada ganjaran yang didakwa.",
+    "rewardsClaimed": "Klaim {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Simpan token dan terima token simpan cair yang terus mendapat ganjaran sambil kekal diperdagangkan.",
+    "mode": "Arahan",
+    "stake": "Staking",
+    "unstake": "Nyahstake",
+    "asset": "Aset",
+    "youStake": "Anda taruhan ({{symbol}})",
+    "youRedeem": "Anda menebus ({{symbol}})",
+    "youReceive": "Anda menerima ({{symbol}})",
+    "exchangeRate": "Kadar pertukaran",
+    "apr": "APR yang dianggarkan",
+    "protocolFee": "Bayaran protokol mengenai ganjaran",
+    "notice": "Token pertaruhan cecair dan kadar mereka disimulasikan.",
+    "done": "Pengubahsuaian lengkap (disimulasikan)",
+    "doneBody": "Saldo dompet Demo anda telah dikemas kini.",
+    "review": "Pembaharuan penukaran",
+    "confirmDescription": "Periksa penukaran. Memastikan hanya mengubah dompet Demo dalam penyemak imbas ini.",
+    "risksTitle": "Risiko untuk memahami",
+    "risks": {
+      "smartContract": "Risiko kontrak pintar: protokol penumpukan cecair adalah perisian, dan perisian boleh mempunyai cacad.",
+      "depeg": "Risiko de-peg: token cair boleh diperdagangkan di bawah nilai token yang diwakili.",
+      "validator": "Risiko pengesahan: jika pengesahan di sebalik protokol dikurangkan, setiap pemegang berkongsi kerugian.",
+      "unbonding": "Penundaan keluar: Pengembalian melalui protokol boleh mengambil masa selagi tempoh pembebasan rangkaian."
+    },
+    "rateExplain": "Kadar pertukaran adalah berapa banyak token yang dipertaruhkan satu token cecair. Ia berkembang apabila ganjaran taruhan bertambah, jadi satu token cecair perlahan-lahan menjadi bernilai lebih daripada satu token yang dipertaruhkan.",
+    "noProtocol": "ChainBeat tidak berintegrasi dengan mana-mana protokol penumpukan cecair sebenar. Halaman ini adalah simulasi pendidikan."
+  }
+}

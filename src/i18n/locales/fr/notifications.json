@@ -1,0 +1,32 @@
+{
+  "notifications": {
+    "label": "Notifications",
+    "title": "Notifications",
+    "unread": "Non lues",
+    "unreadLabel_one": "{{count}} notification non lue",
+    "unreadLabel_many": "{{count}} de notifications non lues",
+    "unreadLabel_other": "{{count}} notifications non lues",
+    "markAllRead": "Tout marquer comme lu",
+    "empty": "Vous êtes à jour.",
+    "items": {
+      "proposalVoting": "La proposition n° {{id}} est en période de vote : il reste environ {{hours}} h.",
+      "proposalPassed": "La proposition n° {{id}} a été adoptée et sera exécutée.",
+      "validatorJailed": "{{name}} a été mis en prison pour inactivité.",
+      "upgradeScheduled": "La mise à niveau du réseau {{version}} est prévue dans {{days}} jours.",
+      "ibcVolume": "Le volume des transferts IBC a augmenté de {{pct}} % au cours des dernières 24 h.",
+      "newBlock": "Le bloc {{height}} a été produit sur {{chain}} (simulé).",
+      "walletConnectedDemo": "Demo portefeuille connecté (simulé).",
+      "walletConnected": "{{name}} connecté, rien n'a été signé.",
+      "walletDisconnected": "Mon portefeuille est déconnecté de cette session de navigateur.",
+      "txSuccess": "Confirmation de la simulation de l'opération: {{summary}}",
+      "txFailed": "Une transaction simulée a échoué parce que la simulation d'erreur est activée.",
+      "proposalCreated": "Demo proposition n°{{id}} {{title}} a été ajoutée (simulée).",
+      "networkChanged": "Je suis passé à {{chain}}, je montre des données simulées.",
+      "simPaused": "La simulation est arrêtée. Les données simulées ne seront pas mises à jour tant que vous ne les reprendrez pas.",
+      "errorSimulation": "La simulation d'erreur est activée. Les demandes de données et les confirmations de portefeuille échoueront jusqu'à ce que vous l'éteignez."
+    },
+    "dismiss": "Notification de rejet",
+    "clearAll": "Éliminez tout",
+    "simulatedNote": "Les éléments du flux réseau sont simulés."
+  }
+}

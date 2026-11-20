@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delegeer tokens aan een validator op {{chain}} om gesimuleerde beloningen te verdienen.",
+    "validator": "Validator",
+    "pickValidator": "Kies een validator",
+    "estimate": "Verwachte rendementen",
+    "netApr": "Netto APR (na afrekening)",
+    "yearly": "Beloningen per jaar",
+    "monthly": "Beloningen per maand",
+    "unbonding": "Afbindingsperiode",
+    "commission": "Valideringscommissie",
+    "notice": "Op een echt netwerk is de onttrekkende inzet gesloten voor de {{days}}-daagse ontbindingsperiode. Hier wordt alles gesimuleerd en direct.",
+    "yourStake": "Uw inzet op {{chain}}",
+    "unstake": "Unstaken",
+    "unstakeTitle": "Ontplooiing van {{validator}}",
+    "unstakeDescription": "Op een echt netwerk zouden je tokens ontsluiten na de {{days}}-daagse ontbindingsperiode.",
+    "confirmUnstake": "Onttrekken (simuleren)",
+    "done": "Gestapelde (gesimulateerd)",
+    "doneBody": "Een echte periode van losbonding zou zijn. {{days}} Dagen.",
+    "unstaked": "Geïntegreerd (gesimulateerd)",
+    "unstakedBody": "Een echt netwerk zou het nodig hebben. {{days}} Dagen.",
+    "errors": {
+      "validator": "Kies een validator.",
+      "moreThanStaked": "Je kunt niet meer ontplooien dan je hebt gezeten."
+    },
+    "review": "Onderzoeksstak",
+    "confirmDescription": "Controleer de delegatie. Het bevestigen verandert alleen de portemonnee Demo in deze browser.",
+    "aprDisclaimer": "De aangegeven APR is een schatting gebaseerd op de huidige inflatie, de communautaire belasting en de obligatieverhouding.",
+    "rewardsHistory": "Beloningsgeschiedenis",
+    "noRewardsHistory": "Er zijn nog geen beloningen aangevraagd.",
+    "rewardsClaimed": "Geclameerde {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Stake een token en ontvang een liquide staking token die blijft beloningen verdienen terwijl het verhandelbaar blijft.",
+    "mode": "Richting",
+    "stake": "Staken",
+    "unstake": "Unstaken",
+    "asset": "Vermogensmiddelen",
+    "youStake": "Je zet ({{symbol}})",
+    "youRedeem": "Je verlost ({{symbol}})",
+    "youReceive": "U ontvangt ({{symbol}})",
+    "exchangeRate": "Wisselkoers",
+    "apr": "Geschatte APR",
+    "protocolFee": "Protocolvergoeding voor beloningen",
+    "notice": "Liquid staking tokens en hun tarieven worden gesimuleerd.",
+    "done": "Conversie voltooid (gesimulateerd)",
+    "doneBody": "Uw Demo portemonneebalans is bijgewerkt.",
+    "review": "Herziening van de omschakeling",
+    "confirmDescription": "Controleer de conversie. Het bevestigen verandert alleen de Demo portemonnee in deze browser.",
+    "risksTitle": "Risico's om te begrijpen",
+    "risks": {
+      "smartContract": "Smart-contract risico: liquide-stacking-protocollen zijn software, en software kan bugs hebben.",
+      "depeg": "De-peg-risico: de liquide token kan worden verhandeld onder de waarde van de tokens die het vertegenwoordigt.",
+      "validator": "Valideringsrisico: als de validatoren achter het protocol worden afgesneden, deelt elke houder het verlies.",
+      "unbonding": "Uitgangsvertraging: het terugvinden via het protocol kan zo lang duren als de ontbindingsperiode van het netwerk."
+    },
+    "rateExplain": "De wisselkoers is hoeveel gestelde tokens een liquide token staat voor. Het groeit naarmate de beloningen van het staken oplopen, zodat een liquide token langzaam meer waard wordt dan een gestelde token.",
+    "noProtocol": "ChainBeat integreert niet met een echt liquide-stacking-protocol. Deze pagina is een educatieve simulatie."
+  }
+}

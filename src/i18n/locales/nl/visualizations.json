@@ -1,0 +1,58 @@
+{
+  "ibcPage": {
+    "description": "Hoe tokens stromen tussen ketens over IBC. Dikkere links betekenen meer 24-uursvolume.",
+    "volume": "24 uur IBC volume",
+    "chains": "Gekoppelde ketenen",
+    "links": "Actieve kanalen",
+    "busiest": "De drukste route",
+    "mapLabel": "Kaart van IBC verbindingen tussen ketens",
+    "nodeLabel": "{{name}}: {{volume}} in 24 uur over {{channels}} kanalen",
+    "hint": "Hover, focus of selecteer een keten om de verbindingen te benadrukken. Sleep naar pan; gebruik Ctrl of met het scrollwiel, de + en −-toetsen of de knoppen om te zoomen; druk op 0 om te resetten.",
+    "channelsOf": "Kanalen van {{name}}",
+    "topChannels": "Hoogste kanalen per volume",
+    "transfers_one": "{{count, number}} overdracht",
+    "transfers_other": "{{count, number}} overdrachten",
+    "info": {
+      "volume": "Volume (24 h)",
+      "channels": "Kanalen",
+      "share": "Deel van het volume IBC",
+      "partner": "Beste partner"
+    }
+  },
+  "multichainPage": {
+    "description": "Het bredere ecosysteem in Cosmos-stijl in een oogopslag gesimuleerde cijfers voor elke gekoppelde keten.",
+    "chains": "Ketens",
+    "tvl": "Totaal gesloten waarde",
+    "validators": "Validators",
+    "tx24h": "Transacties (24 uur)",
+    "height": "Blockhoogte",
+    "open": "Open dashboard",
+    "switched": "Overgeschakeld naar {{name}}",
+    "registryOnly": "geregistreerd voor de demo nog niet te selecteren",
+    "tvlByChain": "TVL per ketting",
+    "tvlHint": "Simulatie van gesloten totale waarde",
+    "explainTitle": "Wat de metricen betekenen",
+    "explainHint": "Alle waarden worden gesimuleerd.",
+    "explain": {
+      "tvl": "De waarde van tokens die in de gesimuleerde economie van het netwerk worden geplaatst of worden gehouden, tegen gesimuleerde prijzen.",
+      "height": "Hoeveel blokken heeft de keten geproduceerd sinds het begin.",
+      "validators": "De operatoren die blokken voorstellen en ondertekenen. Het aantal is de grootte van de actieve set.",
+      "apr": "De geschatte jaarlijkse beloning voor het inzetten, als percentage vóór de commissie.",
+      "bonded": "Een hoger aandeel betekent dat meer van het aanbod de keten beveiligt.",
+      "tx24h": "Transacties opgenomen in blokken in de afgelopen 24 uur in alle genoemde ketens."
+    }
+  },
+  "heartbeatPage": {
+    "description": "De puls van {{chain}}: elk blok is een beat afstand volgt de bloktijd, hoogte volgt de transactie telling.",
+    "rate": "Bloktarief",
+    "perMinute": "blokken/min",
+    "sinceLast": "Sinds het laatste blok",
+    "txLastMinute": "Transacties (laatste minuut)",
+    "monitor": "Pulsmonitor",
+    "legend": "Beethoogte = transacties in het blok",
+    "chartLabel": "Hartkloppensporing: {{rate}} blokken per minuut, {{seconds}} seconden tussen blokken",
+    "stream": "Blok stroom",
+    "txCount_one": "{{count}} tx",
+    "txCount_other": "{{count}} txs"
+  }
+}

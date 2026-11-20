@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delegeerige tokendid validatorile {{chain}}-l, et teenida simuleeritud auhinnad.",
+    "validator": "Valideerija",
+    "pickValidator": "Validiitor",
+    "estimate": "Arvestatud tulud",
+    "netApr": "Netto-AAPR ( pärast komisiooni)",
+    "yearly": "Tulemused aastas",
+    "monthly": "Palgad kuus",
+    "unbonding": "Sõltumatavusperiood",
+    "commission": "Validadori komisjon",
+    "notice": "Tõelises võrgus on välja võetud panus lukustatud {{days}} päeva jooksul.",
+    "yourStake": "Teie panus {{chain}}",
+    "unstake": "Lõpeta staking",
+    "unstakeTitle": "{{validator}}-st välja lülitatud",
+    "unstakeDescription": "Tõelises võrgus avatakse teie tokenid pärast {{days}}-päevast lahkumise perioodi.",
+    "confirmUnstake": "Väärtpaigutamine (simuleeritud)",
+    "done": "Sümulatsioon (simulatsioon)",
+    "doneBody": "Demo portfelli delegeeritud, tõeline lahkumise periood oleks {{days}} päeva.",
+    "unstaked": "Võtmata (simuleeritud)",
+    "unstakedBody": "Tõeline võrgustik võtaks aega. {{days}} Päevad.",
+    "errors": {
+      "validator": "Vali validator.",
+      "moreThanStaked": "Sa ei saa rohkem, kui sa oled panustanud."
+    },
+    "review": "Vaatlusvõime",
+    "confirmDescription": "Kontrollige delegatsiooni, kinnitamine muudab ainult selle brauseri Demo rahakoti.",
+    "aprDisclaimer": "Näitav APR on hinnang, mis põhineb praegusel inflatsioonil, kogukonna maksumääral ja võlakirjade suhtes.",
+    "rewardsHistory": "Ajaloolised auhinnad",
+    "noRewardsHistory": "Veel pole auhindu tagatud.",
+    "rewardsClaimed": "Nõuded {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Pange token ja võta likviidsete panuste token, mis hoiab palga teenimist, kuid jääb kaubeldavaks.",
+    "mode": "Juhatus",
+    "stake": "Staking",
+    "unstake": "Lõpeta staking",
+    "asset": "Varad",
+    "youStake": "Sa paned ({{symbol}})",
+    "youRedeem": "Sa lunastad ({{symbol}})",
+    "youReceive": "Te saate ({{symbol}})",
+    "exchangeRate": "Vahetuskurss",
+    "apr": "Arvestatud APR",
+    "protocolFee": "Toetuste protokollimaks",
+    "notice": "Liquid staking tokenid ja nende hinnad on simuleeritud.",
+    "done": "Konversioon on lõppenud (simuleeritud)",
+    "doneBody": "Teie Demo rahakott on värskendatud.",
+    "review": "Vaadake ümberkujundamine",
+    "confirmDescription": "Kontrollige konverteerimist. Vahetamine muudab ainult selle brauseri Demo rahakoti.",
+    "risksTitle": "Mõistmise riskid",
+    "risks": {
+      "smartContract": "Aruka lepingu risk: vedeliku kogumise protokollid on tarkvara ja tarkvara võib olla viga.",
+      "depeg": "De-peg risk: likviidsete tokenide kauplemine võib olla väiksem kui nende tokenide väärtus, mida see esindab.",
+      "validator": "Validaatoririski: kui protokolli taga olevad validatorid lühendatakse, jagatakse iga omaniku kaotus.",
+      "unbonding": "Väljapääsu viivitus: protokolli kaudu lunastamine võib kesta nii kaua kui võrgu lahkumise periood."
+    },
+    "rateExplain": "Valuutekoor on see, kui palju võlakirju ühe likviidsete tokenide jaoks on. See kasvab, kui võlakirjutused kasvavad, nii et üks likviidsete token muutub aeglaselt rohkemaks kui üks võlakirjutatud token.",
+    "noProtocol": "ChainBeat ei integreeri iga tegeliku vedeliku sidumise protokolliga. See lehekülg on haridussimulatsioon."
+  }
+}

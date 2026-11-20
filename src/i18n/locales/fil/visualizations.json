@@ -1,0 +1,58 @@
+{
+  "ibcPage": {
+    "description": "Paano lumilipat ang mga token sa pagitan ng mga kadena sa ibabaw ng IBC.",
+    "volume": "24h IBC volume",
+    "chains": "Mga pinagsama na kadena",
+    "links": "Mga aktibong channel",
+    "busiest": "Ang pinaka-busy na ruta",
+    "mapLabel": "Mapa ng IBC koneksyon sa pagitan ng mga kadena",
+    "nodeLabel": "{{name}}: {{volume}} sa 24 oras sa {{channels}} channel",
+    "hint": "Hover, i-focus o piliin ang isang kadena upang i-highlight ang mga koneksyon nito. I-drag sa pan; gamitin ang Ctrl o sa gulong ng pag-scroll, ang + at − mga pindutan, o ang mga pindutan upang mag-zoom; pindutin ang 0 upang i-reset.",
+    "channelsOf": "Mga kanal ng {{name}}",
+    "topChannels": "Ang mga pinakamataas na kanal ayon sa dami",
+    "transfers_one": "{{count, number}} paglipat",
+    "transfers_other": "{{count, number}} mga paglipat",
+    "info": {
+      "volume": "Volume (24 h)",
+      "channels": "Mga channel",
+      "share": "Kabanata ng IBC volume",
+      "partner": "Kasamang kasamahan"
+    }
+  },
+  "multichainPage": {
+    "description": "Ang mas malawak na ecosystem na gaya ng Cosmos sa isang paningin simulan ang mga numero para sa bawat konektado na kadena.",
+    "chains": "Mga kadena",
+    "tvl": "Total na halaga na naka-lock",
+    "validators": "Mga Validator",
+    "tx24h": "Mga transaksyon (24h)",
+    "height": "Ang taas ng bloke",
+    "open": "Buksan ang dashboard",
+    "switched": "Binago sa {{name}}",
+    "registryOnly": "Nagrehistro para sa demo hindi pa maipili",
+    "tvlByChain": "TVL ayon sa kadena",
+    "tvlHint": "Simulated total value na naka-lock",
+    "explainTitle": "Ano ang ibig sabihin ng mga metrics",
+    "explainHint": "Ang simpleng kahulugan ng mga numero sa pahina na ito. Ang lahat ng mga halaga ay sinimulan.",
+    "explain": {
+      "tvl": "Ang halaga ng mga token na naka-staked o naka-hold sa simulating ekonomiya ng network, sa simulating presyo.",
+      "height": "Kung gaano karaming mga bloke ang ginawa ng kadena mula noong nagsimula ito.",
+      "validators": "Ang mga operator na nag-propose at nag-sign ng mga bloke. Ang bilang ay ang laki ng aktibong set.",
+      "apr": "Ang tinatayang taunang gantimpala para sa pagtaya, bilang porsyento bago kumisyon. Ito ay lumilipat sa inflasyon at sa bahagi ng mga token na pinagtaya.",
+      "bonded": "Ang bahagi ng kabuuang supply ng token na nakatakda. Ang isang mas mataas na bahagi ay nangangahulugang mas maraming supply ang nagsaseguro ng kadena.",
+      "tx24h": "Ang mga transaksyon na kasama sa mga bloke sa nakalipas na 24 oras sa lahat ng nakalista na mga kadena."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Ang pulso ng {{chain}}: bawat bloke ay isang beat spacing sumusunod sa bloke oras, taas sumusunod sa bilang ng transaksyon.",
+    "rate": "Ang rate ng block",
+    "perMinute": "mga bloke/min",
+    "sinceLast": "Mula noong huling bloke",
+    "txLastMinute": "Mga transaksyon (mga huling minuto)",
+    "monitor": "Pulse monitor",
+    "legend": "Ang taas ng pagtukoy = mga transaksyon sa bloke",
+    "chartLabel": "Pag-iimbak ng puso: {{rate}} bloke bawat minuto, {{seconds}} segundo sa pagitan ng mga bloke",
+    "stream": "Blok stream",
+    "txCount_one": "{{count}} tx",
+    "txCount_other": "{{count}} txs"
+  }
+}

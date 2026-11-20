@@ -1,0 +1,31 @@
+{
+  "notifications": {
+    "label": "Sanarwa",
+    "title": "Sanarwa",
+    "unread": "Ba a karanta shi ba",
+    "unreadLabel_one": "{{count}} sanarwar da ba a karanta ba",
+    "unreadLabel_other": "{{count}} sanarwar da ba a karanta ba",
+    "markAllRead": "Ka rubuta duk abin da aka karanta",
+    "empty": "Kai duk an kama ka.",
+    "items": {
+      "proposalVoting": "Tushen #{{id}} yana cikin lokacin jefa kuri'a kimanin {{hours}} hours.",
+      "proposalPassed": "An amince da shawarar #{{id}} kuma za a yi amfani da ita.",
+      "validatorJailed": "An tsare {{name}} a kurkuku saboda rashin aiki.",
+      "upgradeScheduled": "An tsara sabunta cibiyar sadarwa {{version}} a cikin kwanaki {{days}}.",
+      "ibcVolume": "IBC yawan canja wurin ya karu da kashi {{pct}}% a cikin sa'o'i 24 da suka gabata.",
+      "newBlock": "Block {{height}} da aka samar a kan {{chain}} (simulated).",
+      "walletConnectedDemo": "Demo Wallet da aka haɗa (samuwa).",
+      "walletConnected": "{{name}} da aka haɗa. Babu wani abu da aka sanya hannu.",
+      "walletDisconnected": "Wallet da aka cire daga wannan browser zaman.",
+      "txSuccess": "Tabbatar da ma'amala na kwaikwayo: {{summary}}",
+      "txFailed": "Wata ma'amala ta yi kasawa domin an kunna simintin kuskure. Babu wani abu da aka canja.",
+      "proposalCreated": "Demo da aka kara da shawarar #{{id}} {{title}} (simulated).",
+      "networkChanged": "An sauya zuwa {{chain}}.",
+      "simPaused": "An dakatar da kwaikwayon. Bayanan kwaikwayon ba za su sabunta ba har sai kun ci gaba da shi.",
+      "errorSimulation": "An kunna kuskuren kwaikwayo, buƙatun bayanai da tabbaci na walat za su gaza har sai kun kashe shi."
+    },
+    "dismiss": "Sanarwa ta ƙi",
+    "clearAll": "Ka kawar da kome",
+    "simulatedNote": "Abubuwan da ke cikin hanyar sadarwar suna kwaikwayon. Babu wani abu a nan wanda yake da faɗakarwa ta yanar gizo."
+  }
+}

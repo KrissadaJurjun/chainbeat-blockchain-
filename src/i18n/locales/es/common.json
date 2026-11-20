@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simulado",
+    "close": "Cerrar",
+    "retry": "Reintentar",
+    "refresh": "Actualizar",
+    "copy": "Copiar",
+    "copied": "Copiado",
+    "clear": "Borrar",
+    "loading": "Cargando…",
+    "options": "Opciones",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "pagination": "Paginación",
+    "pageN": "Página {{n}}",
+    "dismiss": "Descartar",
+    "cancel": "Cancelar",
+    "viewAll": "Ver todo",
+    "max": "Máx.",
+    "amount": "Cantidad",
+    "balance": "Saldo",
+    "fee": "Comisión",
+    "status": "Estado",
+    "time": "Hora",
+    "height": "Altura",
+    "hash": "Hash",
+    "type": "Tipo",
+    "all": "Todos",
+    "showing": "Mostrando {{from}}–{{to}} de {{total}}",
+    "noResults": "Ningún resultado coincide con tus filtros.",
+    "rowsPerPage": "Filas por página",
+    "actions": "Acciones",
+    "exportCsv": "Exportar CSV",
+    "details": "Detalles",
+    "clearFilters": "Filtros transparentes",
+    "collapseAll": "Colapso todo",
+    "copyJson": "Copiar JSON",
+    "expandAll": "Ampliar todo",
+    "showMore": "Muestra más {{count}}"
+  },
+  "language": {
+    "label": "Idioma",
+    "search": "Buscar idiomas"
+  },
+  "theme": {
+    "label": "Tema",
+    "system": "Sistema",
+    "dark": "Oscuro",
+    "light": "Claro"
+  },
+  "footer": {
+    "tagline": "Explora bloques. Sigue transacciones. Entiende Web3.",
+    "demo": "Modo demo: todas las cifras son simuladas y no son estadísticas reales de la red.",
+    "share": "Compartir",
+    "linkCopied": "Enlace copiado al portapapeles.",
+    "docs": "Documentación",
+    "links": "Enlaces de pie de página",
+    "modeDemo": "Demo Red",
+    "repository": "Repositorio",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "body": "La página que buscas no existe o se ha movido.",
+    "home": "Volver al panel"
+  },
+  "gate": {
+    "title": "Conecta la billetera de demostración para continuar",
+    "body": "Este flujo se ejecuta en una billetera simulada. Conecta la billetera de demostración para probarlo: nunca se firma ni se envía nada real.",
+    "realTitle": "Hay una billetera real conectada",
+    "realBody": "{{address}} está conectada, pero el modo demo de ChainBeat nunca firma ni transmite transacciones. Cambia a la billetera de demostración para probar este flujo.",
+    "useDemo": "Usar la billetera de demostración"
+  }
+}

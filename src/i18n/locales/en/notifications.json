@@ -1,0 +1,31 @@
+{
+  "notifications": {
+    "label": "Notifications",
+    "title": "Notifications",
+    "unread": "Unread",
+    "unreadLabel_one": "{{count}} unread notification",
+    "unreadLabel_other": "{{count}} unread notifications",
+    "markAllRead": "Mark all as read",
+    "empty": "You're all caught up.",
+    "items": {
+      "proposalVoting": "Proposal #{{id}} is in its voting period — about {{hours}} h left.",
+      "proposalPassed": "Proposal #{{id}} passed and will be applied.",
+      "validatorJailed": "{{name}} was jailed for downtime.",
+      "upgradeScheduled": "Network upgrade {{version}} is scheduled in {{days}} days.",
+      "ibcVolume": "IBC transfer volume rose {{pct}}% in the last 24 h.",
+      "newBlock": "Block {{height}} was produced on {{chain}} (simulated).",
+      "walletConnectedDemo": "Demo wallet connected (simulated).",
+      "walletConnected": "{{name}} connected. Nothing was signed.",
+      "walletDisconnected": "Wallet disconnected from this browser session.",
+      "txSuccess": "Simulated transaction confirmed: {{summary}}",
+      "txFailed": "A simulated transaction failed because error simulation is on. Nothing was changed.",
+      "proposalCreated": "Demo proposal #{{id}} “{{title}}” was added (simulated).",
+      "networkChanged": "Switched to {{chain}}. Showing simulated data.",
+      "simPaused": "Simulation is paused. Simulated data will not update until you resume it.",
+      "errorSimulation": "Error simulation is on. Data requests and wallet confirmations will fail until you turn it off."
+    },
+    "dismiss": "Dismiss notification",
+    "clearAll": "Clear all",
+    "simulatedNote": "Items from the network feed are simulated. Nothing here is a live blockchain alert."
+  }
+}

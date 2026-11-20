@@ -1,0 +1,101 @@
+{
+  "overview": {
+    "title": "개요",
+    "unit": "성과 지수 · 기간 시작 시점 = 100",
+    "refreshFailed": "새로고침하지 못해 마지막으로 불러온 데이터를 표시합니다."
+  },
+  "chart": {
+    "keyboardHint": "차트입니다. 방향키로 데이터 지점 사이를 이동할 수 있습니다.",
+    "summary": "{{range}} 동안의 성과 지수: {{details}}",
+    "rangeLabel": "기간",
+    "seriesLabel": "차트 계열",
+    "keepOne": "계열을 하나 이상 표시해야 합니다",
+    "emptyTitle": "이 기간에는 데이터가 없습니다",
+    "emptyBody": "다른 기간을 선택하거나 새로고침하세요.",
+    "range": {
+      "24H": "24시간",
+      "7D": "7일",
+      "30D": "30일",
+      "90D": "90일"
+    },
+    "rangeLong": {
+      "24H": "최근 24시간",
+      "7D": "최근 7일",
+      "30D": "최근 30일",
+      "90D": "최근 90일"
+    },
+    "zoomControls": "줌 컨트롤",
+    "zoomIn": "확대",
+    "zoomOut": "줌 아웃",
+    "resetView": "재설정 표시",
+    "zoomLevel": "줌 레벨"
+  },
+  "proposals": {
+    "title": "제안",
+    "filter": "제안 필터",
+    "live": "진행 중",
+    "total": "전체",
+    "viewAll": "모든 제안 보기",
+    "noneLive": "진행 중인 제안이 없습니다",
+    "noneLiveBody": "현재 진행 중인 거버넌스 투표가 없습니다.",
+    "showAll": "최근 제안 표시",
+    "endsIn": "{{time}} 종료",
+    "turnout": "참여율",
+    "vote": "투표",
+    "status": {
+      "voting": "투표 중",
+      "deposit": "예치 중",
+      "passed": "통과",
+      "rejected": "부결",
+      "failed": "불성립"
+    },
+    "passed": "통과",
+    "rejected": "부결",
+    "noneMatching": "일치하는 제안은 없습니다",
+    "noneMatchingBody": "지금 이 필터와 일치하는 것은 없습니다."
+  },
+  "dev": {
+    "title": "개발 활동",
+    "summary": "기여 {{total}}건",
+    "viewFull": "개발 활동 열기",
+    "heatmapLabel": "기여 히트맵: {{weeks}}주 동안 기여 {{total}}건",
+    "less": "적음",
+    "more": "많음",
+    "cellTitle_other": "{{date}} 기여 {{count}}건",
+    "range": "열지도 범위",
+    "ranges": {
+      "month": "달",
+      "quarter": "분당",
+      "year": "해"
+    }
+  },
+  "repos": {
+    "title": "활발한 저장소",
+    "period": "기간",
+    "periods": {
+      "week": "주",
+      "month": "월",
+      "year": "연",
+      "quarter": "분당"
+    },
+    "contributors": "기여자",
+    "stars": "스타",
+    "sparkline": "{{name}}의 커밋 활동",
+    "vsPrevious": "이전 기간 대비 {{change}}",
+    "up": "상승",
+    "down": "하락",
+    "caption": "선택한 기간의 커밋 수 · 저장소는 시뮬레이션입니다",
+    "col": {
+      "repository": "저장소",
+      "language": "언어",
+      "commits": "커밋",
+      "change": "변동",
+      "trend": "추세"
+    },
+    "commitsCount": "공약: {{count}}",
+    "demoNote": "Demo 데이터: 이 저장소는 허구이며 그 활동은 시뮬레이션됩니다. GitHub에 연결되지 않습니다.",
+    "emptyBody": "이 기간 동안 저장소 활동은 없습니다.",
+    "emptyTitle": "저장소 활동이 없습니다",
+    "history": "헌신 활동"
+  }
+}

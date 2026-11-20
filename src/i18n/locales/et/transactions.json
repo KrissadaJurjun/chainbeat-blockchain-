@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "Uusimad tehingud {{chain}}.",
+    "stats": {
+      "recent": "Hiljutised tehingud",
+      "success": "Õnnestuv",
+      "failed": "Ebaõnnestus",
+      "volume": "Põhiline maht"
+    },
+    "filterPlaceholder": "Filter hash, aadress või kõrgus",
+    "allTypes": "Kõik liigid",
+    "tableCaption": "Viimased tehingud {{chain}}",
+    "from": "Saatja",
+    "to": "Saaja",
+    "memo": "Memo",
+    "noMemo": "Ei ole märkust",
+    "raw": "Vaadake toorandmed (simuleeritud)",
+    "detailTitle": "Tehing",
+    "detailDescription": "{{chain}} simuleeritud tehingu üksikasjad.",
+    "notFoundTitle": "Tehing ei leitud",
+    "notFoundBody": "Simulatsioonis ei ole {{chain}}-l mingit tehingut selle hashiga.",
+    "failedBecause": "See tehing ebaõnnestus: {{reason}}.",
+    "types": {
+      "send": "Saada",
+      "delegate": "Delegeeritud",
+      "undelegate": "Vastandamata isikud",
+      "claim": "Kannab auhinnad",
+      "vote": "Hääleta",
+      "ibc-transfer": "IBC üleandmine",
+      "swap": "Vahetus",
+      "other": "muud"
+    },
+    "status": {
+      "success": "Õnnestus",
+      "failed": "Ebaõnnestus"
+    },
+    "block": "Plokk",
+    "cardsLabel": "Tehingud",
+    "category": "Kategooria",
+    "date": "Päev",
+    "dateNote": "Näitavad viimaseid {{count}} tehingut kuni {{date}} aasta lõpuni (UTC).",
+    "emptyTitle": "Tehinguid ei leitud",
+    "events": "Juhtumid",
+    "failedEvents": "See tehing ebaõnnestus, nii et see emiteeris ainult oma tasu.",
+    "feeSymbol": "Tasu tunnus",
+    "filtersLabel": "Tehingufiltrid",
+    "gasUsed": "Kasutatud gaas",
+    "gasWanted": "Gaas soovitud",
+    "groups": {
+      "transfer": "Transfertid",
+      "staking": "Pistamine",
+      "governance": "Juhtimine",
+      "ibc": "IBC",
+      "swap": "Väärtpaberid",
+      "other": "muud"
+    },
+    "latestNote": "Näitan viimased {{count}} tehingut, valige kuupäev, et tagasi vaadata.",
+    "messageType": "Sõnumitüüp",
+    "network": "Võrk",
+    "symbol": "Token",
+    "syntheticNote": "See on sünteetiline rekord, mis on loodud Demo Moodi jaoks.",
+    "token": "Token",
+    "validator": "Valideerija",
+    "demoWalletNote": "Seda tehingut tegi rahakott Demo. See eksisteerib ainult selles brauseris: ei toimunud blokiini ülekandmist ja selle hash ei ole tõeline blokiini hash.",
+    "demoTag": "Demo rahakoti"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Valuri legate",
+    "viewAll": "Vezi toate validatoarele",
+    "col": {
+      "validator": "Validator",
+      "power": "Putere de vot",
+      "cumulative": "Cumulativ",
+      "commission": "Comision",
+      "uptime": "Disponibilitate",
+      "change": "Schimbare de 24 de ore",
+      "details": "Detalii",
+      "tokens": "Tokene obligatorii"
+    },
+    "stake": "Staking",
+    "stakeWith": "Încheie cu acest validator",
+    "pageDescription": "Fiecare validator securizând {{chain}}, clasificat după puterea de votare (simulat).",
+    "stats": {
+      "active": "Validatoare active",
+      "nakamoto": "Coefficientul Nakamoto",
+      "nakamotoHint": "Validatoare necesare pentru a opri lanțul",
+      "top10": "Top 10 puterea de votare",
+      "commission": "Comisioane medii"
+    },
+    "filterPlaceholder": "Filtru după nume sau adresă",
+    "statusFilter": "Statutul validatorului",
+    "tableCaption": "Validatoare pe {{chain}}",
+    "detailDescription": "Un validator simulat pe {{chain}}.",
+    "detail": {
+      "delegators": "Delegatori",
+      "bonded": "Tokeni legați",
+      "last30": "în ultimele 30 de zile",
+      "last90": "în ultimele 90 de zile",
+      "noBlocks": "Niciun bloc recent propus.",
+      "noWebsite": "nu este disponibil (validator fictiv)",
+      "openPage": "Deschide pagina completă",
+      "powerHistory": "Putere de vot",
+      "proposed24h": "Blocuri propuse (24 h)",
+      "rank": "Clasament",
+      "recentBlocks": "Blocuri propuse recent",
+      "selfBonded": "Împărtășite",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Disponibilitate",
+      "valueUsd": "Valoarea pariului {{value}}",
+      "website": "Site-ul web"
+    },
+    "status": {
+      "active": "Activ",
+      "inactive": "Inactiv",
+      "jailed": "Încarcerat"
+    },
+    "activitiesTitle": "Activități de validare",
+    "commissionShort": "Taxe {{value}}",
+    "detailTitle": "Validator",
+    "fictionalNote": "Validator fictiv pentru modul Demo. Nu este un operator real și nimic despre el nu este verificat.",
+    "hoverTip": "Comisia {{commission}} · timp de activitate {{uptime}} · {{delegators}} delegaţi",
+    "noMatching": "Fără validatori care să se potrivească.",
+    "notFoundBody": "{{chain}} nu are validator cu această adresă.",
+    "notFoundTitle": "Validatorul nu a fost găsit",
+    "sort": {
+      "power": "Putere de vot",
+      "commission": "Comision",
+      "uptime": "Disponibilitate"
+    },
+    "sortBy": "Sortarea validatorilor după"
+  },
+  "validatorsViz": {
+    "description": "Comisie versus uptime pentru fiecare validator pe {{chain}}; dimensiunea balonului arată puterea de vot.",
+    "showAll": "Include inactivi și închiși",
+    "avgUptime": "Durata medie de funcționare",
+    "zeroFee": "Validatoare cu comision zero",
+    "chartTitle": "Comisionul vs timpul de activare",
+    "chartHint": "Fiecare bule este un validator",
+    "legend": "Legenda grafică",
+    "sizeHint": "Dimensiunea balonului = puterea de votare"
+  }
+}

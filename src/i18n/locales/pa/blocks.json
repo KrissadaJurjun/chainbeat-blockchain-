@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "ਬਲਾਕ {{height}}",
+    "invalid": "ਗਲਤ ਬਲਾਕ ਦੀ ਉਚਾਈ",
+    "description": "{{chain}} 'ਤੇ ਇੱਕ ਸਿਮੂਲੇਟਡ ਬਲਾਕ ਦੇ ਵੇਰਵੇ.",
+    "previous": "ਪਿਛਲਾ ਬਲਾਕ",
+    "next": "ਅਗਲੀ ਬਲਾਕ",
+    "notFoundTitle": "ਬਲਾਕ ਨਹੀਂ ਮਿਲਿਆ",
+    "notFoundBody": "{{chain}} ਕੋਲ ਅਜੇ ਤੱਕ ਇਸ ਉਚਾਈ 'ਤੇ ਕੋਈ ਬਲਾਕ ਨਹੀਂ ਹੈ।",
+    "transactions_one": "{{count}} ਲੈਣ-ਦੇਣ",
+    "transactions_other": "{{count}} ਲੈਣ-ਦੇਣ",
+    "txCaption": "ਬਲਾਕ {{height}} ਵਿੱਚ ਲੈਣ-ਦੇਣ",
+    "noTxs": "ਇਸ ਬਲਾਕ ਵਿੱਚ ਕੋਈ ਲੈਣ-ਦੇਣ ਨਹੀਂ ਹੈ",
+    "genesis": "ਉਤਪਤ ਬਲਾਕ",
+    "parentHash": "ਮਾਤਾ-ਪਿਤਾ ਹਸ਼",
+    "demoTxs": "Demo ਇਸ ਉਚਾਈ 'ਤੇ ਵਾਲਿਟ ਟ੍ਰਾਂਜੈਕਸ਼ਨ",
+    "demoTxsNote": "ਇਹ Demo ਵਾਲਿਟ ਦੁਆਰਾ ਬਣਾਏ ਗਏ ਹਨ. ਉਹ ਸਿਮੂਲੇਟ ਕੀਤੇ ਬਲਾਕ ਦੇ ਆਪਣੇ ਲੈਣ-ਦੇਣ ਦੀ ਗਿਣਤੀ ਦਾ ਹਿੱਸਾ ਨਹੀਂ ਹਨ."
+  },
+  "blocksPage": {
+    "description": "{{chain}} 'ਤੇ ਨਵੀਨਤਮ ਬਲਾਕ. ਸੂਚੀ ਹਰ ਬਲਾਕ ਸਮੇਂ ਲਗਭਗ ਇਕ ਵਾਰ ਤਾਜ਼ਾ ਹੁੰਦੀ ਹੈ.",
+    "live": "ਲਾਈਵ",
+    "avgGas": "ਵਰਤੀ ਗਈ ਐਵਜੀ. ਗੈਸ",
+    "tableCaption": "{{chain}} ' ਤੇ ਆਖਰੀ ਬਲਾਕ",
+    "proposer": "ਪ੍ਰਸਤਾਵਕ",
+    "txs": "Txs",
+    "gas": "ਵਰਤੀ ਗਈ ਗੈਸ",
+    "size": "ਆਕਾਰ",
+    "emptyTitle": "ਕੋਈ ਬਲਾਕ ਨਹੀਂ ਮਿਲਿਆ",
+    "filterPlaceholder": "ਉਚਾਈ, ਹੈਸ਼ ਜਾਂ ਵੈਲੀਡੇਟਰ ਅਨੁਸਾਰ ਫਿਲਟਰ",
+    "filtersLabel": "ਬਲਾਕ ਫਿਲਟਰ",
+    "finality": "ਅੰਤਿਮ",
+    "finalityNote": "ਇਸ ਤਰ੍ਹਾਂ ਦੇ ਨੈਟਵਰਕ 'ਤੇ ਬਲਾਕ ਕੀਤੇ ਜਾਣ ਤੋਂ ਬਾਅਦ ਹੀ ਅੰਤਿਮ ਹੁੰਦੇ ਹਨ।",
+    "finalized": "ਮੁਕੰਮਲ ਕੀਤਾ ਗਿਆ",
+    "withTxsOnly": "ਸਿਰਫ ਲੈਣ-ਦੇਣ ਵਾਲੇ ਬਲਾਕ"
+  }
+}

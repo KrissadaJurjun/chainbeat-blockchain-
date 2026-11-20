@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "Mawasiliano ya hivi karibuni kwenye {{chain}}. Fungua moja kwa maelezo yake kamili.",
+    "stats": {
+      "recent": "shughuli za hivi karibuni",
+      "success": "Kufanikiwa",
+      "failed": "Imeshindwa",
+      "volume": "Kiasi cha asili"
+    },
+    "filterPlaceholder": "Filter kwa hash, anwani au urefu",
+    "allTypes": "Aina zote",
+    "tableCaption": "shughuli za hivi karibuni kwenye {{chain}}",
+    "from": "Kutoka",
+    "to": "Kwenda",
+    "memo": "Memo",
+    "noMemo": "Hakuna memo",
+    "raw": "Tazama data ghafi (simulated)",
+    "detailTitle": "Muamala",
+    "detailDescription": "Maelezo ya shughuli simulated juu ya {{chain}}.",
+    "notFoundTitle": "Hesabu haipatikani",
+    "notFoundBody": "Hakuna shughuli na hash hii kuwepo juu ya {{chain}} katika simulations.",
+    "failedBecause": "Hotuba hii ilishindwa: {{reason}}.",
+    "types": {
+      "send": "Tuma",
+      "delegate": "Wajumbe",
+      "undelegate": "Wasio Wakimbizi",
+      "claim": "Kudai tuzo",
+      "vote": "Piga kura",
+      "ibc-transfer": "IBC uhamisho",
+      "swap": "Badilishana",
+      "other": "Nyingine"
+    },
+    "status": {
+      "success": "Imefaulu",
+      "failed": "Imeshindwa"
+    },
+    "block": "Kitalu",
+    "cardsLabel": "Miamala",
+    "category": "Jamii",
+    "date": "Tarehe",
+    "dateNote": "Kuonyesha shughuli za karibuni {{count}} hadi mwisho wa {{date}} (UTC).",
+    "emptyTitle": "Hakuna shughuli zilizopatikana",
+    "events": "Matukio",
+    "failedEvents": "Biashara hiyo ilishindwa, kwa hiyo ilitoa tu tukio lake la ada.",
+    "feeSymbol": "Ishara ya ada",
+    "filtersLabel": "Vichujio vya shughuli",
+    "gasUsed": "Gesi iliyotumika",
+    "gasWanted": "Gesi inayohitajika",
+    "groups": {
+      "transfer": "Uhamisho",
+      "staking": "Kucheza",
+      "governance": "Utawala",
+      "ibc": "IBC",
+      "swap": "Swaps",
+      "other": "Nyingine"
+    },
+    "latestNote": "Kuonyesha shughuli za karibuni {{count}} kuchagua tarehe ya kuangalia nyuma zaidi.",
+    "messageType": "Aina ya ujumbe",
+    "network": "Mtandao",
+    "symbol": "Tokeni",
+    "syntheticNote": "Hii ni rekodi synthetic kuzalishwa kwa Demo Mode. hash yake si halisi blockchain hash na haiwezi kuthibitishwa kwenye mtandao wowote.",
+    "token": "Tokeni",
+    "validator": "Mthibitishaji",
+    "demoWalletNote": "shughuli hii iliundwa na Demo mkoba. ni kuwepo tu katika browser hii: hakuna blockchain uhamisho ulifanyika, na hash yake si halisi blockchain hash.",
+    "demoTag": "Demo mkoba"
+  }
+}

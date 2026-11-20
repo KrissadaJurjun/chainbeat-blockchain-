@@ -1,0 +1,30 @@
+{
+  "notifications": {
+    "label": "通知",
+    "title": "通知",
+    "unread": "未読",
+    "unreadLabel_other": "未読の通知が {{count}} 件",
+    "markAllRead": "すべて既読にする",
+    "empty": "すべて確認済みです。",
+    "items": {
+      "proposalVoting": "提案 #{{id}} は投票期間中です。残り約 {{hours}} 時間。",
+      "proposalPassed": "提案 #{{id}} が可決され、実行されます。",
+      "validatorJailed": "{{name}} は稼働停止のためジェイルされました。",
+      "upgradeScheduled": "ネットワークアップグレード {{version}} が {{days}} 日後に予定されています。",
+      "ibcVolume": "IBC 送金量が過去 24 時間で {{pct}}% 増加しました。",
+      "newBlock": "ブロック{{height}}は{{chain}} (シミュレーション) で生産された.",
+      "walletConnectedDemo": "Demo 財布接続 (シミュレーション)。",
+      "walletConnected": "{{name}} 連絡済み 何も署名されていません。",
+      "walletDisconnected": "ウォレットはこのブラウザセッションから切り離された.",
+      "txSuccess": "シミュレーションの取引確認: {{summary}}",
+      "txFailed": "エラーシミュレーションが起動したため シミュレーションのトランザクションが失敗した。",
+      "proposalCreated": "Demo 提案#{{id}} {{title}} が追加されました (シミュレーション).",
+      "networkChanged": "{{chain}}に切り替えました シミュレーションデータを表示します。",
+      "simPaused": "シミュレーションが止まり シミュレーションデータは再開するまで更新されません。",
+      "errorSimulation": "エラーシミュレーションがオンだ データ要求と財布確認は,それを消すまで失敗する."
+    },
+    "dismiss": "棄却通知",
+    "clearAll": "すべてを清掃する",
+    "simulatedNote": "ネットワークフィードからのアイテムがシミュレーションされています。"
+  }
+}

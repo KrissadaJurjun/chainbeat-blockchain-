@@ -1,0 +1,6 @@
+{
+  "accessibility": {
+    "navigatedTo": "Se on ohjattu kohti {{title}}",
+    "loadingPage": "Lähetyssivu"
+  }
+}

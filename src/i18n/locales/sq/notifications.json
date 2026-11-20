@@ -1,0 +1,31 @@
+{
+  "notifications": {
+    "label": "Njoftimet",
+    "title": "Njoftimet",
+    "unread": "Pa lexuar",
+    "unreadLabel_one": "{{count}} njoftim i pa lexuar",
+    "unreadLabel_other": "{{count}} njoftime të pa lexuara",
+    "markAllRead": "Të gjitha të shënuara si janë lexuar",
+    "empty": "Ju jeni të gjithë të kapur.",
+    "items": {
+      "proposalVoting": "Propozimi #{{id}} është në periudhën e votimit rreth {{hours}} orë të mbetur.",
+      "proposalPassed": "Propozimi #{{id}} është miratuar dhe do të zbatohet.",
+      "validatorJailed": "{{name}} ishte burgosur për pushime.",
+      "upgradeScheduled": "Përmirësimi i rrjetit {{version}} është planifikuar në {{days}} ditë.",
+      "ibcVolume": "IBC Volumi i transferimeve u rrit {{pct}}% në 24 orët e fundit.",
+      "newBlock": "Bloku {{height}} është prodhuar në {{chain}} (simuluar).",
+      "walletConnectedDemo": "Demo portofol i lidhur (simuluar).",
+      "walletConnected": "{{name}} e lidhur, asgjë nuk është nënshkruar.",
+      "walletDisconnected": "Çmimi është shkëputur nga sesioni i shfletuesit.",
+      "txSuccess": "Transaksion i simuar i konfirmuar: {{summary}}",
+      "txFailed": "Një transaksion i simulatuar dështoi sepse simulacioni i gabimit është aktivizuar.",
+      "proposalCreated": "Demo propozimi #{{id}} {{title}} është shtuar (simuluar).",
+      "networkChanged": "Kthehem në {{chain}}, duke treguar të dhënat e simulacionit.",
+      "simPaused": "Simulimi është ndalur. Të dhënat e simulimit nuk do të përditësohen derisa të rifillohen.",
+      "errorSimulation": "Simulimi i gabimit është aktivizuar. Kërkesat e të dhënave dhe konfirmimet e portofolit do të dështojnë derisa ta fikni atë."
+    },
+    "dismiss": "Njoftimi i refuzimit",
+    "clearAll": "Hapni të gjitha",
+    "simulatedNote": "Asgjë këtu nuk është një paralajmërim live blockchain."
+  }
+}

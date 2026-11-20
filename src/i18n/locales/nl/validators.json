@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Gekoppelde valsen",
+    "viewAll": "Bekijk alle validatoren",
+    "col": {
+      "validator": "Validator",
+      "power": "Stemkracht",
+      "cumulative": "Cumulatief",
+      "commission": "Commissie",
+      "uptime": "Uptime",
+      "change": "24-uurswisseling",
+      "details": "Details",
+      "tokens": "Geobligatieve tokens"
+    },
+    "stake": "Staken",
+    "stakeWith": "Stake met deze validator",
+    "pageDescription": "Elke validator met {{chain}}, gerangschikt naar stemkracht (gesimulateerd).",
+    "stats": {
+      "active": "Actieve validatoren",
+      "nakamoto": "Nakamoto-coëfficiënt",
+      "nakamotoHint": "Validatoren nodig om de keten te stoppen",
+      "top10": "Top 10 stemkracht",
+      "commission": "Gemiddelde commissie"
+    },
+    "filterPlaceholder": "Filter per naam of adres",
+    "statusFilter": "Status van validator",
+    "tableCaption": "Validatoren op {{chain}}",
+    "detailDescription": "Een gesimuleerde validator op {{chain}}.",
+    "detail": {
+      "delegators": "Delegators",
+      "bonded": "Gebindde tokens",
+      "last30": "laatste 30 dagen",
+      "last90": "laatste 90 dagen",
+      "noBlocks": "Geen onlangs voorgestelde blokken.",
+      "noWebsite": "niet beschikbaar (fictieve validator)",
+      "openPage": "Volledige pagina openen",
+      "powerHistory": "Stemkracht",
+      "proposed24h": "Voorgestelde blokken (24 uur)",
+      "rank": "Positie",
+      "recentBlocks": "Onlangs voorgestelde blokken",
+      "selfBonded": "Zelfbonden",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Uptime",
+      "valueUsd": "Inzetwaarde {{value}}",
+      "website": "Website"
+    },
+    "status": {
+      "active": "Actief",
+      "inactive": "Inactief",
+      "jailed": "Geblokkeerd"
+    },
+    "activitiesTitle": "Activiteiten van de validatoren",
+    "commissionShort": "Vergoeding {{value}}",
+    "detailTitle": "Validator",
+    "fictionalNote": "Een fictieve validator voor Demo Mode. Het is geen echte operator en er is niets over geverifieerd.",
+    "hoverTip": "Commissie {{commission}} · uptime {{uptime}} · {{delegators}} afgevaardigden",
+    "noMatching": "Geen overeenkomstige validatoren.",
+    "notFoundBody": "{{chain}} heeft geen validator met dit adres.",
+    "notFoundTitle": "Validator niet gevonden",
+    "sort": {
+      "power": "Stemkracht",
+      "commission": "Commissie",
+      "uptime": "Uptime"
+    },
+    "sortBy": "Sorting van validatoren naar"
+  },
+  "validatorsViz": {
+    "description": "Commissie versus uptime voor elke validator op {{chain}}; de grootte van de bubbel toont de stemkracht.",
+    "showAll": "Inclusief inactief en gevangen",
+    "avgUptime": "Gemiddelde uptime",
+    "zeroFee": "Gevalideerden met nulcommissie",
+    "chartTitle": "Commissie versus uptime",
+    "chartHint": "Elke bubbel is één validator",
+    "legend": "Grafieklegende",
+    "sizeHint": "Bubbelgrootte = stemkracht"
+  }
+}

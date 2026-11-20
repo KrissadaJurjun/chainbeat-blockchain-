@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "在{{chain}}號最新的交易.",
+    "stats": {
+      "recent": "最近的交易",
+      "success": "取得成功",
+      "failed": "失敗",
+      "volume": "產量"
+    },
+    "filterPlaceholder": "按哈希,地址或高度進行過濾",
+    "allTypes": "所有類型",
+    "tableCaption": "在 {{chain}} 上的最新交易",
+    "from": "發送方",
+    "to": "接收方",
+    "memo": "備註",
+    "noMemo": "沒有備忘錄",
+    "raw": "查看原始數據 (模擬)",
+    "detailTitle": "交易",
+    "detailDescription": "關於 {{chain}} 的模擬交易的詳細.",
+    "notFoundTitle": "沒有找到交易",
+    "notFoundBody": "在模擬中, {{chain}} 號沒有使用這個哈希的交易.",
+    "failedBecause": "這次交易失敗: {{reason}}.",
+    "types": {
+      "send": "發送",
+      "delegate": "委托人",
+      "undelegate": "沒有授權",
+      "claim": "索取獎勵",
+      "vote": "投票",
+      "ibc-transfer": "IBC 轉讓",
+      "swap": "兌換",
+      "other": "其他"
+    },
+    "status": {
+      "success": "成功",
+      "failed": "失敗"
+    },
+    "block": "區塊",
+    "cardsLabel": "交易",
+    "category": "類別",
+    "date": "年 月 日",
+    "dateNote": "顯示截至{{date}}年底的最新 {{count}} 筆交易 (UTC).",
+    "emptyTitle": "沒有找到交易",
+    "events": "事件",
+    "failedEvents": "這項交易失敗,。",
+    "feeSymbol": "收費代號",
+    "filtersLabel": "交易過濾器",
+    "gasUsed": "已用 Gas",
+    "gasWanted": "需要燃氣",
+    "groups": {
+      "transfer": "轉讓",
+      "staking": "股",
+      "governance": "治理",
+      "ibc": "國際電視台",
+      "swap": "交换方式",
+      "other": "其他"
+    },
+    "latestNote": "顯示最新的{{count}}交易, 選擇一個日期,。",
+    "messageType": "訊息類型",
+    "network": "網路",
+    "symbol": "代幣",
+    "syntheticNote": "這是為Demo模式生成的合成紀錄. 它的哈希不是真正的區塊哈希,。",
+    "token": "代幣",
+    "validator": "驗證者",
+    "demoWalletNote": "這項交易是由 Demo 錢包建立的. 它只存在於這個浏覽器中:沒有區塊轉移,。",
+    "demoTag": "Demo 錢包"
+  }
+}

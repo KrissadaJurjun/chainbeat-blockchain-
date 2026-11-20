@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Sivulähteen navigointi",
+    "primary": "Päänavigointi",
+    "menu": "Navigointimenuu",
+    "openMenu": "Avoin navigointimenuu",
+    "closeMenu": "Sulje navigointimenuu",
+    "collapseSidebar": "Katkaisu sivuvaihe",
+    "expandSidebar": "Laajennetaan sivulauta",
+    "skipToContent": "Siirtykää pääsisältöön",
+    "home": "ChainBeatin koti",
+    "pages": "Sivut",
+    "dashboard": "Koontinäyttö",
+    "validators": "Validaattorit",
+    "proposals": "Ehdotukset",
+    "blocks": "Lohkot",
+    "transactions": "Transaktiot",
+    "portfolio": "Salkku",
+    "swap": "Vaihda",
+    "stake": "Panostus",
+    "liquidStaking": "Likvidi panostus",
+    "send": "Lähetä",
+    "vote": "Äänestä",
+    "createProposal": "Luo ehdotus",
+    "market": "Markkinat",
+    "network": "Verkko",
+    "governance": "Hallinto",
+    "ibcNetwork": "IBC-verkko",
+    "devActivity": "Kehittäjäaktiivisuus",
+    "multichain": "Monen ketjun yleiskatsaus",
+    "heartbeat": "Sydämenlyönti",
+    "dominance": "Dominanssi",
+    "validatorsViz": "Validaattorit",
+    "blockExplorer": "Lohkoselain",
+    "transactionExplorer": "Transaktioselain",
+    "tokenExplorer": "Tokenselain",
+    "about": "Tietoa",
+    "explorerHome": "Selain",
+    "governanceHome": "Hallituksen keskus",
+    "settings": "Asetukset"
+  },
+  "sections": {
+    "explorer": "Selain",
+    "wallet": "Lompakko",
+    "analytics": "Analytiikka",
+    "visualizations": "Visualisoinnit"
+  },
+  "chains": {
+    "favorite": "Lisää {{name}} suosikkeihin",
+    "unfavorite": "Poista {{name}} suosikkeista",
+    "simulatedHealthy": "Simuloitu verkko · terveellinen"
+  },
+  "search": {
+    "label": "Etsi ChainBeat",
+    "placeholder": "Etsintäluokki, X, osoite...",
+    "results": "Hakutulokset",
+    "noResults": "Ei tuloksia {{query}}",
+    "kinds": {
+      "page": "Sivu",
+      "block": "Lohko",
+      "transaction": "Tk: n",
+      "validator": "Validaattori",
+      "token": "Token",
+      "address": "Osoite",
+      "proposal": "Ehdotus"
+    },
+    "recent": "Äskettäiset hakemukset",
+    "clearRecent": "Selkeä viimeaikainen hakemus",
+    "removeRecent": "Poista {{query}} viimeaikaisista hakuista",
+    "hint": "Kokeile blokin korkeutta, transaktion hashia, osoitetta ( {{prefix}} 1...), hyväksyjä, ehdotusnumero tai tunnusmerkintä.",
+    "submit": "Haku",
+    "searching": "Etsitään...",
+    "resultCount": "Tulokset: {{count}}",
+    "invalid": {
+      "tooLong": "Se on liian pitkä hakuaika (noin 200 merkkiä).",
+      "badChecksum": "Tämä näyttää osoitteelta, mutta se ei vastaa.",
+      "badHash": "Transaction- tai blokkihashissa on täsmälleen 64 hexadecimalista merkkiä.",
+      "badChars": "Etsi blokin korkeus, hash, osoite, validointi, ehdotus tai tunnus."
+    },
+    "categories": {
+      "page": "Sivut",
+      "block": "Lohkot",
+      "transaction": "Transaktiot",
+      "address": "Osoitteet",
+      "validator": "Validaattorit",
+      "proposal": "Ehdotukset",
+      "token": "Näytteet"
+    }
+  },
+  "user": {
+    "menu": "Tilinluettelo",
+    "guest": "Vierailija",
+    "notConnected": "Ei lompakkoa",
+    "settings": "Asetukset",
+    "about": "ChainBeatista"
+  }
+}

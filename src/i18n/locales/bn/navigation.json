@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "সাইডবার নেভিগেশন",
+    "primary": "প্রধান ন্যাভিগেশন",
+    "menu": "নেভিগেশন মেনু",
+    "openMenu": "ওপেন নেভিগেশন মেনু",
+    "closeMenu": "নেভিগেশন মেনু বন্ধ করুন",
+    "collapseSidebar": "Collapse সাইডবার",
+    "expandSidebar": "সাইডবার প্রসারিত করুন",
+    "skipToContent": "মূল বিষয়বস্তুতে স্লিপ করুন",
+    "home": "ChainBeat হোম",
+    "pages": "পাতা",
+    "dashboard": "ড্যাশবোর্ড",
+    "validators": "ভ্যালিডেটর",
+    "proposals": "প্রস্তাব",
+    "blocks": "ব্লক",
+    "transactions": "লেনদেন",
+    "portfolio": "পোর্টফোলিও",
+    "swap": "সোয়াপ",
+    "stake": "স্টেক",
+    "liquidStaking": "লিকুইড স্টেকিং",
+    "send": "পাঠান",
+    "vote": "ভোট",
+    "createProposal": "প্রস্তাব তৈরি করুন",
+    "market": "বাজার",
+    "network": "নেটওয়ার্ক",
+    "governance": "গভর্ন্যান্স",
+    "ibcNetwork": "IBC নেটওয়ার্ক",
+    "devActivity": "ডেভেলপার কার্যকলাপ",
+    "multichain": "মাল্টিচেইন ওভারভিউ",
+    "heartbeat": "হার্টবিট",
+    "dominance": "আধিপত্য",
+    "validatorsViz": "ভ্যালিডেটর",
+    "blockExplorer": "ব্লক এক্সপ্লোরার",
+    "transactionExplorer": "লেনদেন এক্সপ্লোরার",
+    "tokenExplorer": "টোকেন এক্সপ্লোরার",
+    "about": "সম্পর্কে",
+    "explorerHome": "এক্সপ্লোরার",
+    "governanceHome": "গভর্নেন্স হাব",
+    "settings": "সেটিংস"
+  },
+  "sections": {
+    "explorer": "এক্সপ্লোরার",
+    "wallet": "ওয়ালেট",
+    "analytics": "বিশ্লেষণ",
+    "visualizations": "ভিজ্যুয়ালাইজেশন"
+  },
+  "chains": {
+    "favorite": "{{name}} যোগ করুন প্রিয়",
+    "unfavorite": "{{name}} অপসারণ করুন",
+    "simulatedHealthy": "সিমুলেটেড নেটওয়ার্ক · স্বাস্থ্যকর"
+  },
+  "search": {
+    "label": "অনুসন্ধান চেইনবিট",
+    "placeholder": "সার্চ ব্লক, টিএক্স, ঠিকানা...",
+    "results": "অনুসন্ধানের ফলাফল",
+    "noResults": "{{query}} এর জন্য কোন ফলাফল পাওয়া যায়নি",
+    "kinds": {
+      "page": "পাতা",
+      "block": "ব্লক",
+      "transaction": "টক্স",
+      "validator": "ভ্যালিডেটর",
+      "token": "টোকেন",
+      "address": "ঠিকানা",
+      "proposal": "প্রস্তাব"
+    },
+    "recent": "সাম্প্রতিক অনুসন্ধান",
+    "clearRecent": "সাম্প্রতিক অনুসন্ধানগুলি পরিষ্কার",
+    "removeRecent": "সাম্প্রতিক অনুসন্ধান থেকে {{query}} অপসারণ করুন",
+    "hint": "একটি ব্লক উচ্চতা, একটি লেনদেন হ্যাশ, একটি ঠিকানা চেষ্টা করুন ( {{prefix}} 1...), একটি বৈধক, একটি প্রস্তাব নম্বর বা একটি টোকেন নামকরণ।",
+    "submit": "অনুসন্ধান",
+    "searching": "খুঁজছি...",
+    "resultCount": "ফলাফলঃ {{count}}",
+    "invalid": {
+      "tooLong": "এটি একটি অনুসন্ধান শব্দের জন্য খুব দীর্ঘ (সর্বোচ্চ 200 অক্ষর) ।",
+      "badChecksum": "এটা ঠিকানার মত দেখায়, কিন্তু এর চেকসম মিলছে না। টাইপ ত্রুটি আছে কিনা তা পরীক্ষা করে দেখুন।",
+      "badHash": "একটি লেনদেন বা ব্লক হ্যাশ ঠিক 64 hexadecimal অক্ষর আছে।",
+      "badChars": "একটি ব্লক উচ্চতা, একটি হ্যাশ, একটি ঠিকানা, একটি বৈধক, একটি প্রস্তাব বা একটি টোকেন খুঁজুন।"
+    },
+    "categories": {
+      "page": "পাতা",
+      "block": "ব্লক",
+      "transaction": "লেনদেন",
+      "address": "ঠিকানা",
+      "validator": "ভ্যালিডেটর",
+      "proposal": "প্রস্তাব",
+      "token": "টোকেন"
+    }
+  },
+  "user": {
+    "menu": "অ্যাকাউন্ট মেনু",
+    "guest": "অতিথি",
+    "notConnected": "কোন ওয়ালেট সংযুক্ত নেই",
+    "settings": "সেটিংস",
+    "about": "ChainBeat সম্পর্কে"
+  }
+}

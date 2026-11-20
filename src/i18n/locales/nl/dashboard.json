@@ -1,0 +1,102 @@
+{
+  "overview": {
+    "title": "Overzicht",
+    "unit": "Performance index · Base = 100 bij start van het bereik",
+    "refreshFailed": "Ik kon de laatste geladen gegevens niet weergeven."
+  },
+  "chart": {
+    "keyboardHint": "Gebruik de pijltoets om tussen gegevenspunten te bewegen.",
+    "summary": "Indice van prestaties boven {{range}}: {{details}}",
+    "rangeLabel": "Tijdbereik",
+    "seriesLabel": "Grafiekreeks",
+    "keepOne": "Ten minste één reeks moet zichtbaar blijven",
+    "emptyTitle": "Geen gegevens voor dit bereik",
+    "emptyBody": "Probeer een ander tijdsbestek of verfris je.",
+    "range": {
+      "24H": "24 UUR",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "De laatste 24 uur",
+      "7D": "De laatste 7 dagen",
+      "30D": "De laatste 30 dagen",
+      "90D": "De laatste 90 dagen"
+    },
+    "zoomControls": "Zoomcontroles",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom uit",
+    "resetView": "Opnieuw weergave",
+    "zoomLevel": "Zoomniveau"
+  },
+  "proposals": {
+    "title": "Voorstellen",
+    "filter": "Voorstelfilter",
+    "live": "Leven",
+    "total": "Totaal",
+    "viewAll": "Bekijk alle voorstellen",
+    "noneLive": "Geen live voorstellen",
+    "noneLiveBody": "Er is momenteel geen lopend bestuur.",
+    "showAll": "Toon recente voorstellen",
+    "endsIn": "Beëindigingen {{time}}",
+    "turnout": "Opkomst",
+    "vote": "Stemmen",
+    "status": {
+      "voting": "Stemming loopt",
+      "deposit": "Storting",
+      "passed": "Aangenomen",
+      "rejected": "Verworpen",
+      "failed": "Mislukt"
+    },
+    "passed": "Aangenomen",
+    "rejected": "Verworpen",
+    "noneMatching": "Geen overeenkomstige voorstellen",
+    "noneMatchingBody": "Er is niets wat overeenkomt met dit filter."
+  },
+  "dev": {
+    "title": "Ontwikkelaarsactiviteit",
+    "summary": "{{total}} bijdragen",
+    "viewFull": "Open ontwikkelaarsactiviteit",
+    "heatmapLabel": "Betrokkenheidshotekaart: {{total}} bijdragen gedurende {{weeks}} weken",
+    "less": "Minder",
+    "more": "Meer",
+    "cellTitle_one": "{{count}} bijdrage op {{date}}",
+    "cellTitle_other": "{{count}} bijdragen op {{date}}",
+    "range": "Heatmap bereik",
+    "ranges": {
+      "month": "Maand",
+      "quarter": "Vijfde kwartaal",
+      "year": "Jaar"
+    }
+  },
+  "repos": {
+    "title": "Aktieve opslagplaats",
+    "period": "Periode",
+    "periods": {
+      "week": "Week",
+      "month": "Maand",
+      "year": "Jaar",
+      "quarter": "Vijfde kwartaal"
+    },
+    "contributors": "Deelnemers",
+    "stars": "Sterren",
+    "sparkline": "Verplichte activiteit voor {{name}}",
+    "vsPrevious": "{{change}} vs. eerdere periode",
+    "up": "Omhoog",
+    "down": "Naar beneden",
+    "caption": "Verplichtingen in de geselecteerde periode · gesimuleerde opslagplaatsen",
+    "col": {
+      "repository": "Repositorium",
+      "language": "Taal",
+      "commits": "Verbintenissen",
+      "change": "Verandering",
+      "trend": "Trending"
+    },
+    "commitsCount": "Verplichtingen: {{count}}",
+    "demoNote": "Demo gegevens: dit bewaarplek is fictief en zijn activiteit wordt gesimuleerd. Het is niet verbonden met GitHub.",
+    "emptyBody": "In deze periode is er geen opslagruimte.",
+    "emptyTitle": "Geen opslagruimte",
+    "history": "Bepalingsactiviteit"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Bindade valser",
+    "viewAll": "Visa alla validatorer",
+    "col": {
+      "validator": "Validerare",
+      "power": "Rösttyngd",
+      "cumulative": "Sammansatta",
+      "commission": "Provision",
+      "uptime": "Drifttid",
+      "change": "24 timmars byte",
+      "details": "Detaljer",
+      "tokens": "Obligerade tokens"
+    },
+    "stake": "Staka",
+    "stakeWith": "Stake med denna validator",
+    "pageDescription": "Varje validator som säkrar {{chain}}, rankad efter rösträtt (simulerad).",
+    "stats": {
+      "active": "Aktiva validatorer",
+      "nakamoto": "Nakamoto-koefficienten",
+      "nakamotoHint": "Validerare som behövs för att stoppa kedjan",
+      "top10": "Top-10 röstkrafter",
+      "commission": "Genomsnittlig provision"
+    },
+    "filterPlaceholder": "Filtrering efter namn eller adress",
+    "statusFilter": "Valideringsstatus",
+    "tableCaption": "Validatorer på {{chain}}",
+    "detailDescription": "En simulerad validator på {{chain}}.",
+    "detail": {
+      "delegators": "Delegerare",
+      "bonded": "Token som är kopplade",
+      "last30": "de senaste 30 dagarna",
+      "last90": "de senaste 90 dagarna",
+      "noBlocks": "Inga nyligen föreslagna block.",
+      "noWebsite": "inte tillgänglig (fintisk validator)",
+      "openPage": "Öppna hela sidan",
+      "powerHistory": "Rösttyngd",
+      "proposed24h": "föreslagna block (24 timmar)",
+      "rank": "Rank",
+      "recentBlocks": "Nyligen föreslagna block",
+      "selfBonded": "Självbunden",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Drifttid",
+      "valueUsd": "Insatsvärde {{value}}",
+      "website": "Webbplats"
+    },
+    "status": {
+      "active": "Aktiv",
+      "inactive": "Inaktiv",
+      "jailed": "Spärrad"
+    },
+    "activitiesTitle": "Valideringsverksamhet",
+    "commissionShort": "Avgift {{value}}",
+    "detailTitle": "Validerare",
+    "fictionalNote": "Det är inte en verklig operatör och inget om det verifierats.",
+    "hoverTip": "Kommissionen {{commission}} · drifttid {{uptime}} · {{delegators}} delegater",
+    "noMatching": "Inga matchande validatorer.",
+    "notFoundBody": "{{chain}} har ingen validator med denna adress.",
+    "notFoundTitle": "Validerare inte hittats",
+    "sort": {
+      "power": "Rösttyngd",
+      "commission": "Provision",
+      "uptime": "Drifttid"
+    },
+    "sortBy": "Sortera validerare efter"
+  },
+  "validatorsViz": {
+    "description": "Kommissionen jämfört med tid för varje validator på {{chain}}; bubblans storlek visar röstkraften.",
+    "showAll": "Inkludera inaktiv och fängslad",
+    "avgUptime": "Genomsnittlig drifttid",
+    "zeroFee": "Validatorer med nollkommission",
+    "chartTitle": "Kommission vs drifttid",
+    "chartHint": "Varje bubbla är en validator",
+    "legend": "Kartlegenden",
+    "sizeHint": "Bubbelstorlek = röststyrka"
+  }
+}

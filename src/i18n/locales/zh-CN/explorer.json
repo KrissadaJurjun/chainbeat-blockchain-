@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "{{chain}} 上已知的原生、IBC、流动性质押和外部资产（模拟）。",
+    "stats": {
+      "total": "跟踪的代币"
+    },
+    "kinds": {
+      "native": "原生",
+      "ibc": "IBC",
+      "external": "外部",
+      "stable": "稳定币",
+      "liquid": "流动性质押"
+    },
+    "col": {
+      "token": "代币",
+      "type": "类型",
+      "denom": "Denom",
+      "price": "价格",
+      "change": "24 小时",
+      "supply": "供应量",
+      "holders": "持有者",
+      "marketCap": "市值"
+    },
+    "filterPlaceholder": "按代号、名称或 denom 筛选",
+    "tableCaption": "{{chain}} 上的代币"
+  },
+  "account": {
+    "title": "账户",
+    "description": "{{chain}}账户的余额和近期活动 (模拟).",
+    "available": "可供使用",
+    "balances": "余额",
+    "counterparty": "对方",
+    "direction": "方向",
+    "in": "在",
+    "out": "在外面",
+    "history": "交易历史",
+    "historyCaption": "{{address}}期的交易",
+    "invalidTitle": "没有有效地址",
+    "invalidBody": "这不是有效的. {{chain}} 这个网络上的地址始于 {{prefix}} 1,并包括检查金额.",
+    "noBalances": "没有平衡.",
+    "noHistory": "没有发现交易",
+    "noHistoryBody": "在最新的{{blocks}}个区块中,这个账户没有模拟活动.",
+    "rewards": "奖励: {{value}}",
+    "staked": "的",
+    "totalValue": "总价值",
+    "txCount": "交易",
+    "unknown": "这是一个有效的地址,但它不出现在模拟中,所以它没有平衡或历史.",
+    "window": "在最新的{{blocks}}个街区",
+    "demoWallet": "这是你的Demo钱包,它的余额和交易是模拟的,只存在于这个浏览器中."
+  },
+  "explorer": {
+    "description": "搜索{{chain}},看看现在在网络上发生了什么.",
+    "latestBlocks": "最新区块",
+    "latestTransactions": "最新交易",
+    "searchTitle": "搜索探险家",
+    "shortcuts": "探测器部分"
+  }
+}

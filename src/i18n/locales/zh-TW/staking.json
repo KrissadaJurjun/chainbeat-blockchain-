@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "在 {{chain}} 號碼上傳送代幣,。",
+    "validator": "驗證者",
+    "pickValidator": "選擇驗證碼",
+    "estimate": "預計收益",
+    "netApr": "純增值率 (後佣金)",
+    "yearly": "年度獎勵",
+    "monthly": "月額獎勵",
+    "unbonding": "解約期",
+    "commission": "認證委員會",
+    "notice": "在實際網路上, 取消的賭注被鎖定為{{days}}天的解約期.",
+    "yourStake": "您的賭注是{{chain}}",
+    "unstake": "取消質押",
+    "unstakeTitle": "從 {{validator}} 年開始,",
+    "unstakeDescription": "在一個真正的網路上, 你的代幣會在{{days}}天的解鎖期間後解鎖.",
+    "confirmUnstake": "取消分數 (模擬)",
+    "done": "堆積 (模擬)",
+    "doneBody": "預定在Demo個錢包中, 真正的解約期將是{{days}}天.",
+    "unstaked": "沒有競爭力 (模擬)",
+    "unstakedBody": "直接返回Demo錢包. 實際網路需要{{days}}天.",
+    "errors": {
+      "validator": "請選擇一個認證器.",
+      "moreThanStaked": "你不能打破比你打出的更多."
+    },
+    "review": "審核股份",
+    "confirmDescription": "確認只會改變本覽器中的Demo錢包.",
+    "aprDisclaimer": "顯示的APR是以目前的通胀,社區稅和債券比率為基礎的估算.",
+    "rewardsHistory": "獎勵歷史",
+    "noRewardsHistory": "沒有任何獎勵.",
+    "rewardsClaimed": "要求的 {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "注一個代幣, 接收一個流動的代幣,。",
+    "mode": "方向",
+    "stake": "質押",
+    "unstake": "取消質押",
+    "asset": "資產",
+    "youStake": "您的賭注 ({{symbol}})",
+    "youRedeem": "您還原 ({{symbol}})",
+    "youReceive": "您收到 ({{symbol}})",
+    "exchangeRate": "匯率",
+    "apr": "估計的 APR",
+    "protocolFee": "關於獎勵的紀錄費用",
+    "notice": "沒有任何在連鎖上發明的貨幣.",
+    "done": "轉換完成 (模擬)",
+    "doneBody": "您的Demo筆錢包平衡已更新.",
+    "review": "審核轉換",
+    "confirmDescription": "確認只會改變這個浏覽器中的Demo錢包.",
+    "risksTitle": "了解的風險",
+    "risks": {
+      "smartContract": "智能合同風險:液體儲存協議是軟體,。",
+      "depeg": "數據交易對象的數據,數據和數據.",
+      "validator": "認證人風險: 如果該協議背后的認證人被削减, 所有持有者都會承擔損失.",
+      "unbonding": "退出延遲:透過該協議, 還原可能需要網際網路的解鎖時間."
+    },
+    "rateExplain": "交易率是一個流動代币所代表的數量代币. 隨著投注收益累積,它會增長,因此一個流動代币慢慢價值超過一個投注代币.",
+    "noProtocol": "這個頁面是教育模擬."
+  }
+}

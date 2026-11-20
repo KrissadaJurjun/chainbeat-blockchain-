@@ -1,0 +1,60 @@
+{
+  "ibcPage": {
+    "description": "Comment les jetons circulent entre les chaînes via IBC. Plus un lien est épais, plus son volume sur 24 heures est élevé.",
+    "volume": "Volume IBC 24 h",
+    "chains": "Chaînes connectées",
+    "links": "Canaux actifs",
+    "busiest": "Route la plus active",
+    "mapLabel": "Carte des connexions IBC entre chaînes",
+    "nodeLabel": "{{name}} : {{volume}} sur 24 heures via {{channels}} canaux",
+    "hint": "Hover, focaliser ou sélectionner une chaîne pour mettre en évidence ses connexions. glisser vers pan; utiliser Ctrl ou avec la roue de défilement, les touches + et −, ou les boutons pour zoomer; appuyer sur 0 pour réinitialiser.",
+    "channelsOf": "Canaux de {{name}}",
+    "topChannels": "Principaux canaux par volume",
+    "transfers_one": "{{count, number}} transfert",
+    "transfers_many": "{{count, number}} de transferts",
+    "transfers_other": "{{count, number}} transferts",
+    "info": {
+      "volume": "Volume (24 h)",
+      "channels": "Les canaux",
+      "share": "Part du volume IBC",
+      "partner": "Le partenaire le plus occupé"
+    }
+  },
+  "multichainPage": {
+    "description": "L’écosystème de type Cosmos en un coup d’œil : chiffres simulés pour chaque chaîne connectée.",
+    "chains": "Chaînes",
+    "tvl": "Valeur totale verrouillée",
+    "validators": "Validateurs",
+    "tx24h": "Transactions (24 h)",
+    "height": "Hauteur de bloc",
+    "open": "Ouvrir le tableau de bord",
+    "switched": "Passage à {{name}}",
+    "registryOnly": "Enregistrée pour la démo : pas encore sélectionnable",
+    "tvlByChain": "TVL par chaîne",
+    "tvlHint": "Valeur totale verrouillée simulée",
+    "explainTitle": "Ce que signifient les métriques",
+    "explainHint": "Des définitions simples des chiffres de cette page.",
+    "explain": {
+      "tvl": "La valeur des jetons mis en jeu ou détenus dans l'économie simulée du réseau, à des prix simulés.",
+      "height": "Combien de blocs la chaîne a-t-elle produits depuis sa création ?",
+      "validators": "Les opérateurs qui proposent et signent des blocs. Le nombre est la taille de l'ensemble actif.",
+      "apr": "La récompense annuelle estimée pour la mise en jeu, en pourcentage avant la commission.",
+      "bonded": "La part de l'offre totale de jetons qui est mise en jeu. Une part plus élevée signifie plus de l'offre est de sécuriser la chaîne.",
+      "tx24h": "Transactions comprises dans des blocs au cours des dernières 24 heures dans toutes les chaînes cotées."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Le pouls de {{chain}} : chaque bloc est un battement ; l’espacement suit le temps de bloc et la hauteur, le nombre de transactions.",
+    "rate": "Cadence des blocs",
+    "perMinute": "blocs/min",
+    "sinceLast": "Depuis le dernier bloc",
+    "txLastMinute": "Transactions (dernière minute)",
+    "monitor": "Moniteur de pouls",
+    "legend": "Hauteur du battement = transactions du bloc",
+    "chartLabel": "Tracé du battement : {{rate}} blocs par minute, {{seconds}} secondes entre les blocs",
+    "stream": "Flux de blocs",
+    "txCount_one": "{{count}} tx",
+    "txCount_many": "{{count}} de tx",
+    "txCount_other": "{{count}} tx"
+  }
+}

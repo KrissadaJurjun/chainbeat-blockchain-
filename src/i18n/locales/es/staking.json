@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "Delega tokens en un validador de {{chain}} para ganar recompensas simuladas.",
+    "validator": "Validador",
+    "pickValidator": "Elige un validador",
+    "estimate": "Rendimientos estimados",
+    "netApr": "APR neto (tras comisión)",
+    "yearly": "Recompensas al año",
+    "monthly": "Recompensas al mes",
+    "unbonding": "Periodo de unbonding",
+    "commission": "Comisión del validador",
+    "notice": "En una red real, el stake retirado queda bloqueado durante el periodo de unbonding de {{days}} días. Aquí todo es simulado e instantáneo.",
+    "yourStake": "Tu stake en {{chain}}",
+    "unstake": "Retirar stake",
+    "unstakeTitle": "Retirar stake de {{validator}}",
+    "unstakeDescription": "En una red real, tus tokens se desbloquearían tras el periodo de unbonding de {{days}} días.",
+    "confirmUnstake": "Retirar stake (simulado)",
+    "done": "Staking realizado (simulado)",
+    "doneBody": "Delegado en la billetera de demostración. El periodo de unbonding real sería de {{days}} días.",
+    "unstaked": "Stake retirado (simulado)",
+    "unstakedBody": "Devuelto al instante a la billetera de demostración. Una red real tardaría {{days}} días.",
+    "errors": {
+      "validator": "Elige un validador.",
+      "moreThanStaked": "No puedes retirar más de lo que has puesto en staking."
+    },
+    "review": "Estaca de revisión",
+    "confirmDescription": "Compruebe la delegación. Solo cambia la billetera Demo en este navegador.",
+    "aprDisclaimer": "El APR mostrado es una estimación basada en la inflación actual, el impuesto comunitario y la relación de bonos.",
+    "rewardsHistory": "Historia de las recompensas",
+    "noRewardsHistory": "Aún no se han reclamado recompensas.",
+    "rewardsClaimed": "Reclamación {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "Haz staking de un token y recibe un token de staking líquido que sigue generando recompensas sin dejar de ser negociable.",
+    "mode": "Dirección",
+    "stake": "Staking",
+    "unstake": "Retirar",
+    "asset": "Activo",
+    "youStake": "Pones en staking ({{symbol}})",
+    "youRedeem": "Rescatas ({{symbol}})",
+    "youReceive": "Recibes ({{symbol}})",
+    "exchangeRate": "Tipo de cambio",
+    "apr": "APR estimado",
+    "protocolFee": "Comisión del protocolo sobre recompensas",
+    "notice": "Los tokens de staking líquido y sus tipos son simulados. No se emite nada on-chain.",
+    "done": "Conversión completada (simulado)",
+    "doneBody": "Se actualizaron los saldos de tu billetera de demostración.",
+    "review": "Revisión de la conversión",
+    "confirmDescription": "Verifique la conversión. Confirmar sólo cambia la billetera Demo en este navegador.",
+    "risksTitle": "Riesgos para entender",
+    "risks": {
+      "smartContract": "Riesgo de contratos inteligentes: los protocolos de almacenamiento de líquidos son software, y el software puede tener errores.",
+      "depeg": "El riesgo de depego: el token líquido puede operar por debajo del valor de los tokens que representa.",
+      "validator": "El riesgo de validador: si los validadores detrás del protocolo son reducidos, cada titular comparte la pérdida.",
+      "unbonding": "Retraso de salida: la redención a través del protocolo puede tardar tanto tiempo como el período de desvinculación de la red."
+    },
+    "rateExplain": "El tipo de cambio es la cantidad de tokens apostados que representa un token líquido. crece a medida que se acumulan las recompensas de apuesta, por lo que un token líquido se convierte lentamente en más valioso que un token apostado.",
+    "noProtocol": "ChainBeat no se integra con ningún protocolo de liquido real. Esta página es una simulación educativa."
+  }
+}

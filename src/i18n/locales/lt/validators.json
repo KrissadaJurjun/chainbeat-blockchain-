@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Susijungtas valsas",
+    "viewAll": "Pažvelkite į visus validatorius",
+    "col": {
+      "validator": "Validatorius",
+      "power": "Balsavimo galia",
+      "cumulative": "Bendrasis kiekis",
+      "commission": "Komisinis",
+      "uptime": "Veikimo laikas",
+      "change": "24 valandas per parą",
+      "details": "Išsami informacija",
+      "tokens": "Bendrosios žetonos"
+    },
+    "stake": "Stakingas",
+    "stakeWith": "Įdėkite šį patvirtintoją",
+    "pageDescription": "Kiekvienas patvirtintojas, užtikrinantis {{chain}}, suskirstytas pagal balsavimo galią (simuluojamas).",
+    "stats": {
+      "active": "Aktyvūs patvirtintojai",
+      "nakamoto": "Nakamoto koeficientas",
+      "nakamotoHint": "Reikėtų patvirtinti, kad būtų sustabdytas grandinė",
+      "top10": "Top 10 balsavimo galios",
+      "commission": "Vidutinė komisija"
+    },
+    "filterPlaceholder": "Filtras pagal vardą ar adresą",
+    "statusFilter": "Validuotojo statusas",
+    "tableCaption": "Validatorių linija {{chain}}",
+    "detailDescription": "Simuliuotas patvirtintojas {{chain}} linijoje.",
+    "detail": {
+      "delegators": "Delegatoriai",
+      "bonded": "Žodžiai, susieti",
+      "last30": "paskutinių 30 dienų",
+      "last90": "paskutinių 90 dienų",
+      "noBlocks": "Pastaruoju metu siūlomų blokų nėra.",
+      "noWebsite": "nepasiekiamas (fiktyvus patvirtintojas)",
+      "openPage": "Atidarykite visą puslapį",
+      "powerHistory": "Balsavimo galia",
+      "proposed24h": "Nustatyti blokai (24 h)",
+      "rank": "Vieta",
+      "recentBlocks": "Neseniai siūlomi blokai",
+      "selfBonded": "Savitarpiškas",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Veikimo laikas",
+      "valueUsd": "Sėkmės vertė {{value}}",
+      "website": "Internetinė svetainė"
+    },
+    "status": {
+      "active": "Aktyvus",
+      "inactive": "Neaktyvus",
+      "jailed": "Įkalintas"
+    },
+    "activitiesTitle": "Validatorių veikla",
+    "commissionShort": "Mokestis {{value}}",
+    "detailTitle": "Validatorius",
+    "fictionalNote": "Tai nėra tikras operatorius ir nieko apie jį nėra patvirtinta.",
+    "hoverTip": "Komisija {{commission}} · darbo laikas {{uptime}} · {{delegators}} delegatai",
+    "noMatching": "Nėra atitinkamų patvirtintojų.",
+    "notFoundBody": "{{chain}} neturi patvirtinto šio adreso.",
+    "notFoundTitle": "Validatorius nerado",
+    "sort": {
+      "power": "Balsavimo galia",
+      "commission": "Komisinis",
+      "uptime": "Veikimo laikas"
+    },
+    "sortBy": "Sortiruoti patvirtintojus pagal"
+  },
+  "validatorsViz": {
+    "description": "Komisijos ir darbo laikas kiekvienam validuotojui {{chain}}; burbulio dydis rodo balsavimo galią.",
+    "showAll": "Įskaitant neaktyvius ir kalinius",
+    "avgUptime": "Vidutinis darbo laikas",
+    "zeroFee": "Nulinko komisijos validuotojai",
+    "chartTitle": "Komisija prieš darbo laiką",
+    "chartHint": "Kiekvienas burbulas yra vienas patvirtintojas",
+    "legend": "Grafikų legenda",
+    "sizeHint": "Žvaigždės dydis = balsavimo galia"
+  }
+}

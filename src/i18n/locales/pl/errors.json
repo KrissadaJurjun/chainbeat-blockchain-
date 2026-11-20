@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Jeszcze nic tu nie ma",
+    "emptyBody": "Nie ma danych na ten temat.",
+    "errorTitle": "Nie udało mi się założyć tych danych",
+    "errorBody": "Sprawdź połączenie i spróbuj ponownie.",
+    "crashTitle": "Coś poszło nie tak",
+    "crashBody": "Ta strona znalazła się w niespodziewanym błędzie.",
+    "reload": "Strona przeładowania"
+  }
+}

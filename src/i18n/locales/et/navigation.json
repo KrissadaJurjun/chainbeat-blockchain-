@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Leheküljel navigeerimine",
+    "primary": "Peamine navigatsioon",
+    "menu": "Navigatsiooni menü",
+    "openMenu": "Avatud navigeerimismenü",
+    "closeMenu": "Navigatsiooni menüü sulgemine",
+    "collapseSidebar": "Rünnaku küljekülg",
+    "expandSidebar": "Laienda küljekäre",
+    "skipToContent": "Liiguta peamine sisu",
+    "home": "ChainBeat kodu",
+    "pages": "Leheküljed",
+    "dashboard": "Armatuurlaud",
+    "validators": "Valideerijad",
+    "proposals": "Ettepanekud",
+    "blocks": "Plokid",
+    "transactions": "Tehingud",
+    "portfolio": "Portfell",
+    "swap": "Vahetus",
+    "stake": "Staking",
+    "liquidStaking": "Likviidne staking",
+    "send": "Saada",
+    "vote": "Hääleta",
+    "createProposal": "Loo ettepanek",
+    "market": "Turg",
+    "network": "Võrk",
+    "governance": "Juhtimine",
+    "ibcNetwork": "IBC võrk",
+    "devActivity": "Arendajate tegevus",
+    "multichain": "Mitme ahela ülevaade",
+    "heartbeat": "Südamelöök",
+    "dominance": "Domineerimine",
+    "validatorsViz": "Valideerijad",
+    "blockExplorer": "Plokiuurija",
+    "transactionExplorer": "Tehinguuurija",
+    "tokenExplorer": "Tokeniuurija",
+    "about": "Teave",
+    "explorerHome": "Uurija",
+    "governanceHome": "Valitsuse keskus",
+    "settings": "Seaded"
+  },
+  "sections": {
+    "explorer": "Uurija",
+    "wallet": "Rahakott",
+    "analytics": "Analüütika",
+    "visualizations": "Visualiseeringud"
+  },
+  "chains": {
+    "favorite": "Lisage {{name}} lemmikutesse",
+    "unfavorite": "Võtke {{name}} lemmikidest",
+    "simulatedHealthy": "Simuleeritud võrk · tervislik"
+  },
+  "search": {
+    "label": "Otsing ChainBeat",
+    "placeholder": "Otsingu blokk, TX, aadress...",
+    "results": "Otsingute tulemused",
+    "noResults": "{{query}} kohta ei ole tulemusi",
+    "kinds": {
+      "page": "Lehekülg",
+      "block": "Plokk",
+      "transaction": "TX",
+      "validator": "Valideerija",
+      "token": "Token",
+      "address": "Aadress",
+      "proposal": "Ettepanek"
+    },
+    "recent": "Hiljutised otsingud",
+    "clearRecent": "Selged hiljutised otsingud",
+    "removeRecent": "Võtke välja {{query}} hiljutistest otsingutest",
+    "hint": "Proovige bloki kõrgus, tehingu hash, aadress ( {{prefix}} 1...), validator, ettepanekumber või tunnusnomin.",
+    "submit": "Otsi",
+    "searching": "Otsime...",
+    "resultCount": "Tulemused: {{count}}",
+    "invalid": {
+      "tooLong": "See on liiga pikk, et olla otsingute väljend (vähemalt 200 tähe).",
+      "badChecksum": "See näeb välja nagu aadress, kuid selle kontrollumma ei vasta.",
+      "badHash": "Transaction või bloki hash sisaldab täpselt 64 hexadecimalist tähti.",
+      "badChars": "Otsi bloki kõrgus, hash, aadress, validator, ettepanek või token."
+    },
+    "categories": {
+      "page": "Leheküljed",
+      "block": "Plokid",
+      "transaction": "Tehingud",
+      "address": "Adressid",
+      "validator": "Valideerijad",
+      "proposal": "Ettepanekud",
+      "token": "Tokaanid"
+    }
+  },
+  "user": {
+    "menu": "Konti menü",
+    "guest": "Külaline",
+    "notConnected": "Pole rahakott ühendatud",
+    "settings": "Seaded",
+    "about": "ChainBeati kohta"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "The newest transactions on {{chain}}. Open one for its full details.",
+    "stats": {
+      "recent": "Recent transactions",
+      "success": "Successful",
+      "failed": "Failed",
+      "volume": "Native volume"
+    },
+    "filterPlaceholder": "Filter by hash, address or height",
+    "allTypes": "All types",
+    "tableCaption": "Latest transactions on {{chain}}",
+    "from": "From",
+    "to": "To",
+    "memo": "Memo",
+    "noMemo": "No memo",
+    "raw": "View raw data (simulated)",
+    "detailTitle": "Transaction",
+    "detailDescription": "Details of a simulated transaction on {{chain}}.",
+    "notFoundTitle": "Transaction not found",
+    "notFoundBody": "No transaction with this hash exists on {{chain}} in the simulation.",
+    "failedBecause": "This transaction failed: {{reason}}.",
+    "types": {
+      "send": "Send",
+      "delegate": "Delegate",
+      "undelegate": "Undelegate",
+      "claim": "Claim rewards",
+      "vote": "Vote",
+      "ibc-transfer": "IBC transfer",
+      "swap": "Swap",
+      "other": "Other"
+    },
+    "status": {
+      "success": "Success",
+      "failed": "Failed"
+    },
+    "block": "Block",
+    "cardsLabel": "Transactions",
+    "category": "Category",
+    "date": "Date",
+    "dateNote": "Showing the latest {{count}} transactions up to the end of {{date}} (UTC).",
+    "emptyTitle": "No transactions found",
+    "events": "Events",
+    "failedEvents": "This transaction failed, so it emitted only its fee event.",
+    "feeSymbol": "Fee token",
+    "filtersLabel": "Transaction filters",
+    "gasUsed": "Gas used",
+    "gasWanted": "Gas wanted",
+    "groups": {
+      "transfer": "Transfers",
+      "staking": "Staking",
+      "governance": "Governance",
+      "ibc": "IBC",
+      "swap": "Swaps",
+      "other": "Other"
+    },
+    "latestNote": "Showing the latest {{count}} transactions. Pick a date to look further back.",
+    "messageType": "Message type",
+    "network": "Network",
+    "symbol": "Token",
+    "syntheticNote": "This is a synthetic record generated for Demo Mode. Its hash is not a real blockchain hash and it cannot be verified on any network.",
+    "token": "Token",
+    "validator": "Validator",
+    "demoWalletNote": "This transaction was created by the Demo wallet. It exists only in this browser: no blockchain transfer took place, and its hash is not a real blockchain hash.",
+    "demoTag": "Demo wallet"
+  }
+}

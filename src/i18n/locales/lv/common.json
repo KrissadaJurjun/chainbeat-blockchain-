@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simulēts",
+    "close": "Aizvērt",
+    "retry": "Mēģināt vēlreiz",
+    "refresh": "Atsvaidzināt",
+    "copy": "Kopēt",
+    "copied": "Nokopēts",
+    "clear": "Notīrīt",
+    "loading": "Ielādē…",
+    "options": "Opcijas",
+    "previous": "Iepriekšējā",
+    "next": "Nākamā",
+    "pagination": "Paginacija",
+    "pageN": "Strāva {{n}}",
+    "dismiss": "Noraidīt",
+    "cancel": "Atcelt",
+    "viewAll": "Skatīt visu",
+    "max": "Maks.",
+    "amount": "Summa",
+    "balance": "Atlikums",
+    "fee": "Maksa",
+    "status": "Statuss",
+    "time": "Laiks",
+    "height": "Augstums",
+    "hash": "Jaucējkods",
+    "type": "Veids",
+    "all": "Viss",
+    "showing": "Izskatīt {{from}} {{to}} no {{total}}",
+    "noResults": "Neviens rezultāts neatbilst jūsu filtram.",
+    "rowsPerPage": "Raksti par lapu",
+    "actions": "Akcijas",
+    "exportCsv": "Eksporta CSV",
+    "details": "Detaļas",
+    "clearFilters": "Skaidrs filters",
+    "collapseAll": "Apkriss visu",
+    "copyJson": "Kopiet JSON",
+    "expandAll": "Lai paplašinātu visus",
+    "showMore": "Paskaties vēl {{count}}"
+  },
+  "language": {
+    "label": "Valoda",
+    "search": "Izmeklēšanas valodas"
+  },
+  "theme": {
+    "label": "Motīvs",
+    "system": "Sistēma",
+    "dark": "Tumšs",
+    "light": "Gaišs"
+  },
+  "footer": {
+    "tagline": "Izmeklējiet blokus, sekot darījumus, saprotot Web3.",
+    "demo": "Demo Mode visi skaitļi ir simulēti un nav reāla tīkla statistika.",
+    "share": "Pievienojiet",
+    "linkCopied": "Sastāvs kopēts uz klīpu.",
+    "docs": "Dokumentācija",
+    "links": "Piekļuvas saiknes",
+    "modeDemo": "Demo tīkls",
+    "repository": "Repository",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Lapa nav atrasta",
+    "body": "Lauka, ko meklējat, nav vai ir mainījusies.",
+    "home": "Atpakaļ uz informācijas paneli"
+  },
+  "gate": {
+    "title": "Pievieno Demo portfelli, lai turpinātu",
+    "body": "Šī darba plūsma darbojas simulētā portfelī. Apvieno Demo portfelī, lai mēģinātu to nekas reāls nekad nav parakstīts vai nosūtīts.",
+    "realTitle": "Reāls portfelis ir saistīts",
+    "realBody": "{{address}} ir savienota, bet ChainBeat Demo mode nekad nepiemēro vai nerada darījumus.",
+    "useDemo": "Izmanto Demo. portfelli"
+  }
+}

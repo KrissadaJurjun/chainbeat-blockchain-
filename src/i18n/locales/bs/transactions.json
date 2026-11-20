@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "Najnovije transakcije na {{chain}}.",
+    "stats": {
+      "recent": "Posljednje transakcije",
+      "success": "Uspješno",
+      "failed": "Neuspjelo",
+      "volume": "Nativni volumen"
+    },
+    "filterPlaceholder": "Filtriranje po hashu, adresi ili visini",
+    "allTypes": "Sve vrste",
+    "tableCaption": "Posljednje transakcije na {{chain}}",
+    "from": "Od",
+    "to": "Za",
+    "memo": "Memo",
+    "noMemo": "Nema memoranduma",
+    "raw": "Prikazi sirove podatke (simulirani)",
+    "detailTitle": "Transakcija",
+    "detailDescription": "Detalji simulirane transakcije na {{chain}}.",
+    "notFoundTitle": "Transakcija nije pronađena",
+    "notFoundBody": "Nema transakcije sa hashom na {{chain}} u simulaciji.",
+    "failedBecause": "Ova transakcija je propala: {{reason}}.",
+    "types": {
+      "send": "Pošalji",
+      "delegate": "Delegiran",
+      "undelegate": "Nedelegiran",
+      "claim": "Zahtjevna nagrada",
+      "vote": "Glasaj",
+      "ibc-transfer": "IBC prijenos",
+      "swap": "Zamjena",
+      "other": "S druge strane"
+    },
+    "status": {
+      "success": "Uspjeh",
+      "failed": "Neuspjelo"
+    },
+    "block": "Blok",
+    "cardsLabel": "Transakcije",
+    "category": "Kategorija",
+    "date": "Datum",
+    "dateNote": "Prikazuje najnovije {{count}} transakcije do kraja {{date}} (UTC).",
+    "emptyTitle": "Ne pronađene transakcije",
+    "events": "Dogodki",
+    "failedEvents": "Ova transakcija je propala, pa je emitovala samo svoj slučaj naknade.",
+    "feeSymbol": "Podaci za naknadu",
+    "filtersLabel": "Filteri za transakcije",
+    "gasUsed": "Potrošeni gas",
+    "gasWanted": "Gas je tražen",
+    "groups": {
+      "transfer": "Transferi",
+      "staking": "Staking",
+      "governance": "Upravljanje",
+      "ibc": "IBC",
+      "swap": "Swapovi",
+      "other": "S druge strane"
+    },
+    "latestNote": "Pokazuje najnovije {{count}} transakcije.",
+    "messageType": "Tip poruke",
+    "network": "Mreža",
+    "symbol": "Token",
+    "syntheticNote": "Ovo je sintetički zapis generisan za Demo Mode.",
+    "token": "Token",
+    "validator": "Validator",
+    "demoWalletNote": "Ova transakcija je kreirana od strane novčanika Demo. Ona postoji samo u ovom pretraživaču: ni jedan transfer blokčeina nije održan, a hash nije pravi hash blokčeina.",
+    "demoTag": "Demo novčanik"
+  }
+}

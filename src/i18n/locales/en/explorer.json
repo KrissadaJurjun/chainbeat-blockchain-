@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Native, IBC, liquid-staking and external assets known on {{chain}} (simulated).",
+    "stats": {
+      "total": "Tracked tokens"
+    },
+    "kinds": {
+      "native": "Native",
+      "ibc": "IBC",
+      "external": "External",
+      "stable": "Stablecoin",
+      "liquid": "Liquid staking"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Type",
+      "denom": "Denom",
+      "price": "Price",
+      "change": "24h",
+      "supply": "Supply",
+      "holders": "Holders",
+      "marketCap": "Market cap"
+    },
+    "filterPlaceholder": "Filter by symbol, name or denom",
+    "tableCaption": "Tokens on {{chain}}"
+  },
+  "account": {
+    "title": "Account",
+    "description": "Balances and recent activity of an account on {{chain}} (simulated).",
+    "available": "Available",
+    "balances": "Balances",
+    "counterparty": "Counterparty",
+    "direction": "Direction",
+    "in": "In",
+    "out": "Out",
+    "history": "Transaction history",
+    "historyCaption": "Transactions of {{address}}",
+    "invalidTitle": "Not a valid address",
+    "invalidBody": "This is not a valid {{chain}} address. Addresses on this network start with “{{prefix}}1” and include a checksum.",
+    "noBalances": "No balances.",
+    "noHistory": "No transactions found",
+    "noHistoryBody": "This account has no simulated activity in the newest {{blocks}} blocks.",
+    "rewards": "Rewards: {{value}}",
+    "staked": "Staked",
+    "totalValue": "Total value",
+    "txCount": "Transactions",
+    "unknown": "This is a valid address, but it does not appear in the simulation, so it has no balances or history.",
+    "window": "in the newest {{blocks}} blocks",
+    "demoWallet": "This is your Demo wallet. Its balances and transactions are simulated and exist only in this browser."
+  },
+  "explorer": {
+    "description": "Search {{chain}} and see what is happening on the (simulated) network right now.",
+    "latestBlocks": "Latest blocks",
+    "latestTransactions": "Latest transactions",
+    "searchTitle": "Search the explorer",
+    "shortcuts": "Explorer sections"
+  }
+}

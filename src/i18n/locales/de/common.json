@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Simuliert",
+    "close": "Schließen",
+    "retry": "Erneut versuchen",
+    "refresh": "Aktualisieren",
+    "copy": "Kopieren",
+    "copied": "Kopiert",
+    "clear": "Leeren",
+    "loading": "Wird geladen …",
+    "options": "Optionen",
+    "previous": "Zurück",
+    "next": "Weiter",
+    "pagination": "Seitennavigation",
+    "pageN": "Seite {{n}}",
+    "dismiss": "Verwerfen",
+    "cancel": "Abbrechen",
+    "viewAll": "Alle anzeigen",
+    "max": "Max.",
+    "amount": "Betrag",
+    "balance": "Guthaben",
+    "fee": "Gebühr",
+    "status": "Status",
+    "time": "Zeit",
+    "height": "Höhe",
+    "hash": "Hash",
+    "type": "Typ",
+    "all": "Alle",
+    "showing": "{{from}}–{{to}} von {{total}}",
+    "noResults": "Keine Ergebnisse für Ihre Filter.",
+    "rowsPerPage": "Zeilen pro Seite",
+    "actions": "Aktionen",
+    "exportCsv": "CSV exportieren",
+    "details": "Details",
+    "clearFilters": "Durchsichtige Filter",
+    "collapseAll": "Alles zusammenbricht",
+    "copyJson": "Kopieren Sie JSON",
+    "expandAll": "Erweitern Sie alle",
+    "showMore": "Zeigen Sie {{count}} mehr"
+  },
+  "language": {
+    "label": "Sprache",
+    "search": "Sprachen durchsuchen"
+  },
+  "theme": {
+    "label": "Design",
+    "system": "System",
+    "dark": "Dunkel",
+    "light": "Hell"
+  },
+  "footer": {
+    "tagline": "Blöcke erkunden. Transaktionen verfolgen. Web3 verstehen.",
+    "demo": "Demo-Modus: Alle Zahlen sind simuliert und keine echten Netzwerkstatistiken.",
+    "share": "Teilen",
+    "linkCopied": "Link in die Zwischenablage kopiert.",
+    "docs": "Dokumentation",
+    "links": "Fußbücherverbindungen",
+    "modeDemo": "Demo Netzwerk",
+    "repository": "Repositorium",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "body": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+    "home": "Zurück zum Dashboard"
+  },
+  "gate": {
+    "title": "Verbinden Sie die Demo-Wallet, um fortzufahren",
+    "body": "Dieser Ablauf läuft mit einer simulierten Wallet. Verbinden Sie die Demo-Wallet, um ihn auszuprobieren – es wird nie etwas Echtes signiert oder gesendet.",
+    "realTitle": "Eine echte Wallet ist verbunden",
+    "realBody": "{{address}} ist verbunden, aber der Demo-Modus von ChainBeat signiert oder sendet niemals Transaktionen. Wechseln Sie zur Demo-Wallet, um diesen Ablauf auszuprobieren.",
+    "useDemo": "Demo-Wallet verwenden"
+  }
+}

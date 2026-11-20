@@ -1,0 +1,32 @@
+{
+  "notifications": {
+    "label": "התראות",
+    "title": "התראות",
+    "unread": "לא קראתי",
+    "unreadLabel_one": "{{count}} הודעה לא נקראת",
+    "unreadLabel_two": "{{count}} הודעות לא קראות",
+    "unreadLabel_other": "{{count}} הודעות לא קראות",
+    "markAllRead": "ציין הכל כפי שקרא",
+    "empty": "את כל תפסתם.",
+    "items": {
+      "proposalVoting": "ההצעה #{{id}} נמצאת בתקופת ההצבעה שלה נותרו כ-{{hours}} שעות.",
+      "proposalPassed": "ההצעה #{{id}} התקבלה ותבוצע.",
+      "validatorJailed": "{{name}} נעצר בגלל זמן הפסקה.",
+      "upgradeScheduled": "שיפור רשת {{version}} מתוכנן ב-{{days}} ימים.",
+      "ibcVolume": "IBC נפח העברה עלה ב-{{pct}}% ב-24 שעות האחרונות.",
+      "newBlock": "בלוק {{height}} נבנה על {{chain}} (מתדמית).",
+      "walletConnectedDemo": "Demo ארנק מחובר (מתדמות).",
+      "walletConnected": "{{name}} קשור, שום דבר לא חתום.",
+      "walletDisconnected": "הארנק ננתק מהפגישה של הדפדפן.",
+      "txSuccess": "סימולציה של עסקאות מוכחת: {{summary}}",
+      "txFailed": "עסקאות סימולציות נכשלו בגלל סימולציה של טעויות. שום דבר לא השתנה.",
+      "proposalCreated": "Demo הצעה #{{id}} {{title}} הוספת (נשמדת).",
+      "networkChanged": "עברתי ל-{{chain}}.",
+      "simPaused": "הסימולציה נעצרה. הנתונים הסימולריים לא יחדשו עד שתחזרי אותם.",
+      "errorSimulation": "סימולת הטעות פועלת, בקשות נתונים וחיזוק ארנק ייכשלו עד שתכבו אותו."
+    },
+    "dismiss": "הודעה על ביטול",
+    "clearAll": "תבררו הכל",
+    "simulatedNote": "חפצים מהזרימת הרשת מדמינים, שום דבר כאן לא הוא אזהרה של בלוקצ'יין חי."
+  }
+}

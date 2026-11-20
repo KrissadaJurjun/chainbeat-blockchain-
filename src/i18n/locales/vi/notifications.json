@@ -1,0 +1,30 @@
+{
+  "notifications": {
+    "label": "Thông báo",
+    "title": "Thông báo",
+    "unread": "Không đọc",
+    "unreadLabel_other": "{{count}} thông báo chưa được đọc",
+    "markAllRead": "Đánh dấu tất cả như đã đọc",
+    "empty": "Các người đã bị bắt rồi.",
+    "items": {
+      "proposalVoting": "Đề xuất #{{id}} đang trong thời gian bỏ phiếu khoảng {{hours}} giờ còn lại.",
+      "proposalPassed": "Đề xuất #{{id}} đã được thông qua và sẽ được áp dụng.",
+      "validatorJailed": "{{name}} bị bỏ tù vì thời gian nghỉ ngơi.",
+      "upgradeScheduled": "Việc nâng cấp mạng {{version}} được lên kế hoạch trong {{days}} ngày.",
+      "ibcVolume": "Số lượng chuyển nhượng IBC tăng {{pct}} % trong 24 giờ qua.",
+      "newBlock": "Blok {{height}} được sản xuất trên {{chain}} (được mô phỏng).",
+      "walletConnectedDemo": "Demo ví kết nối (được mô phỏng).",
+      "walletConnected": "{{name}} liên lạc, không có gì được ký kết.",
+      "walletDisconnected": "Cổ phiếu đã bị tách khỏi phiên trình duyệt này.",
+      "txSuccess": "Giao dịch mô phỏng được xác nhận: {{summary}}",
+      "txFailed": "Một giao dịch mô phỏng đã thất bại vì mô phỏng lỗi đã hoạt động.",
+      "proposalCreated": "Demo đề xuất #{{id}} {{title}} đã được thêm vào (được mô phỏng).",
+      "networkChanged": "Chuyển sang {{chain}}, hiển thị dữ liệu mô phỏng.",
+      "simPaused": "Việc mô phỏng dừng lại, dữ liệu mô phỏng sẽ không được cập nhật cho đến khi bạn tiếp tục nó.",
+      "errorSimulation": "Việc mô phỏng lỗi được bật, yêu cầu dữ liệu và xác nhận ví sẽ thất bại cho đến khi bạn tắt nó."
+    },
+    "dismiss": "Thông báo từ chối",
+    "clearAll": "Tẩy sạch mọi thứ",
+    "simulatedNote": "Các mục từ nguồn cấp dữ liệu mạng được mô phỏng. Không có gì ở đây là một cảnh báo blockchain trực tiếp."
+  }
+}

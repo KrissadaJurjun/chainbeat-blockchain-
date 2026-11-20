@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "Bölüm {{height}}",
+    "invalid": "Geçersiz blok yüksekliği",
+    "description": "{{chain}} numaralı simülasyon blokunun detayları.",
+    "previous": "Önceki blok",
+    "next": "Bir sonraki blok",
+    "notFoundTitle": "Bulunmamış blok",
+    "notFoundBody": "{{chain}}'in bu yüksekliğinde henüz blok yok.",
+    "transactions_one": "{{count}} işlem",
+    "transactions_other": "{{count}} işlem",
+    "txCaption": "Blok {{height}}'deki işlemler",
+    "noTxs": "Bu blokta işlem yok",
+    "genesis": "Başlangıç blok",
+    "parentHash": "Ebeveyn haşesi",
+    "demoTxs": "Demo Cüzdan işlemleri bu seviyede",
+    "demoTxsNote": "Bunlar Demo cüzdanı tarafından oluşturuldu."
+  },
+  "blocksPage": {
+    "description": "{{chain}}'deki en yeni bloklar.",
+    "live": "Canlı",
+    "avgGas": "Kullanılan Avg. gazı",
+    "tableCaption": "{{chain}} numaralı son bloklar",
+    "proposer": "Teklifci",
+    "txs": "Txs",
+    "gas": "Kullanılan gas",
+    "size": "Boyut",
+    "emptyTitle": "Hiçbir blok bulunamadı",
+    "filterPlaceholder": "Yüksekliğe göre filtre, hash veya onaylayıcı",
+    "filtersLabel": "Blok filtreleri",
+    "finality": "Nihailik",
+    "finalityNote": "Bu tür ağlardaki bloklar bağlandığında son olur.",
+    "finalized": "Sonlandırıldı",
+    "withTxsOnly": "Sadece işlemlerle bloklar"
+  }
+}

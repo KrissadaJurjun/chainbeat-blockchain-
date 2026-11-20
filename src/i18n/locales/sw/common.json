@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Ya kuigwa",
+    "close": "Funga",
+    "retry": "Jaribu tena",
+    "refresh": "Onyesha upya",
+    "copy": "Nakili",
+    "copied": "Imenakiliwa",
+    "clear": "Futa",
+    "loading": "Inapakia…",
+    "options": "Chaguzi",
+    "previous": "Iliyotangulia",
+    "next": "Inayofuata",
+    "pagination": "Ukurasa",
+    "pageN": "Ukurasa {{n}}",
+    "dismiss": "Ondoa",
+    "cancel": "Ghairi",
+    "viewAll": "Tazama yote",
+    "max": "Juu zaidi",
+    "amount": "Kiasi",
+    "balance": "Salio",
+    "fee": "Ada",
+    "status": "Hali",
+    "time": "Wakati",
+    "height": "Urefu",
+    "hash": "Hash",
+    "type": "Aina",
+    "all": "Yote",
+    "showing": "Kuonyesha {{from}} {{to}} ya {{total}}",
+    "noResults": "Hakuna matokeo yanayofanana na vichungi vyako.",
+    "rowsPerPage": "Mistari kwa ukurasa",
+    "actions": "Hatua",
+    "exportCsv": "CSV ya kuuza nje",
+    "details": "Maelezo",
+    "clearFilters": "Vichujio vya wazi",
+    "collapseAll": "Kuanguka wote",
+    "copyJson": "Nakili JSON",
+    "expandAll": "Kuongeza yote",
+    "showMore": "Onyesha {{count}} zaidi"
+  },
+  "language": {
+    "label": "Lugha",
+    "search": "Lugha za utafutaji"
+  },
+  "theme": {
+    "label": "Mandhari",
+    "system": "Mfumo",
+    "dark": "Nyeusi",
+    "light": "Nyepesi"
+  },
+  "footer": {
+    "tagline": "Kuchunguza Blocks, kufuatilia shughuli, kuelewa Web3.",
+    "demo": "Demo Mode takwimu zote ni simulated na si halisi mtandao takwimu.",
+    "share": "Kushiriki",
+    "linkCopied": "Kiungo kuchapishwa kwenye clipboard.",
+    "docs": "Nyaraka",
+    "links": "Viungo vya chini",
+    "modeDemo": "Demo Mtandao",
+    "repository": "Hifadhi",
+    "version": "v{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Ukurasa haukupatikana",
+    "body": "Ukurasa unaotafuta haupo au umehamishwa.",
+    "home": "Rudi kwenye dashibodi"
+  },
+  "gate": {
+    "title": "Unganisha Demo mfuko wa fedha kuendelea",
+    "body": "Mtiririko huu wa kazi unaendesha kwenye mkoba wa simulator. Unganisha mkoba wa Demo kujaribu hakuna kitu halisi kamwe saini au kutumwa.",
+    "realTitle": "Mkoba halisi ni kushikamana",
+    "realBody": "{{address}} ni kushikamana, lakini ChainBeat Demo mode kamwe saini au matangazo ya shughuli. kubadili kwa mkoba Demo kujaribu mtiririko huu wa kazi.",
+    "useDemo": "Tumia mfuko wa Demo"
+  }
+}

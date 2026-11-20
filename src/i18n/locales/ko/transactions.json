@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "{{chain}}의 최신 트랜잭션입니다. 하나를 열어 전체 상세 정보를 확인하세요.",
+    "stats": {
+      "recent": "최근 트랜잭션",
+      "success": "성공",
+      "failed": "실패",
+      "volume": "네이티브 거래량"
+    },
+    "filterPlaceholder": "해시, 주소 또는 높이로 필터",
+    "allTypes": "모든 유형",
+    "tableCaption": "{{chain}}의 최신 트랜잭션",
+    "from": "보낸 주소",
+    "to": "받는 주소",
+    "memo": "메모",
+    "noMemo": "메모 없음",
+    "raw": "원본 데이터 보기(시뮬레이션)",
+    "detailTitle": "트랜잭션",
+    "detailDescription": "{{chain}}의 시뮬레이션 트랜잭션 상세 정보입니다.",
+    "notFoundTitle": "트랜잭션을 찾을 수 없습니다",
+    "notFoundBody": "시뮬레이션의 {{chain}}에는 이 해시의 트랜잭션이 없습니다.",
+    "failedBecause": "이 트랜잭션은 실패했습니다: {{reason}}.",
+    "types": {
+      "send": "전송",
+      "delegate": "위임",
+      "undelegate": "위임 해제",
+      "claim": "보상 수령",
+      "vote": "투표",
+      "ibc-transfer": "IBC 전송",
+      "swap": "스왑",
+      "other": "기타"
+    },
+    "status": {
+      "success": "성공",
+      "failed": "실패"
+    },
+    "block": "블록",
+    "cardsLabel": "트랜잭션",
+    "category": "카테고리",
+    "date": "날짜",
+    "dateNote": "{{date}} (UTC) 말까지 가장 최근의 {{count}}개의 거래가 표시됩니다.",
+    "emptyTitle": "거래가 발견되지 않았다",
+    "events": "사건",
+    "failedEvents": "이 거래는 실패했고, 그래서 단지 수수료 이벤트를 발행했습니다.",
+    "feeSymbol": "수수료 표기",
+    "filtersLabel": "거래 필터",
+    "gasUsed": "사용 가스",
+    "gasWanted": "가스가 필요해요",
+    "groups": {
+      "transfer": "송금",
+      "staking": "스탠딩",
+      "governance": "거버넌스",
+      "ibc": "IBC",
+      "swap": "교환",
+      "other": "기타"
+    },
+    "latestNote": "최근 {{count}}건의 트랜잭션을 보여줘서 날짜를 선택해 좀 더 뒤돌아보라.",
+    "messageType": "메시지 유형",
+    "network": "네트워크",
+    "symbol": "토큰",
+    "syntheticNote": "이것은 Demo 모드에서 생성된 합성 기록입니다. 그 해시는 실제 블록체인 해시가 아니며 어떤 네트워크에서도 확인할 수 없습니다.",
+    "token": "토큰",
+    "validator": "검증인",
+    "demoWalletNote": "이 트랜잭션은 Demo 지갑에 의해 만들어졌습니다. 이 브라우저에서만 존재합니다. 블록체인 전송이 이루어지지 않았고, 그 해시는 실제 블록체인 해시가 아닙니다.",
+    "demoTag": "Demo 지갑"
+  }
+}

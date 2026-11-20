@@ -1,0 +1,58 @@
+{
+  "ibcPage": {
+    "description": "Hur tokens flödar mellan kedjor över IBC. tjockare länkar betyder mer 24-timmars volym.",
+    "volume": "24 timmar IBC volym",
+    "chains": "Anslutna kedjor",
+    "links": "Aktiva kanaler",
+    "busiest": "Den mest trafikerade vägen",
+    "mapLabel": "Kart av IBC anslutningar mellan kedjor",
+    "nodeLabel": "{{name}}: {{volume}} på 24 timmar över {{channels}} kanaler",
+    "hint": "Hover, fokusera eller välj en kedja för att markera dess anslutningar. Dra till pan; använd Ctrl eller med rullhjulet, + och −-nycklarna eller knapparna för att zooma; tryck på 0 för att återställa.",
+    "channelsOf": "Kanaler av {{name}}",
+    "topChannels": "Högsta kanaler per volym",
+    "transfers_one": "{{count, number}} överföring",
+    "transfers_other": "{{count, number}} överföringar",
+    "info": {
+      "volume": "Volym (24 timmar)",
+      "channels": "Kanaler",
+      "share": "Andel av IBC volym",
+      "partner": "Den mest upptagna partnern"
+    }
+  },
+  "multichainPage": {
+    "description": "Det bredare ekosystemet i Cosmos-stil på ett ögonblick simulerade siffror för varje ansluten kedja.",
+    "chains": "Länkar",
+    "tvl": "Det totala låsta värdet",
+    "validators": "Validerare",
+    "tx24h": "Transaktioner (24 timmar)",
+    "height": "Blockhöjd",
+    "open": "Öppna instrumentbordet",
+    "switched": "Övergång till {{name}}",
+    "registryOnly": "Registrerad för demo inte kan väljas ännu",
+    "tvlByChain": "TVL per kedja",
+    "tvlHint": "Simulerat totalvärde låst",
+    "explainTitle": "Vad betyder mätvärdena",
+    "explainHint": "Enklare definitioner av siffrorna på den här sidan. Alla värden simuleras.",
+    "explain": {
+      "tvl": "Värdet av tokens som satsats eller hålls i nätverkss simulerade ekonomi, till simulerade priser.",
+      "height": "Hur många block har kedjan producerat sedan den började, den växer med ett med varje block.",
+      "validators": "Operatörerna som föreslår och undertecknar block.",
+      "apr": "Den uppskattade årliga belöningen för satsning, i procentsats före provision. Den rör sig med inflationen och med andelen tokens som satsas.",
+      "bonded": "En högre andel innebär att mer av leveransen säkerställer kedjan.",
+      "tx24h": "Transaktioner som ingår i block under de senaste 24 timmarna i alla listade kedjor."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Pulsen på {{chain}}: varje block är en takt avstånd följer blocktid, höjd följer transaktionsantal.",
+    "rate": "Blockränta",
+    "perMinute": "block/min",
+    "sinceLast": "Sen sista kvarteret",
+    "txLastMinute": "Transaktioner (sista minuten)",
+    "monitor": "Pulsmonitor",
+    "legend": "Slaghöjd = transaktioner i blocket",
+    "chartLabel": "Hjärtfrekvens: {{rate}} blocker per minut, {{seconds}} sekunder mellan blocker",
+    "stream": "Blockström",
+    "txCount_one": "{{count}} tx",
+    "txCount_other": "{{count}} txs"
+  }
+}

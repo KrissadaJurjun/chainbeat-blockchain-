@@ -1,0 +1,58 @@
+{
+  "ibcPage": {
+    "description": "Jinsi tokens mtiririko kati ya minyororo juu ya IBC. Links nene maana zaidi 24 saa kiasi.",
+    "volume": "24h IBC kiasi",
+    "chains": "Vifungo vilivyounganishwa",
+    "links": "Vituo vinavyofanya kazi",
+    "busiest": "Njia yenye shughuli nyingi zaidi",
+    "mapLabel": "Ramani ya IBC viunganisho kati ya minyororo",
+    "nodeLabel": "{{name}}: {{volume}} katika saa 24 katika njia {{channels}}",
+    "hint": "Hover, kulenga au kuchagua mlolongo ili kuonyesha uhusiano wake. Drag kwa pan; kutumia Ctrl au na gurudumu scroll, + na − funguo, au vifungo kwa zoom; bonyeza 0 kuweka upya.",
+    "channelsOf": "Vituo vya {{name}}",
+    "topChannels": "Vituo vya juu kwa kiasi",
+    "transfers_one": "{{count, number}} uhamisho",
+    "transfers_other": "{{count, number}} uhamisho",
+    "info": {
+      "volume": "Kiasi (24 h)",
+      "channels": "Vituo",
+      "share": "Sehemu ya kiasi IBC",
+      "partner": "Mshirika mwenye shughuli nyingi zaidi"
+    }
+  },
+  "multichainPage": {
+    "description": "Kwa mtazamo mmoja zaidi Cosmos-style mazingira simulated takwimu kwa kila mnyororo kuunganishwa.",
+    "chains": "Vifungo",
+    "tvl": "Thamani ya jumla iliyofungwa",
+    "validators": "Wathibitishaji",
+    "tx24h": "shughuli (24h)",
+    "height": "Urefu wa block",
+    "open": "Kufungua dashibodi",
+    "switched": "Ilibadilishwa kuwa {{name}}",
+    "registryOnly": "Kuandikishwa kwa ajili ya demo bado haiwezi kuchaguliwa",
+    "tvlByChain": "TVL kwa mlolongo",
+    "tvlHint": "Simulated jumla ya thamani kufungwa",
+    "explainTitle": "Nini maana ya vipimo",
+    "explainHint": "Maelezo ya lugha rahisi ya takwimu kwenye ukurasa huu. Thamani zote ni simulated.",
+    "explain": {
+      "tvl": "Thamani ya tokens staked au uliofanyika katika simulated uchumi wa mtandao, kwa bei simulated. Real \"total value locked\" takwimu kutumia ufafanuzi mbalimbali na si kutumika hapa.",
+      "height": "Tangu kuanza kwake, mnyororo huo umetengeneza vitalu vingapi, na huongezeka kwa kimoja kwa kila vitalu.",
+      "validators": "Waendeshaji ambao kupendekeza na saini vitalu. idadi ni ukubwa wa seti ya kazi.",
+      "apr": "Inakadiriwa tuzo ya kila mwaka kwa ajili ya staking, kama asilimia kabla ya tume.",
+      "bonded": "Sehemu ya jumla ya tokeni usambazaji kwamba ni stake. sehemu kubwa inamaanisha zaidi ya usambazaji ni kuhakikisha mlolongo.",
+      "tx24h": "Shughuli zilizojumuishwa katika vikundi katika masaa 24 ya mwisho katika minyororo yote yaliyoorodheshwa."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Puls ya {{chain}}: kila block ni beat spacing hufuata block wakati, urefu hufuata hesabu ya shughuli.",
+    "rate": "Kiwango cha kifungu",
+    "perMinute": "blocks/min",
+    "sinceLast": "Tangu baraza la mwisho",
+    "txLastMinute": "shughuli (wakati wa mwisho)",
+    "monitor": "Mfuatiliaji wa shinikizo",
+    "legend": "Urefu beat = shughuli katika block",
+    "chartLabel": "Kufuatilia mapigo ya moyo: {{rate}} blocks kwa dakika, sekunde {{seconds}} kati ya blocks",
+    "stream": "Block mtiririko",
+    "txCount_one": "{{count}} tx",
+    "txCount_other": "{{count}} txs"
+  }
+}

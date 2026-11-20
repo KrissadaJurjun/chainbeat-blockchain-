@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Ingenting her ennå",
+    "emptyBody": "Det finnes ingen data for dette synet.",
+    "errorTitle": "Kan ikke laste inn disse dataene",
+    "errorBody": "Det gikk noe galt mens du leste nettverket.",
+    "crashTitle": "Noe gikk galt",
+    "crashBody": "Denne siden kom inn i en uventet feil.",
+    "reload": "Reload side"
+  }
+}

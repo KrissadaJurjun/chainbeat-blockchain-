@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" role="img" aria-label="ChainBeat">
+  <rect width="40" height="40" rx="10" fill="#071421"/>
+  <g fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(4 4) scale(0.8)">
+    <polygon points="6.144,12 20,4 33.856,12 33.856,28 20,36 6.144,28" pathLength="96" stroke="#A578F5" stroke-dasharray="27 69" stroke-dashoffset="-2.5"/>
+    <polygon points="6.144,12 20,4 33.856,12 33.856,28 20,36 6.144,28" pathLength="96" stroke="#42C5E8" stroke-dasharray="27 69" stroke-dashoffset="-34.5"/>
+    <polygon points="6.144,12 20,4 33.856,12 33.856,28 20,36 6.144,28" pathLength="96" stroke="#4A93FF" stroke-dasharray="27 69" stroke-dashoffset="-66.5"/>
+    <path d="M11.5 20.5H16L18.5 14L22 26L24.5 20.5H28.5" stroke="#F3F7FC" stroke-width="2.2"/>
+  </g>
+</svg>

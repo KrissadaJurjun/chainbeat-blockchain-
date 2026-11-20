@@ -1,0 +1,56 @@
+{
+  "ibcPage": {
+    "description": "Bagaimana token mengalir di antara rantai di IBC. Tautan yang lebih tebal berarti volume 24 jam lebih banyak.",
+    "volume": "24h IBC volume",
+    "chains": "Rantai yang terhubung",
+    "links": "Saluran aktif",
+    "busiest": "Rute tersibuk",
+    "mapLabel": "Peta IBC koneksi antara rantai",
+    "nodeLabel": "{{name}}: {{volume}} dalam 24 jam di {{channels}} saluran",
+    "hint": "Hover, fokus atau pilih rantai untuk menyoroti koneksi. Seret ke pan; gunakan Ctrl atau dengan roda gulung, tombol + dan −, atau tombol untuk memperbesar; tekan 0 untuk mengatur kembali.",
+    "channelsOf": "Saluran dari {{name}}",
+    "topChannels": "Saluran atas berdasarkan volume",
+    "transfers_other": "{{count, number}} transfer",
+    "info": {
+      "volume": "Volume (24 jam)",
+      "channels": "Saluran",
+      "share": "Berbagi volume IBC",
+      "partner": "Pasangan tersibuk"
+    }
+  },
+  "multichainPage": {
+    "description": "Ekosistem gaya Cosmos yang lebih luas dalam sekelip mata simulasi angka untuk setiap rantai yang terhubung.",
+    "chains": "Rantai",
+    "tvl": "Total nilai terkunci",
+    "validators": "Validator",
+    "tx24h": "Transaksi (24 jam)",
+    "height": "Ketinggian blok",
+    "open": "Buka dashboard",
+    "switched": "Pindah ke {{name}}",
+    "registryOnly": "Terdaftar untuk demo belum dapat dipilih",
+    "tvlByChain": "TVL per rantai",
+    "tvlHint": "Simulasi nilai total terkunci",
+    "explainTitle": "Apa artinya metrik",
+    "explainHint": "Definisi bahasa sederhana dari angka di halaman ini. Semua nilai disimulasikan.",
+    "explain": {
+      "tvl": "Nilai token yang dipertaruhkan atau dipegang dalam ekonomi simulasi jaringan, pada harga simulasi. Angka \"total value locked\" nyata menggunakan definisi yang berbeda dan tidak digunakan di sini.",
+      "height": "Berapa banyak blok yang dihasilkan rantai sejak dimulai.",
+      "validators": "Operator yang mengusulkan dan menandatangani blok. Jumlahnya adalah ukuran set aktif.",
+      "apr": "Penghargaan tahunan yang diperkirakan untuk taruhan, sebagai persentase sebelum komisi. Ini bergerak dengan inflasi dan dengan pangsa token yang dipertaruhkan.",
+      "bonded": "Bagian dari total penawaran token yang dipertaruhkan. Bagian yang lebih tinggi berarti lebih banyak pasokan yang mengamankan rantai.",
+      "tx24h": "Transaksi termasuk dalam blok selama 24 jam terakhir di semua rantai terdaftar."
+    }
+  },
+  "heartbeatPage": {
+    "description": "Pulsa dari {{chain}}: setiap blok adalah beat jarak mengikuti waktu blok, ketinggian mengikuti jumlah transaksi.",
+    "rate": "Tarif blok",
+    "perMinute": "blok/menit",
+    "sinceLast": "Sejak blok terakhir",
+    "txLastMinute": "Transaksi (menit terakhir)",
+    "monitor": "Monitor denyut nadi",
+    "legend": "Ketinggian pukulan = transaksi di blok",
+    "chartLabel": "Deteksi detak jantung: {{rate}} blok per menit, {{seconds}} detik antara blok",
+    "stream": "Aliran blok",
+    "txCount_other": "{{count}} txs"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "overview": {
+    "title": "Povzetek",
+    "unit": "Indeks učinkovitosti · baza = 100 pri začetku obsega",
+    "refreshFailed": "Ne morem posodobiti prikazuje zadnje naložene podatke."
+  },
+  "chart": {
+    "keyboardHint": "Uporabite tipke puščice za premikanje med podatkovnimi točkami.",
+    "summary": "Indeks učinkovitosti nad {{range}}: {{details}}",
+    "rangeLabel": "Časovni razpon",
+    "seriesLabel": "Serija grafikonov",
+    "keepOne": "Najmanj ena serija mora ostati vidna",
+    "emptyTitle": "Za ta obseg podatkov ni",
+    "emptyBody": "Poskusite v drugem časovnem razponu ali se osvežite.",
+    "range": {
+      "24H": "24 UR",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "V zadnjih 24 urah",
+      "7D": "Zadnjih 7 dni",
+      "30D": "Zadnjih 30 dni",
+      "90D": "Zadnjih 90 dni"
+    },
+    "zoomControls": "Kontrole za povečanje",
+    "zoomIn": "Povečajte",
+    "zoomOut": "Izbruhnite",
+    "resetView": "Ogled ponovne nastavitve",
+    "zoomLevel": "Stopnja povečanja"
+  },
+  "proposals": {
+    "title": "Predlogi",
+    "filter": "Filter predloga",
+    "live": "Živeti",
+    "total": "Skupaj",
+    "viewAll": "Oglejte si vse predloge",
+    "noneLive": "Brez živih predlogov",
+    "noneLiveBody": "Trenutno ne obstaja tekoča upravljanje.",
+    "showAll": "Pokažite nedavne predloge",
+    "endsIn": "Konci {{time}}",
+    "turnout": "Udeležba",
+    "vote": "Glasuj",
+    "status": {
+      "voting": "Glasovanje poteka",
+      "deposit": "Depozit",
+      "passed": "Sprejeto",
+      "rejected": "Zavrnjeno",
+      "failed": "Neuspešno"
+    },
+    "passed": "Sprejeto",
+    "rejected": "Zavrnjeno",
+    "noneMatching": "Brez primerljivih predlogov",
+    "noneMatchingBody": "Nič se ne ujema s tem filtrom."
+  },
+  "dev": {
+    "title": "Dejavnost razvijalcev",
+    "summary": "{{total}} prispevki",
+    "viewFull": "Aktivnost odprtih razvijalcev",
+    "heatmapLabel": "Karta toplotnega prispevka: {{total}} prispevkov v obdobju {{weeks}} tednov",
+    "less": "Manj",
+    "more": "Več",
+    "cellTitle_one": "{{count}} prispevek na {{date}}",
+    "cellTitle_two": "{{count}} prispevki za {{date}}",
+    "cellTitle_few": "{{count}} prispevki za {{date}}",
+    "cellTitle_other": "{{count}} prispevkov na {{date}}",
+    "range": "Obseg toplote",
+    "ranges": {
+      "month": "Mesec",
+      "quarter": "Četrtina",
+      "year": "Leto"
+    }
+  },
+  "repos": {
+    "title": "Aktivno skladišče",
+    "period": "Obdobje",
+    "periods": {
+      "week": "Teden",
+      "month": "Mesec",
+      "year": "Leto",
+      "quarter": "Četrtina"
+    },
+    "contributors": "Sodelovalci",
+    "stars": "Zvezde",
+    "sparkline": "Aktivnost za zavezanost za {{name}}",
+    "vsPrevious": "{{change}} vs. prejšnje obdobje",
+    "up": "Vstani",
+    "down": "Spod",
+    "caption": "Obveznosti v izbranem obdobju · simulirani repozitoriji",
+    "col": {
+      "repository": "Repositorij",
+      "language": "Jezik",
+      "commits": "Obveznosti",
+      "change": "Sprememba",
+      "trend": "Trend"
+    },
+    "commitsCount": "Obveznosti: {{count}}",
+    "demoNote": "Demo podatkov: ta repozitorij je izmišljen in njegova aktivnost je simulirana.",
+    "emptyBody": "V tem obdobju ni nobene dejavnosti v skladišču.",
+    "emptyTitle": "Brez dejavnosti v skladišču",
+    "history": "Aktivnost zavezanosti"
+  }
+}

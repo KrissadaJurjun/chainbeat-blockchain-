@@ -1,0 +1,128 @@
+{
+  "settings": {
+    "reduceMotion": "減少運動",
+    "reduceMotionHint": "減少動畫和轉變.",
+    "appearance": {
+      "compact": "簡約的布局",
+      "compactHint": "顯示內容面積稍微小.",
+      "description": "這樣的觀點,。",
+      "title": "這樣的外觀"
+    },
+    "confirm": {
+      "action": "確認",
+      "title": "你是不是很確定的?",
+      "dataset": "這樣重置模擬時鐘,它的速度,延遲和強制錯誤. Demo 錢包沒有被觸及.",
+      "wallet": "這將恢復 Demo 錢包的起始平衡, 取消其模擬活動,投票和提案.",
+      "all": "這樣可以移除這個浏覽器中存儲的 ChainBeat 設定 (語言,主題,網絡, Demo 錢包,最近的搜索) 並重新加載頁面."
+    },
+    "data": {
+      "datasetReset": "Demo 數據集將重置為實時.",
+      "description": "如何重新設定模擬?",
+      "refresh": "更新現實數據",
+      "refreshHint": "列表和計數會多次重新閱讀 (模擬) 網絡.",
+      "refreshOptions": {
+        "live": "活下去",
+        "slow": "慢慢進行",
+        "manual": "預覽 預覽"
+      },
+      "resetDataset": "重新設定示範資料集",
+      "searchesCleared": "這次的搜尋結果已清除.",
+      "speedHint": "停止模擬時鐘或放慢速度.",
+      "title": "數據"
+    },
+    "description": "顯示,語言,網路和隱私.",
+    "language": {
+      "count": "在 {{total}} 種語言中,有 {{shipped}} 種語言",
+      "current": "目前的語言",
+      "description": "選擇接口語言. 按本土名稱,英文名稱或代碼搜索.",
+      "fallback": "在英語中顯示未翻譯的文本.",
+      "title": "語言"
+    },
+    "network": {
+      "demo": "演示",
+      "description": "該探討哪個網絡,。",
+      "endpoint": "線上終點點",
+      "live": "活下去",
+      "liveUnavailable": "如果設定端點,您可以測試連接, 但應用程式從來不混合現實和模擬數據.",
+      "mode": "數據來源",
+      "noEndpoint": "沒有 (模擬數據)",
+      "selected": "網路",
+      "status": "聯繫",
+      "statusDemo": "模擬網路 · 高度 {{height}}",
+      "title": "網路",
+      "unavailable": "沒有使用",
+      "test": "測試連接",
+      "testing": "檢測的時間.",
+      "testHint": "在下面的終點點發送兩份只可閱讀的GET要求,並顯示其答案. 沒有任何資料被儲存,數據來源也沒有變化.",
+      "testOk": "聯繫到 {{chain}}: 最新區塊 {{height}}, 在 {{ms}} ms 內回覆.",
+      "testPartial": "聯繫到 {{chain}}: 最新區塊{{height}}, 在 {{ms}} 秒內回覆.",
+      "testError": {
+        "timeout": "終點沒有及時回覆.",
+        "network": "檢查地址,並確認該網站是否允許此網站的要求.",
+        "http": "終點是一個錯誤的答案.",
+        "invalid": "終端點回覆了, 但不是在宇宙 REST API 格式中, 所以沒有任何使用."
+      }
+    },
+    "privacy": {
+      "clearAll": "在此浏览器中清除所有 ChainBeat 資料",
+      "description": "該應用程式存儲的資料以及它能看到的資料.",
+      "keysCaption": "由 ChainBeat 使用的浏览器存储",
+      "noNetwork": "ChainBeat 在任何地方都沒有發送數據:它沒有分析,除了自己的檔案外,也沒有提出任何要求. 有兩個可選的例外: 測試連接按,只會出現當你設定端點,並將兩個只閱讀的要求發送給它,以及 Google 登錄按,只會出現當你添加自己的 Google 客戶端 ID,然后從 Google 上載.",
+      "noSeed": "ChainBeat 絕對不會尋找,儲存或看到一個種子詞語,私密鍵或錢包密碼.",
+      "storage": "選項,所選的網路,模擬的鐘, Demo 錢包,最近的搜索以及您建立的任何試用帳戶,。",
+      "title": "隱私權",
+      "wallet": "如果您連接浏覽器錢包擴展器, ChainBeat 只會閱讀您的公開地址和帳戶名稱,。",
+      "keys": {
+        "lang": "選擇的語言",
+        "ui": "主題,動作,密度,布局和喜歡",
+        "chain": "選擇的網路",
+        "sim": "模擬時鐘,速度和延遲時間",
+        "wallet": "Demo 財布: 虛擬平衡,活動,投票,提案",
+        "notifications": "您閱讀或拒絕哪些通知,以及當地事件 (錢包,模擬交易)",
+        "search": "最近的搜尋結果",
+        "auth": "Demo 帳戶:使用者名稱,電子郵件地址,密碼哈希以及現行登入"
+      }
+    }
+  },
+  "demo": {
+    "mode": "Demo 模式",
+    "chipTip": "請打開演示控制器.",
+    "controls": "Demo 控制器",
+    "controlsIntro": "這裡沒有任何數據可以從真正的區塊中讀取或傳送.",
+    "clock": "模擬時間",
+    "simulatedNow": "模擬時間",
+    "offset": "提前 {{value}} 小時",
+    "advanceHour": "提前1小時",
+    "advanceDay": "提前1天",
+    "resetClock": "預定時間",
+    "clockNote": "隨著時間的推移, {{chain}} 年的新積木,價格和事件發生.",
+    "network": "網路行為",
+    "latency": "模擬延遲時間",
+    "latencyOff": "關閉",
+    "simulateErrors": "模擬網路錯誤",
+    "simulateErrorsHint": "這樣你就可以檢查錯誤狀態.",
+    "wallet": "Demo 錢包",
+    "resetWallet": "重新設定試圖錢包",
+    "walletReset": "Demo 錢包重置至起始平衡.",
+    "noticeTitle": "該機位是 Demo 模式.",
+    "noticeBody": "這項工作流程是模擬的, 沒有任何簽名或廣播,。",
+    "behind": "{{value}} 小時以后的時間",
+    "speed": "模擬速度",
+    "speeds": {
+      "paused": "停留時間",
+      "slow": "慢慢進行",
+      "normal": "這種情況是正常的"
+    }
+  },
+  "about": {
+    "title": "關於 ChainBeat",
+    "demo": "ChainBeat 在 Demo 模式下運行. 每個區塊,價格,驗證碼和提案都在您的浏覽器中決定性地生成. 這些不是當前的主網統計.",
+    "privacy": "沒有 API 關鍵,私密關鍵或種子詞語所需. 選項演示帳戶,偏好和演示錢包僅存於您的浏覽器中.",
+    "shortcuts": "鍵盤快捷方式",
+    "shortcutSearch": "聚焦搜索",
+    "shortcutClose": "關閉對話和菜單",
+    "languages": "接口語言:{{total}}個中{{shipped}}個. 翻譯是機器輔助的,並未由母語使用者進行審核; 在公眾使用之前,建议專業審核.",
+    "pageDescription": "如何處理數據,以及其鍵盤快捷方式.",
+    "shortcutPalette": "打開搜索 (命令板)"
+  }
+}

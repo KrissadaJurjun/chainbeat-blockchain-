@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "Najnowsze transakcje na {{chain}}.",
+    "stats": {
+      "recent": "Ostatnie transakcje",
+      "success": "Odnieśli sukcesy",
+      "failed": "Nieudana",
+      "volume": "Kształt naturalny"
+    },
+    "filterPlaceholder": "Filtracja według hashu, adresu lub wysokości",
+    "allTypes": "Wszystkie rodzaje",
+    "tableCaption": "Ostatnie transakcje w dniu {{chain}}",
+    "from": "Od",
+    "to": "Do",
+    "memo": "Memo",
+    "noMemo": "Żadnego zapisu",
+    "raw": "Wyświetlanie danych surowych (simulowane)",
+    "detailTitle": "Transakcja",
+    "detailDescription": "Szczegóły symulowanej transakcji na {{chain}}.",
+    "notFoundTitle": "Transakcja nie znaleziona",
+    "notFoundBody": "Żadna transakcja z tym hashem nie istnieje na {{chain}} w symulacji.",
+    "failedBecause": "Transakcja nie powiodła się: {{reason}}.",
+    "types": {
+      "send": "Wyślij",
+      "delegate": "Delegowany",
+      "undelegate": "Nieoddelegowany",
+      "claim": "Wniosek o nagrody",
+      "vote": "Głosuj",
+      "ibc-transfer": "IBC przeniesienie",
+      "swap": "Wymiana",
+      "other": "Pozostałe"
+    },
+    "status": {
+      "success": "Sukces",
+      "failed": "Nieudana"
+    },
+    "block": "Blok",
+    "cardsLabel": "Transakcje",
+    "category": "Kategoria",
+    "date": "Datowanie",
+    "dateNote": "Pokazywanie ostatnich {{count}} transakcji do końca {{date}} (UTC).",
+    "emptyTitle": "Nie znaleziono transakcji",
+    "events": "Wydarzenia",
+    "failedEvents": "Transakcja nie powiodła się, więc wystawiła tylko swoje wydarzenie opłaty.",
+    "feeSymbol": "Token opłaty",
+    "filtersLabel": "Filtry transakcyjne",
+    "gasUsed": "Zużyty gas",
+    "gasWanted": "Szukamy gazu",
+    "groups": {
+      "transfer": "Transfery",
+      "staking": "Staking",
+      "governance": "Zarządzanie",
+      "ibc": "IBC",
+      "swap": "Swap",
+      "other": "Pozostałe"
+    },
+    "latestNote": "Pokazuję ostatnie {{count}} transakcje.",
+    "messageType": "Typ wiadomości",
+    "network": "Sieć",
+    "symbol": "Token",
+    "syntheticNote": "Jest to syntetyczny rekord generowany dla Demo Mode. Jego hash nie jest prawdziwym hashem blockchain i nie może być zweryfikowany w żadnej sieci.",
+    "token": "Token",
+    "validator": "Walidator",
+    "demoWalletNote": "Transakcja ta została stworzona przez portfel Demo. Istnieje tylko w tej przeglądarce: nie odbyło się żadnego przeniesienia blockchain, a jego hash nie jest prawdziwym hashem blockchain.",
+    "demoTag": "Demo portfel"
+  }
+}

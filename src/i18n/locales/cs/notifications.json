@@ -1,0 +1,33 @@
+{
+  "notifications": {
+    "label": "Oznámení",
+    "title": "Oznámení",
+    "unread": "Nečtená",
+    "unreadLabel_one": "{{count}} nepřečetné oznámení",
+    "unreadLabel_few": "{{count}} nečtená oznámení",
+    "unreadLabel_many": "{{count}} nečtených oznámení",
+    "unreadLabel_other": "{{count}} nečtených oznámení",
+    "markAllRead": "Všechny značky jsou podle toho, co je číst",
+    "empty": "Všichni jste do toho.",
+    "items": {
+      "proposalVoting": "Návrh č. {{id}} je v hlasovacím období zbývá asi {{hours}} hodin.",
+      "proposalPassed": "Návrh č. {{id}} byl schválen a bude aplikován.",
+      "validatorJailed": "{{name}} byl uvězněn za odpočinek.",
+      "upgradeScheduled": "Sítě upgrade {{version}} je naplánováno v {{days}} dnech.",
+      "ibcVolume": "IBC Objem převodů vzrostl v posledních 24 hodinách o {{pct}}%.",
+      "newBlock": "Blok {{height}} byl vyroben na {{chain}} (simulovaný).",
+      "walletConnectedDemo": "Demo kabelka připojená (simulovaná).",
+      "walletConnected": "{{name}}, nic nebylo podepsáno.",
+      "walletDisconnected": "Peněženka odpojena od této sezení prohlížeče.",
+      "txSuccess": "Simulovaná transakce potvrzena: {{summary}}",
+      "txFailed": "Simulovaná transakce selhala, protože simulace chyb byla spuštěna.",
+      "proposalCreated": "Demo Návrh č. {{id}} {{title}} byl přidán (simulován).",
+      "networkChanged": "Přepínám na {{chain}}, zobrazuji simulované údaje.",
+      "simPaused": "Simulace je přerušena. Simulované údaje se neaktualizují, dokud ji nepřetrváte.",
+      "errorSimulation": "Simulace chyb je spuštěna. Žádosti o údaje a potvrzení peněženky selžou, dokud je vypnete."
+    },
+    "dismiss": "Oznámení o odmítnutí",
+    "clearAll": "Vyčistěte všechno",
+    "simulatedNote": "Žádné živé blokové varování."
+  }
+}

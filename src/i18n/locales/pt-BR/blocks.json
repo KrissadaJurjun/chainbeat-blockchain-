@@ -1,0 +1,37 @@
+{
+  "blockDetail": {
+    "title": "Bloco {{height}}",
+    "invalid": "Altura inválida do bloco",
+    "description": "Detalhes de um bloco simulado na {{chain}}.",
+    "previous": "Bloco anterior",
+    "next": "Próximo quarteirão",
+    "notFoundTitle": "Bloco não encontrado",
+    "notFoundBody": "O {{chain}} ainda não tem bloqueio nesta altura.",
+    "transactions_one": "{{count}} transacção",
+    "transactions_many": "{{count}} transacções",
+    "transactions_other": "{{count}} transacções",
+    "txCaption": "Transações no bloco {{height}}",
+    "noTxs": "Este bloco não tem transacções",
+    "genesis": "Bloco de Gênesis",
+    "parentHash": "Parentesco",
+    "demoTxs": "Demo Transações de carteira a esta altura",
+    "demoTxsNote": "Estes foram criados pela carteira Demo. Não fazem parte da conta de transações do bloco simulado."
+  },
+  "blocksPage": {
+    "description": "Os blocos mais recentes no {{chain}}, a lista atualiza-se cerca de uma vez por bloco.",
+    "live": "Vivo",
+    "avgGas": "Gás Avg. utilizado",
+    "tableCaption": "Últimos blocos da {{chain}}",
+    "proposer": "Proponente",
+    "txs": "Txs",
+    "gas": "Gas usado",
+    "size": "Dimensão",
+    "emptyTitle": "Nenhum bloco encontrado",
+    "filterPlaceholder": "Filtro por altura, hash ou validador",
+    "filtersLabel": "Filtros de bloqueio",
+    "finality": "Finalidade",
+    "finalityNote": "Os blocos deste tipo de rede são definitivos assim que forem cometidos.",
+    "finalized": "Finalizado",
+    "withTxsOnly": "Apenas blocos com transacções"
+  }
+}

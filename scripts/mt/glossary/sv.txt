@@ -1,0 +1,130 @@
+Instrumentpanel
+Validerare
+Förslag
+Block
+Transaktioner
+Portfölj
+Byt
+Staka
+Likvid staking
+Skicka
+Rösta
+Skapa förslag
+Marknad
+Nätverk
+Styrning
+IBC-nätverk
+Utvecklaraktivitet
+Multichain-översikt
+Hjärtslag
+Dominans
+Blockutforskare
+Transaktionsutforskare
+Tokenutforskare
+Om
+Utforskare
+Inställningar
+Plånbok
+Analys
+Visualiseringar
+Språk
+Tema
+System
+Mörkt
+Ljust
+Demo
+Simulerad
+Stäng
+Försök igen
+Uppdatera
+Kopiera
+Kopierad
+Rensa
+Läser in…
+Föregående
+Nästa
+Avfärda
+Avbryt
+Tillbaka
+Visa alla
+Återställ
+Exportera
+Max
+Belopp
+Saldo
+Avgift
+Status
+Totalt
+Tid
+Höjd
+Hash
+Typ
+Alla
+Sök
+Filtrera
+Detaljer
+Bekräfta
+Anslut plånbok
+Koppla från
+Granska transaktion
+Nätverksavgift
+Kopiera adress
+Du betalar
+Du får
+Mottagaradress
+Memo (valfritt)
+Tillgångar
+Fördelning
+Delegerat
+Avsluta staking
+Växelkurs
+Lyckades
+Transaktion
+Block
+Från
+Till
+Memo
+Använd gas
+Validerare
+Token
+Adress
+Förslag
+Pris
+Utbud
+Marknadsvärde
+Provision
+Drifttid
+Rösttyngd
+Rank
+Aktiv
+Inaktiv
+Spärrad
+Delegerare
+Ja
+Nej
+Avstå
+Nej med veto
+Godkänd
+Avslagen
+Misslyckades
+Röstning pågår
+Kvorum
+Valdeltagande
+Insättning
+Din röst
+Titel
+Beskrivning
+On-chain-mått
+Blockhöjd
+Tx per block
+Blocktid
+Staking-APR
+Bundna tokens
+Totalt utbud
+Gemenskapspool
+Sidan hittades inte
+Tillbaka till instrumentpanelen
+Senaste block
+Senaste transaktioner
+Aviseringar
+Övriga

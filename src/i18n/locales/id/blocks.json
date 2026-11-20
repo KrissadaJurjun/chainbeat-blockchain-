@@ -1,0 +1,35 @@
+{
+  "blockDetail": {
+    "title": "Blok {{height}}",
+    "invalid": "Ketinggian blok yang tidak valid",
+    "description": "Detil blok simulasi di {{chain}}.",
+    "previous": "Blok sebelumnya",
+    "next": "Bangunan berikutnya",
+    "notFoundTitle": "Blok tidak ditemukan",
+    "notFoundBody": "{{chain}} belum memiliki blok di ketinggian ini.",
+    "transactions_other": "{{count}} transaksi",
+    "txCaption": "Transaksi di blok {{height}}",
+    "noTxs": "Blok ini tidak memiliki transaksi",
+    "genesis": "Blok Kejadian",
+    "parentHash": "Hashi orang tua",
+    "demoTxs": "Demo transaksi dompet pada ketinggian ini",
+    "demoTxsNote": "Ini dibuat oleh dompet Demo. Mereka bukan bagian dari jumlah transaksi blok simulasi sendiri."
+  },
+  "blocksPage": {
+    "description": "Blok terbaru di {{chain}}. Daftar diperbarui sekitar sekali per blok waktu.",
+    "live": "Hidup",
+    "avgGas": "Gas Avg. yang digunakan",
+    "tableCaption": "Bangunan terakhir di {{chain}}",
+    "proposer": "Proposal",
+    "txs": "Txs",
+    "gas": "Gas terpakai",
+    "size": "Ukuran",
+    "emptyTitle": "Tidak ada blok yang ditemukan",
+    "filterPlaceholder": "Filter dengan ketinggian, hash atau validator",
+    "filtersLabel": "Filter blok",
+    "finality": "Kesimpulannya",
+    "finalityNote": "Pemblokiran pada jaringan semacam ini adalah akhir begitu mereka dilakukan.",
+    "finalized": "Diperbaiki",
+    "withTxsOnly": "Hanya blok dengan transaksi"
+  }
+}

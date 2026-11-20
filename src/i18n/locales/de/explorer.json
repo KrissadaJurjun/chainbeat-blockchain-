@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Bekannte native, IBC-, Liquid-Staking- und externe Assets auf {{chain}} (simuliert).",
+    "stats": {
+      "total": "Beobachtete Token"
+    },
+    "kinds": {
+      "native": "Nativ",
+      "ibc": "IBC",
+      "external": "Extern",
+      "stable": "Stablecoin",
+      "liquid": "Liquid Staking"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Typ",
+      "denom": "Denom",
+      "price": "Preis",
+      "change": "24 Std.",
+      "supply": "Angebot",
+      "holders": "Inhaber",
+      "marketCap": "Marktkapitalisierung"
+    },
+    "filterPlaceholder": "Nach Symbol, Name oder Denom filtern",
+    "tableCaption": "Token auf {{chain}}"
+  },
+  "account": {
+    "title": "Konto",
+    "description": "Salden und jüngste Aktivität eines Kontos auf {{chain}} (simuliert).",
+    "available": "Erhältlich",
+    "balances": "Ausgleichszahlungen",
+    "counterparty": "Gegenpartei",
+    "direction": "Anleitung",
+    "in": "In",
+    "out": "Ich bin raus",
+    "history": "Transaktionsgeschichte",
+    "historyCaption": "Transaktionen von {{address}}",
+    "invalidTitle": "Nicht gültige Adresse",
+    "invalidBody": "Das ist nicht gültig. {{chain}} Adresse. Adressen in diesem Netzwerk beginnen mit {{prefix}} 1 und eine Schecksumme enthalten.",
+    "noBalances": "Keine Balance.",
+    "noHistory": "Keine Transaktionen gefunden",
+    "noHistoryBody": "Dieses Konto hat keine simulierte Aktivität in den neuesten {{blocks}} Blöcken.",
+    "rewards": "Belohnungen: {{value}}",
+    "staked": "Verpflanzt",
+    "totalValue": "Gesamtwert",
+    "txCount": "Transaktionen",
+    "unknown": "Dies ist eine gültige Adresse, aber sie erscheint nicht in der Simulation, so dass sie keine Balance oder Geschichte hat.",
+    "window": "in den neuesten {{blocks}} Blöcken",
+    "demoWallet": "Das ist Ihre Demo Brieftasche, deren Salden und Transaktionen simuliert werden und nur in diesem Browser existieren."
+  },
+  "explorer": {
+    "description": "Suchen Sie nach {{chain}} und sehen Sie, was gerade im (simulierten) Netzwerk passiert.",
+    "latestBlocks": "Neueste Blöcke",
+    "latestTransactions": "Jüngste Transaktionen",
+    "searchTitle": "Durchsuchen Sie den Entdecker",
+    "shortcuts": "Explorer-Abschnitte"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "stake": {
+    "description": "I-delegate ang mga token sa isang validator sa {{chain}} upang kumita ng simulating mga gantimpala.",
+    "validator": "Validator",
+    "pickValidator": "Pumili ng isang validator",
+    "estimate": "Ang tinatayang pagbabalik",
+    "netApr": "Net APR (kasunod ng commission)",
+    "yearly": "Mga gantimpala sa bawat taon",
+    "monthly": "Mga gantimpala sa bawat buwan",
+    "unbonding": "Periodong pag-aalis ng obligasyon",
+    "commission": "Komisyon ng Validator",
+    "notice": "Sa isang tunay na network, ang naka-withdraw stake ay naka-lock para sa {{days}} araw na panahon ng disbinding. Dito ang lahat ay sinimulan at instant.",
+    "yourStake": "Ang iyong bet sa {{chain}}",
+    "unstake": "I-unstake",
+    "unstakeTitle": "Pag-aalis mula sa {{validator}}",
+    "unstakeDescription": "Sa isang tunay na network ang iyong mga token ay mag-unlock pagkatapos ng {{days}}-araw na panahon ng unbinding.",
+    "confirmUnstake": "Unstack (simulated)",
+    "done": "Nag-stack (simulating)",
+    "doneBody": "Ang isang tunay na panahon ng unbinding ay {{days}} mga araw.",
+    "unstaked": "Unstaked (simulated)",
+    "unstakedBody": "Bumalik sa demo wallet agad. {{days}} mga araw.",
+    "errors": {
+      "validator": "Pumili ng isang validator.",
+      "moreThanStaked": "Hindi mo maiiwasan ang higit pa kaysa sa iyong nai-staked."
+    },
+    "review": "Pag-uusisa ng stake",
+    "confirmDescription": "Suriin ang delegasyon. Pagkakumpirma ay nagbabago lamang ng Demo wallet sa browser na ito.",
+    "aprDisclaimer": "Ang APR na ipinapakita ay isang pagtatantya batay sa kasalukuyang inflasyon, buwis sa komunidad at ratio ng bonded.",
+    "rewardsHistory": "Ang kasaysayan ng mga gantimpala",
+    "noRewardsHistory": "Walang mga gantimpala na inaangkin pa.",
+    "rewardsClaimed": "Kinukuha {{amount}} {{symbol}}"
+  },
+  "liquid": {
+    "description": "I-stakes ang isang token at tumanggap ng isang liquid staking token na patuloy na kumikita ng mga gantimpala habang nananatiling nakikipagtradable.",
+    "mode": "Patnubay",
+    "stake": "Stake",
+    "unstake": "I-unstake",
+    "asset": "Katumbas",
+    "youStake": "Ikaw ang nag-aambag ({{symbol}})",
+    "youRedeem": "Ikaw ay magbayad ({{symbol}})",
+    "youReceive": "Nakatanggap ka ({{symbol}})",
+    "exchangeRate": "Exchange rate",
+    "apr": "Tinatayang APR",
+    "protocolFee": "Pagbabayad ng protocol sa mga gantimpala",
+    "notice": "Ang mga token ng likido at ang kanilang mga rate ay sinimulan.",
+    "done": "Kumpleto ang pag-convert (simulating)",
+    "doneBody": "Ang iyong Demo wallet balances ay updated.",
+    "review": "Pagbabago ng pagsusuri",
+    "confirmDescription": "Suriin ang pag-convert. Pag-confirm ay nagbabago lamang ng Demo wallet sa browser na ito.",
+    "risksTitle": "Mga panganib upang maunawaan",
+    "risks": {
+      "smartContract": "Ang panganib ng smart-contract: ang mga protocol ng pag-stack ng likido ay software, at ang software ay maaaring magkaroon ng mga bug.",
+      "depeg": "Risko sa pag-de-peg: ang likido na token ay maaaring mag-trade sa ilalim ng halaga ng mga token na kinakatawan nito.",
+      "validator": "Ang panganib ng mga validator: kung ang mga validator sa likod ng protocol ay pinutol, ang bawat may-ari ay naghahati ng pagkawala.",
+      "unbonding": "Pag-iwas ng pag-iwas: ang pagbuwis sa pamamagitan ng protocol ay maaaring tumagal ng mahabang panahon ng disbinding ng network."
+    },
+    "rateExplain": "Ang rate ng palitan ay kung gaano karaming naka-staked tokens ang nakakatawan ng isang likido na token. Ito ay lumalaki habang ang mga gantimpala ng pag-staking ay kumikita, kaya ang isang likido na token ay hinay-hinay na nagiging nagkakahalaga ng higit sa isang naka-staked na token.",
+    "noProtocol": "Ang ChainBeat ay hindi nagsasama sa anumang tunay na protocol ng pag-stack ng likido."
+  }
+}

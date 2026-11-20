@@ -1,0 +1,102 @@
+{
+  "overview": {
+    "title": "Përshkrim i përgjithshëm",
+    "unit": "Indeksi i performancës · Baza = 100 në fillimin e dallimit",
+    "refreshFailed": "Nuk mund të arrij duke treguar të dhënat e fundit të ngarkuara."
+  },
+  "chart": {
+    "keyboardHint": "Përdorni çelësat e shiut për të lëvizur midis pikave të të dhënave.",
+    "summary": "Indeksi i performancës mbi {{range}}: {{details}}",
+    "rangeLabel": "Rasti i kohës",
+    "seriesLabel": "Seritë e grafit",
+    "keepOne": "Të paktën një seri duhet të mbetet e dukshme",
+    "emptyTitle": "Nuk ka të dhëna për këtë gamë",
+    "emptyBody": "Provoni një periudhë tjetër kohore ose rinovimi.",
+    "range": {
+      "24H": "24 ORË",
+      "7D": "7D",
+      "30D": "30D",
+      "90D": "90D"
+    },
+    "rangeLong": {
+      "24H": "24 orët e fundit",
+      "7D": "7 ditët e fundit",
+      "30D": "30 ditët e fundit",
+      "90D": "90 ditët e fundit"
+    },
+    "zoomControls": "Kontrolli i zoom-it",
+    "zoomIn": "Zhuthje në",
+    "zoomOut": "Zhurmohu jashtë",
+    "resetView": "Shikimi i rivendosjes",
+    "zoomLevel": "Niveli i zoom-it"
+  },
+  "proposals": {
+    "title": "Propozimet",
+    "filter": "Filtrimi i propozimit",
+    "live": "Të jetosh",
+    "total": "Gjithsej",
+    "viewAll": "Shikoni të gjitha propozimet",
+    "noneLive": "Asnjë propozim i drejtpërdrejtë",
+    "noneLiveBody": "Aktualisht nuk ka qeverisje të vazhdueshme.",
+    "showAll": "Shfaqja e propozimeve të fundit",
+    "endsIn": "Fillime {{time}}",
+    "turnout": "Pjesëmarrja",
+    "vote": "Voto",
+    "status": {
+      "voting": "Votimi në vazhdim",
+      "deposit": "Depozita",
+      "passed": "Miratuar",
+      "rejected": "Refuzuar",
+      "failed": "Dështoi"
+    },
+    "passed": "Miratuar",
+    "rejected": "Refuzuar",
+    "noneMatching": "Asnjë propozim i pajtueshëm",
+    "noneMatchingBody": "Asgjë nuk i përshtatet këtij filtri tani."
+  },
+  "dev": {
+    "title": "Aktiviteti i zhvilluesve",
+    "summary": "{{total}} kontribute",
+    "viewFull": "Aktivitet i hapur i zhvilluesit",
+    "heatmapLabel": "Harta e nxehtësisë së kontributit: {{total}} kontribute gjatë {{weeks}} javëve",
+    "less": "Më pak",
+    "more": "Më shumë",
+    "cellTitle_one": "{{count}} kontribut për {{date}}",
+    "cellTitle_other": "{{count}} kontribute për {{date}}",
+    "range": "Gama e hartave të nxehtësisë",
+    "ranges": {
+      "month": "Muaji",
+      "quarter": "Katër",
+      "year": "Vit"
+    }
+  },
+  "repos": {
+    "title": "Repozitori aktiv",
+    "period": "Periudha",
+    "periods": {
+      "week": "Javën",
+      "month": "Muaji",
+      "year": "Vit",
+      "quarter": "Katër"
+    },
+    "contributors": "Kontributorët",
+    "stars": "Yjet",
+    "sparkline": "Aktiviteti i angazhimit për {{name}}",
+    "vsPrevious": "{{change}} vs periudha e mëparshme",
+    "up": "Më lart",
+    "down": "Më poshtë",
+    "caption": "Përpjekjet në periudhën e zgjedhur · depozitat e simuluara",
+    "col": {
+      "repository": "Repositori",
+      "language": "Gjuha",
+      "commits": "Përpjekje",
+      "change": "Ndryshimi",
+      "trend": "Trend"
+    },
+    "commitsCount": "Komitime: {{count}}",
+    "demoNote": "Demo të dhëna: ky depo është fiktiv dhe aktiviteti i tij është simuluar. Nuk është i lidhur me GitHub.",
+    "emptyBody": "Në këtë periudhë nuk ka aktivitet të depozitës.",
+    "emptyTitle": "Asnjë aktivitet i regjistrimit",
+    "history": "Aktiviteti i angazhimit"
+  }
+}

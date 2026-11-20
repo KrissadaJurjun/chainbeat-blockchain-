@@ -1,0 +1,31 @@
+{
+  "notifications": {
+    "label": "ማሳወቂያዎች",
+    "title": "ማሳወቂያዎች",
+    "unread": "ያልተነበበ",
+    "unreadLabel_one": "{{count}} ያልተነበበ ማስታወቂያ",
+    "unreadLabel_other": "{{count}} ያልተነበቡ ማሳወቂያዎች",
+    "markAllRead": "ሁሉም እንደተነበበ ምልክት አድርግ",
+    "empty": "ሁላችሁም ተጨንቃችሁ ነበራችሁ።",
+    "items": {
+      "proposalVoting": "ሀሳብ #{{id}} በድምጽ መስጫ ጊዜው ውስጥ ነው {{hours}} ሰዓቶች ቀርተዋል ።",
+      "proposalPassed": "ሀሳብ #{{id}} ተቀባይነት አግኝቷል እናም ይተገበራል።",
+      "validatorJailed": "{{name}} በጊዜ ማቆሚያ ምክንያት ታስሯል።",
+      "upgradeScheduled": "የኔትወርክ ማሻሻያ {{version}} በ {{days}} ቀናት ውስጥ መርሐግብር ነው.",
+      "ibcVolume": "IBC ባለፉት 24 ሰዓታት ውስጥ የዝውውር መጠን {{pct}}% አድጓል ።",
+      "newBlock": "ክፍል {{height}} በ {{chain}} (ሲሚዩተር) ላይ ተገኝቷል.",
+      "walletConnectedDemo": "Demo የኪስ ቦርሳ ተገናኝቷል (ተመሰልቷል) ።",
+      "walletConnected": "{{name}} ተገናኝቷል ምንም አልተፈረመም።",
+      "walletDisconnected": "የኪስ ቦርሳ ከዚህ የአሳሽ ክፍለ ጊዜ ተቆርጧል.",
+      "txSuccess": "የተመሰረተው ግብይት ተረጋግጧል: {{summary}}",
+      "txFailed": "የተመሰረተው ግብይት አልተሳካም ምክንያቱም የስህተት ማስመሰል ተጀምሯል ምንም አልተለወጠም።",
+      "proposalCreated": "Demo ሀሳብ #{{id}} {{title}} ተጨምሯል (ተመሰልቷል) ።",
+      "networkChanged": "ወደ {{chain}} ተለውጧል.",
+      "simPaused": "ማስመሰሉ ቆሟል። ማስመሰሉ እስከሚቀጥል ድረስ መረጃው አይዘምንም።",
+      "errorSimulation": "የስህተት ማስመሰል ተጀምሯል. የውሂብ ጥያቄዎች እና የኪስ ቦርሳ ማረጋገጫዎች እስኪያሰናክሉት ድረስ አይሳኩም."
+    },
+    "dismiss": "የመልቀቂያ ማስታወቂያ",
+    "clearAll": "ሁሉንም አጽዳ",
+    "simulatedNote": "ከኔትወርክ ምግብ የተገኙ ዕቃዎች የተመሰሉ ናቸው እዚህ ምንም የቀጥታ የብሎክቼን ማስጠንቀቂያ የለም ።"
+  }
+}

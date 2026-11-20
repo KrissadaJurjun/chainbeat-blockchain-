@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "アクティブなバリデータ",
+    "viewAll": "すべてのバリデータを表示",
+    "col": {
+      "validator": "バリデータ",
+      "power": "投票力",
+      "cumulative": "累積",
+      "commission": "手数料率",
+      "uptime": "稼働率",
+      "change": "24時間の変化",
+      "details": "詳細",
+      "tokens": "債券のトークン"
+    },
+    "stake": "ステーキング",
+    "stakeWith": "このバリデータにステーキング",
+    "pageDescription": "{{chain}} を守るすべてのバリデータを、投票力の順に表示します（シミュレーション）。",
+    "stats": {
+      "active": "アクティブなバリデータ",
+      "nakamoto": "ナカモト係数",
+      "nakamotoHint": "チェーンを停止させるのに必要なバリデータ数",
+      "top10": "上位 10 の投票力",
+      "commission": "平均手数料率"
+    },
+    "filterPlaceholder": "名前またはアドレスで絞り込み",
+    "statusFilter": "バリデータのステータス",
+    "tableCaption": "{{chain}} のバリデータ",
+    "detailDescription": "{{chain}} 上のシミュレーションのバリデータです。",
+    "detail": {
+      "delegators": "委任者",
+      "bonded": "結束されたトークン",
+      "last30": "過去30日",
+      "last90": "過去90日",
+      "noBlocks": "最近提案されたブロックはない。",
+      "noWebsite": "入手できない (虚構の検証器)",
+      "openPage": "全ページを開く",
+      "powerHistory": "投票力",
+      "proposed24h": "提案されたブロック (24時間)",
+      "rank": "ランク",
+      "recentBlocks": "最近提案されたブロック",
+      "selfBonded": "自制する",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "稼働率",
+      "valueUsd": "ステーク値 {{value}}",
+      "website": "ウェブサイト"
+    },
+    "status": {
+      "active": "アクティブ",
+      "inactive": "非アクティブ",
+      "jailed": "ジェイル中"
+    },
+    "activitiesTitle": "検証者活動",
+    "commissionShort": "料金 {{value}}",
+    "detailTitle": "バリデータ",
+    "fictionalNote": "Demo モードの虚構の検証機. これは実際のオペレーターではなく,それについて何も確認されていません.",
+    "hoverTip": "委員会 {{commission}} · 営業時間 {{uptime}} · {{delegators}} 代表",
+    "noMatching": "一致する検証器はない。",
+    "notFoundBody": "{{chain}} にはこのアドレスで検証符がありません.",
+    "notFoundTitle": "検証器が見つかりませんでした",
+    "sort": {
+      "power": "投票力",
+      "commission": "手数料率",
+      "uptime": "稼働率"
+    },
+    "sortBy": "認証器を別々に分類する"
+  },
+  "validatorsViz": {
+    "description": "{{chain}} の各バリデータの手数料率と稼働率を比較します。バブルの大きさは投票力を表します。",
+    "showAll": "非アクティブとジェイル中を含める",
+    "avgUptime": "平均稼働率",
+    "zeroFee": "手数料ゼロのバリデータ",
+    "chartTitle": "手数料率と稼働率",
+    "chartHint": "バブル 1 つが 1 件のバリデータです",
+    "legend": "チャートの凡例",
+    "sizeHint": "バブルの大きさ = 投票力"
+  }
+}

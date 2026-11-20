@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "Transaksi terbaru di {{chain}}. Buka satu untuk maklumat lengkapnya.",
+    "stats": {
+      "recent": "Transaksi baru-baru ini",
+      "success": "Berjaya",
+      "failed": "Gagal",
+      "volume": "Jadual asli"
+    },
+    "filterPlaceholder": "Penapis mengikut hash, alamat atau ketinggian",
+    "allTypes": "Semua jenis",
+    "tableCaption": "Transaksi terkini pada {{chain}}",
+    "from": "Daripada",
+    "to": "Kepada",
+    "memo": "Memo",
+    "noMemo": "Tiada memo",
+    "raw": "Lihat data mentah (disimulasikan)",
+    "detailTitle": "Transaksi",
+    "detailDescription": "Perincian transaksi simulasi pada {{chain}}.",
+    "notFoundTitle": "Transaksi tidak ditemui",
+    "notFoundBody": "Tiada transaksi dengan hash ini wujud pada {{chain}} dalam simulasi.",
+    "failedBecause": "Transaksi ini gagal: {{reason}}.",
+    "types": {
+      "send": "Hantar",
+      "delegate": "Delegasi",
+      "undelegate": "Tidak Berdelegasi",
+      "claim": "Klaim ganjaran",
+      "vote": "Undi",
+      "ibc-transfer": "IBC pemindahan",
+      "swap": "Tukar",
+      "other": "Lain-lain"
+    },
+    "status": {
+      "success": "Berjaya",
+      "failed": "Gagal"
+    },
+    "block": "Blok",
+    "cardsLabel": "Transaksi",
+    "category": "Kategori",
+    "date": "Tarikh",
+    "dateNote": "Menunjukkan {{count}} transaksi terkini sehingga akhir tahun {{date}} (UTC).",
+    "emptyTitle": "Tiada transaksi yang ditemui",
+    "events": "Peristiwa",
+    "failedEvents": "Transaksi ini gagal, jadi ia hanya mengeluarkan acara bayarannya.",
+    "feeSymbol": "Token bayaran",
+    "filtersLabel": "Penapis urus niaga",
+    "gasUsed": "Gas digunakan",
+    "gasWanted": "Gas diperlukan",
+    "groups": {
+      "transfer": "Pemindahan",
+      "staking": "Perjuangan",
+      "governance": "Tadbir urus",
+      "ibc": "IBC",
+      "swap": "Swap",
+      "other": "Lain-lain"
+    },
+    "latestNote": "Menunjukkan transaksi terbaru {{count}} pilih tarikh untuk melihat lebih jauh ke belakang.",
+    "messageType": "Jenis mesej",
+    "network": "Rangkaian",
+    "symbol": "Token",
+    "syntheticNote": "Ini adalah rekod sintetik yang dihasilkan untuk Demo Mode. hashnya bukan hash blockchain sebenar dan ia tidak boleh disahkan di mana-mana rangkaian.",
+    "token": "Token",
+    "validator": "Pengesah",
+    "demoWalletNote": "Transaksi ini dibuat oleh dompet Demo. Ia hanya wujud dalam pelayar ini: tiada pemindahan blockchain berlaku, dan hashnya bukan hash blockchain sebenar.",
+    "demoTag": "Demo dompet"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "ibcPage": {
+    "description": "Tiheämmät linkit tarkoittavat enemmän vuorokauden volyymiä.",
+    "volume": "24h IBC tilavuus",
+    "chains": "Kytketyt ketjut",
+    "links": "Aktiiviset kanavat",
+    "busiest": "Liiketoiminnan suurin reitti",
+    "mapLabel": "IBC ketjun yhteyden kartta",
+    "nodeLabel": "{{name}}: {{volume}} vuorokaudessa {{channels}} kanavalla",
+    "hint": "Siirrä, keskity tai valitse ketju korostaa sen yhteydet. Vedä panille; käytä Ctrl tai pyörällä, + ja −-näppäillä tai näppäillä suurentaa; paina 0 uudelleen asetettavaksi.",
+    "channelsOf": "Kannelit {{name}}",
+    "topChannels": "Pääkanavat tilavuuden mukaan",
+    "transfers_one": "{{count, number}} siirto",
+    "transfers_other": "{{count, number}} siirtoa",
+    "info": {
+      "volume": "Volyymi (24 tunti)",
+      "channels": "Kannelit",
+      "share": "Osa IBC volyymistä",
+      "partner": "Työtehtävimpi kumppani"
+    }
+  },
+  "multichainPage": {
+    "description": "Kosmos-tyyppinen ekosysteemi simuloi kukin kytkettyjen lukujen lukumäärät.",
+    "chains": "Ketjut",
+    "tvl": "Suljettu kokonaisarvo",
+    "validators": "Validaattorit",
+    "tx24h": "Transaktiot (24 tuntia)",
+    "height": "Blokkien korkeus",
+    "open": "Avaa ohjauslauta",
+    "switched": "Vaihdoin {{name}}: lle",
+    "registryOnly": "Rekisteröidyt demo ei vielä valittavissa",
+    "tvlByChain": "TVL ketjun mukaan",
+    "tvlHint": "Simuloitu lukittu kokonaisarvo",
+    "explainTitle": "Mitä metrikot tarkoittavat",
+    "explainHint": "Tässä sivussa esitetyt luvut on määritelty selkeästi. Kaikki arvot on simuloitu.",
+    "explain": {
+      "tvl": "Verkon simuloidussa taloudessa panostettujen tai pidettyjen tunnisteiden arvo simuloiduilla hinnoilla.",
+      "height": "Kuinka monta blokkia ketju on tuottanut sen jälkeen, kun se on alkanut?",
+      "validators": "Käyttäjät, jotka ehdottavat ja allekirjoittavat blokkeja.",
+      "apr": "Arvioitu vuotuinen palkka panoksesta, prosenttiosuus ennen komissaaria.",
+      "bonded": "Suurempi osuus tarkoittaa, että enemmän tarjonta turvaa ketjua.",
+      "tx24h": "Liikevaihdot, jotka on sisällytetty blokkeihin viimeisten 24 tunnin aikana kaikkien lueteltujen ketjujen kautta."
+    }
+  },
+  "heartbeatPage": {
+    "description": "{{chain}}:n pulsi: jokainen blokki on lyönti väliä seuraa blokkien aika, korkeus seuraa transaktion lukumäärää.",
+    "rate": "Blokkihinta",
+    "perMinute": "Blokit/min",
+    "sinceLast": "Viimeisen korttelin jälkeen",
+    "txLastMinute": "Transaktiot (viimeinen minuutti)",
+    "monitor": "Pulssivalvonta",
+    "legend": "Vihjeiden korkeus = jakson tapahtumat",
+    "chartLabel": "Sydämen lyöntimen jälki: {{rate}} pistettä minuutissa, {{seconds}} sekuntia blokkien välillä",
+    "stream": "Blokkivirta",
+    "txCount_one": "{{count}} tx",
+    "txCount_other": "{{count}} tonnia"
+  }
+}

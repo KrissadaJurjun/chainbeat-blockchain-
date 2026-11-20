@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "Bloek {{height}}",
+    "invalid": "Niet geldig blokhoogte",
+    "description": "Details van een gesimuleerd blok op {{chain}}.",
+    "previous": "Vorig blok",
+    "next": "Volgende blok",
+    "notFoundTitle": "Bloek niet gevonden",
+    "notFoundBody": "{{chain}} heeft nog geen blok op deze hoogte.",
+    "transactions_one": "{{count}} transactie",
+    "transactions_other": "{{count}} transacties",
+    "txCaption": "Transacties in blok {{height}}",
+    "noTxs": "Dit blok heeft geen transacties",
+    "genesis": "Genesis blok",
+    "parentHash": "Oudershaas",
+    "demoTxs": "Demo portemonnee-transacties op deze hoogte",
+    "demoTxsNote": "Deze zijn gemaakt door de Demo portemonnee. Ze maken geen deel uit van de eigen transactietelling van het gesimuleerde blok."
+  },
+  "blocksPage": {
+    "description": "De nieuwste blokken op {{chain}}. De lijst wordt ongeveer één keer per blok bijgewerkt.",
+    "live": "Leven",
+    "avgGas": "Gebruikte Avg. gas",
+    "tableCaption": "Laatste blokken op {{chain}}",
+    "proposer": "Verzoekster",
+    "txs": "Txs",
+    "gas": "Gebruikte gas",
+    "size": "Grootte",
+    "emptyTitle": "Geen blokken gevonden",
+    "filterPlaceholder": "Filter per hoogte, hash of validator",
+    "filtersLabel": "Blockfilters",
+    "finality": "Eindelijk",
+    "finalityNote": "Blocks op dit soort netwerken zijn definitief zodra ze zijn ingesteld.",
+    "finalized": "Voltooid",
+    "withTxsOnly": "Alleen blokken met transacties"
+  }
+}

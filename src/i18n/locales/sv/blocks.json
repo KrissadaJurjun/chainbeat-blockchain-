@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "Block {{height}}",
+    "invalid": "Invalida blockhöjd",
+    "description": "Detaljer om ett simulerat block på {{chain}}.",
+    "previous": "Tidigare block",
+    "next": "Nästa kvarter",
+    "notFoundTitle": "Block inte hittad",
+    "notFoundBody": "{{chain}} har inget block på den här höjden än.",
+    "transactions_one": "{{count}} transaktion",
+    "transactions_other": "{{count}} transaktioner",
+    "txCaption": "Transaktioner i block {{height}}",
+    "noTxs": "Detta block har inga transaktioner",
+    "genesis": "Genesis-block",
+    "parentHash": "Föräldrars hash",
+    "demoTxs": "Demo plånbokstransaktioner vid denna höjd",
+    "demoTxsNote": "Dessa skapades av plånboken Demo. De är inte en del av den simulerade blockets egna transaktionsantal."
+  },
+  "blocksPage": {
+    "description": "De senaste blöckerna på {{chain}} Listan uppdateras en gång per kvart.",
+    "live": "Levande",
+    "avgGas": "Avg. gas som används",
+    "tableCaption": "Senaste kvarter på {{chain}}",
+    "proposer": "Föredraganden",
+    "txs": "Txs",
+    "gas": "Använd gas",
+    "size": "Storlek",
+    "emptyTitle": "Inga block hittades",
+    "filterPlaceholder": "Filtrering efter höjd, hash eller validator",
+    "filtersLabel": "Blockfilter",
+    "finality": "Avslutningen",
+    "finalityNote": "Blockeringar på ett sådant nätverk är slutgiltiga så snart de genomförs.",
+    "finalized": "Slutliggjord",
+    "withTxsOnly": "Endast block med transaktioner"
+  }
+}

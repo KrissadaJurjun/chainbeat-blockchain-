@@ -1,0 +1,31 @@
+{
+  "notifications": {
+    "label": "Ilmoitukset",
+    "title": "Ilmoitukset",
+    "unread": "- En ole lukenut",
+    "unreadLabel_one": "{{count}} lukematonta ilmoitusta",
+    "unreadLabel_other": "{{count}} lukematonta ilmoitusta",
+    "markAllRead": "Merkitse kaikki lukettua",
+    "empty": "Olette kaikki kiinni.",
+    "items": {
+      "proposalVoting": "Ehdotus nro {{id}} on äänestyskaudella noin {{hours}} tuntia jäljellä.",
+      "proposalPassed": "Ehdotus nro {{id}} hyväksyttiin ja sitä sovelletaan.",
+      "validatorJailed": "{{name}} joutui vankilaan.",
+      "upgradeScheduled": "Verkon päivitys {{version}} on suunniteltu {{days}} päivässä.",
+      "ibcVolume": "IBC siirtojen määrä kasvoi {{pct}}% viimeisten 24 tunnin aikana.",
+      "newBlock": "Blokki {{height}} valmistettiin {{chain}} (simuloitu).",
+      "walletConnectedDemo": "Demo lompakko yhdistetty (simuloitu).",
+      "walletConnected": "{{name}} on yhteydessä, eikä mitään allekirjoitettu.",
+      "walletDisconnected": "Lompakko irrotettiin selaimen istunnosta.",
+      "txSuccess": "Simuloitu tapahtuma vahvistettu: {{summary}}",
+      "txFailed": "Simuloitu liiketoimi epäonnistui, koska virhe simulointi on käynnissä.",
+      "proposalCreated": "Demo ehdotus #{{id}} {{title}} lisättiin (simuloitu).",
+      "networkChanged": "Vaihdoin {{chain}} Näytetään simuloituja tietoja.",
+      "simPaused": "Simuloituja tietoja ei päivitetä ennen kuin aloitat sen.",
+      "errorSimulation": "Virhe simulointi on käynnissä. Tiedonhakemukset ja lompakon vahvistukset epäonnistuvat, ennen kuin suljet sen pois."
+    },
+    "dismiss": "Ilmoitus hylkäämisestä",
+    "clearAll": "Puhdista kaikki",
+    "simulatedNote": "Tiedot verkostosta ovat simuloituja."
+  }
+}

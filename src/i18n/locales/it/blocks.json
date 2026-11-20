@@ -1,0 +1,37 @@
+{
+  "blockDetail": {
+    "title": "Blocco {{height}}",
+    "invalid": "Altezza di blocco invalida",
+    "description": "Dettagli di un blocco simulato sulla {{chain}}.",
+    "previous": "Blocco precedente",
+    "next": "Il prossimo isolato",
+    "notFoundTitle": "Blocco non trovato",
+    "notFoundBody": "{{chain}} non ha ancora un blocco a questa altezza.",
+    "transactions_one": "{{count}} operazione",
+    "transactions_many": "{{count}} operazioni",
+    "transactions_other": "{{count}} operazioni",
+    "txCaption": "Transazioni nel blocco {{height}}",
+    "noTxs": "Questo blocco non ha transazioni",
+    "genesis": "Blocco di Genesi",
+    "parentHash": "Il hash dei genitori",
+    "demoTxs": "Demo operazioni di portafoglio a tale altezza",
+    "demoTxsNote": "Questi sono stati creati dal portafoglio Demo. Non fanno parte del conto delle transazioni del blocco simulato."
+  },
+  "blocksPage": {
+    "description": "Gli ultimi blocchi sulla {{chain}}. La lista si aggiorna circa una volta al blocco.",
+    "live": "Vivi",
+    "avgGas": "Gaso Avg. utilizzato",
+    "tableCaption": "Ultimi blocchi sulla {{chain}}",
+    "proposer": "Proponente",
+    "txs": "Txs",
+    "gas": "Gas utilizzato",
+    "size": "Dimensione",
+    "emptyTitle": "Nessun blocco trovato",
+    "filterPlaceholder": "Filtro per altezza, hash o validatore",
+    "filtersLabel": "Filtri di blocco",
+    "finality": "Finalità",
+    "finalityNote": "I blocchi di questo tipo di rete sono definitivi non appena sono commessi.",
+    "finalized": "Completato",
+    "withTxsOnly": "Solo blocchi con transazioni"
+  }
+}

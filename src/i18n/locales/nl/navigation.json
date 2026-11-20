@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Navigatie in de zijbalk",
+    "primary": "Hoofdnavigatie",
+    "menu": "Navigatiemenu",
+    "openMenu": "Open navigatiemenu",
+    "closeMenu": "Sluit het navigatiemenu",
+    "collapseSidebar": "Collapse zijbalk",
+    "expandSidebar": "Uitbreiden van zijbalk",
+    "skipToContent": "Skip naar de hoofdinhoud",
+    "home": "ChainBeat thuis",
+    "pages": "Pagina's",
+    "dashboard": "Dashboard",
+    "validators": "Validators",
+    "proposals": "Voorstellen",
+    "blocks": "Blokken",
+    "transactions": "Transacties",
+    "portfolio": "Portfolio",
+    "swap": "Swappen",
+    "stake": "Staken",
+    "liquidStaking": "Liquid staking",
+    "send": "Verzenden",
+    "vote": "Stemmen",
+    "createProposal": "Voorstel maken",
+    "market": "Markt",
+    "network": "Netwerk",
+    "governance": "Governance",
+    "ibcNetwork": "IBC-netwerk",
+    "devActivity": "Ontwikkelaarsactiviteit",
+    "multichain": "Multichain-overzicht",
+    "heartbeat": "Hartslag",
+    "dominance": "Dominantie",
+    "validatorsViz": "Validators",
+    "blockExplorer": "Blokverkenner",
+    "transactionExplorer": "Transactieverkenner",
+    "tokenExplorer": "Tokenverkenner",
+    "about": "Over",
+    "explorerHome": "Verkenner",
+    "governanceHome": "Governance hub",
+    "settings": "Instellingen"
+  },
+  "sections": {
+    "explorer": "Verkenner",
+    "wallet": "Wallet",
+    "analytics": "Analyses",
+    "visualizations": "Visualisaties"
+  },
+  "chains": {
+    "favorite": "Voeg {{name}} toe aan favorieten",
+    "unfavorite": "Verwijder {{name}} uit favorieten",
+    "simulatedHealthy": "Simulatief netwerk · gezond"
+  },
+  "search": {
+    "label": "Zoek ChainBeat",
+    "placeholder": "Zoekblok, TX, adres...",
+    "results": "Zoekresultaten",
+    "noResults": "Geen resultaten voor {{query}}",
+    "kinds": {
+      "page": "Pagina",
+      "block": "Blok",
+      "transaction": "TX",
+      "validator": "Validator",
+      "token": "Token",
+      "address": "Adres",
+      "proposal": "Voorstel"
+    },
+    "recent": "Recente zoekopdrachten",
+    "clearRecent": "Onlangse zoekopdrachten",
+    "removeRecent": "Verwijder {{query}} uit recente zoekopdrachten",
+    "hint": "Probeer een blokhoogte, een transactiehash, een adres ( {{prefix}} 1...), een validator, een voorstelnummer of een symboolnaam.",
+    "submit": "Zoeken",
+    "searching": "Op zoek naar...",
+    "resultCount": "Resultaten: {{count}}",
+    "invalid": {
+      "tooLong": "Dat is te lang om een zoekterm te zijn (200 tekens maximaal).",
+      "badChecksum": "Dit ziet eruit als een adres, maar het checksum komt niet overeen.",
+      "badHash": "Een transactie of blok hash heeft precies 64 hexadecimale tekens.",
+      "badChars": "Zoek naar een blokhoogte, een hash, een adres, een validator, een voorstel of een token."
+    },
+    "categories": {
+      "page": "Pagina's",
+      "block": "Blokken",
+      "transaction": "Transacties",
+      "address": "Adressen",
+      "validator": "Validators",
+      "proposal": "Voorstellen",
+      "token": "Toekennings"
+    }
+  },
+  "user": {
+    "menu": "Accountsmenu",
+    "guest": "Gasten",
+    "notConnected": "Geen portemonnee verbonden",
+    "settings": "Instellingen",
+    "about": "Over ChainBeat"
+  }
+}

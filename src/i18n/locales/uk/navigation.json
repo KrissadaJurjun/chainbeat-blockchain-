@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Навігація в боковій панелі",
+    "primary": "Головна навігація",
+    "menu": "Меню навігації",
+    "openMenu": "Відкрити меню навігації",
+    "closeMenu": "Закрийте меню навігації",
+    "collapseSidebar": "Колапс бокова панель",
+    "expandSidebar": "Розширяйте боковий панель",
+    "skipToContent": "Перейти на головний контент",
+    "home": "Додому ChainBeat",
+    "pages": "Страниці",
+    "dashboard": "Панель",
+    "validators": "Валідатори",
+    "proposals": "Пропозиції",
+    "blocks": "Блоки",
+    "transactions": "Транзакції",
+    "portfolio": "Портфель",
+    "swap": "Обмін",
+    "stake": "Стейкінг",
+    "liquidStaking": "Ліквідний стейкінг",
+    "send": "Надіслати",
+    "vote": "Голосування",
+    "createProposal": "Створити пропозицію",
+    "market": "Ринок",
+    "network": "Мережа",
+    "governance": "Управління",
+    "ibcNetwork": "Мережа IBC",
+    "devActivity": "Активність розробників",
+    "multichain": "Огляд мультичейну",
+    "heartbeat": "Пульс",
+    "dominance": "Домінування",
+    "validatorsViz": "Валідатори",
+    "blockExplorer": "Оглядач блоків",
+    "transactionExplorer": "Оглядач транзакцій",
+    "tokenExplorer": "Оглядач токенів",
+    "about": "Про застосунок",
+    "explorerHome": "Оглядач",
+    "governanceHome": "Центр управління",
+    "settings": "Налаштування"
+  },
+  "sections": {
+    "explorer": "Оглядач",
+    "wallet": "Гаманець",
+    "analytics": "Аналітика",
+    "visualizations": "Візуалізації"
+  },
+  "chains": {
+    "favorite": "Додайте {{name}} до улюблених",
+    "unfavorite": "Зніміть {{name}} з улюблених",
+    "simulatedHealthy": "Симулювана мережа · здорове"
+  },
+  "search": {
+    "label": "Пошук ChainBeat",
+    "placeholder": "Блок пошуку, ТС, адреса...",
+    "results": "Результати пошуку",
+    "noResults": "Ніяких результатів для {{query}}",
+    "kinds": {
+      "page": "Страница",
+      "block": "Блок",
+      "transaction": "Ткс",
+      "validator": "Валідатор",
+      "token": "Токен",
+      "address": "Адреса",
+      "proposal": "Пропозиція"
+    },
+    "recent": "Недавні пошуки",
+    "clearRecent": "Чисті останні пошуки",
+    "removeRecent": "Знімайте {{query}} з останніх пошуків",
+    "hint": "Спробуйте висоту блоку, хэш транзакції, адресу ( {{prefix}} 1...), валідатор, номер пропозиції або символьний номен.",
+    "submit": "Пошук",
+    "searching": "Шукаю...",
+    "resultCount": "Результати: {{count}}",
+    "invalid": {
+      "tooLong": "Це занадто довгий термін для пошуку (не більше 200 символів).",
+      "badChecksum": "Це виглядає як адреса, але сумма перевірки не відповідає.",
+      "badHash": "Транзакція або блок-хеш має саме 64 хексадецимальних символів.",
+      "badChars": "Шукайте висоту блоку, хэш, адресу, валідатор, пропозицію або токен."
+    },
+    "categories": {
+      "page": "Страниці",
+      "block": "Блоки",
+      "transaction": "Транзакції",
+      "address": "Адреси",
+      "validator": "Валідатори",
+      "proposal": "Пропозиції",
+      "token": "Значки"
+    }
+  },
+  "user": {
+    "menu": "Меню рахунків",
+    "guest": "Гость",
+    "notConnected": "Не підключено кошелек",
+    "settings": "Налаштування",
+    "about": "Про ChainBeat"
+  }
+}

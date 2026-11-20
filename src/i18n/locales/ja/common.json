@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "デモ",
+    "simulated": "シミュレーション",
+    "close": "閉じる",
+    "retry": "再試行",
+    "refresh": "更新",
+    "copy": "コピー",
+    "copied": "コピーしました",
+    "clear": "クリア",
+    "loading": "読み込み中…",
+    "options": "オプション",
+    "previous": "前へ",
+    "next": "次へ",
+    "pagination": "ページ送り",
+    "pageN": "{{n}} ページ",
+    "dismiss": "閉じる",
+    "cancel": "キャンセル",
+    "viewAll": "すべて表示",
+    "max": "最大",
+    "amount": "数量",
+    "balance": "残高",
+    "fee": "手数料",
+    "status": "ステータス",
+    "time": "時刻",
+    "height": "高さ",
+    "hash": "ハッシュ",
+    "type": "種類",
+    "all": "すべて",
+    "showing": "{{total}} 件中 {{from}}–{{to}} 件を表示",
+    "noResults": "条件に一致する結果がありません。",
+    "rowsPerPage": "1 ページの行数",
+    "actions": "操作",
+    "exportCsv": "CSV をエクスポート",
+    "details": "詳細",
+    "clearFilters": "透明なフィルター",
+    "collapseAll": "崩壊する",
+    "copyJson": "JSONをコピーする",
+    "expandAll": "すべてを拡大する",
+    "showMore": "{{count}} を表示する"
+  },
+  "language": {
+    "label": "言語",
+    "search": "言語を検索"
+  },
+  "theme": {
+    "label": "テーマ",
+    "system": "システム",
+    "dark": "ダーク",
+    "light": "ライト"
+  },
+  "footer": {
+    "tagline": "ブロックを探索し、トランザクションを追跡し、Web3 を理解する。",
+    "demo": "デモモード：表示されている数値はすべてシミュレーションで、実際のネットワーク統計ではありません。",
+    "share": "共有",
+    "linkCopied": "リンクをクリップボードにコピーしました。",
+    "docs": "文書化",
+    "links": "脚のリンク",
+    "modeDemo": "Demo ネットワーク",
+    "repository": "資料庫",
+    "version": "V{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "body": "お探しのページは存在しないか、移動されました。",
+    "home": "ダッシュボードへ戻る"
+  },
+  "gate": {
+    "title": "続けるにはデモウォレットを接続してください",
+    "body": "この操作はシミュレーションのウォレットで動作します。デモウォレットを接続して試してください。実際の署名や送信は一切行われません。",
+    "realTitle": "実際のウォレットが接続されています",
+    "realBody": "{{address}} が接続されていますが、ChainBeat のデモモードはトランザクションの署名もブロードキャストも行いません。この操作を試すには、デモウォレットに切り替えてください。",
+    "useDemo": "デモウォレットを使う"
+  }
+}

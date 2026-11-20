@@ -1,0 +1,102 @@
+{
+  "overview": {
+    "title": "Übersicht",
+    "unit": "Performance-Index · Basis = 100 zu Beginn des Zeitraums",
+    "refreshFailed": "Aktualisierung fehlgeschlagen – die zuletzt geladenen Daten werden angezeigt."
+  },
+  "chart": {
+    "keyboardHint": "Diagramm. Mit den Pfeiltasten wechseln Sie zwischen den Datenpunkten.",
+    "summary": "Performance-Index über {{range}}: {{details}}",
+    "rangeLabel": "Zeitraum",
+    "seriesLabel": "Diagrammreihen",
+    "keepOne": "Mindestens eine Reihe muss sichtbar bleiben",
+    "emptyTitle": "Keine Daten für diesen Zeitraum",
+    "emptyBody": "Versuchen Sie einen anderen Zeitraum oder aktualisieren Sie.",
+    "range": {
+      "24H": "24 Std.",
+      "7D": "7 T.",
+      "30D": "30 T.",
+      "90D": "90 T."
+    },
+    "rangeLong": {
+      "24H": "Letzte 24 Stunden",
+      "7D": "Letzte 7 Tage",
+      "30D": "Letzte 30 Tage",
+      "90D": "Letzte 90 Tage"
+    },
+    "zoomControls": "Zoom-Steuerungen",
+    "zoomIn": "Vergrößern",
+    "zoomOut": "Vergrößern",
+    "resetView": "Wiederherstellungsansicht",
+    "zoomLevel": "Zoom-Niveau"
+  },
+  "proposals": {
+    "title": "Vorschläge",
+    "filter": "Vorschlagsfilter",
+    "live": "Aktiv",
+    "total": "Gesamt",
+    "viewAll": "Alle Vorschläge anzeigen",
+    "noneLive": "Keine aktiven Vorschläge",
+    "noneLiveBody": "Derzeit läuft keine Governance-Abstimmung.",
+    "showAll": "Aktuelle Vorschläge anzeigen",
+    "endsIn": "Endet {{time}}",
+    "turnout": "Beteiligung",
+    "vote": "Abstimmen",
+    "status": {
+      "voting": "In Abstimmung",
+      "deposit": "Einlage",
+      "passed": "Angenommen",
+      "rejected": "Abgelehnt",
+      "failed": "Gescheitert"
+    },
+    "passed": "Angenommen",
+    "rejected": "Abgelehnt",
+    "noneMatching": "Keine entsprechenden Vorschläge",
+    "noneMatchingBody": "Nichts passt gerade zu diesem Filter."
+  },
+  "dev": {
+    "title": "Entwicklungsaktivität",
+    "summary": "{{total}} Beiträge",
+    "viewFull": "Entwicklungsaktivität öffnen",
+    "heatmapLabel": "Beitrags-Heatmap: {{total}} Beiträge in {{weeks}} Wochen",
+    "less": "Weniger",
+    "more": "Mehr",
+    "cellTitle_one": "{{count}} Beitrag am {{date}}",
+    "cellTitle_other": "{{count}} Beiträge am {{date}}",
+    "range": "Heatmap-Bereich",
+    "ranges": {
+      "month": "Monat",
+      "quarter": "Viertel",
+      "year": "Jahr"
+    }
+  },
+  "repos": {
+    "title": "Aktive Repositories",
+    "period": "Zeitraum",
+    "periods": {
+      "week": "Woche",
+      "month": "Monat",
+      "year": "Jahr",
+      "quarter": "Viertel"
+    },
+    "contributors": "Mitwirkende",
+    "stars": "Sterne",
+    "sparkline": "Commit-Aktivität von {{name}}",
+    "vsPrevious": "{{change}} gegenüber dem Vorzeitraum",
+    "up": "Steigend",
+    "down": "Fallend",
+    "caption": "Commits im gewählten Zeitraum · simulierte Repositories",
+    "col": {
+      "repository": "Repository",
+      "language": "Sprache",
+      "commits": "Commits",
+      "change": "Änderung",
+      "trend": "Trend"
+    },
+    "commitsCount": "Verpflichtungen: {{count}}",
+    "demoNote": "Demo Daten: Dieses Repository ist fiktiv und seine Aktivität wird simuliert. Es ist nicht mit GitHub verbunden.",
+    "emptyBody": "In diesem Zeitraum gibt es keine Repository-Aktivität.",
+    "emptyTitle": "Keine Repository-Aktivität",
+    "history": "Verpflichtungsaktivität"
+  }
+}

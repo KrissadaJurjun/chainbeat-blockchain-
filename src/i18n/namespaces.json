@@ -1,0 +1,20 @@
+{
+  "common": ["common", "language", "theme", "footer", "notFound", "gate"],
+  "navigation": ["navigation", "sections", "chains", "search", "user"],
+  "dashboard": ["overview", "chart", "proposals", "repos", "dev"],
+  "metrics": ["metrics"],
+  "explorer": ["explorer", "tokens", "account"],
+  "transactions": ["txPage"],
+  "blocks": ["blocksPage", "blockDetail"],
+  "wallet": ["wallet", "portfolio", "send", "swap"],
+  "staking": ["stake", "liquid"],
+  "validators": ["validators", "validatorsViz"],
+  "governance": ["vote", "createProposal", "proposalsPage", "govPage"],
+  "analytics": ["market", "networkPage", "devPage", "dominancePage"],
+  "visualizations": ["ibcPage", "multichainPage", "heartbeatPage"],
+  "settings": ["settings", "demo", "about"],
+  "notifications": ["notifications"],
+  "errors": ["states"],
+  "accessibility": ["accessibility"],
+  "auth": ["auth"]
+}

@@ -1,0 +1,36 @@
+{
+  "blockDetail": {
+    "title": "Kohde {{height}}",
+    "invalid": "Epävirallinen piirin korkeus",
+    "description": "Yksityiskohdat simuloidusta blokista {{chain}}:llä.",
+    "previous": "Edellinen blokki",
+    "next": "Seuraava kortteli",
+    "notFoundTitle": "Blokki ei löytynyt",
+    "notFoundBody": "{{chain}}:llä ei ole vielä tätä korkeutta.",
+    "transactions_one": "{{count}} liiketoimi",
+    "transactions_other": "{{count}} liiketoimia",
+    "txCaption": "Kaupankäynnit jaksossa {{height}}",
+    "noTxs": "Tässä jaksossa ei ole liiketoimia",
+    "genesis": "1. Mooseksen kirja",
+    "parentHash": "Vanhempien hampuri",
+    "demoTxs": "Demo lompakon liiketoimet tällä korkeudella",
+    "demoTxsNote": "Nämä on luotu lompakko Demo."
+  },
+  "blocksPage": {
+    "description": "Uusimmat rakennusrakennukset. {{chain}} Luettelo päivitetään noin kerran korttelin aikana.",
+    "live": "Elä",
+    "avgGas": "Käytetty avg. kaasua",
+    "tableCaption": "Viimeisimmät blokit {{chain}}",
+    "proposer": "Ehdotus",
+    "txs": "Txs",
+    "gas": "Käytetty kaasu",
+    "size": "Suuruus",
+    "emptyTitle": "Ei löytynyt blokkeja",
+    "filterPlaceholder": "Suodattava korkeuden, hashin tai validoinnin mukaan",
+    "filtersLabel": "Blokkifiltrit",
+    "finality": "Lopullisuus",
+    "finalityNote": "Tällaisten verkostojen blokit ovat lopullisia heti, kun ne on tehty.",
+    "finalized": "Lopullinen",
+    "withTxsOnly": "Ainoastaan tapahtumien sisältävät blokit"
+  }
+}

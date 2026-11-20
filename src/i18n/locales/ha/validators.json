@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Ƙungiyoyin Ƙungiyoyi",
+    "viewAll": "Duba duk masu tabbatarwa",
+    "col": {
+      "validator": "Mai tabbatarwa",
+      "power": "Ƙarfin kada kuri'a",
+      "cumulative": "Ƙididdigar ƙididdiga",
+      "commission": "Kwamishan",
+      "uptime": "Lokacin aiki",
+      "change": "Canjin awa 24",
+      "details": "Cikakkun bayanai",
+      "tokens": "Ƙididdigar da aka yi amfani da ita"
+    },
+    "stake": "Stake",
+    "stakeWith": "Ka yi wasa da wannan mai tabbatarwa",
+    "pageDescription": "Kowane mai tabbatar da tabbatarwa {{chain}}, ranked by zabe ikon (simulated).",
+    "stats": {
+      "active": "Masu tabbatar da aiki",
+      "nakamoto": "Matsakaicin Nakamoto",
+      "nakamotoHint": "Ana buƙatar masu tabbatarwa don dakatar da sarkar",
+      "top10": "Ƙarfi 10 mafi girma a cikin masu jefa kuri'a",
+      "commission": "Matsakaicin kwamiti"
+    },
+    "filterPlaceholder": "Fitarwa ta sunan ko adireshin",
+    "statusFilter": "Matsayin mai tabbatarwa",
+    "tableCaption": "Masu tabbatarwa a kan {{chain}}",
+    "detailDescription": "Wani mai tabbatar da simintin a kan {{chain}}.",
+    "detail": {
+      "delegators": "Masu wakilta",
+      "bonded": "Alamar da aka ɗaure",
+      "last30": "kwanaki 30 na ƙarshe",
+      "last90": "kwanaki 90 na ƙarshe",
+      "noBlocks": "Ba a ba da takardun da aka yi amfani da su kwanan nan ba.",
+      "noWebsite": "ba a samuwa ba (mai tabbatarwa na fiction)",
+      "openPage": "Bude cikakken shafi",
+      "powerHistory": "Ƙarfin kada kuri'a",
+      "proposed24h": "An ba da shawarar sassan (24 sa'o'i)",
+      "rank": "Mataki",
+      "recentBlocks": "Ƙididdigar da aka gabatar kwanan nan",
+      "selfBonded": "Ƙaddamar da kai",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Lokacin aiki",
+      "valueUsd": "Darajar hannun jari {{value}}",
+      "website": "Shafin yanar gizo"
+    },
+    "status": {
+      "active": "Mai aiki",
+      "inactive": "Ba ya aiki",
+      "jailed": "A kurkuku"
+    },
+    "activitiesTitle": "Ayyukan Mai Tabbatar da Gaskiya",
+    "commissionShort": "Kudin haraji {{value}}",
+    "detailTitle": "Mai tabbatarwa",
+    "fictionalNote": "Maganin tabbatarwa don Yanayin Demo. Ba ainihin mai aiki bane kuma babu wani abu game da shi da aka tabbatar.",
+    "hoverTip": "Hukumar {{commission}} · lokacin aiki {{uptime}} · {{delegators}} wakilai",
+    "noMatching": "Babu masu tabbatar da daidaito.",
+    "notFoundBody": "{{chain}} ba shi da mai tabbatarwa da wannan adireshin.",
+    "notFoundTitle": "Ba a samu mai tabbatarwa ba",
+    "sort": {
+      "power": "Ƙarfin kada kuri'a",
+      "commission": "Kwamishan",
+      "uptime": "Lokacin aiki"
+    },
+    "sortBy": "Sorting validators da"
+  },
+  "validatorsViz": {
+    "description": "Hukumar vs uptime ga kowane validator a kan {{chain}}; girman kumfa ya nuna ikon zabe.",
+    "showAll": "Ka haɗa da marasa aiki da fursunoni",
+    "avgUptime": "Matsakaicin lokacin aiki",
+    "zeroFee": "Masu tantancewa tare da ba da gudummawa ba",
+    "chartTitle": "Kwamishinan vs lokacin aiki",
+    "chartHint": "Kowace kumfa tana da mai tabbatarwa guda ɗaya",
+    "legend": "Tarihin zane-zane",
+    "sizeHint": "Girman kumfa = ikon jefa kuri'a"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "Ang pinakabagong transaksyon sa {{chain}}. Buksan ang isa para sa buong detalye.",
+    "stats": {
+      "recent": "Mga kamakailang transaksyon",
+      "success": "Nagtagumpay",
+      "failed": "Nabigo",
+      "volume": "Native volume"
+    },
+    "filterPlaceholder": "Pag-filter sa pamamagitan ng hash, address o height",
+    "allTypes": "Lahat ng uri",
+    "tableCaption": "Mga pinakabagong transaksyon sa {{chain}}",
+    "from": "Mula",
+    "to": "Para kay",
+    "memo": "Memo",
+    "noMemo": "Walang memo",
+    "raw": "Tingnan ang raw data (simulated)",
+    "detailTitle": "Transaksyon",
+    "detailDescription": "Mga detalye ng isang simulating transaksyon sa {{chain}}.",
+    "notFoundTitle": "Transaction hindi natagpuan",
+    "notFoundBody": "Walang transaksyon sa hash na ito ay umiiral sa {{chain}} sa simulasiyon.",
+    "failedBecause": "Ang transaksyon na ito ay nabigo: {{reason}}.",
+    "types": {
+      "send": "Ipadala",
+      "delegate": "Delegado",
+      "undelegate": "Hindi naka-delegate",
+      "claim": "Pag-aangkin ng mga gantimpala",
+      "vote": "Bumoto",
+      "ibc-transfer": "IBC paglipat",
+      "swap": "Palitan",
+      "other": "Iba pang"
+    },
+    "status": {
+      "success": "Matagumpay",
+      "failed": "Nabigo"
+    },
+    "block": "Block",
+    "cardsLabel": "Mga Transaksyon",
+    "category": "Kategorya",
+    "date": "Ang petsa",
+    "dateNote": "Ipinapakita ang pinakabagong {{count}} transaksyon hanggang sa pagtatapos ng {{date}} (UTC).",
+    "emptyTitle": "Walang nakatagpuan na transaksyon",
+    "events": "Mga Pangyayari",
+    "failedEvents": "Ang transaksyon na ito ay nabigo, kaya nag-issue lamang ito ng kanyang event fee.",
+    "feeSymbol": "Tagalog ng bayad",
+    "filtersLabel": "Mga filter ng transaksyon",
+    "gasUsed": "Nagamit na gas",
+    "gasWanted": "Naghahanap ng gas",
+    "groups": {
+      "transfer": "Paglipat",
+      "staking": "Paglalagay",
+      "governance": "Pamamahala",
+      "ibc": "IBC",
+      "swap": "Mga swap",
+      "other": "Iba pang"
+    },
+    "latestNote": "Ipinapakita ko ang pinakabagong {{count}} na transaksyon. Pumili ng isang petsa upang tumingin pabalik.",
+    "messageType": "Ang uri ng mensahe",
+    "network": "Network",
+    "symbol": "Token",
+    "syntheticNote": "Ito ay isang synthetic record na nilikha para sa Demo Mode. Ang hash nito ay hindi isang tunay na blockchain hash at ito ay hindi maaaring suriin sa anumang network.",
+    "token": "Token",
+    "validator": "Validator",
+    "demoWalletNote": "Ang transaksyon na ito ay nilikha ng Demo wallet. Ito ay umiiral lamang sa browser na ito: walang blockchain transfer ay naganap, at ang hash nito ay hindi isang tunay na blockchain hash.",
+    "demoTag": "Demo wallet"
+  }
+}

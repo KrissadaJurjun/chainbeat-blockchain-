@@ -1,0 +1,32 @@
+{
+  "notifications": {
+    "label": "Notificaciones",
+    "title": "Notificaciones",
+    "unread": "Sin leer",
+    "unreadLabel_one": "{{count}} notificación sin leer",
+    "unreadLabel_many": "{{count}} de notificaciones sin leer",
+    "unreadLabel_other": "{{count}} notificaciones sin leer",
+    "markAllRead": "Marcar todo como leído",
+    "empty": "Estás al día.",
+    "items": {
+      "proposalVoting": "La propuesta #{{id}} está en periodo de votación: quedan unas {{hours}} h.",
+      "proposalPassed": "La propuesta #{{id}} fue aprobada y se aplicará.",
+      "validatorJailed": "{{name}} fue encarcelado por inactividad.",
+      "upgradeScheduled": "La actualización de red {{version}} está programada en {{days}} días.",
+      "ibcVolume": "El volumen de transferencias IBC subió un {{pct}} % en las últimas 24 h.",
+      "newBlock": "El bloque {{height}} se produjo en {{chain}} (simulado).",
+      "walletConnectedDemo": "Demo cartera conectada (simulada).",
+      "walletConnected": "{{name}} conectado, nada fue firmado.",
+      "walletDisconnected": "La billetera se desconectó de esta sesión del navegador.",
+      "txSuccess": "Confirmación de la transacción simulada: {{summary}}",
+      "txFailed": "Una transacción simulada falló porque la simulación de error está activada.",
+      "proposalCreated": "Demo se añadió la propuesta #{{id}} {{title}} (simulada).",
+      "networkChanged": "Cambié a {{chain}}, mostrando datos simulados.",
+      "simPaused": "La simulación se detiene. Los datos simulados no se actualizarán hasta que se reanude.",
+      "errorSimulation": "La simulación de error está activada. Las solicitudes de datos y las confirmaciones de la billetera fallarán hasta que la apague."
+    },
+    "dismiss": "Notificación de rechazo",
+    "clearAll": "Despeje todo",
+    "simulatedNote": "Los elementos del feed de la red son simulados. Nada aquí es una alerta de cadena de bloques en vivo."
+  }
+}

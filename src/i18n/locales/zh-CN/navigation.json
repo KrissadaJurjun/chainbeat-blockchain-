@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "侧边栏导航",
+    "primary": "主导航",
+    "menu": "导航菜单",
+    "openMenu": "打开导航菜单",
+    "closeMenu": "关闭导航菜单",
+    "collapseSidebar": "收起侧边栏",
+    "expandSidebar": "展开侧边栏",
+    "skipToContent": "跳到主要内容",
+    "home": "ChainBeat 首页",
+    "pages": "页面",
+    "dashboard": "仪表盘",
+    "validators": "验证者",
+    "proposals": "提案",
+    "blocks": "区块",
+    "transactions": "交易",
+    "portfolio": "资产组合",
+    "swap": "兑换",
+    "stake": "质押",
+    "liquidStaking": "流动性质押",
+    "send": "发送",
+    "vote": "投票",
+    "createProposal": "创建提案",
+    "market": "市场",
+    "network": "网络",
+    "governance": "治理",
+    "ibcNetwork": "IBC 网络",
+    "devActivity": "开发活跃度",
+    "multichain": "多链概览",
+    "heartbeat": "心跳",
+    "dominance": "占比",
+    "validatorsViz": "验证者",
+    "blockExplorer": "区块浏览器",
+    "transactionExplorer": "交易浏览器",
+    "tokenExplorer": "代币浏览器",
+    "about": "关于",
+    "explorerHome": "浏览器",
+    "governanceHome": "治理中心",
+    "settings": "设置"
+  },
+  "sections": {
+    "explorer": "浏览器",
+    "wallet": "钱包",
+    "analytics": "分析",
+    "visualizations": "可视化"
+  },
+  "chains": {
+    "favorite": "将 {{name}} 加入收藏",
+    "unfavorite": "从收藏中移除 {{name}}",
+    "simulatedHealthy": "模拟网络 · 运行正常"
+  },
+  "search": {
+    "label": "搜索 ChainBeat",
+    "placeholder": "搜索区块、交易、地址…",
+    "results": "搜索结果",
+    "noResults": "没有找到“{{query}}”的结果",
+    "kinds": {
+      "page": "页面",
+      "block": "区块",
+      "transaction": "交易",
+      "validator": "验证者",
+      "token": "代币",
+      "address": "地址",
+      "proposal": "议案"
+    },
+    "recent": "最近的搜索",
+    "clearRecent": "清晰的近期搜索",
+    "removeRecent": "从最近的搜索中删除 {{query}}",
+    "hint": "试试一个区块高度,一个交易哈希,一个地址 ( {{prefix}} 1...),验证器,提案号码或代号符号.",
+    "submit": "搜索",
+    "searching": "在搜索...",
+    "resultCount": "结果: {{count}}",
+    "invalid": {
+      "tooLong": "这太长了,不能成为一个搜索术语 (最多是200个字符).",
+      "badChecksum": "这看起来像一个地址,但它的检查数量不匹配.",
+      "badHash": "一个交易或区块哈希的字符确切是64个六分之一字符.",
+      "badChars": "搜索一个区块高度,一个哈希,一个地址,一个验证器,一个提议或一个代币."
+    },
+    "categories": {
+      "page": "页面",
+      "block": "区块",
+      "transaction": "交易",
+      "address": "地址",
+      "validator": "验证者",
+      "proposal": "提案",
+      "token": "标记"
+    }
+  },
+  "user": {
+    "menu": "账户菜单",
+    "guest": "访客",
+    "notConnected": "未连接钱包",
+    "settings": "设置",
+    "about": "关于 ChainBeat"
+  }
+}

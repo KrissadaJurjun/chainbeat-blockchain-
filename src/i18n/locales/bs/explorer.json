@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Native, IBC, likvidni i spoljni akti poznati na {{chain}} (simulirani).",
+    "stats": {
+      "total": "Pratljivi tokeni"
+    },
+    "kinds": {
+      "native": "Native",
+      "ibc": "IBC",
+      "external": "Spoljni",
+      "stable": "Stablecoin",
+      "liquid": "Liquid stacking"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Vrsta",
+      "denom": "Denom",
+      "price": "Cijena",
+      "change": "24h",
+      "supply": "Ponuda",
+      "holders": "Drželi",
+      "marketCap": "Tržišna kapitalizacija"
+    },
+    "filterPlaceholder": "Filtriranje po simbola, nazivu ili denominaciji",
+    "tableCaption": "Tokeni na {{chain}}"
+  },
+  "account": {
+    "title": "Račun",
+    "description": "Saldovi i nedavna aktivnost računa na {{chain}} (simulirani).",
+    "available": "Dostupan",
+    "balances": "Saldi",
+    "counterparty": "S druge strane",
+    "direction": "Usmjeravanje",
+    "in": "U",
+    "out": "Izlazi",
+    "history": "Istorija transakcija",
+    "historyCaption": "Transakcije od {{address}}",
+    "invalidTitle": "Ne valjan adres",
+    "invalidBody": "Ovo nije važeće. {{chain}} Adresa. Adresi na ovoj mreži počinju sa {{prefix}} 1 i uključi proveru.",
+    "noBalances": "Nema ravnoteže.",
+    "noHistory": "Ne pronađene transakcije",
+    "noHistoryBody": "Ovaj račun nema simulaciju aktivnosti u najnovijim {{blocks}} bloka.",
+    "rewards": "Nagrade: {{value}}",
+    "staked": "Ogromljena",
+    "totalValue": "Ukupna vrijednost",
+    "txCount": "Transakcije",
+    "unknown": "Ovo je valjan adres, ali se ne pojavljuje u simulaciji, tako da nema ravnoteže ili istoriju.",
+    "window": "u najnovijim blokovima {{blocks}}",
+    "demoWallet": "Ovo je vaš novčanik Demo, a njegove ravnoteže i transakcije se simuliraju i postoje samo u ovom pretraživaču."
+  },
+  "explorer": {
+    "description": "Traži {{chain}} i vidi šta se trenutno dešava na (simuliranom) mreži.",
+    "latestBlocks": "Najnoviji blokovi",
+    "latestTransactions": "Najnovije transakcije",
+    "searchTitle": "Pretraži istraživača",
+    "shortcuts": "Sekcije Explorer"
+  }
+}

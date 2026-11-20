@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Belum ada apa-apa di sini",
+    "emptyBody": "Tiada data untuk menunjukkan pandangan ini.",
+    "errorTitle": "Tidak dapat memuat turun data ini",
+    "errorBody": "Ada sesuatu yang salah semasa membaca rangkaian, periksa sambungan anda dan cuba lagi.",
+    "crashTitle": "Ada sesuatu yang salah",
+    "crashBody": "Halaman ini mengalami kesilapan yang tidak dijangka.",
+    "reload": "Muat semula halaman"
+  }
+}

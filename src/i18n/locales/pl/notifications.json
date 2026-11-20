@@ -1,0 +1,33 @@
+{
+  "notifications": {
+    "label": "Powiadomienia",
+    "title": "Powiadomienia",
+    "unread": "Nieczyta",
+    "unreadLabel_one": "{{count}} nieczytane powiadomienie",
+    "unreadLabel_few": "{{count}} nieczytane powiadomienia",
+    "unreadLabel_many": "{{count}} nieczytanych powiadomień",
+    "unreadLabel_other": "{{count}} nieczytanych powiadomień",
+    "markAllRead": "/Wszystko znacz, /jak zostało przeczytane",
+    "empty": "Wszyscy jesteście zajęci.",
+    "items": {
+      "proposalVoting": "Proposal #{{id}} jest w okresie głosowania pozostało około {{hours}} godzin.",
+      "proposalPassed": "Propozycja nr {{id}} została przyjęta i będzie stosowana.",
+      "validatorJailed": "{{name}} został uwięziony z powodu przerwy.",
+      "upgradeScheduled": "Zastosowanie sieci {{version}} planowane jest za {{days}} dni.",
+      "ibcVolume": "Wzrost objętości przelewów IBC {{pct}} % w ciągu ostatnich 24 godzin.",
+      "newBlock": "Blok {{height}} został wyprodukowany na {{chain}} (simulowany).",
+      "walletConnectedDemo": "Demo portfel podłączony (simulowany).",
+      "walletConnected": "{{name}}, nic nie zostało podpisane.",
+      "walletDisconnected": "Portfel odłączony od sesji przeglądarki.",
+      "txSuccess": "Potwierdzona symulowana transakcja: {{summary}}",
+      "txFailed": "Simulowana transakcja zawiodła, bo włączyła się symulacja błędu.",
+      "proposalCreated": "Wniosek nr Demo nr {{id}} {{title}} został dodany (symulowany).",
+      "networkChanged": "Przesunęłam się na {{chain}}, pokazuję symulowane dane.",
+      "simPaused": "Simulacja jest wstrzymana.",
+      "errorSimulation": "Simulacja błędu jest włączona, żądania danych i potwierdzenia portfela nie działają, dopóki go nie wyłączysz."
+    },
+    "dismiss": "Powiadomienie o odrzuceniu",
+    "clearAll": "Wyczyść wszystko",
+    "simulatedNote": "Części z sieci są symulowane."
+  }
+}

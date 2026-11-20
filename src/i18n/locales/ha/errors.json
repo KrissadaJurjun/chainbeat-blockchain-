@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Babu wani abu a nan har yanzu",
+    "emptyBody": "Babu bayanan da za a nuna don wannan ra'ayi.",
+    "errorTitle": "Ba zan iya loda wannan data",
+    "errorBody": "Wani abu ya ɓace yayin da kake karanta hanyar sadarwar, duba haɗin ka kuma sake gwadawa.",
+    "crashTitle": "Wani abu ya tafi ba daidai ba",
+    "crashBody": "Wannan shafin ya sami kuskure ba zato ba tsammani.",
+    "reload": "Sake loda shafi"
+  }
+}

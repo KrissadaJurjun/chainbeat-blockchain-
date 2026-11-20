@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "演示",
+    "simulated": "模擬",
+    "close": "關閉",
+    "retry": "重試",
+    "refresh": "重新整理",
+    "copy": "複製",
+    "copied": "已複製",
+    "clear": "清除",
+    "loading": "載入中…",
+    "options": "選擇方式",
+    "previous": "上一頁",
+    "next": "下一頁",
+    "pagination": "頁面頁面",
+    "pageN": "頁面 {{n}}",
+    "dismiss": "忽略",
+    "cancel": "取消",
+    "viewAll": "查看全部",
+    "max": "最大",
+    "amount": "金額",
+    "balance": "餘額",
+    "fee": "手續費",
+    "status": "狀態",
+    "time": "時間",
+    "height": "高度",
+    "hash": "雜湊",
+    "type": "類型",
+    "all": "全部",
+    "showing": "顯示 {{from}} 其他國家 {{to}} 的 {{total}}",
+    "noResults": "沒有任何結果符合您的過濾器.",
+    "rowsPerPage": "每頁的行列",
+    "actions": "行動",
+    "exportCsv": "輸出的CSV",
+    "details": "詳細資料",
+    "clearFilters": "清晰的過濾器",
+    "collapseAll": "這一切都崩潰了",
+    "copyJson": "複製 JSON",
+    "expandAll": "擴大所有",
+    "showMore": "顯示更多的{{count}}"
+  },
+  "language": {
+    "label": "語言",
+    "search": "搜尋語言"
+  },
+  "theme": {
+    "label": "主題",
+    "system": "系統",
+    "dark": "深色",
+    "light": "淺色"
+  },
+  "footer": {
+    "tagline": "探索區塊,追蹤交易,了解Web3.",
+    "demo": "Demo 模式 所有數字都是模擬的, 並不是真正的網絡統計.",
+    "share": "分享",
+    "linkCopied": "接下來將它複製到剪輯板上.",
+    "docs": "資料資料",
+    "links": "腳本連結",
+    "modeDemo": "Demo 網路",
+    "repository": "資料庫",
+    "version": "沒有任何問題 {{version}} 其他國家 {{mode}}"
+  },
+  "notFound": {
+    "title": "找不到頁面",
+    "body": "您正在尋找的頁面不存在或已移動.",
+    "home": "返回儀表板"
+  },
+  "gate": {
+    "title": "聯繫Demo錢包進行",
+    "body": "這個工作流程運行在模擬錢包上.",
+    "realTitle": "這裡有真正的錢包",
+    "realBody": "{{address}} 切換到Demo錢包來試試下這個工作流程.",
+    "useDemo": "請使用 Demo 的錢包"
+  }
+}

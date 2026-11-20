@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Valsa ligada",
+    "viewAll": "Visualizar todos os validadores",
+    "col": {
+      "validator": "Validador",
+      "power": "Poder de voto",
+      "cumulative": "Cumulativo",
+      "commission": "Comissão",
+      "uptime": "Disponibilidade",
+      "change": "Substituição de 24 horas",
+      "details": "Detalhes",
+      "tokens": "Tokens vinculados"
+    },
+    "stake": "Staking",
+    "stakeWith": "Estaca com este validador",
+    "pageDescription": "Todos os validadores de segurança {{chain}}, classificados por poder de voto (simulado).",
+    "stats": {
+      "active": "Validadores ativos",
+      "nakamoto": "Coeficiente de Nakamoto",
+      "nakamotoHint": "Validadores necessários para parar a cadeia",
+      "top10": "Top 10 poder de voto",
+      "commission": "Comissões médias"
+    },
+    "filterPlaceholder": "Filtro por nome ou endereço",
+    "statusFilter": "Estatuto do validador",
+    "tableCaption": "Validadores em {{chain}}",
+    "detailDescription": "Um validador simulado no {{chain}}.",
+    "detail": {
+      "delegators": "Delegadores",
+      "bonded": "Tokens vinculados",
+      "last30": "Últimos 30 dias",
+      "last90": "Últimos 90 dias",
+      "noBlocks": "Não há bloqueios propostos recentemente.",
+      "noWebsite": "Não disponível (validação fictícia)",
+      "openPage": "Abrir página completa",
+      "powerHistory": "Poder de voto",
+      "proposed24h": "Blocos propostos (24 h)",
+      "rank": "Posição",
+      "recentBlocks": "Blocos propostos recentemente",
+      "selfBonded": "Auto-vinculada",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Disponibilidade",
+      "valueUsd": "Valor da participação {{value}}",
+      "website": "Página Web"
+    },
+    "status": {
+      "active": "Ativo",
+      "inactive": "Inativo",
+      "jailed": "Suspenso"
+    },
+    "activitiesTitle": "Atividades de validador",
+    "commissionShort": "Taxa {{value}}",
+    "detailTitle": "Validador",
+    "fictionalNote": "Validador fictício para o Modo Demo. Não é um operador real e nada sobre ele é verificado.",
+    "hoverTip": "Comissão {{commission}} · tempo de funcionamento {{uptime}} · {{delegators}} delegados",
+    "noMatching": "Não há validadores correspondentes.",
+    "notFoundBody": "{{chain}} não tem validador com este endereço.",
+    "notFoundTitle": "Validador não encontrado",
+    "sort": {
+      "power": "Poder de voto",
+      "commission": "Comissão",
+      "uptime": "Disponibilidade"
+    },
+    "sortBy": "Classificar os validadores por"
+  },
+  "validatorsViz": {
+    "description": "Comissão versus tempo de atividade para cada validador em {{chain}}; tamanho da bolha mostra poder de voto.",
+    "showAll": "Incluir inativos e presos",
+    "avgUptime": "Tempo médio de atividade",
+    "zeroFee": "Validadores com comissão zero",
+    "chartTitle": "Comissão vs tempo de atividade",
+    "chartHint": "Cada bolha é um validador",
+    "legend": "Lenda do gráfico",
+    "sizeHint": "Tamanho da bolha = poder de voto"
+  }
+}

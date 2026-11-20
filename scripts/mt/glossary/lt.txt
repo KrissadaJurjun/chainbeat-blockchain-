@@ -1,0 +1,130 @@
+Skydelis
+Validatoriai
+Pasiūlymai
+Blokai
+Sandoriai
+Portfelis
+Keitimas
+Stakingas
+Likvidusis stakingas
+Siųsti
+Balsuoti
+Sukurti pasiūlymą
+Rinka
+Tinklas
+Valdymas
+IBC tinklas
+Kūrėjų veikla
+Kelių grandinių apžvalga
+Pulsas
+Dominavimas
+Blokų naršyklė
+Sandorių naršyklė
+Žetonų naršyklė
+Apie
+Naršyklė
+Nustatymai
+Piniginė
+Analitika
+Vizualizacijos
+Kalba
+Tema
+Sistema
+Tamsi
+Šviesi
+Demo
+Simuliuota
+Uždaryti
+Bandyti dar kartą
+Atnaujinti
+Kopijuoti
+Nukopijuota
+Išvalyti
+Įkeliama…
+Ankstesnis
+Kitas
+Atmesti
+Atšaukti
+Atgal
+Rodyti viską
+Atkurti
+Eksportuoti
+Maks.
+Suma
+Likutis
+Mokestis
+Būsena
+Iš viso
+Laikas
+Aukštis
+Maiša
+Tipas
+Viskas
+Ieškoti
+Filtruoti
+Išsami informacija
+Patvirtinti
+Prijungti piniginę
+Atjungti
+Peržiūrėti sandorį
+Tinklo mokestis
+Kopijuoti adresą
+Jūs mokate
+Jūs gaunate
+Gavėjo adresas
+Memo (neprivaloma)
+Turtas
+Paskirstymas
+Deleguota
+Atšaukti stakingą
+Keitimo kursas
+Sėkmingai
+Sandoris
+Blokas
+Nuo
+Kam
+Memo
+Panaudotas gas
+Validatorius
+Žetonas
+Adresas
+Pasiūlymas
+Kaina
+Pasiūla
+Rinkos kapitalizacija
+Komisinis
+Veikimo laikas
+Balsavimo galia
+Vieta
+Aktyvus
+Neaktyvus
+Įkalintas
+Delegatoriai
+Taip
+Ne
+Susilaikyti
+Ne su veto
+Priimta
+Atmesta
+Nepavyko
+Vyksta balsavimas
+Kvorumas
+Aktyvumas
+Indėlis
+Jūsų balsas
+Pavadinimas
+Aprašymas
+Grandinės rodikliai
+Bloko aukštis
+Sandorių per bloką
+Bloko laikas
+Stakingo APR
+Susieti žetonai
+Bendra pasiūla
+Bendruomenės fondas
+Puslapis nerastas
+Atgal į skydelį
+Naujausi blokai
+Naujausi sandoriai
+Pranešimai
+Kita

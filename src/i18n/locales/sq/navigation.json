@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Navigimi në barën anësore",
+    "primary": "Navigimi kryesor",
+    "menu": "Menu navigimi",
+    "openMenu": "Menu i hapur i navigimit",
+    "closeMenu": "Menu i mbyllur i navigimit",
+    "collapseSidebar": "Tabla anësore e rrëzimit",
+    "expandSidebar": "Zgjerimi i barrave anësore",
+    "skipToContent": "Prish në përmbajtjen kryesore",
+    "home": "Home ChainBeat",
+    "pages": "Faqet",
+    "dashboard": "Paneli",
+    "validators": "Validatorët",
+    "proposals": "Propozimet",
+    "blocks": "Blloqet",
+    "transactions": "Transaksionet",
+    "portfolio": "Portofoli",
+    "swap": "Këmbim",
+    "stake": "Staking",
+    "liquidStaking": "Staking i lëngshëm",
+    "send": "Dërgo",
+    "vote": "Voto",
+    "createProposal": "Krijo propozim",
+    "market": "Tregu",
+    "network": "Rrjeti",
+    "governance": "Qeverisja",
+    "ibcNetwork": "Rrjeti IBC",
+    "devActivity": "Aktiviteti i zhvilluesve",
+    "multichain": "Pasqyra e shumë zinxhirëve",
+    "heartbeat": "Pulsi",
+    "dominance": "Dominimi",
+    "validatorsViz": "Validatorët",
+    "blockExplorer": "Eksploruesi i blloqeve",
+    "transactionExplorer": "Eksploruesi i transaksioneve",
+    "tokenExplorer": "Eksploruesi i tokenëve",
+    "about": "Rreth",
+    "explorerHome": "Eksploruesi",
+    "governanceHome": "Qendra e qeverisjes",
+    "settings": "Cilësimet"
+  },
+  "sections": {
+    "explorer": "Eksploruesi",
+    "wallet": "Kuleta",
+    "analytics": "Analitika",
+    "visualizations": "Vizualizimet"
+  },
+  "chains": {
+    "favorite": "Shtoni {{name}} në favoritetet",
+    "unfavorite": "Hiqni {{name}} nga favoritetet",
+    "simulatedHealthy": "Rrjeti i simuluar · i shëndetshëm"
+  },
+  "search": {
+    "label": "Kërkimi ChainBeat",
+    "placeholder": "Bloku i kërkimit, tx, adresa...",
+    "results": "Rezultatet e kërkimit",
+    "noResults": "Asnjë rezultat për {{query}}",
+    "kinds": {
+      "page": "Faqja",
+      "block": "Bllok",
+      "transaction": "Tx",
+      "validator": "Validator",
+      "token": "Token",
+      "address": "Adresë",
+      "proposal": "Propozim"
+    },
+    "recent": "Kërkimet e fundit",
+    "clearRecent": "Kërkimet e fundit të qarta",
+    "removeRecent": "Hiqni {{query}} nga kërkimet e fundit",
+    "hint": "Provoni një lartësi blloku, një hash transaksion, një adresë ( {{prefix}} 1...), një validator, një numër propozimi ose një emër simbolik.",
+    "submit": "Kërko",
+    "searching": "Duke kërkuar...",
+    "resultCount": "Rezultatet: {{count}}",
+    "invalid": {
+      "tooLong": "Kjo është shumë e gjatë për të qenë një term kërkimi (maksimalisht 200 karaktere).",
+      "badChecksum": "Kjo duket si një adresë, por shuma e tij e kontrollit nuk përputhet.",
+      "badHash": "Një transaksion ose bllok hash ka saktësisht 64 karaktere hexadecimale.",
+      "badChars": "Kërkoni një lartësi të bllokut, një hash, një adresë, një validator, një propozim ose një token."
+    },
+    "categories": {
+      "page": "Faqet",
+      "block": "Blloqet",
+      "transaction": "Transaksionet",
+      "address": "Adresat",
+      "validator": "Validatorët",
+      "proposal": "Propozimet",
+      "token": "Tokenë"
+    }
+  },
+  "user": {
+    "menu": "Menyu i llogarisë",
+    "guest": "Kujdes",
+    "notConnected": "Pa portofol të lidhur",
+    "settings": "Cilësimet",
+    "about": "Për ChainBeat"
+  }
+}

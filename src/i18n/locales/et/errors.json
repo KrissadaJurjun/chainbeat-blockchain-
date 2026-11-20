@@ -1,0 +1,11 @@
+{
+  "states": {
+    "emptyTitle": "Siin pole veel midagi",
+    "emptyBody": "Selle vaate kohta ei ole andmeid.",
+    "errorTitle": "Ma ei suutnud neid andmeid laadida",
+    "errorBody": "Võrgustiku lugemise ajal läks midagi valesti.",
+    "crashTitle": "Midagi läks valesti",
+    "crashBody": "Sellele leheküljele tekkis ootamatu viga.",
+    "reload": "Lehekülge uuesti laadimine"
+  }
+}

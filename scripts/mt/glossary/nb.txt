@@ -1,0 +1,130 @@
+Dashbord
+Validatorer
+Forslag
+Blokker
+Transaksjoner
+Portefølje
+Bytt
+Staking
+Likvid staking
+Send
+Stem
+Opprett forslag
+Marked
+Nettverk
+Styring
+IBC-nettverk
+Utviklingsaktivitet
+Multichain-oversikt
+Hjerteslag
+Dominans
+Blokkutforsker
+Transaksjonsutforsker
+Tokenutforsker
+Om
+Utforsker
+Innstillinger
+Lommebok
+Analyse
+Visualiseringer
+Språk
+Tema
+System
+Mørk
+Lys
+Demo
+Simulert
+Lukk
+Prøv igjen
+Oppdater
+Kopier
+Kopiert
+Tøm
+Laster…
+Forrige
+Neste
+Avvis
+Avbryt
+Tilbake
+Se alle
+Tilbakestill
+Eksporter
+Maks
+Beløp
+Saldo
+Gebyr
+Status
+Totalt
+Tid
+Høyde
+Hash
+Type
+Alle
+Søk
+Filtrer
+Detaljer
+Bekreft
+Koble til lommebok
+Koble fra
+Gjennomgå transaksjon
+Nettverksgebyr
+Kopier adresse
+Du betaler
+Du mottar
+Mottakeradresse
+Memo (valgfritt)
+Eiendeler
+Fordeling
+Delegert
+Avslutt staking
+Vekslingskurs
+Vellykket
+Transaksjon
+Blokk
+Fra
+Til
+Memo
+Brukt gass
+Validator
+Token
+Adresse
+Forslag
+Pris
+Tilbud
+Markedsverdi
+Provisjon
+Oppetid
+Stemmekraft
+Rangering
+Aktiv
+Inaktiv
+Utestengt
+Delegatorer
+Ja
+Nei
+Avstå
+Nei med veto
+Vedtatt
+Avvist
+Mislyktes
+Avstemning pågår
+Kvorum
+Oppmøte
+Innskudd
+Din stemme
+Tittel
+Beskrivelse
+On-chain-nøkkeltall
+Blokkhøyde
+Tx per blokk
+Blokktid
+Staking-APR
+Bundne tokens
+Samlet tilbud
+Fellesskapspool
+Siden ble ikke funnet
+Tilbake til dashbordet
+Nyeste blokker
+Nyeste transaksjoner
+Varsler
+Andre

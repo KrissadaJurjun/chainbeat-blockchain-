@@ -1,0 +1,77 @@
+{
+  "validators": {
+    "bondedVals": "Saistīts valss",
+    "viewAll": "Izskatīt visus validatorus",
+    "col": {
+      "validator": "Validators",
+      "power": "Balsu spēks",
+      "cumulative": "Kumulitāte",
+      "commission": "Komisijas maksa",
+      "uptime": "Pieejamība",
+      "change": "24 stundu pārmaiņas",
+      "details": "Detaļas",
+      "tokens": "Atbalsta par obligācijām"
+    },
+    "stake": "Stakings",
+    "stakeWith": "Slēpta ar šo validatoru",
+    "pageDescription": "Katrs validators, nodrošinot {{chain}}, pēc balsstiesības (simulēts).",
+    "stats": {
+      "active": "Aktīvi validatori",
+      "nakamoto": "Nakamoto koeficients",
+      "nakamotoHint": "Verizatori, kas vajadzīgi, lai apturētu ķēdi",
+      "top10": "Top 10 balsstiesības",
+      "commission": "Vidējā komisijas"
+    },
+    "filterPlaceholder": "Filtru ar nosaukumu vai adresi",
+    "statusFilter": "Validatoru statuss",
+    "tableCaption": "Validētāji uz {{chain}}",
+    "detailDescription": "Simulēts validators {{chain}}.",
+    "detail": {
+      "delegators": "Deleģētāji",
+      "bonded": "Jautājumi, kas saistoti",
+      "last30": "pēdējās 30 dienas",
+      "last90": "pēdējās 90 dienas",
+      "noBlocks": "Nedaudz ierosināti bloki.",
+      "noWebsite": "nav pieejams (fiktīvs validators)",
+      "openPage": "Atvērt pilnu lapu",
+      "powerHistory": "Balsu spēks",
+      "proposed24h": "ierosināti bloki (24 stundas)",
+      "rank": "Vieta",
+      "recentBlocks": "Nesen ierosinātie bloki",
+      "selfBonded": "Autotransporta pakalpojumi",
+      "txs": "Txs: {{count}}",
+      "uptimeHistory": "Pieejamība",
+      "valueUsd": "Parāda vērtība {{value}}",
+      "website": "Interneta vietne"
+    },
+    "status": {
+      "active": "Aktīvs",
+      "inactive": "Neaktīvs",
+      "jailed": "Ieslodzīts"
+    },
+    "activitiesTitle": "Validatoru darbības",
+    "commissionShort": "Pilds {{value}}",
+    "detailTitle": "Validators",
+    "fictionalNote": "Tas nav īsts operētājs un nekas par to nav pārbaudīts.",
+    "hoverTip": "Komisija {{commission}} · darba laiks {{uptime}} · {{delegators}} delegāti",
+    "noMatching": "Nav atbilstošu validatoru.",
+    "notFoundBody": "{{chain}} bez validatora ar šo adresi.",
+    "notFoundTitle": "Validatoru nav atraduši",
+    "sort": {
+      "power": "Balsu spēks",
+      "commission": "Komisijas maksa",
+      "uptime": "Pieejamība"
+    },
+    "sortBy": "Sortēt validatoru pēc"
+  },
+  "validatorsViz": {
+    "description": "Komisijas salīdzinājumā ar darba laiku katram validatoriem {{chain}}; burbuļa lielums liecina par balsstiesību.",
+    "showAll": "Apvienojot neaktivu un ieslodzīto",
+    "avgUptime": "Vidējais darbības laiks",
+    "zeroFee": "Nulkomisijas validatori",
+    "chartTitle": "Komisija pret ekspluatācijas laiku",
+    "chartHint": "Katrs burbus ir viens validators",
+    "legend": "Grāmatas legenda",
+    "sizeHint": "Burbuļa lielums = balsstiesības"
+  }
+}

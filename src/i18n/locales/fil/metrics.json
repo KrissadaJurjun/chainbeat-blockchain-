@@ -1,0 +1,67 @@
+{
+  "metrics": {
+    "title": "Mga sukatan on-chain",
+    "exportCsv": "Export bilang CSV",
+    "exported": "Ang mga metrics na inexport bilang CSV.",
+    "openAnalytics": "Bukas na network analytics",
+    "last24h": "Sa huling 24 oras",
+    "sparklineLabel": "Trend sa nakalipas na 24 oras",
+    "change24h": "24 oras na pagbabago",
+    "blocks": "mga bloke",
+    "exact": "Eksaktong halaga",
+    "bondedRatio": "Ang ratio ng mga obligasyon",
+    "poolShare": "Kabanata ng pag-aalok",
+    "tokenPrice": "Ang presyo ng token",
+    "inputInflation": "Inflation",
+    "inputTax": "Buwis ng Komyunidad",
+    "inputBonded": "Ang ratio ng mga obligasyon",
+    "csvMetric": "Matrikula",
+    "csvValue": "Katumbas",
+    "csvUnit": "Unidad",
+    "csvChange24h": "24 oras na pagbabago",
+    "blockHeight": {
+      "label": "Taas ng block",
+      "description": "Ang bilang ng mga bloke na nabuo mula noong Genesis. Ito ay lumalaki ng isa sa bawat bagong bloke."
+    },
+    "totalTransactions": {
+      "label": "Mga Transaksyon",
+      "description": "Ang kabuuan ng mga transaksyon na pinaproseso ng network mula noong Genesis."
+    },
+    "txPerBlock": {
+      "label": "Tx kada block",
+      "description": "Ang average na bilang ng mga transaksyon na kasama sa bawat bloke, sinusukat sa huling 100 bloke."
+    },
+    "blockTime": {
+      "label": "Oras ng block",
+      "description": "Katamtamang oras sa pagitan ng magkakasunod na mga bloke, sinusukat sa huling 100 mga bloke."
+    },
+    "inflation": {
+      "label": "Inflation",
+      "description": "Ang taunang rate kung saan ang mga bagong tokens ay sinulat upang gantimpalaan ang mga stakers at pondohan ang community pool."
+    },
+    "stakingApr": {
+      "label": "Staking APR",
+      "description": "Tinatayang taunang pagbabalik sa mga naka-staked token, bago kumisyon ng validator.",
+      "formula": "APR = inflation × (1 − Community tax) ÷ bonded ratio"
+    },
+    "bondedTokens": {
+      "label": "Mga nakatali na token",
+      "description": "Ang mga token na kasalukuyang nakatakdang may mga aktibong validator. Ang bonded stake ay ang nagsasiguro sa network.",
+      "formula": "bonded = total supply × bonded ratio"
+    },
+    "totalSupply": {
+      "label": "Kabuuang suplay",
+      "description": "Ang bawat token na umiiral, kabilang ang mga nasa stake."
+    },
+    "communityPool": {
+      "label": "Pondo ng komunidad",
+      "description": "Mga token na kontrolado ng pamamahala sa chain.",
+      "formula": "Ang pool ay lumalaki sa pamamagitan ng supply × inflation × community tax"
+    },
+    "poolValue": {
+      "label": "Value ng Pool",
+      "description": "Tinatayang halaga sa US-dollar ng community pool sa simulating presyo ng token.",
+      "formula": "halaga = pool × presyo ng token"
+    }
+  }
+}

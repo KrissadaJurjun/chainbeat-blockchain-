@@ -1,0 +1,75 @@
+{
+  "common": {
+    "demo": "Demo",
+    "simulated": "Mô phỏng",
+    "close": "Đóng",
+    "retry": "Thử lại",
+    "refresh": "Làm mới",
+    "copy": "Sao chép",
+    "copied": "Đã sao chép",
+    "clear": "Xóa",
+    "loading": "Đang tải…",
+    "options": "Các lựa chọn",
+    "previous": "Trước",
+    "next": "Tiếp",
+    "pagination": "Pagination",
+    "pageN": "Trang {{n}}",
+    "dismiss": "Bỏ qua",
+    "cancel": "Hủy",
+    "viewAll": "Xem tất cả",
+    "max": "Tối đa",
+    "amount": "Số tiền",
+    "balance": "Số dư",
+    "fee": "Phí",
+    "status": "Trạng thái",
+    "time": "Thời gian",
+    "height": "Chiều cao",
+    "hash": "Hash",
+    "type": "Loại",
+    "all": "Tất cả",
+    "showing": "Chứng tỏ {{from}} {{to}} của {{total}}",
+    "noResults": "Không có kết quả nào phù hợp với bộ lọc của anh.",
+    "rowsPerPage": "Các hàng trên mỗi trang",
+    "actions": "Các hành động",
+    "exportCsv": "CSV xuất khẩu",
+    "details": "Chi tiết",
+    "clearFilters": "Các bộ lọc rõ ràng",
+    "collapseAll": "Bị sụp đổ tất cả",
+    "copyJson": "sao chép JSON",
+    "expandAll": "Tăng tất cả",
+    "showMore": "Cho thấy thêm {{count}}"
+  },
+  "language": {
+    "label": "Ngôn ngữ",
+    "search": "Ngôn ngữ tìm kiếm"
+  },
+  "theme": {
+    "label": "Giao diện",
+    "system": "Hệ thống",
+    "dark": "Tối",
+    "light": "Sáng"
+  },
+  "footer": {
+    "tagline": "Khám phá các khối, theo dõi các giao dịch, hiểu Web3.",
+    "demo": "Demo Mode tất cả các số liệu được mô phỏng và không phải là thống kê mạng thực.",
+    "share": "Chia sẻ",
+    "linkCopied": "Link được sao chép lên clipboard.",
+    "docs": "Tài liệu",
+    "links": "Các liên kết chân",
+    "modeDemo": "Demo Mạng lưới",
+    "repository": "Kho lưu trữ",
+    "version": "v{{version}} {{mode}}"
+  },
+  "notFound": {
+    "title": "Không tìm thấy trang",
+    "body": "Trang mà bạn đang tìm kiếm không tồn tại hoặc đã di chuyển.",
+    "home": "Quay lại bảng điều khiển"
+  },
+  "gate": {
+    "title": "Kết nối ví Demo để tiếp tục",
+    "body": "Hành trình công việc này chạy trên một ví mô phỏng. Kết nối ví Demo để thử nó không có gì thực được ký kết hoặc gửi.",
+    "realTitle": "Một ví thực sự được kết nối",
+    "realBody": "{{address}} được kết nối, nhưng chế độ ChainBeat Demo không bao giờ ký hoặc phát giao dịch. chuyển sang ví Demo để thử dòng công việc này.",
+    "useDemo": "Sử dụng ví Demo"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "tokens": {
+    "description": "Prokuror, IBC, aktivet e likuidave dhe të jashtme të njohura në {{chain}} (simuluar).",
+    "stats": {
+      "total": "Tokenet e gjurmimit"
+    },
+    "kinds": {
+      "native": "Native",
+      "ibc": "IBC",
+      "external": "Të jashtëm",
+      "stable": "Stablecoin",
+      "liquid": "Vepra e lëngshme"
+    },
+    "col": {
+      "token": "Token",
+      "type": "Lloji",
+      "denom": "Denom",
+      "price": "Çmimi",
+      "change": "24 orë",
+      "supply": "Oferta",
+      "holders": "Përmbajtësit",
+      "marketCap": "Kapitalizimi i tregut"
+    },
+    "filterPlaceholder": "Filtrimi sipas simboleve, emrave ose denominacioneve",
+    "tableCaption": "Tokenet në {{chain}}"
+  },
+  "account": {
+    "title": "Konta",
+    "description": "Saldot dhe aktivitetin e fundit të llogarisë në {{chain}} (simuluar).",
+    "available": "Të disponueshme",
+    "balances": "Balanset",
+    "counterparty": "Kontraparti",
+    "direction": "Drejtimi",
+    "in": "Në",
+    "out": "Jemi jashtë",
+    "history": "Histori i transaksioneve",
+    "historyCaption": "Transaksionet e {{address}}",
+    "invalidTitle": "S'ka një adresë të vlefshme",
+    "invalidBody": "Kjo nuk është e vlefshme. {{chain}} Adresa. Adresat në këtë rrjet fillojnë me {{prefix}} 1 dhe të përfshijë një shkumë të kontrollit.",
+    "noBalances": "Pa balancime.",
+    "noHistory": "Asnjë transaksion nuk është gjetur",
+    "noHistoryBody": "Ky llogari nuk ka aktivitet simuluar në blloket më të reja {{blocks}}.",
+    "rewards": "Çmimet: {{value}}",
+    "staked": "Përpunuar",
+    "totalValue": "Vlera totale",
+    "txCount": "Transaksionet",
+    "unknown": "Ky është një adresë e vlefshme, por nuk shfaqet në simulasion, kështu që nuk ka balanca ose histori.",
+    "window": "në blloqet më të reja {{blocks}}",
+    "demoWallet": "Ky është portofoli yt Demo, balancat dhe transaksionet e tij janë simuluar dhe ekzistojnë vetëm në këtë shfletues."
+  },
+  "explorer": {
+    "description": "Kërkoni {{chain}} dhe shihni se çfarë po ndodh në rrjetin (simuluar) tani.",
+    "latestBlocks": "Blloqet më të reja",
+    "latestTransactions": "Transaksionet më të reja",
+    "searchTitle": "Kërkoni eksploratorin",
+    "shortcuts": "Seksionet Explorer"
+  }
+}

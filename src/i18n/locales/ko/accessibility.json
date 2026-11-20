@@ -1,0 +1,6 @@
+{
+  "accessibility": {
+    "navigatedTo": "{{title}}으로 이동",
+    "loadingPage": "로딩 페이지"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "txPage": {
+    "description": "{{chain}} 的最新交易。打开任意一笔查看完整详情。",
+    "stats": {
+      "recent": "近期交易",
+      "success": "成功",
+      "failed": "失败",
+      "volume": "原生代币交易量"
+    },
+    "filterPlaceholder": "按哈希、地址或高度筛选",
+    "allTypes": "全部类型",
+    "tableCaption": "{{chain}} 最新交易",
+    "from": "发送方",
+    "to": "接收方",
+    "memo": "备注",
+    "noMemo": "无备注",
+    "raw": "查看原始数据（模拟）",
+    "detailTitle": "交易",
+    "detailDescription": "{{chain}} 上一笔模拟交易的详情。",
+    "notFoundTitle": "未找到交易",
+    "notFoundBody": "模拟数据中 {{chain}} 上不存在此哈希对应的交易。",
+    "failedBecause": "此交易失败：{{reason}}。",
+    "types": {
+      "send": "转账",
+      "delegate": "委托",
+      "undelegate": "取消委托",
+      "claim": "领取奖励",
+      "vote": "投票",
+      "ibc-transfer": "IBC 转账",
+      "swap": "兑换",
+      "other": "其他"
+    },
+    "status": {
+      "success": "成功",
+      "failed": "失败"
+    },
+    "block": "区块",
+    "cardsLabel": "交易",
+    "category": "类别",
+    "date": "日期",
+    "dateNote": "显示截至{{date}}年底的最新{{count}}笔交易 (UTC).",
+    "emptyTitle": "没有发现交易",
+    "events": "事件",
+    "failedEvents": "这笔交易失败了,所以它只发出了收费事件.",
+    "feeSymbol": "费用代币",
+    "filtersLabel": "交易过器",
+    "gasUsed": "已用 Gas",
+    "gasWanted": "需要燃气",
+    "groups": {
+      "transfer": "转账",
+      "staking": "股",
+      "governance": "治理",
+      "ibc": "IBC 年",
+      "swap": "交换",
+      "other": "其他"
+    },
+    "latestNote": "显示了最新的{{count}}笔交易.",
+    "messageType": "信息类型",
+    "network": "网络",
+    "symbol": "代币",
+    "syntheticNote": "这是一个为Demo模式生成的合成记录. 它的哈希不是一个真正的区块链哈希,。",
+    "token": "代币",
+    "validator": "验证者",
+    "demoWalletNote": "这笔交易是由Demo钱包创建的. 它只存在于这个浏览器中:没有区块链转移,。",
+    "demoTag": "Demo 钱包"
+  }
+}

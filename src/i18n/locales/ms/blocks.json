@@ -1,0 +1,35 @@
+{
+  "blockDetail": {
+    "title": "Blok {{height}}",
+    "invalid": "Ketinggian blok yang tidak sah",
+    "description": "Perincian blok simulasi di {{chain}}.",
+    "previous": "Blok terdahulu",
+    "next": "Bangunan seterusnya",
+    "notFoundTitle": "Blok tidak ditemui",
+    "notFoundBody": "{{chain}} belum mempunyai blok di ketinggian ini.",
+    "transactions_other": "{{count}} transaksi",
+    "txCaption": "Transaksi dalam blok {{height}}",
+    "noTxs": "Blok ini tidak mempunyai urus niaga",
+    "genesis": "Blok Genesis",
+    "parentHash": "Haish ibu bapa",
+    "demoTxs": "Demo transaksi dompet pada ketinggian ini",
+    "demoTxsNote": "Ini dibuat oleh dompet Demo. Mereka bukan sebahagian daripada jumlah transaksi blok simulasi sendiri."
+  },
+  "blocksPage": {
+    "description": "Blok terbaru di {{chain}} Senarai ini diperbaharui kira-kira sekali setiap blok masa.",
+    "live": "Hidup",
+    "avgGas": "Gas Avg. yang digunakan",
+    "tableCaption": "Blok terakhir di {{chain}}",
+    "proposer": "Penasihat",
+    "txs": "Txs",
+    "gas": "Gas digunakan",
+    "size": "Ukuran",
+    "emptyTitle": "Tiada blok yang ditemui",
+    "filterPlaceholder": "Penapis mengikut ketinggian, hash atau pengesahan",
+    "filtersLabel": "Penapis blok",
+    "finality": "Kesimpulannya",
+    "finalityNote": "Pemblokiran dalam rangkaian jenis ini adalah akhir sebaik sahaja mereka dilakukan.",
+    "finalized": "Ditamatkan",
+    "withTxsOnly": "Hanya blok dengan transaksi"
+  }
+}

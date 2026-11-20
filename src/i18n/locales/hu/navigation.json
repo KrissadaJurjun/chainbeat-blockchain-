@@ -1,0 +1,97 @@
+{
+  "navigation": {
+    "sidebar": "Oldalakoldali navigáció",
+    "primary": "Főigazgatás",
+    "menu": "Navigációs menü",
+    "openMenu": "Nyitott navigációs menü",
+    "closeMenu": "Zárja be a navigációs menüt",
+    "collapseSidebar": "Az összeomlási oldalpár",
+    "expandSidebar": "Kiterjeszteni a oldalsó oldalt",
+    "skipToContent": "Állj át a fő tartalomra",
+    "home": "ChainBeat otthon",
+    "pages": "Oldalak",
+    "dashboard": "Irányítópult",
+    "validators": "Validátorok",
+    "proposals": "Javaslatok",
+    "blocks": "Blokkok",
+    "transactions": "Tranzakciók",
+    "portfolio": "Portfólió",
+    "swap": "Csere",
+    "stake": "Staking",
+    "liquidStaking": "Likvid staking",
+    "send": "Küldés",
+    "vote": "Szavazás",
+    "createProposal": "Javaslat létrehozása",
+    "market": "Piac",
+    "network": "Hálózat",
+    "governance": "Kormányzás",
+    "ibcNetwork": "IBC-hálózat",
+    "devActivity": "Fejlesztői aktivitás",
+    "multichain": "Többláncos áttekintés",
+    "heartbeat": "Szívverés",
+    "dominance": "Dominancia",
+    "validatorsViz": "Validátorok",
+    "blockExplorer": "Blokkböngésző",
+    "transactionExplorer": "Tranzakcióböngésző",
+    "tokenExplorer": "Tokenböngésző",
+    "about": "Névjegy",
+    "explorerHome": "Böngésző",
+    "governanceHome": "Kormányzati központ",
+    "settings": "Beállítások"
+  },
+  "sections": {
+    "explorer": "Böngésző",
+    "wallet": "Tárca",
+    "analytics": "Elemzések",
+    "visualizations": "Vizualizációk"
+  },
+  "chains": {
+    "favorite": "Adja a {{name}}-et a kedvencekhez",
+    "unfavorite": "Vedd el a {{name}}-et a kedvencből",
+    "simulatedHealthy": "Szimulált hálózat · egészséges"
+  },
+  "search": {
+    "label": "Keresés ChainBeat",
+    "placeholder": "Keresési blokk, cs, cím...",
+    "results": "Keresési eredmények",
+    "noResults": "Nincs eredmény a {{query}}",
+    "kinds": {
+      "page": "Oldalak",
+      "block": "Blokk",
+      "transaction": "Tx",
+      "validator": "Validátor",
+      "token": "Token",
+      "address": "Cím",
+      "proposal": "Javaslat"
+    },
+    "recent": "A legutóbbi keresések",
+    "clearRecent": "A legutóbbi keresések egyértelműek",
+    "removeRecent": "Törölje a {{query}}-ot a legutóbbi keresésekből",
+    "hint": "Próbáld ki egy blokkmagaságot, egy tranzakciós hashet, egy címet ( {{prefix}} 1...), egy hitelesítő, egy javaslatszám vagy egy jelöltetvény.",
+    "submit": "Keresés",
+    "searching": "Keressük...",
+    "resultCount": "Az eredmények: {{count}}",
+    "invalid": {
+      "tooLong": "Ez túl hosszú ahhoz, hogy egy keresési kifejezés legyen (200 karakter legfeljebb).",
+      "badChecksum": "Ez úgy néz ki, mint egy cím, de a szám nem egyezik.",
+      "badHash": "Egy tranzakció vagy blokk hash pontosan 64 hexadecimális karakterrel rendelkezik.",
+      "badChars": "Keresse meg egy blokkmagasságot, egy hasht, egy címet, egy hitelesítőt, egy javaslatot vagy egy jelzést."
+    },
+    "categories": {
+      "page": "Oldalak",
+      "block": "Blokkok",
+      "transaction": "Tranzakciók",
+      "address": "Címei",
+      "validator": "Validátorok",
+      "proposal": "Javaslatok",
+      "token": "Jelvények"
+    }
+  },
+  "user": {
+    "menu": "Számla menüje",
+    "guest": "Vendég",
+    "notConnected": "Nincs tárcája csatlakoztatva",
+    "settings": "Beállítások",
+    "about": "A ChainBeatról"
+  }
+}

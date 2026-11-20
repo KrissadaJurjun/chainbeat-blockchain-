@@ -1,0 +1,130 @@
+Nadzorna ploča
+Validatori
+Prijedlozi
+Blokovi
+Transakcije
+Portfelj
+Zamjena
+Staking
+Likvidni staking
+Pošalji
+Glasaj
+Izradi prijedlog
+Tržište
+Mreža
+Upravljanje
+IBC mreža
+Aktivnost programera
+Pregled više lanaca
+Puls
+Dominacija
+Istraživač blokova
+Istraživač transakcija
+Istraživač tokena
+O aplikaciji
+Istraživač
+Postavke
+Novčanik
+Analitika
+Vizualizacije
+Jezik
+Tema
+Sustav
+Tamna
+Svijetla
+Demo
+Simulirano
+Zatvori
+Pokušaj ponovno
+Osvježi
+Kopiraj
+Kopirano
+Očisti
+Učitavanje…
+Prethodno
+Sljedeće
+Odbaci
+Odustani
+Natrag
+Prikaži sve
+Poništi
+Izvezi
+Maks.
+Iznos
+Stanje
+Naknada
+Status
+Ukupno
+Vrijeme
+Visina
+Hash
+Vrsta
+Sve
+Pretraži
+Filtriraj
+Detalji
+Potvrdi
+Poveži novčanik
+Prekini vezu
+Pregledaj transakciju
+Mrežna naknada
+Kopiraj adresu
+Plaćate
+Primate
+Adresa primatelja
+Memo (neobavezno)
+Imovina
+Raspodjela
+Delegirano
+Ukini staking
+Tečaj
+Uspjeh
+Transakcija
+Blok
+Od
+Za
+Memo
+Potrošeni gas
+Validator
+Token
+Adresa
+Prijedlog
+Cijena
+Ponuda
+Tržišna kapitalizacija
+Provizija
+Dostupnost
+Glasačka moć
+Rang
+Aktivan
+Neaktivan
+Zatvoren
+Delegatori
+Da
+Ne
+Suzdržan
+Ne s vetom
+Usvojeno
+Odbijeno
+Neuspjelo
+Glasanje u tijeku
+Kvorum
+Odaziv
+Depozit
+Vaš glas
+Naslov
+Opis
+On-chain metrike
+Visina bloka
+Transakcija po bloku
+Vrijeme bloka
+APR stakinga
+Vezani tokeni
+Ukupna ponuda
+Fond zajednice
+Stranica nije pronađena
+Natrag na nadzornu ploču
+Najnoviji blokovi
+Najnovije transakcije
+Obavijesti
+Ostalo

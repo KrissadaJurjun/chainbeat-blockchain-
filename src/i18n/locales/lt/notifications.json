@@ -1,0 +1,33 @@
+{
+  "notifications": {
+    "label": "Pranešimai",
+    "title": "Pranešimai",
+    "unread": "Neskaitoma",
+    "unreadLabel_one": "{{count}} neprašytas pranešimas",
+    "unreadLabel_few": "{{count}} neprašyti pranešimai",
+    "unreadLabel_many": "{{count}} neprašytų pranešimų",
+    "unreadLabel_other": "{{count}} neprašytų pranešimų",
+    "markAllRead": "Užrašykite viską kaip buvo perskaityta",
+    "empty": "Jūs visi užfiksuoti.",
+    "items": {
+      "proposalVoting": "Pasiūlymas Nr. {{id}} balsavimo metu liko apie {{hours}} valandas.",
+      "proposalPassed": "Pranešimas Nr. {{id}} buvo priimtas ir bus taikomas.",
+      "validatorJailed": "{{name}} buvo suimtas dėl neveikimo.",
+      "upgradeScheduled": "Tinklo atnaujinimas {{version}} planuojamas per {{days}} dienas.",
+      "ibcVolume": "IBC perdavimo apimtis per pastarąsias 24 valandas padidėjo {{pct}}%.",
+      "newBlock": "{{height}} blokas buvo pagamintas {{chain}} (simuliuojamas).",
+      "walletConnectedDemo": "Demo piniginė prijungta (simuliuojama).",
+      "walletConnected": "{{name}} susisiekęs, nieko nebuvo pasirašyta.",
+      "walletDisconnected": "Pinigas išjungtas nuo šios naršyklės sesijos.",
+      "txSuccess": "Simuliuojama sandoris patvirtintas: {{summary}}",
+      "txFailed": "Simuliuota sandoris nesugebėjo, nes buvo įjungta klaidos simuliatorija.",
+      "proposalCreated": "Demo pasiūlymas Nr. {{id}} {{title}} buvo pridėtas (simuliuotas).",
+      "networkChanged": "Pasikeitė į {{chain}}, rodome simuliuotus duomenis.",
+      "simPaused": "Simuliuojanti informacija nebus atnaujinama, kol ji bus atnaujinta.",
+      "errorSimulation": "Įjungtas klaidų simuliavimas. Duomenų prašymai ir piniginės patvirtinimas nepavyks, kol jį išjungsite."
+    },
+    "dismiss": "Atšaukimo pranešimas",
+    "clearAll": "Išvalykite viską",
+    "simulatedNote": "Nė vienas daiktas iš tinklo srauto simuluojamas."
+  }
+}
